@@ -219,13 +219,13 @@ div.MainMenu ul li:hover{
   font-weight: bold;
   border: 2px solid black;
   margin: auto;
-  width: auto;
+  width: 70%;
   overflow: auto;
   padding: 5px;
 }
 
 .nav-First, .nav-Previous, .nav-Random, .nav-Next, .nav-Latest{
-	width: 15%;
+	width: auto;
 	float: left;
 	font-weight: inherit;
 	font-size: 20px;
