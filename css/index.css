@@ -104,9 +104,8 @@ ul {
 
 
 .PageBody{
-	background-color: blue;
+	background-color: black;
 	overflow: auto;
-	min-height: 1000 px;
 }
 
 .PageNavigation{
