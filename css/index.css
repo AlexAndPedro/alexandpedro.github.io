@@ -228,7 +228,7 @@ div.MainMenu ul li:hover{
 }
 
 .nav-First, .nav-Previous, .nav-Random, .nav-Next, .nav-Latest{
-	width: 20%;
+	width: auto;
 	float: left;
 	font-weight: inherit;
 	font-size: 20px;
