@@ -355,6 +355,7 @@ input[type=text]:focus {
 	background: #fff;
 	padding: 0;
 	width: auto;
+	color: #000;
 }
 
 .button{
