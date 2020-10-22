@@ -224,7 +224,7 @@ div.MainMenu ul li:hover{
   padding: 5px;
 }
 
-#nav-First, #nav-Previous, #nav-Random, #nav-Next, #nav-Latest{
+.nav-First, .nav-Previous, .nav-Random, .nav-Next, .nav-Latest{
 	width: auto;
 	float: left;
 	font-weight: inherit;
