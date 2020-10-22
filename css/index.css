@@ -32,11 +32,6 @@ h1 {
 	font-size: 24px;
 }
 
-div{
-	/*margin: 0px 5px 5px 0px;*/
-	/** For visual purposes only. Remove after confirmed**/
-}
-
 img {
     max-width: 100%;
     height: auto;
@@ -222,7 +217,7 @@ div.MainMenu ul li:hover{
 
 .ComicNavigation{
   font-weight: bold;
-  border: 5px solid black;
+  border: 2px solid black;
   margin: auto;
   width: 70%;
   overflow: auto;
