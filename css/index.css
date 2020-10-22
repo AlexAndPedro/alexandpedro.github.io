@@ -282,10 +282,7 @@ div.MainMenu ul li:hover{
 	background-color: #3399C9;
 }
 
-.LeftSideBar{
-	float: left;
-	width: 20%;
-}
+
 
 .BlueContainer{
 	background-color: #26759A;
@@ -306,12 +303,24 @@ div.MainMenu ul li:hover{
 	margin: 0px 10px 10px 0px;
 }
 
+.LeftSideBar{
+	float: left;
+	width: 20%;
+}
+
 .RightSideBar{
 	float: right;
 	width: 20%;
 }
 
+.PageContent{
+	overflow: auto;
+	background-color: white;
+}
 
+.PageContent a:link, .PageContent a:visited, .PageBanner a:link, .PageBanner a:visited{
+	color: black;
+}
 
 
 
@@ -386,14 +395,7 @@ button:active {
 }
 
 
-.PageContent{
-	overflow: auto;
-	background-color: white;
-}
 
-.PageContent a:link, .PageContent a:visited, .PageBanner a:link, .PageBanner a:visited{
-	color: black;
-}
 
 .PageArticle{
 	clear: both;
