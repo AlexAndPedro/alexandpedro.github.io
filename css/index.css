@@ -222,9 +222,11 @@ div.MainMenu ul li:hover{
 
 .ComicNavigation{
   font-weight: bold;
-  border-bottom: 2px solid black;
+  border: 5px solid black;
   margin: auto;
   width: 70%;
+  overflow: auto;
+  padding: 5px;
 }
 
 .nav-First, .nav-Previous, .nav-Random, .nav-Next, .nav-Latest{
