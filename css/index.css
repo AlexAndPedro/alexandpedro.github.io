@@ -105,6 +105,7 @@ ul {
 
 .PageBody{
 	background-color: white;
+	overflow: auto;
 }
 
 .PageNavigation{
