@@ -1,0 +1,412 @@
+/*Gradient of the background*/
+
+.gradient {
+  background-image:linear-gradient(#01a9db, #99CCFF);
+}
+
+body{
+	margin: 0;
+    padding: 0.5%;							/*must be in percentage*/
+	/*background-repeat: no-repeat;*/
+    background-attachment: fixed;			/*if the background will move while scrolling or not*/
+	font-family: 'Century Gothic';
+	position: relative;
+}
+
+
+
+.Page{
+	width: 1200px; 		/* as much as possible, px not % because			*/ 
+	margin: 0 auto;		/* when browser resizes, everything in width changes*/
+	min-height: 100%;
+	position: relative;
+
+}
+
+
+
+
+/** Texts that are titles of articles */
+h1 {
+	margin-bottom: 0px;
+	font-size: 24px;
+}
+
+div{
+	/*margin: 0px 5px 5px 0px;*/
+	/** For visual purposes only. Remove after confirmed**/
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.CharacterQuoteLeft {
+	font-family: "Book Antiqua", "cursive";
+	font-style: italic;
+	float: left;
+	margin: 0 10px 20px 10px;
+}
+
+.CharacterQuoteRight {
+	font-family: "Book Antiqua", "cursive";
+	font-style: italic;
+	float: right;
+	margin: 0 10px 20px 10px;
+}
+
+
+
+q {
+	quotes: '\201C' '\201D';
+	}
+
+
+q:before {
+	content: open-quote;
+	font-size: 40px;
+	color: #084B8A;
+	font-weight: bold;
+	font-family: "Times New Roman";
+	font-style: none;
+	}
+
+q:after {
+	content: close-quote;
+	font-size: 40px;
+	color: #084B8A;
+	font-weight: bold;
+	font-family: "Times New Roman";
+	}
+
+
+/**Note: a:hover MUST come after a:link and a:visited
+in the CSS definition in order to be effective.
+Note: a:active MUST come after a:hover
+in the CSS definition in order to be effective.
+**/
+
+a:link, a:visited {
+    color: white;
+	text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    padding-left:15%;
+}
+
+
+
+.PageBody{
+	background-color: white;
+}
+
+.PageNavigation{
+	clear: both;
+	width: 100%;
+}
+
+.PageNavigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #3C98C2;
+}
+
+.PageNavigation li {
+    float: left;
+}
+
+.PageNavigation li a {
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 5px 12px;
+    text-decoration: none;
+}
+
+.PageNavigation li a:hover {
+    background-color: #185875;
+}
+
+.PageBanner{
+	background-color: #ffdf99;
+	border: 2px solid #ffcc66;
+	border-radius: 10px;
+	min-height: 100px;
+	overflow: hidden;
+}
+
+.PageIcon{
+	float: left;
+	width: 10%;
+	min-width: 40px; 
+	max-width: 200px;
+}
+
+.PageLogo{
+	overflow: auto;
+}
+
+.PageDescription{
+	float: right;
+	width: 40%;
+	min-width: 100px; 
+	max-width: 300px;
+}
+
+.PageHeaderSub{
+	float: left;
+	width: 100%;
+	clear: both;
+}
+
+
+
+
+.MainMenu {
+	width: 100%;
+	padding: 10px 0;
+	height: 20px;
+	clear: both;
+	margin: 10px 0;
+	display: block;
+    background-color: #8BC6E5;
+	position: relative;
+text-align:center;
+overflow:hidden;
+}
+
+
+.MainMenu ul{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+	height: 20px;
+    background-color: white;
+	
+
+}
+
+
+.MainMenu li {
+padding: 10px 30px;
+display:inline;
+	background-color:black;
+	font-size: 18px;
+	text-align: center;
+}
+
+.MainMenu a {
+    color: #fff;
+    text-align: center;
+text-decoration:none; 
+padding: 0px auto; /* variable width */
+}
+
+div.MainMenu ul li:hover{
+	background-color:orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ComicNavigation{
+  font-weight: bold;
+  float: left;
+  border-bottom: 2px solid black;
+  margin: 5px 5px 5px 5px;
+}
+
+.nav-First, .nav-Previous, .nav-Random, .nav-Next{
+	float: inherit;
+	font-weight: inherit;
+	border-right: 3px solid black;
+	font-size: 20px;
+}
+
+.nav-Latest{
+	float: inherit;
+	font-weight: inherit;
+	font-size: 20px;
+}
+
+.ComicTitle{
+	clear: both;
+	margin: 5px 5px 5px 5px;
+	font-size: 150%;
+	font-weight: bold;
+	color: #0B2161;
+	
+}
+
+.ComicDescription, .PageArticle{
+	clear: both;
+	margin: 5px 5px 20px 20px;	
+}
+
+.ComicTags{
+	font-size: 80%;
+	clear: both;
+	margin: 5px 5px 10px 5px;	
+}
+
+.PageSection{
+	font-size: 150%;
+	color: white;
+	font-weight: bold;
+	clear: both;
+	margin: 5px 5px 5px 5px;
+	padding: 5px 15px;
+	border-top: 3px solid black;
+	border-radius: 0 0 0.3em 0.3em;
+	background-color: #3399C9;
+}
+
+.LeftSideBar{
+	float: left;
+	width: 20%;
+}
+
+.BlueContainer{
+	background-color: #26759A;
+	border: 2px solid #12445C;
+	color: white;
+	min-height: 80px;
+	padding: 5px;
+	margin: 5px;
+}
+
+.AandPSites{
+	clear: both;	
+}
+
+#followFacebook, #followTwitter, #followTumblr{
+	float: left;
+	width: 15%;
+	margin: 0px 10px 10px 0px;
+}
+
+.RightSideBar{
+	float: right;
+	width: 20%;
+}
+
+
+
+
+
+input[type=text] {
+    width: 100px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+/* When the input field gets focus, change its width to 100% */
+input[type=text]:focus {
+    width: 90%;
+}
+
+#TagCloud{
+	overflow: auto;
+}
+
+.TagGroup1, .TagGroup2, .TagGroup3, .TagGroup4{
+	float: left;
+	height: 18px;
+}
+
+
+
+.TagGroup1{
+	font-size: 130%;
+}
+
+.TagGroup2{
+	font-size: 110%;
+}
+
+.TagGroup3{
+	font-size: 90%;
+}
+
+.TagGroup4{
+	font-size: 80%;
+}
+
+#FunFactStatement{
+	padding: 5px;
+	min-height: 100px;
+	margin-bottom: 5px;
+	text-align: center;
+}
+
+#RandomComic{
+	background: #fff;
+	padding: 0;
+	width: auto;
+}
+
+.button{
+	border: 0;
+	background: #0087cc;
+	border-radius: 4px;
+	box-shadow: 0 5px 0 #006599;
+	color: #fff;
+	cursor: pointer;
+	font: inherit;
+	margin: 0;
+	outline: 0;
+	padding: 8px 10px;
+	transition: all .1s linear;
+}
+
+button:active {
+	box-shadow: 0 2px 0 #006599;
+	transform: translateY(3px);
+}
+
+
+.PageContent{
+	overflow: auto;
+	background-color: white;
+}
+
+.PageContent a:link, .PageContent a:visited, .PageBanner a:link, .PageBanner a:visited{
+	color: black;
+}
+
+.PageArticle{
+	clear: both;
+	margin: 5px 5px 20px 20px;
+	padding: 20px;
+}
+
+.ArticleAuthor{
+	font-size: 80%;
+}
+
+.PageEnd{
+	clear: both;
+	padding-bottom: 60px;
+}
+	
