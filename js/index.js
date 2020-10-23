@@ -13,7 +13,7 @@ function randomFunFact(){
 		"Pedro have a school classroom and a part of his bedroom dedicated to research of Pawesome's secret identity.",
 		"There is an article of me in MetroPets! Link <a href = \"http://www.metro-pets.com/metropets-discoveries/the-adventures-of-alex-and-pedro\">here</a>.",
 		"Pangil and Ertle are best of friends.",
-		"Pedro has hia own classroom for Pawesome Club.",
+		"Pedro has his own classroom for Pawesome Club.",
 		"Ertle might be dumb, but he has a big heart.",
 		"Alex's blood type is DEA 1.1+",
 		"Alex is a dog.",
@@ -42,7 +42,7 @@ ARR_LENGTH = 54;
   
   // Write them to the document
   document.getElementById("RandomComic").innerHTML =
-	('<img class="ComicPanel" src="../images/Comic_Image_English/test/Slide' + comic1 +
+	('<img class="ComicPanel" src="../../images/Comic_Image_English/test/Slide' + comic1 +
 	'.PNG" width="32%" height="auto"> <img class="ComicPanel" src="../../images/Comic_Image_English/test/Slide' + comic2 +
 	'.PNG" width="32%" height="auto"> <img class="ComicPanel" src="../../images/Comic_Image_English/test/Slide' + comic3 +
 	'.PNG" width="32%" height="auto">'
