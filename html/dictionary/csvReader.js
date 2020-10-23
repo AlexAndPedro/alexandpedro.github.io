@@ -76,7 +76,7 @@ function callback(dictionary) {
             e.target.value = '';
 
             if (dictionary[inputWord] !== undefined) {
-				document.querySelector('.input-word').innerHTML = dictionary[inputWord];
+				document.querySelector('.input-word').innerHTML = inputWord;
                 document.querySelector('.part-of-speech').innerHTML = dictionary[inputWord]['part of speech'];
                 document.querySelector('.definition').innerHTML = dictionary[inputWord].definition;
 				document.querySelector('.etymology').innerHTML = dictionary[inputWord].etymology;
