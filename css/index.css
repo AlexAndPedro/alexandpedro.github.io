@@ -224,26 +224,22 @@ div.MainMenu ul li:hover{
 
 .TagGroup1{
 	font-size: 130%;
-	margin: inherit;
+	margin: 2px;
 }
 
 .TagGroup2{
 	font-size: 110%;
-	margin: inherit;
+	margin: 2px;
 }
 
 .TagGroup3{
 	font-size: 90%;
-	margin: inherit;
+	margin: 2px;
 }
 
 .TagGroup4{
 	font-size: 80%;
-	margin: inherit;
-}
-
-.TagList{
-	margin: 2 px;
+	margin: 2px;
 }
 
 
