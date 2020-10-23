@@ -440,6 +440,10 @@ input.form__input {
 	margin: 0 2rem;
 }
 
+#definition_title,#etymology_title{
+		display: none;
+}
+
 .part-of-speech {
     margin: 0 0 1.5rem 4rem;
     font-size: 1.2rem;

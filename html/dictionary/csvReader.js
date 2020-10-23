@@ -71,7 +71,8 @@ function callback(dictionary) {
         e.preventDefault();
 
         if (e.key == 'Enter' || e.keyCode == 13){
-            let inputWord = e.target.value.toLowerCase();
+            
+			let inputWord = e.target.value.toLowerCase();
             e.target.value = '';
 
             if (dictionary[inputWord] !== undefined) {
@@ -79,6 +80,8 @@ function callback(dictionary) {
                 document.querySelector('.part-of-speech').innerHTML = dictionary[inputWord]['part of speech'];
                 document.querySelector('.definition').innerHTML = dictionary[inputWord].definition;
 				document.querySelector('.etymology').innerHTML = dictionary[inputWord].etymology;
+				document.getElementById('definition_title').style.display = 'inline';
+				document.getElementById('etymology_title').style.display = 'inline';
             } else {
                 document.querySelector('.input-word').innerHTML = 'Not Found in Dictionary';
                 document.querySelector('.part-of-speech').innerHTML = '';
