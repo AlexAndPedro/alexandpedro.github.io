@@ -78,12 +78,12 @@ function callback(dictionary) {
                 document.querySelector('.input-word').innerHTML = inputWord;
                 document.querySelector('.part-of-speech').innerHTML = dictionary[inputWord]['part of speech'];
                 document.querySelector('.definition').innerHTML = dictionary[inputWord].definition;
-				document.querySelector('.part-of-speech').innerHTML = dictionary[inputWord].etymology];
+				document.querySelector('.etymology').innerHTML = dictionary[inputWord].etymology];
             } else {
                 document.querySelector('.input-word').innerHTML = 'Not Found in Dictionary';
                 document.querySelector('.part-of-speech').innerHTML = '';
                 document.querySelector('.definition').innerHTML = '';
-				document.querySelector('.part-of-speech').innerHTML = '';
+				document.querySelector('.etymology').innerHTML = '';
             };
             
         }
