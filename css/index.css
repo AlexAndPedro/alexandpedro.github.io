@@ -335,19 +335,6 @@ div.MainMenu ul li:hover{
 
 
 
-input[type=text] {
-    width: 100px;
-    -webkit-transition: width 0.4s ease-in-out;
-    transition: width 0.4s ease-in-out;
-}
-
-/* When the input field gets focus, change its width to 100% */
-input[type=text]:focus {
-    width: 90%;
-}
-
-
-
 #FunFactStatement{
 	padding: 5px;
 	min-height: 100px;
