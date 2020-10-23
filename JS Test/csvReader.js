@@ -68,7 +68,7 @@ function callback(dictionary) {
         e.preventDefault();
 
         if (e.key == 'Enter' || e.keyCode == 13){
-            let inputWord = e.target.value;
+            let inputWord = e.target.value.toLowerCase();
             e.target.value = '';
 
             if (dictionary[inputWord] !== undefined) {
