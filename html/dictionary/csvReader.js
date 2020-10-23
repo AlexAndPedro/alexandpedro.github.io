@@ -72,10 +72,10 @@ function callback(dictionary) {
 
         if (e.key == 'Enter' || e.keyCode == 13){
             
-			let inputWord = e.target.value;
+			let inputWord = e.target.value.toLowerCase();
             e.target.value = '';
 
-            if (dictionary[inputWord] !== undefined) {
+            if (dictionary[inputWord].toLowerCase() !== undefined) {
 				document.querySelector('.input-word').innerHTML = dictionary[inputWord].word;
                 document.querySelector('.part-of-speech').innerHTML = dictionary[inputWord]['part of speech'];
                 document.querySelector('.definition').innerHTML = dictionary[inputWord].definition;
