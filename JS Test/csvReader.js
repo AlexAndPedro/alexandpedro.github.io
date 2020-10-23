@@ -16,7 +16,7 @@ function parseDictCSV(text, delimiter) {
             let word = '';
             line.trim().split(delimiter).forEach((elem, index) => {
                 if (index == 0) {
-                    word = elem;
+					word = elem.toLowerCase();
                     dict[word] = new Object();
                 } else {
                     dict[word][headers[index]] = elem;
