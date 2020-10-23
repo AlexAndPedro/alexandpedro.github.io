@@ -211,7 +211,40 @@ div.MainMenu ul li:hover{
 	background-color:orange;
 }
 
+#TagCloud{
+	overflow: auto;
+}
 
+.TagGroup1, .TagGroup2, .TagGroup3, .TagGroup4{
+	float: left;
+	height: 18px;
+}
+
+
+
+.TagGroup1{
+	font-size: 130%;
+	margin: inherit;
+}
+
+.TagGroup2{
+	font-size: 110%;
+	margin: inherit;
+}
+
+.TagGroup3{
+	font-size: 90%;
+	margin: inherit;
+}
+
+.TagGroup4{
+	font-size: 80%;
+	margin: inherit;
+}
+
+.TagList{
+	margin: 2 px;
+}
 
 
 
@@ -317,32 +350,7 @@ input[type=text]:focus {
     width: 90%;
 }
 
-#TagCloud{
-	overflow: auto;
-}
 
-.TagGroup1, .TagGroup2, .TagGroup3, .TagGroup4{
-	float: left;
-	height: 18px;
-}
-
-
-
-.TagGroup1{
-	font-size: 130%;
-}
-
-.TagGroup2{
-	font-size: 110%;
-}
-
-.TagGroup3{
-	font-size: 90%;
-}
-
-.TagGroup4{
-	font-size: 80%;
-}
 
 #FunFactStatement{
 	padding: 5px;
