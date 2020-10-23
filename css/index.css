@@ -436,12 +436,16 @@ input.form__input {
     font-size: 2rem;
 }
 
+.dictionary_title{
+	margin: 0 2rem;
+}
+
 .part-of-speech {
-    margin: 0 0 1.5rem 2rem;
+    margin: 0 0 1.5rem 4rem;
     font-size: 1.2rem;
 }
 
-.definition {
-    margin: 0 0 0 2rem;
+.definition, .etymology {
+    margin: 0 0 0 4rem;
     font-size: 1.2rem;
 }
