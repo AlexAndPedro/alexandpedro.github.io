@@ -48,10 +48,3 @@ ARR_LENGTH = 54;
 	'.PNG" width="32%" height="auto">'
 	);
 }
-
-
-
-// Function for Random Comics
-
-function 
-
