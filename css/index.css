@@ -383,7 +383,6 @@ button:active {
 
 
 
-
 .PageArticle{
 	clear: both;
 	margin: 5px 5px 20px 20px;
@@ -393,6 +392,21 @@ button:active {
 .ArticleAuthor{
 	font-size: 80%;
 }
+
+/*FOR archive.html*/
+.archive-date{
+	text-align: right;
+    padding: 0 5px 0 0;
+    font-size: 12px;
+    white-space: nowrap;
+}
+
+.arhive-title{
+	 padding: 2px 5px;
+    border-left: 1px dashed #aaaaaa;
+}
+
+
 
 .PageEnd{
 	clear: both;
