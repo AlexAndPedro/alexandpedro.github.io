@@ -53,6 +53,9 @@ function callback(dictionary) {
 
     // If you want to access the part of speech of apple
     console.log(dictionary['apple']['part of speech'])
+	
+	// If you want to access the etymology of apple..
+    console.log(dictionary['apple'].etymology);
 
     // If you want to see all the words in array
     console.log(Object.keys(dictionary));
@@ -75,7 +78,7 @@ function callback(dictionary) {
                 document.querySelector('.input-word').innerHTML = inputWord;
                 document.querySelector('.part-of-speech').innerHTML = dictionary[inputWord]['part of speech'];
                 document.querySelector('.definition').innerHTML = dictionary[inputWord].definition;
-				document.querySelector('.part-of-speech').innerHTML = dictionary[inputWord]['etymology'];
+				document.querySelector('.part-of-speech').innerHTML = dictionary[inputWord].etymology];
             } else {
                 document.querySelector('.input-word').innerHTML = 'Not Found in Dictionary';
                 document.querySelector('.part-of-speech').innerHTML = '';
