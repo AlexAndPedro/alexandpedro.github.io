@@ -74,7 +74,7 @@ function callback(dictionary) {
             
 			let inputWord = e.target.value;
             e.target.value = '';
-			let word1 = e.target.value.charAt(0).toUpperCase()+e.target.value.slice(1).toLowerCase();
+			let word1 = inputWord.charAt(0).toUpperCase()+inputWord.slice(1).toLowerCase();
 			let word2 = inputWord.toLowerCase();
 			
             if (dictionary[inputWord] !== undefined) {
