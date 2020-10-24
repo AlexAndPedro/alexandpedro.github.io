@@ -1,4 +1,4 @@
-let path = "word_data.csv";
+let path = "/data/word_data.csv";
 let delimiter = ",";
 
 function parseDictCSV(text, delimiter) {
