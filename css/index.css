@@ -253,7 +253,8 @@ div.MainMenu ul li:hover{
   margin: auto;
   width: 70%;
   overflow: auto;
-  padding: 5px;
+  padding: 0.25rem;
+  text-align: center;
 }
 
 .nav-First, .nav-Previous, .nav-Random, .nav-Next, .nav-Latest{
@@ -261,7 +262,7 @@ div.MainMenu ul li:hover{
 	display: inline-block;
 	font-weight: inherit;
 	font-size: 20px;
-	margin: auto 5px;
+	margin: auto;
 }
 
 .ComicTitle{
