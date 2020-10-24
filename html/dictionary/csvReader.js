@@ -74,7 +74,8 @@ function callback(dictionary) {
             
 			let inputWord = e.target.value;
             e.target.value = '';
-			
+			let word1 = e.target.value.charAt(0).toUpperCase()+e.target.value.slice(1).toLowerCase();
+			let word2 = inputWord.toLowerCase();
 			
             if (dictionary[inputWord] !== undefined) {
 				document.querySelector('.input-word').innerHTML = inputWord;
@@ -83,20 +84,20 @@ function callback(dictionary) {
 				document.querySelector('.etymology').innerHTML = dictionary[inputWord].etymology;
 				document.getElementById('definition_title').style.display = 'inline';
 				document.getElementById('etymology_title').style.display = 'inline';
-            } else if (dictionary[e.target.value.charAt(0).toUpperCase()+e.target.value.slice(1).toLowerCase()] !== undefined)
+            } else if (dictionary[word1] !== undefined)
 			{
-				document.querySelector('.input-word').innerHTML = e.target.value.charAt(0).toUpperCase()+e.target.value.slice(1).toLowerCase();
-                document.querySelector('.part-of-speech').innerHTML = dictionary[inputWord]['part of speech'];
-                document.querySelector('.definition').innerHTML = dictionary[inputWord].definition;
-				document.querySelector('.etymology').innerHTML = dictionary[inputWord].etymology;
+				document.querySelector('.input-word').innerHTML = word1;
+                document.querySelector('.part-of-speech').innerHTML = dictionary[word1]['part of speech'];
+                document.querySelector('.definition').innerHTML = dictionary[word1].definition;
+				document.querySelector('.etymology').innerHTML = dictionary[word1].etymology;
 				document.getElementById('definition_title').style.display = 'inline';
 				document.getElementById('etymology_title').style.display = 'inline';				
-			} else if (dictionary[inputWord.toLowerCase()] !== undefined)
+			} else if (dictionary[word2] !== undefined)
 			{
-				document.querySelector('.input-word').innerHTML = inputWord.toLowerCase();
-                document.querySelector('.part-of-speech').innerHTML = dictionary[inputWord]['part of speech'];
-                document.querySelector('.definition').innerHTML = dictionary[inputWord].definition;
-				document.querySelector('.etymology').innerHTML = dictionary[inputWord].etymology;
+				document.querySelector('.input-word').innerHTML = word2;
+                document.querySelector('.part-of-speech').innerHTML = dictionary[word2]['part of speech'];
+                document.querySelector('.definition').innerHTML = dictionary[word2].definition;
+				document.querySelector('.etymology').innerHTML = dictionary[word2].etymology;
 				document.getElementById('definition_title').style.display = 'inline';
 				document.getElementById('etymology_title').style.display = 'inline';				
 			} else
