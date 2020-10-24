@@ -3,7 +3,6 @@
 function randomFunFact(){	
 	
 	var funFactsList = [
-		"Alex Paws was a Christmas present from Pedro's father.",
 		"Pedro may seem funny and cool, but when he serious, watch out!",
 		"Alex still does get why he is not allowed to eat chocolate.",
 		"Pawesome's secret identity is ______.",
