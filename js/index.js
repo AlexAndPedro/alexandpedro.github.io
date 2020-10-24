@@ -41,9 +41,9 @@ ARR_LENGTH = 54;
   
   // Write them to the document
   document.getElementById("RandomComic").innerHTML =
-	('<img class="ComicPanel" src="../../images/Comic_Image_English/test/Slide' + comic1 +
-	'.PNG" width="32%" height="auto"> <img class="ComicPanel" src="../../images/Comic_Image_English/test/Slide' + comic2 +
-	'.PNG" width="32%" height="auto"> <img class="ComicPanel" src="../../images/Comic_Image_English/test/Slide' + comic3 +
+	('<img class="ComicPanel" src="/images/Comic_Image_English/test/Slide' + comic1 +
+	'.PNG" width="32%" height="auto"> <img class="ComicPanel" src="/images/Comic_Image_English/test/Slide' + comic2 +
+	'.PNG" width="32%" height="auto"> <img class="ComicPanel" src="/images/Comic_Image_English/test/Slide' + comic3 +
 	'.PNG" width="32%" height="auto">'
 	);
 }

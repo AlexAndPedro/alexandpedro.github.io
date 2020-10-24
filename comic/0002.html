@@ -6,14 +6,14 @@ All images must have no hyphens.-->
 
 	<head>
 		<title> Alex and Pedro | An adventurous place to be! </title>
-		<link rel = "stylesheet" href = "../../css/index.css">
-		<script src="../../js/jquery-3.5.1.min.js"></script>
-		<script src = "../../js/index.js"></script>
+		<link rel = "stylesheet" href = "/css/index.css">
+		<script src="/js/jquery-3.5.1.min.js"></script>
+		<script src = "/js/index.js"></script>
 		<script>
 					$(document).ready(function(){
 			   
-			   $('.Header').load("../header.html");
-			   $('.SideBars').load("../sideBar.html");
+			   $('.Header').load("/html/header.html");
+			   $('.SideBars').load("/html/sideBar.html");
 			});
 		
 		
@@ -29,7 +29,7 @@ All images must have no hyphens.-->
 			</div>
 			
 			<div id = "AAndPComic">
-				<img align = "middle" src = "../../images/comic/0001 - Pedro's Phone.png">
+				<img align = "middle" src = "images/comic/0002 - Isn't It Weird.png">
 			</div>
 			
 			<div class = "PageBody">
@@ -41,17 +41,21 @@ All images must have no hyphens.-->
 				<div class = "PageContent">
 									
 					<div class = "ComicNavigation">
-
-						<!--First comic does not have First and Previous-->
+						<!-- Since nav-First refers to first comic, don't change nav-First.-->
+						<div class = "nav-First">
+							<a href = "0001.html">
+								<< First
+							</a>	
+						</div>
 						
-						<div class = "nav-Random">|
-							<a>
-								Random
-							</a>|
+						<div class = "nav-Previous">
+							<a href = "0001.html">
+								< Previous
+							</a>
 						</div>
 						
 						<div class = "nav-Next">
-							<a href = "0002.html">
+							<a href = "0003.html">
 								Next >
 							</a>
 						</div>
@@ -65,7 +69,7 @@ All images must have no hyphens.-->
 					</div>
 			
 					<div class = "ComicTitle">
-						[0001] Pedro's Phone
+						[0002] Isn't It Weird?
 					</div>
 
 
@@ -78,7 +82,7 @@ All images must have no hyphens.-->
 
 			<div class = "ComicTags">
 				&#8618;<b>Tags:</b>
-				<div id = "ComicTags">Pedro, Alex</div>
+				<div id = "ComicTags">Pedro, Alex, Stuff</div>
 			</div>		
 					
 					
