@@ -330,7 +330,7 @@ div.MainMenu ul li:hover{
 .PageContent{
 	overflow: auto;
 	background-color: white;
-	padding: 2rem;
+	padding: 1rem;
 }
 
 .PageContent a:link, .PageContent a:visited, .PageBanner a:link, .PageBanner a:visited{
