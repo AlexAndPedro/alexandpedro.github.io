@@ -1,0 +1,8 @@
+When updating a comic, do the following steps.
+1) Copy index.html.
+2) Edit the new copy of index.html.
+- remove " /comic/ " in nav-First, nav-Previous
+- rename the new file as [number].html
+3) Move the edited file into /comic
+4) Update the remaining index.html file with the new comic in "AAndPComic", the link
+of nav-Previous, and nav-Next, the ComicDescription and ComicTags
