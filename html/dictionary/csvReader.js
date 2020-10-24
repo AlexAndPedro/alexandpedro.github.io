@@ -74,7 +74,8 @@ function callback(dictionary) {
             
 			let inputWord = e.target.value;
             e.target.value = '';
-
+			
+			
             if (dictionary[inputWord] !== undefined) {
 				document.querySelector('.input-word').innerHTML = inputWord;
                 document.querySelector('.part-of-speech').innerHTML = dictionary[inputWord]['part of speech'];
@@ -82,7 +83,23 @@ function callback(dictionary) {
 				document.querySelector('.etymology').innerHTML = dictionary[inputWord].etymology;
 				document.getElementById('definition_title').style.display = 'inline';
 				document.getElementById('etymology_title').style.display = 'inline';
-            } else {
+            } else if (dictionary[e.target.value.charAt(0).toUpperCase()+e.target.value.slice(1).toLowerCase()] !== undefined){
+				document.querySelector('.input-word').innerHTML = e.target.value.charAt(0).toUpperCase()+e.target.value.slice(1).toLowerCase();
+                document.querySelector('.part-of-speech').innerHTML = dictionary[inputWord]['part of speech'];
+                document.querySelector('.definition').innerHTML = dictionary[inputWord].definition;
+				document.querySelector('.etymology').innerHTML = dictionary[inputWord].etymology;
+				document.getElementById('definition_title').style.display = 'inline';
+				document.getElementById('etymology_title').style.display = 'inline';				
+			} else if (dictionary[inputWord.toLowerCase()] !== undefined){
+				document.querySelector('.input-word').innerHTML = inputWord.toLowerCase();
+                document.querySelector('.part-of-speech').innerHTML = dictionary[inputWord]['part of speech'];
+                document.querySelector('.definition').innerHTML = dictionary[inputWord].definition;
+				document.querySelector('.etymology').innerHTML = dictionary[inputWord].etymology;
+				document.getElementById('definition_title').style.display = 'inline';
+				document.getElementById('etymology_title').style.display = 'inline';				
+			} else
+			
+			{
                 document.querySelector('.input-word').innerHTML = 'Not Found in Dictionary';
                 document.querySelector('.part-of-speech').innerHTML = '';
                 document.querySelector('.definition').innerHTML = '';
