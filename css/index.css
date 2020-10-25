@@ -385,6 +385,17 @@ button:active {
 	font-size: 80%;
 }
 
+
+/*For Images in cast.html*/
+.castImage{
+	width: 5rem;
+	height: 5rem;
+	float: right;
+}
+
+
+
+
 /*FOR archive.html*/
 .archive-date{
 	text-align: right;
