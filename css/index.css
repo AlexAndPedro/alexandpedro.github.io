@@ -326,6 +326,12 @@ div.MainMenu ul li:hover{
 	color: #000;
 }
 
+#RandomComicGenerator{
+	padding: 0;
+	margin: 0;
+
+}
+
 .button{
 	border: 0;
 	background: #006597;

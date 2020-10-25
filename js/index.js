@@ -32,7 +32,9 @@ function randomFunFact(){
 
 function getRandomImage() { 
 
-ARR_LENGTH = 54;
+
+	
+ARR_LENGTH = 100; //Number of panels
   // Generate the three comic panel indices randomly
   var comic1 = Math.floor(Math.random() * ARR_LENGTH) + 1;
   var comic2 = Math.floor(Math.random() * ARR_LENGTH) + 1;
@@ -41,9 +43,9 @@ ARR_LENGTH = 54;
   
   // Write them to the document
   document.getElementById("RandomComic").innerHTML =
-	('<img class="ComicPanel" src="/images/Comic_Image_English/test/Slide' + comic1 +
-	'.PNG" width="32%" height="auto"> <img class="ComicPanel" src="/images/Comic_Image_English/test/Slide' + comic2 +
-	'.PNG" width="32%" height="auto"> <img class="ComicPanel" src="/images/Comic_Image_English/test/Slide' + comic3 +
-	'.PNG" width="32%" height="auto">'
+	(
+	'<img class="ComicPanel" src="/images/random_comic_panel/Slide' + comic1 +	'.PNG" width="32%" height="auto">'+
+	'<img class="ComicPanel" src="/images/random_comic_panel/Slide' + comic2 + '.PNG" width="32%" height="auto">'+
+	'<img class="ComicPanel" src="/images/random_comic_panel/Slide' + comic3 + '.PNG" width="32%" height="auto">'
 	);
 }
