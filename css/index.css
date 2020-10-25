@@ -388,9 +388,10 @@ button:active {
 
 /*For Images in cast.html*/
 .castImage{
-	width: 5rem;
-	height: 5rem;
+	width: 8rem;
+	height: auto;
 	float: right;
+	margin: 1rem;
 }
 
 
