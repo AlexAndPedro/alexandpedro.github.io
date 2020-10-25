@@ -158,7 +158,7 @@ overflow:hidden;
     margin: 0;
     padding: 0;
 	height: 20px;
-    background-color: white;
+    background-color: #0d344600;
 	
 
 }
@@ -180,7 +180,7 @@ padding: 0px auto; /* variable width */
 }
 
 div.MainMenu ul li:hover{
-	background-color:#FABE64;
+	background-color:#eba843;
 }
 
 #TagCloud{
