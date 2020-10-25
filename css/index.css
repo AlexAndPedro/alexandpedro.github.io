@@ -109,13 +109,14 @@ ul {
 
 .PageIcon{
 	float: left;
-	width: 10%;
+	width: 100%;
 	min-width: 40px; 
 	max-width: 200px;
 }
 
 .PageLogo{
 	overflow: auto;
+	width: 600px;
 }
 
 .PageDescription{
