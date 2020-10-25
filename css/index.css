@@ -301,7 +301,7 @@ div.MainMenu ul li:hover{
 }
 
 .PageContent a:link, .PageContent a:visited, .PageBanner a:link, .PageBanner a:visited{
-	color: white;
+	color: #0b7cb1;
 }
 
 .infobox {
