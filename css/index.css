@@ -307,7 +307,10 @@ div.MainMenu ul li:hover{
 	color: #3399C9;
 }
 
+.infobox {
+	padding: 5px;
 
+}
 
 #FunFactStatement{
 	padding: 5px;
