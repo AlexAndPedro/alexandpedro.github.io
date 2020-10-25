@@ -19,7 +19,7 @@ body{
 
 
 .Page{
-	width: 1200px; 		/* as much as possible, absolute not relative because			*/ 
+	width: 1100px; 		/* as much as possible, absolute not relative because			*/ 
 	margin: 0 auto;		/* when browser resizes, everything in width changes*/
 	min-height: 100%;
 	position: relative;
@@ -161,7 +161,7 @@ overflow:hidden;
 
 
 .MainMenu li {
-padding: 10px 30px;
+padding: 10px 15px;
 display:inline;
 	background-color:#0e4b68;
 	font-size: 18px;
