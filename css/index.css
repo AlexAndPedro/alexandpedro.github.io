@@ -146,7 +146,7 @@ ul {
 	clear: both;
 	margin: 10px 0;
 	display: block;
-    background-color: #8BC6E5;
+    background-color: #155474;
 	position: relative;
 text-align:center;
 overflow:hidden;
@@ -158,7 +158,7 @@ overflow:hidden;
     margin: 0;
     padding: 0;
 	height: 20px;
-    background-color: white;
+    background-color: #8BC6E5;
 	
 
 }
@@ -167,7 +167,7 @@ overflow:hidden;
 .MainMenu li {
 padding: 10px 30px;
 display:inline;
-	background-color:black;
+	background-color:#0d3446;
 	font-size: 18px;
 	text-align: center;
 }
@@ -180,7 +180,7 @@ padding: 0px auto; /* variable width */
 }
 
 div.MainMenu ul li:hover{
-	background-color:orange;
+	background-color:#FABE64;
 }
 
 #TagCloud{
@@ -269,8 +269,8 @@ div.MainMenu ul li:hover{
 
 
 .BlueContainer{
-	background-color: #26759A;
-	border: 2px solid #12445C;
+	background-color:#155474;
+	border: 2px solid #0d3446;
 	color: white;
 	min-height: 80px;
 	padding: 5px;
