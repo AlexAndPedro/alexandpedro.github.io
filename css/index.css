@@ -19,7 +19,7 @@ body{
 
 
 .Page{
-	width: 1200px; 		/* as much as possible, px not % because			*/ 
+	width: 1200px; 		/* as much as possible, absolute not relative because			*/ 
 	margin: 0 auto;		/* when browser resizes, everything in width changes*/
 	min-height: 100%;
 	position: relative;
@@ -262,7 +262,7 @@ div.MainMenu ul li:hover{
 	display: inline-block;
 	font-weight: inherit;
 	font-size: 20px;
-	margin: auto;
+	margin: auto ;
 }
 
 .ComicTitle{
