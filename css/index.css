@@ -97,7 +97,10 @@ ul {
     padding-left: 2rem;
 }
 
-
+.PageBanner{
+	min-height: 100px;
+	overflow: hidden;
+}
 
 .PageBody{
 	background-color: white;
@@ -297,7 +300,7 @@ div.MainMenu ul li:hover{
 }
 
 .PageContent a:link, .PageContent a:visited, .PageBanner a:link, .PageBanner a:visited{
-	color: #0b7cb1;
+	color: white;
 }
 
 .infobox {
