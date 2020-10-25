@@ -106,35 +106,6 @@ ul {
 	overflow: auto;
 }
 
-.PageNavigation{
-	clear: both;
-	width: 100%;
-}
-
-.PageNavigation ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #3C98C2;
-}
-
-.PageNavigation li {
-    float: left;
-}
-
-.PageNavigation li a {
-    display: block;
-    color: #fff;
-    text-align: center;
-    padding: 5px 12px;
-    text-decoration: none;
-}
-
-.PageNavigation li a:hover {
-    background-color: #185875;
-}
-
 .PageBanner{
 	background-color: #ffdf99;
 	border: 2px solid #ffcc66;
@@ -249,7 +220,7 @@ div.MainMenu ul li:hover{
 
 .ComicNavigation{
   font-weight: bold;
-  border: 2px solid black;
+  border: 2px solid #3399C9;
   margin: auto;
   width: 70%;
   overflow: auto;
