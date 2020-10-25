@@ -107,23 +107,26 @@ ul {
 	overflow: auto;
 }
 
+/*
 .PageIcon{
 	float: left;
 	width: 100%;
 	min-width: 40px; 
 	max-width: 200px;
 }
+*/
 
 .PageLogo{
 	overflow: auto;
 	width: 600px;
+	margin-left: 3rem;
 }
 
 .PageDescription{
 	float: right;
-	width: 40%;
 	min-width: 100px; 
-	max-width: 300px;
+	max-width: 30%;
+	color: #fff;
 }
 
 .PageHeaderSub{
