@@ -296,7 +296,7 @@ div.MainMenu ul li:hover{
 	clear: both;	
 }
 
-#followFacebook, #followTwitter{
+.followAnP{
 	float: left;
 	width: 15%;
 	margin: 0px 10px 10px 0px;
