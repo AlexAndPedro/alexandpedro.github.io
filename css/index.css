@@ -19,7 +19,7 @@ body{
 
 
 .Page{
-	width: 1100px; 		/* as much as possible, absolute not relative because			*/ 
+	width: 70%; 		/* as much as possible, absolute not relative because			*/ 
 	margin: 0 auto;		/* when browser resizes, everything in width changes*/
 	min-height: 100%;
 	position: relative;
