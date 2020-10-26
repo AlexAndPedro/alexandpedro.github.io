@@ -119,6 +119,7 @@ ul {
 .PageBody{
 	background-color: white;
 	overflow: auto;
+	min-height: 800px;
 }
 
 /*
