@@ -104,6 +104,7 @@ ul {
 .PageBanner{
 	min-height: 100px;
 	overflow: hidden;
+	background-image: url('/images/page_banner.png');
 }
 
 .PageBody{
