@@ -105,11 +105,17 @@ ul {
 	min-height: 100px;
 	overflow: hidden;
 	background-image: url('/images/page_banner.png');
+	background-size: 100%;
+	background-position: 0 85%;
+	border-style: solid;
+	border-color: #042c41;
 }
 
 .PageBody{
 	background-color: white;
 	overflow: auto;
+	border-style: solid;
+	border-color: #042c41;
 }
 
 /*
@@ -275,7 +281,7 @@ div.MainMenu ul li:hover{
 
 .BlueContainer, .infobox{
 	background-color:#0e4b68;
-	border: 2px solid #031924;
+	border: 2px solid #042c41;
 	color: white;
 	min-height: 80px;
 	padding: 5px;
