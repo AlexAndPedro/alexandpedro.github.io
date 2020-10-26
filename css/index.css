@@ -413,6 +413,11 @@ button:active {
 	
 /* Dictionary */
 
+#DictionaryContainer{
+	color: black;
+	background-color:#dbf0fa;
+	border: 2px solid #042c41;
+}
 
 .row {
     padding: 2rem;

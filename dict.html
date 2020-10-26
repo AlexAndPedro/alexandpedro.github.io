@@ -28,47 +28,45 @@
 		</script>	
 </head>
 <body class = "gradient">
-		<div class = "Page">
+	<div class = "Page">
 		<div class = "Header">
 				<!--DO NOT ENTER... CONTENT IS BASED ON header.html-->
-			</div>
-			
-				<div class = "PageBody">
-				<div class = "SideBars">
-					<!--DO NOT ENTER... CONTENT IS BASED ON sideBar.html-->
+		</div>
+				
+		<div class = "PageBody">
+					<div class = "SideBars">
+						<!--DO NOT ENTER... CONTENT IS BASED ON sideBar.html-->
+							
+					</div>				
+
+
+			<div class = "PageContent">
+
+				<div class = "BlueContainer" id = "DictionaryContainer">
+					<script src="/js/csvReader.js"></script>
+							<div class="row">
+								<div class="section-searchbar">
+
+										<label for="word">Enter your word:</label>
+										<input type="text" class="form__input" id="word" placeholder="Any Word" required>
+
+								</div>
+							</div>
+					
+					<div class="input-word">Enter a word in the search box above.</div>
+						<i><div class="part-of-speech" ></div></i>
+					<div class="dictionary_title" id="definition_title">Definition</div>
+						<div class="definition"></div>
 						
-				</div>				
-
-
-				<div class = "PageContent">
-
-    <script src="/js/csvReader.js"></script>
-		<section class="search-box">
-			<div class="row">
-				<div class="section-searchbar">
-
-						<label for="word">Enter your word:</label>
-						<input type="text" class="form__input" id="word" placeholder="Any Word" required>
-
+					<div class="dictionary_title" id="mampula_title">Mampula Language Transliteration</div>
+						<div class="mampula"></div>		
+						
+						
+					<div class="dictionary_title" id="etymology_title">Etymology</div>
+						<div class="etymology"></div>
 				</div>
 			</div>
-		</section>
-	</div>
-	
-    <div class="input-word">Enter a word in the search box above.</div>
-		<i><div class="part-of-speech" ></div></i>
-    <div class="dictionary_title" id="definition_title">Definition</div>
-		<div class="definition"></div>
-		
-    <div class="dictionary_title" id="mampula_title">Mampula Language Transliteration</div>
-		<div class="mampula"></div>		
-		
-		
-    <div class="dictionary_title" id="etymology_title">Etymology</div>
-		<div class="etymology"></div>
-
-	</div>
-	</div>
+		</div>
 	</div>
 </body>
 </html>
