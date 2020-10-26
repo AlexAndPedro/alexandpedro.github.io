@@ -36,7 +36,7 @@ body{
 /** Texts that are titles of articles */
 h1 {
 	margin: 1rem;
-	font-size: 16px;
+	font-size: 1.1rem;
 }
 
 p{
@@ -375,6 +375,7 @@ button:active {
 	clear: both;
 	margin: 1rem;
 	padding: 1rem;
+	font-size: 1rem
 }
 
 .ArticleAuthor{
