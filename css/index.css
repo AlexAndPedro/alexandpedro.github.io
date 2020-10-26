@@ -26,7 +26,11 @@ body{
 
 }
 
-
+@media(min-width:60em){
+	.Page{
+		width: 100%;
+	}
+}
 
 
 /** Texts that are titles of articles */
