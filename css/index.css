@@ -30,6 +30,10 @@ body{
 	.Page{
 		width: 100%;
 	}
+	html{
+		font-size: 95%;
+		
+	}
 }
 
 
