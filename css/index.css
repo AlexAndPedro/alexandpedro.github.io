@@ -167,7 +167,7 @@ overflow:hidden;
 padding: 10px 15px;
 display:inline;
 	background-color:#0e4b68;
-	font-size: 18px;
+	font-size: 1rem;
 	text-align: center;
 }
 
@@ -230,7 +230,7 @@ div.MainMenu ul li:hover{
 	width: auto;
 	display: inline-block;
 	font-weight: inherit;
-	font-size: 20px;
+	font-size: 1rem;
 	margin: auto 1.1em;
 }
 
@@ -275,6 +275,7 @@ div.MainMenu ul li:hover{
 	min-height: 80px;
 	padding: 5px;
 	margin: 5px;
+	font-size: 1rem;
 }
 
 .AandPSites{
