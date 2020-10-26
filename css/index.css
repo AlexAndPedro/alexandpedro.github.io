@@ -356,7 +356,10 @@ button:active {
 	transform: translateY(3px);
 }
 
+#randomComicButton{
 
+	margin: 1rem;
+}
 
 .PageArticle{
 	clear: both;
