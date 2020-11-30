@@ -90,7 +90,7 @@ function callback(dictionary) {
 			{
 				document.querySelector('.input-word').innerHTML = word1;
                 document.querySelector('.part-of-speech').innerHTML = dictionary[word1]['part of speech'];
-                document.querySelector('.definition').innerHTML = dictionary[word1].definition;
+                //document.querySelector('.definition').innerHTML = dictionary[word1].definition;
 				document.querySelector('.mampula').innerHTML = dictionary[word1].mampula;
 				//document.querySelector('.etymology').innerHTML = dictionary[word1].etymology;
 				document.getElementById('definition_title').style.display = 'inline';
@@ -101,7 +101,7 @@ function callback(dictionary) {
 			{
 				document.querySelector('.input-word').innerHTML = word2;
                 document.querySelector('.part-of-speech').innerHTML = dictionary[word2]['part of speech'];
-                document.querySelector('.definition').innerHTML = dictionary[word2].definition;
+                // document.querySelector('.definition').innerHTML = dictionary[word2].definition;
 				document.querySelector('.mampula').innerHTML = dictionary[word2].mampula;
 				//document.querySelector('.etymology').innerHTML = dictionary[word2].etymology;
 				document.getElementById('definition_title').style.display = 'inline';
