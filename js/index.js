@@ -21,7 +21,10 @@ function randomFunFact(){
 		"Ertle is a box turtle.",
 		"Pangil has an arm tumor called Ertle.",
 		"Pangil's name came from the fact that he is a wolf.",
-		"Pangil gnaw the bones of his enemies."
+		"Pangil gnaw the bones of his enemies.",
+		"Alex and Pangil are more than friends.[citation needed]",
+		"Pangil only used 0.575 J of work.",
+		"Alex loves McChicken burgers and McChicken texts."
 		];
 	
 	var statement = funFactsList[Math.floor(Math.random() * funFactsList.length)]; //number multiplied must be 1 more than number in array index.
