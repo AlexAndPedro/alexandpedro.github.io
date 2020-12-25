@@ -1,5 +1,7 @@
 // Function to generate a random fun fact
 
+alert("Hello! I am an alert box!");
+
 function randomFunFact(){	
 	
 	var funFactsList = [
@@ -24,6 +26,7 @@ function randomFunFact(){
 		"Pangil gnaw the bones of his enemies.",
 		"Alex and Pangil are more than friends.[citation needed]",
 		"Pangil only used 0.575 J of work.",
+		"It weighs about a pound.",
 		"Alex loves McChicken burgers and McChicken texts."
 		];
 	
