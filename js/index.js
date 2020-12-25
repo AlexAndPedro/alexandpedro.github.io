@@ -1,7 +1,5 @@
 // Function to generate a random fun fact
 
-alert("Hello! I am an alert box!");
-
 function randomFunFact(){	
 	
 	var funFactsList = [

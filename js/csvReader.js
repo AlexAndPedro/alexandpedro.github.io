@@ -117,7 +117,7 @@ function callback(dictionary) {
 				document.getElementById('definition_title').style.display = 'none';
 				document.getElementById('etymology_title').style.display = 'none';
 				document.getElementById('mampula_title').style.display = 'none';
-            };
+            }
             
         }
         
