@@ -110,7 +110,7 @@ function callback(dictionary) {
 			} else
 			{
                 document.querySelector('.input-word').innerHTML = 'Not Found in Dictionary';
-                document.querySelector('.part-of-speech').innerHTML = '';
+                document.querySelector('.part-of-speech').innerHTML = word1 + ' ' + word2;
                 document.querySelector('.definition').innerHTML = '';
 				document.querySelector('.mampula').innerHTML = '';
 				document.querySelector('.etymology').innerHTML = '';
