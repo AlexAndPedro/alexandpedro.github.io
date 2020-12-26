@@ -16,10 +16,10 @@ function parseDictCSV(text, delimiter) {
             let word = '';
             line.trim().split(delimiter).forEach((elem, index) => {
                 if (index == 0) {
-					word = elem;
+					word = elem.toLowerCase();
                     dict[word] = new Object();
                 } else {
-                    dict[word.toLowerCase()][headers[index]] = elem;
+                    dict[word][headers[index]] = elem;
                 }
             });
         }
@@ -74,7 +74,6 @@ function callback(dictionary) {
             
 			let inputWord = e.target.value.toLowerCase();
             e.target.value = '';
-
 			
             if (dictionary[inputWord] !== undefined) {
 				document.querySelector('.input-word').innerHTML = dictionary[inputWord];
