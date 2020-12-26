@@ -12,17 +12,17 @@ function parseDictCSV(text, delimiter) {
         
         if (index == 0) {
             headers = line.trim().split(delimiter);
-        } else {
-            let word = '';
-            line.trim().split(delimiter).forEach((elem, index) => {
-                if (index == 0) {
-					word = elem.toLowerCase();
-                    dict[word] = new Object();
-                } else {
-                    dict[word][headers[index]] = elem;
-                }
-            });
         }
+            
+        let word = '';
+        line.trim().split(delimiter).forEach((elem, index) => {
+            if (index == 0) {
+                word = elem.toLowerCase();
+                dict[word] = new Object();
+            } else {
+                dict[word][headers[index]] = elem;
+            }
+        });
     });
 
     return dict;
