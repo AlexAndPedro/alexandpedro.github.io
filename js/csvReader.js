@@ -79,7 +79,7 @@ function callback(dictionary) {
 
 
             if (dictionary[inputWord] !== undefined) {
-				document.querySelector('.input-word').innerHTML = JSON.stringify(dictionary[inputWord].word);
+				document.querySelector('.input-word').innerHTML = dictionary[inputWord].word;
                 document.querySelector('.part-of-speech').innerHTML = dictionary[inputWord]['part of speech'];
                 //document.querySelector('.definition').innerHTML = dictionary[inputWord].definition;
 				document.querySelector('.mampula').innerHTML = dictionary[inputWord].mampula;
