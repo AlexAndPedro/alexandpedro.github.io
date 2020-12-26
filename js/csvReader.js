@@ -19,9 +19,9 @@ function parseDictCSV(text, delimiter) {
             if (index == 0) {
                 word = elem.toLowerCase();
                 dict[word] = new Object();
-            } else {
-                dict[word][headers[index]] = elem;
             }
+
+            dict[word][headers[index]] = elem;
         });
     });
 
