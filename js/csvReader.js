@@ -19,7 +19,7 @@ function parseDictCSV(text, delimiter) {
 					word = elem;
                     dict[word] = new Object();
                 } else {
-                    dict[word][headers[index]] = elem;
+                    dict[word.toLowerCase()][headers[index]] = elem;
                 }
             });
         }
@@ -72,13 +72,12 @@ function callback(dictionary) {
 
         if (e.key == 'Enter' || e.keyCode == 13){
             
-			let inputWord = e.target.value;
+			let inputWord = e.target.value.toLowerCase();
             e.target.value = '';
-			let word1 = inputWord.charAt(0).toUpperCase()+inputWord.slice(1).toLowerCase();
-			let word2 = inputWord.toLowerCase();
+
 			
             if (dictionary[inputWord] !== undefined) {
-				document.querySelector('.input-word').innerHTML = inputWord;
+				document.querySelector('.input-word').innerHTML = dictionary[inputWord];
                 document.querySelector('.part-of-speech').innerHTML = dictionary[inputWord]['part of speech'];
                 //document.querySelector('.definition').innerHTML = dictionary[inputWord].definition;
 				document.querySelector('.mampula').innerHTML = dictionary[inputWord].mampula;
@@ -86,39 +85,7 @@ function callback(dictionary) {
 				document.getElementById('definition_title').style.display = 'inline';
 				//document.getElementById('etymology_title').style.display = 'inline';
 				document.getElementById('mampula_title').style.display = 'inline';
-            } else if (dictionary[word1] !== undefined)
-			{
-				document.querySelector('.input-word').innerHTML = word1;
-                document.querySelector('.part-of-speech').innerHTML = dictionary[word1]['part of speech'];
-                //document.querySelector('.definition').innerHTML = dictionary[word1].definition;
-				document.querySelector('.mampula').innerHTML = dictionary[word1].mampula;
-				//document.querySelector('.etymology').innerHTML = dictionary[word1].etymology;
-				document.getElementById('definition_title').style.display = 'inline';
-				//document.getElementById('etymology_title').style.display = 'inline';
-				document.getElementById('mampula_title').style.display = 'inline';				
             } 
-            else if (dictionary[word2] !== undefined)
-			{
-				document.querySelector('.input-word').innerHTML = word2;
-                document.querySelector('.part-of-speech').innerHTML = dictionary[word2]['part of speech'];
-                // document.querySelector('.definition').innerHTML = dictionary[word2].definition;
-				document.querySelector('.mampula').innerHTML = dictionary[word2].mampula;
-				//document.querySelector('.etymology').innerHTML = dictionary[word2].etymology;
-				document.getElementById('definition_title').style.display = 'inline';
-				//document.getElementById('etymology_title').style.display = 'inline';
-				document.getElementById('mampula_title').style.display = 'inline';				
-            }
-            else if (dictionary[word2]['word small'] !== undefined)
-			{
-				document.querySelector('.input-word').innerHTML = word2;
-                document.querySelector('.part-of-speech').innerHTML = dictionary[word2]['part of speech'];
-                // document.querySelector('.definition').innerHTML = dictionary[word2].definition;
-				document.querySelector('.mampula').innerHTML = dictionary[word2].mampula;
-				//document.querySelector('.etymology').innerHTML = dictionary[word2].etymology;
-				document.getElementById('definition_title').style.display = 'inline';
-				//document.getElementById('etymology_title').style.display = 'inline';
-				document.getElementById('mampula_title').style.display = 'inline';				
-			}
             else
 			{
                 document.querySelector('.input-word').innerHTML = 'Not Found in Dictionary';
