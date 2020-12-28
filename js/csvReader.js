@@ -94,6 +94,8 @@ function callback(dictionary) {
                 document.querySelector(".part-of-speech").innerHTML = "";
                 document.querySelector(".mampula").innerHTML = "";
 				document.querySelector(".etymology").innerHTML = "";
+				// document.getElementById("definition_title").style.display = "none";
+				// document.getElementById("etymology_title").style.display = "none";
 				document.getElementById("mampula_title").style.display = "none";
             }
             
