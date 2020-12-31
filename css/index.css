@@ -340,6 +340,8 @@ div.MainMenu ul li:hover{
 	padding: 0;
 	width: auto;
 	color: #000;
+	display:block;
+    margin:auto;
 }
 
 #RandomComicGenerator{
@@ -370,6 +372,11 @@ button:active {
 #randomComicButton{
 
 	margin: 1rem;
+}
+
+.comicPanelVisibility{
+	display: none;
+
 }
 
 .PageArticle{

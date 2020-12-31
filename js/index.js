@@ -32,43 +32,53 @@ function randomFunFact(){
 	document.getElementById("FunFactStatement").innerHTML = statement;
 }
 
+
+function lockPanel(buttonNumber){
+	
+		if(document.getElementById("panel" + buttonNumber).innerHTML == "Unlocked"){
+			document.getElementById("panel" + buttonNumber).innerHTML = "Locked"
+		} else {
+			document.getElementById("panel" + buttonNumber).innerHTML = "Unlocked"
+		}
+
+}
+
 // Function to generate random comic image
 
-function getRandomImage() { 
-
-
-	
-ARR_LENGTH = 19; //Number of panels
-// Generate the three comic panel indices randomly
+function getRandomImage(ARR_LENGTH) { 
+	document.getElementById("panel1").style.display = "inline";
+	document.getElementById("panel2").style.display = "inline";
+	document.getElementById("panel3").style.display = "inline";
+								// Generate the three comic panel indices randomly
 var panelNumber = [];
+var x;
+var a;
+var comicPanel = [document.getElementById("ComicPanel1"),			// getting the file of the previous iteration
+					document.getElementById("ComicPanel2"),
+					document.getElementById("ComicPanel3")];
 
 for (i = 0; i < ARR_LENGTH; i++) {
 	panelNumber[i] = i + 1;
 }
 
-var x, comic1, comic2, comic3;
-var arrayLength = panelNumber.length;
-
-x = Math.floor(Math.random() * arrayLength);
-comic1 = panelNumber[x];
-panelNumber.splice(x, 1);
-
-arrayLength = panelNumber.length;
-x = Math.floor(Math.random() * arrayLength);
-comic2 = panelNumber[x];
-panelNumber.splice(x, 1);
-
-arrayLength = panelNumber.length;
-x = Math.floor(Math.random() * arrayLength);
-comic3 = panelNumber[x];
-panelNumber.splice(x, 1); 
-
-  
+for (i = 0; i < 3; i++){
+	if(document.getElementById("panel" + (i + 1)).innerHTML == "Unlocked"){
+		x = Math.floor(Math.random() * panelNumber.length);
+		comicPanel[i] = panelNumber[x];
+		panelNumber.splice(x, 1);
+	} else {
+		a = comicPanel[i].src.split("/");
+		comicPanel[i] = a[a.length-1].split(".")[0];				//gets filename of the original comic panel
+	}
+}
+ 
   // Write them to the document
+  
+
   document.getElementById("RandomComic").innerHTML =
 	(
-	'<img class="ComicPanel" src="/images/random_comic_panels/' + comic1 +	'.png" width="32%" height="auto">'+
-	'<img class="ComicPanel" src="/images/random_comic_panels/' + comic2 + '.png" width="32%" height="auto">'+
-	'<img class="ComicPanel" src="/images/random_comic_panels/' + comic3 + '.png" width="32%" height="auto">'
+	'<img id="ComicPanel1" src="/images/random_comic_panels/' + comicPanel[0] + '.png" width="33%" height="auto">'+
+	'<img id="ComicPanel2" src="/images/random_comic_panels/' + comicPanel[1] + '.png" width="33%" height="auto">'+
+	'<img id="ComicPanel3" src="/images/random_comic_panels/' + comicPanel[2] + '.png" width="33%" height="auto">'
 	);
 }
