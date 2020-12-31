@@ -39,11 +39,30 @@ function getRandomImage() {
 
 	
 ARR_LENGTH = 19; //Number of panels
-  // Generate the three comic panel indices randomly
-  var comic1 = Math.floor(Math.random() * ARR_LENGTH) + 1;
-  var comic2 = Math.floor(Math.random() * ARR_LENGTH) + 1;
-  var comic3 = Math.floor(Math.random() * ARR_LENGTH) + 1;
-  
+// Generate the three comic panel indices randomly
+var panelNumber = [];
+
+for (i = 0; i < ARR_LENGTH; i++) {
+	panelNumber[i] = i + 1;
+}
+
+var x, comic1, comic2, comic3;
+var arrayLength = panelNumber.length;
+
+x = Math.floor(Math.random() * arrayLength);
+comic1 = panelNumber[x];
+panelNumber.splice(x, 1);
+
+arrayLength = panelNumber.length;
+x = Math.floor(Math.random() * arrayLength);
+comic2 = panelNumber[x];
+panelNumber.splice(x, 1);
+
+arrayLength = panelNumber.length;
+x = Math.floor(Math.random() * arrayLength);
+comic3 = panelNumber[x];
+panelNumber.splice(x, 1); 
+
   
   // Write them to the document
   document.getElementById("RandomComic").innerHTML =
