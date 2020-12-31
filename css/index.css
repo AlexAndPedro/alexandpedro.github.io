@@ -364,6 +364,23 @@ div.MainMenu ul li:hover{
 	transition: all .1s linear;
 }
 
+.comicPanelVisibility{
+	border: 0;
+	background: #f8d975;
+	border-radius: 4px;
+	box-shadow: 0 5px 0 #003e5e;
+	color: #000;
+	cursor: pointer;
+	font: inherit;
+	margin: 0;
+	outline: 0;
+	padding: 8px 10px;
+	transition: all .1s linear;
+	display: none;
+	width: 32%;
+
+}
+
 button:active {
 	box-shadow: 0 2px 0 #003e5e;
 	transform: translateY(3px);
@@ -374,10 +391,7 @@ button:active {
 	margin: 1rem;
 }
 
-.comicPanelVisibility{
-	display: none;
 
-}
 
 .PageArticle{
 	clear: both;
@@ -424,11 +438,6 @@ button:active {
 	
 /* Dictionary */
 
-#DictionaryContainer{
-	color: black;
-	background-color:#dbf0fa;
-	border: 2px solid #042c41;
-}
 
 .row {
     padding: 2rem;
@@ -446,7 +455,7 @@ button:active {
 }
 
 input.form__input {
-    background-image: linear-gradient(to right top, #87CEFA, #00BFFF);
+    background-image: white;
     position: relative;
     height: 100%;
     width: 70%;
