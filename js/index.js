@@ -44,41 +44,44 @@ function lockPanel(buttonNumber){
 }
 
 // Function to generate random comic image
+//
 
 function getRandomImage(ARR_LENGTH) { 
+	//Makes the Unlocked/Locked buttons visible
 	document.getElementById("panel1").style.display = "inline";
 	document.getElementById("panel2").style.display = "inline";
 	document.getElementById("panel3").style.display = "inline";
-								// Generate the three comic panel indices randomly
-var panelNumber = [];
-var x;
-var a;
-var comicPanel = [document.getElementById("ComicPanel1"),			// getting the file of the previous iteration
-					document.getElementById("ComicPanel2"),
-					document.getElementById("ComicPanel3")];
+								
+	var panelNumber = [];
+	var x;
+	var a;
+	// getting the file of the previous iteration
+	var comicPanel = [document.getElementById("ComicPanel1"),
+						document.getElementById("ComicPanel2"),
+						document.getElementById("ComicPanel3")];
 
-for (i = 0; i < ARR_LENGTH; i++) {
-	panelNumber[i] = i + 1;
-}
-
-for (i = 0; i < 3; i++){
-	if(document.getElementById("panel" + (i + 1)).innerHTML == "Unlocked"){
-		x = Math.floor(Math.random() * panelNumber.length);
-		comicPanel[i] = panelNumber[x];
-		panelNumber.splice(x, 1);
-	} else {
-		a = comicPanel[i].src.split("/");
-		comicPanel[i] = a[a.length-1].split(".")[0];				//gets filename of the original comic panel
+	for (i = 0; i < ARR_LENGTH; i++) {									
+		panelNumber[i] = i + 1;
 	}
-}
- 
-  // Write them to the document
-  
 
-  document.getElementById("RandomComic").innerHTML =
-	(
-	'<img id="ComicPanel1" src="/images/random_comic_panels/' + comicPanel[0] + '.png" width="33%" height="auto">'+
-	'<img id="ComicPanel2" src="/images/random_comic_panels/' + comicPanel[1] + '.png" width="33%" height="auto">'+
-	'<img id="ComicPanel3" src="/images/random_comic_panels/' + comicPanel[2] + '.png" width="33%" height="auto">'
-	);
+	for (i = 0; i < 3; i++){
+		if(document.getElementById("panel" + (i + 1)).innerHTML == "Unlocked"){
+			x = Math.floor(Math.random() * panelNumber.length);
+			comicPanel[i] = panelNumber[x];
+			panelNumber.splice(x, 1);
+		} else {
+			//gets filename of the original comic panel
+			a = comicPanel[i].src.split("/");
+			comicPanel[i] = a[a.length-1].split(".")[0];
+		}
+	}
+	
+
+	// Write them to the document
+	document.getElementById("RandomComic").innerHTML =
+		(
+		'<img id="ComicPanel1" src="/images/random_comic_panels/' + comicPanel[0] + '.png" width="33%" height="auto">'+
+		'<img id="ComicPanel2" src="/images/random_comic_panels/' + comicPanel[1] + '.png" width="33%" height="auto">'+
+		'<img id="ComicPanel3" src="/images/random_comic_panels/' + comicPanel[2] + '.png" width="33%" height="auto">'
+		);
 }
