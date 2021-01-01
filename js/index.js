@@ -35,25 +35,31 @@ function randomFunFact(){
 
 function lockPanel(buttonNumber){
 	
-		if(document.getElementById("panel" + buttonNumber).innerHTML == "Unlocked"){
-			document.getElementById("panel" + buttonNumber).innerHTML = "Locked"
-		} else {
-			document.getElementById("panel" + buttonNumber).innerHTML = "Unlocked"
-		}
+	//Changes the text of the lock button to "Locked" and "Unlocked"
+		
+	if(document.getElementById("panel" + buttonNumber).innerHTML == "Unlocked"){
+	
+		document.getElementById("panel" + buttonNumber).innerHTML = "Locked"
+	
+	} else {
+	
+		document.getElementById("panel" + buttonNumber).innerHTML = "Unlocked"
+	
+	}
 
 }
 
 // Function to generate random comic image
-//
 
 function getRandomImage(ARR_LENGTH) { 
+	
 	//Makes the Unlocked/Locked buttons visible
 	document.getElementById("panel1").style.display = "inline";
 	document.getElementById("panel2").style.display = "inline";
 	document.getElementById("panel3").style.display = "inline";
 								
 	var panelNumber = [];
-	var x;
+	var numberIndex;
 	var a;
 	// getting the file of the previous iteration
 	var comicPanel = [document.getElementById("ComicPanel1"),
@@ -66,13 +72,13 @@ function getRandomImage(ARR_LENGTH) {
 
 	for (i = 0; i < 3; i++){
 		if(document.getElementById("panel" + (i + 1)).innerHTML == "Unlocked"){
-			x = Math.floor(Math.random() * panelNumber.length);
-			comicPanel[i] = panelNumber[x];
-			panelNumber.splice(x, 1);
+			numberIndex = Math.floor(Math.random() * panelNumber.length);
+			comicPanel[i] = panelNumber[numberIndex];
+			panelNumber.splice(numberIndex, 1);
 		} else {
 			//gets filename of the original comic panel
 			a = comicPanel[i].src.split("/");
-			comicPanel[i] = a[a.length-1].split(".")[0];
+			comicPanel[i] = a[comicPanel[i].src.split("/").length-1].split(".")[0];
 		}
 	}
 	
