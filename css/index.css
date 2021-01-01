@@ -63,29 +63,6 @@ img {
 	margin: 0 10px 20px 10px;
 }
 
-q {
-	quotes: '\201C' '\201D';
-	}
-
-
-q:before {
-	content: open-quote;
-	font-size: 40px;
-	color: #084B8A;
-	font-weight: bold;
-	font-family: "Times New Roman";
-	font-style: none;
-	}
-
-q:after {
-	content: close-quote;
-	font-size: 40px;
-	color: #084B8A;
-	font-weight: bold;
-	font-family: "Times New Roman";
-	}
-
-
 /**Note: a:hover MUST come after a:link and a:visited
 in the CSS definition in order to be effective.
 Note: a:active MUST come after a:hover
@@ -122,15 +99,6 @@ ul {
 	min-height: 800px;
 }
 
-/*
-.PageIcon{
-	float: left;
-	width: 100%;
-	min-width: 40px; 
-	max-width: 200px;
-}
-*/
-
 .PageLogo{
 	overflow: auto;
 	width: 50%;
@@ -150,20 +118,14 @@ ul {
 	clear: both;
 }
 
-
-
-
 .MainMenu {
-	width: 100%;
 	padding: 10px 0;
-	height: 20px;
+	height: 25px;
 	clear: both;
-	margin: 0.5rem 0 0 0;
-	display: block;
+	margin: 1rem 0 0 0;
     background-color: #0e4b68;
-	position: relative;
-text-align:center;
-overflow:hidden;
+	text-align:center;
+	overflow:hidden;
 }
 
 
@@ -173,8 +135,6 @@ overflow:hidden;
     padding: 0;
 	height: 20px;
     background-color: #0e4b6800;
-	
-
 }
 
 
@@ -193,6 +153,7 @@ text-decoration:none;
 padding: 0px auto; /* variable width */
 }
 
+/*When you hover the main menu*/
 div.MainMenu ul li:hover{
 	background-color:#eba843;
 }
@@ -205,8 +166,6 @@ div.MainMenu ul li:hover{
 	float: left;
 	height: 18px;
 }
-
-
 
 .TagGroup1{
 	font-size: 130%;
@@ -227,8 +186,6 @@ div.MainMenu ul li:hover{
 	font-size: 80%;
 	margin: 2px;
 }
-
-
 
 .ComicNavigation{
   font-weight: bold;
@@ -335,20 +292,9 @@ div.MainMenu ul li:hover{
 	text-align: center;
 }
 
-#RandomComic{
-	background: #fff;
-	padding: 0;
-	width: auto;
-	color: #000;
-	display:block;
-    margin:auto;
-}
 
-#RandomComicGenerator{
-	padding: 0;
-	margin: 5px;
 
-}
+
 
 .button{
 	border: 0;
@@ -364,31 +310,10 @@ div.MainMenu ul li:hover{
 	transition: all .1s linear;
 }
 
-.comicPanelVisibility{
-	border: 0;
-	background: #f8d975;
-	border-radius: 4px;
-	box-shadow: 0 5px 0 #003e5e;
-	color: #000;
-	cursor: pointer;
-	font: inherit;
-	margin: 0;
-	outline: 0;
-	padding: 8px 10px;
-	transition: all .1s linear;
-	display: none;
-	width: 32.5%;
-
-}
 
 button:active {
 	box-shadow: 0 2px 0 #003e5e;
 	transform: translateY(3px);
-}
-
-#randomComicButton{
-
-	margin: 1rem;
 }
 
 
@@ -428,61 +353,7 @@ button:active {
     border-left: 1px dashed #aaaaaa;
 }
 
-
-
 .PageEnd{
 	clear: both;
 	padding-bottom: 60px;
-}
-	
-	
-/* Dictionary */
-
-
-.row {
-    padding: 2rem;
-    display: inline-block;
-}
-
-.section-searchbar {
-    height: 1.2rem;
-    width: 15rem;
-}
-
-.form {
-    height: 100%;
-    width: 100%;
-}
-
-input.form__input {
-    background-image: white;
-    position: relative;
-    height: 100%;
-    width: 70%;
-    padding: 0.5rem;
-    opacity: 1;
-}
-
-.input-word {
-    margin: 3rem 1rem;
-    font-size: 1rem;
-}
-
-.dictionary_title{
-	margin: 0 2rem;
-	font-weight: bold;
-}
-
-#definition_title, #etymology_title, #mampula_title{
-		display: none;
-}
-
-.part-of-speech {
-    margin: 0 0 1.5rem 4rem;
-    font-size: 1.2rem;
-}
-
-.definition, .etymology, .mampula {
-    margin: 0 0 0 4rem;
-    font-size: 1.2rem;
 }

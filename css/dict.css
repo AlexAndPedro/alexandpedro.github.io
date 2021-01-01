@@ -1,0 +1,47 @@
+.row {
+    padding: 2rem;
+    display: inline-block;
+}
+
+.section-searchbar {
+    height: 1.2rem;
+    width: 15rem;
+}
+
+.form {
+    height: 100%;
+    width: 100%;
+}
+
+input.form__input {
+    background-image: white;
+    position: relative;
+    height: 100%;
+    width: 70%;
+    padding: 0.5rem;
+    opacity: 1;
+}
+
+.input-word {
+    margin: 3rem 1rem;
+    font-size: 1rem;
+}
+
+.dictionary_title{
+	margin: 0 2rem;
+	font-weight: bold;
+}
+
+#definition_title, #etymology_title, #mampula_title{
+		display: none;
+}
+
+.part-of-speech {
+    margin: 0 0 1.5rem 4rem;
+    font-size: 1.2rem;
+}
+
+.definition, .etymology, .mampula {
+    margin: 0 0 0 4rem;
+    font-size: 1.2rem;
+}

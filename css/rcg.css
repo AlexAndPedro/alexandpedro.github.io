@@ -1,0 +1,36 @@
+#RandomComic{
+	padding: 0;
+	width: auto;
+	color: #fff;
+	display:block;
+	margin:auto;
+	text-align: center;
+}
+
+.lockPanelDiv{
+	text-align: center;
+}
+
+#RandomComicGenerator{
+	padding: 0;
+	margin: 5px;
+}
+
+.comicPanelVisibility{
+	border: 0;
+	background: #f8d975;
+	border-radius: 4px;
+	box-shadow: 0 5px 0 #003e5e;
+	color: #000;
+	cursor: pointer;
+	font: inherit;
+	outline: 0;
+	padding: 8px 10px;
+	transition: all .1s linear;
+	display: none;
+	width: 32.5%;
+}
+
+#randomComicButton{
+	margin: 1rem;
+}
