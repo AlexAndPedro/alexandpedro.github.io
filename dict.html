@@ -42,27 +42,51 @@
 
 				<div class = "PageContent">
 
-					<div class = "BlueContainer" id = "DictionaryContainer">
-						<script src="/js/csvReader.js"></script>
-						<div class="row">
-							<div class="section-searchbar">
-								<label for="word">Enter your word</label>
-								<input type="text" class="form__input" id="word" placeholder="Example: rice" required>
+					<div class="BlueContainer" id="DictionaryContainer">
+						<script src="js/csvReader.js"></script>
+						<div class="dictionary-heading">
+							<h2>
+								Dictionary
+							</h2>
+						</div>
+				
+						<div class="section-searchbar">
+							<input type="text" class="form__input" placeholder="Enter a Word" id="word" autocomplete="off" required>
+							<label for="name" class="form__label">Enter a Word</label>
+						</div>
+						<br>
+						<br>
+						<br>
+						<div class="language-selector">
+							<div class="form__radio-group">
+								<input type="radio" class="form__radio-input" id="english-word" name="language" checked>
+								<label for="english-word" class="form__radio-label">
+									<span class="form__radio-button"></span>
+									English Word
+								</label>
+							</div>
+						<br><br>
+							<div class="form__radio-group">
+								<input type="radio" class="form__radio-input" id="mampula-word" name="language">
+								<label for="mampula-word" class="form__radio-label">
+									<span class="form__radio-button"></span>
+									Mampula Word
+								</label>
 							</div>
 						</div>
 						
-						<div class="input-word"></div>
-						
-						<i><div class="part-of-speech"></div></i>
-						
-						<!-- <div class="dictionary_title" id="definition_title">Definition</div>
-							<div class="definition"></div> -->
-							
-						<div class="dictionary_title" id="mampula_title">Mampula Language Transliteration</div>
-							<div class="mampula"></div>		
-							
-						<div class="dictionary_title" id="etymology_title">Etymology</div>
-							<div class="etymology"></div>
+						<div class="result-container">
+							<h4 class="word"></h4>
+						</div>
+				
+						<div class="result-container">
+							<h3 class="definition"></h3>
+						</div>
+				
+						<div class="result-container">
+							<h2 class="heading-tertiary translation-title"></h2>
+							<h3 class="translation"></h3>
+						</div>        
 					</div>
 
 
