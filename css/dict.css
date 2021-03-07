@@ -17,7 +17,7 @@ input.form__input {
     background-image: white;
     position: relative;
     height: 100%;
-    width: 70%;
+    width: 100%;
     padding: 0.5rem;
     opacity: 1;
 }
@@ -106,7 +106,6 @@ html {
     opacity: 1;
 }
 
-
 .form__label {
     font-size: 100%;
     font-weight: 500;
@@ -124,7 +123,7 @@ html {
 .form__input:focus {
     outline: none;
     box-shadow: 0 1rem 2rem rgba(#000000, .1);
-    border-bottom: 3px solid #00fad9;
+    border-bottom: 3px solid #eba843;
 }
 
 .form__label::-webkit-input-placeholder {

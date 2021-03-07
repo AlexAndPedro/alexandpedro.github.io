@@ -43,27 +43,6 @@ xhr.open('GET', path, true);
 xhr.send();
 
 function callback(dictionary) {
-    // you can do whatever you want with the dictionary here..
-    // if you try using it outside of this function, it might not work
-
-    // HOW TO USE IT
-
-    // If you want to access the definition of apple..
-    // console.log(dictionary['Pangilan']["definition"]);
-
-	
-	// // If you want to access the etymology of apple..
-    // console.log(dictionary['Pangilan']["etymology"]);
-
-    // // If you want to see all the words in array
-    // console.log(Object.keys(dictionary));
-
-    // // You can use variable to access the definition too
-    // let userInput = 'run';
-    // console.log(dictionary[userInput].definition);
-
-    // Example code for getting user input and displaying definition
-    // and part of speech of the given word.
 
     document.getElementById('word').addEventListener('keyup', e => {
         e.preventDefault();

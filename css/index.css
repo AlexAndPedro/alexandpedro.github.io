@@ -10,10 +10,8 @@ html {
 body{
 	margin: 0;
     padding: 0.5%;							/*must be in percentage*/
-	/*background-repeat: no-repeat;*/
     background-attachment: fixed;			/*if the background will move while scrolling or not*/
 	font-family: 'Century Gothic';
-	position: relative;
 }
 
 
@@ -26,6 +24,7 @@ body{
 
 }
 
+/* For mobile devices, etc. */
 @media(max-width:1100px){
 	.Page{
 		width: 100%;
@@ -39,28 +38,9 @@ h1 {
 	font-size: 1.1rem;
 }
 
-p{
-	margin: 0;
-	padding: 5px 0;
-}
-
 img {
     max-width: 100%;
     height: auto;
-}
-
-.CharacterQuoteLeft {
-	font-family: "Book Antiqua", "cursive";
-	font-style: italic;
-	float: left;
-	margin: 0 10px 20px 10px;
-}
-
-.CharacterQuoteRight {
-	font-family: "Book Antiqua", "cursive";
-	font-style: italic;
-	float: right;
-	margin: 0 10px 20px 10px;
 }
 
 /**Note: a:hover MUST come after a:link and a:visited
@@ -293,10 +273,6 @@ div.MainMenu ul li:hover{
 	text-align: center;
 }
 
-
-
-
-
 .button{
 	border: 0;
 	background: #006597;
@@ -317,8 +293,6 @@ button:active {
 	transform: translateY(3px);
 }
 
-
-
 .PageArticle{
 	clear: both;
 	margin: 1rem;
@@ -337,8 +311,6 @@ button:active {
 	float: right;
 	margin: 1rem;
 }
-
-
 
 
 /*FOR archive.html*/
