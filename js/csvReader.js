@@ -114,7 +114,7 @@ function callback(dictionary) {
                 
                 if (language == 'eng') {
                     translationTitleDOM.innerHTML = `${language == 'eng' ? "Mampula" : "English"} language transliteration`;
-                    translateDOM.innerHTML = `${dictionary["eng"][inputWord]["translate"]}&nbsp;<i>${mampulaInfo}</i>`;
+                    translateDOM.innerHTML = `${dictionary["eng"][inputWord]["translate"]}&nbsp;<br><br><i>${mampulaInfo}</i>`;
                 } else {
                     translationTitleDOM.innerHTML = `${language == 'eng' ? "Mampula" : "English"} language translation`;
                     translateDOM.innerHTML = dictionary["mampula"][inputWord]["translate"];
