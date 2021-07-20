@@ -99,6 +99,9 @@ function callback(dictionary) {
                 let partOfSpeechMam = dictionary[language][inputWord]["part of speech Mampula"];
                 let definition = dictionary[language][inputWord]["definition"];
                 let mampulaInfo = dictionary[language][inputWord]["mampula info"];
+                let example = dictionary[language][inputWord]["example"];
+                let seeAlso = dictionary[language][inputWord]["see_also"];
+
                 if (language == 'eng') {
                     wordDOM.innerHTML = `${dictionary[language][inputWord][lang_word]}<i class="part-of-speech">${partOfSpeechEng}</i>`;
                 } else {
@@ -114,10 +117,12 @@ function callback(dictionary) {
                 
                 if (language == 'eng') {
                     translationTitleDOM.innerHTML = `${language == 'eng' ? "Mampula" : "English"} language transliteration`;
-                    translateDOM.innerHTML = `${dictionary["eng"][inputWord]["translate"]}&nbsp;<br><br><i>${mampulaInfo}</i>`;
+                    translateDOM.innerHTML = `${dictionary["eng"][inputWord]["translate"]}&nbsp;<br><br><i>${mampulaInfo}</i>
+                    &nbsp;<br><br>Example<br><i>${example}</i>&nbsp;<br><br>See also:<br><i>${seeAlso}</i>`;
                 } else {
                     translationTitleDOM.innerHTML = `${language == 'eng' ? "Mampula" : "English"} language translation`;
-                    translateDOM.innerHTML = dictionary["mampula"][inputWord]["translate"];
+                    translateDOM.innerHTML = `${dictionary["mampula"][inputWord]["translate"]}&nbsp;<br><br><i>${mampulaInfo}</i>
+                    &nbsp;<br><br>Example<br><i>${example}</i>&nbsp;<br><br>See also:<br><i>${seeAlso}</i>`;
                 };
 
             } else {
