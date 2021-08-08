@@ -330,3 +330,13 @@ button:active {
 	clear: both;
 	padding-bottom: 60px;
 }
+
+/* d */
+
+.comicarchiveframe {
+	background: #fff;
+	border: 1px solid #000;
+	filter: alpha(opacity=99);
+	opacity: 0.99;
+	padding: 5px;
+}

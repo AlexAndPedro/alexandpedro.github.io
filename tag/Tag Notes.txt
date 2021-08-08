@@ -1,0 +1,14 @@
+Tag your comic based on the ff.
+
+-Character-based Tags
+alex
+pedro
+pawesome
+pangil
+ertle
+
+-Topic or Theme-Based Tags
+math
+science
+computer science
+food
