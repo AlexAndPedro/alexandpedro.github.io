@@ -46,10 +46,6 @@ input.form__input {
     font-size: 1.2rem;
 }
 
-html {
-    font-size: 100%;
-}
-
 .row {
     padding: 2rem;
     display: inline-block;

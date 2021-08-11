@@ -1,6 +1,11 @@
+@font-face {
+	font-family: 'AnP';
+	src: url("/fonts/AlexAndPedro-Regular.ttf");
+}
+
 /*Gradient of the background*/
 html {
-    font-size: 100%;
+    font-size: 150%;
 }
 
 .gradient {
@@ -11,7 +16,7 @@ body{
 	margin: 0;
     padding: 0.5%;							/*must be in percentage*/
     background-attachment: fixed;			/*if the background will move while scrolling or not*/
-	font-family: 'Century Gothic';
+	font-family: AnP;
 }
 
 
@@ -317,7 +322,7 @@ button:active {
 .archive-date{
 	text-align: right;
     padding: 0 5px 0 0;
-    font-size: 12px;
+    font-size: 0.8rem;
     white-space: nowrap;
 }
 
