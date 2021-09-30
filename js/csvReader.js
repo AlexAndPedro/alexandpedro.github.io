@@ -91,17 +91,23 @@ function callback(dictionary) {
 
             let wordDOM = document.querySelector('.word');
             let definitionDOM = document.querySelector('.definition');
-            let translationTitleDOM = document.querySelector('.translation-title');
-            let translateDOM = document.querySelector('.translation');
+            let transliterationTitleDOM = document.querySelector('.transliterationTitle');
+            let transliterationDOM = document.querySelector('.transliteration');
+            let translationDOM = document.querySelector('.translation');
+            let wordInfoDOM = document.querySelector('.wordInfo');
+            let etymologyDOM = document.querySelector('.etymology');            
 
             if (dictionary[language][inputWord] !== undefined) {
                 let partOfSpeechEng = dictionary[language][inputWord]["part of speech English"];
                 let partOfSpeechMam = dictionary[language][inputWord]["part of speech Mampula"];
                 let definition = dictionary[language][inputWord]["definition"];
                 let mampulaInfo = dictionary[language][inputWord]["mampula info"];
+                let mampulanSymbol = dictionary[language][inputWord]["mampulan symbol"]
+                let etymology = dictionary[language][inputWord]["etymology"];
                 let example = dictionary[language][inputWord]["example"];
-                let seeAlso = dictionary[language][inputWord]["see_also"];
+                let seeAlso = dictionary[language][inputWord]["see also"];
 
+                //This part displays word being searched in its correct capitalization
                 if (language == 'eng') {
                     wordDOM.innerHTML = `${dictionary[language][inputWord][lang_word]}<i class="part-of-speech">${partOfSpeechEng}</i>`;
                 } else {
@@ -112,16 +118,28 @@ function callback(dictionary) {
                     wordDOM.classList.add('underline');
                 };
 
-                definitionDOM.innerHTML = `${definition}`;
-
                 
+                    
                 if (language == 'eng') {
-                    translationTitleDOM.innerHTML = `${language == 'eng' ? "Mampula" : "English"} language transliteration`;
-                    translateDOM.innerHTML = `${dictionary["eng"][inputWord]["translate"]}&nbsp;<br><br><i>${mampulaInfo}</i>
-                    &nbsp;<br><br>Example<br><i>${example}</i>&nbsp;<br><br>See also:<br><i>${seeAlso}</i>`;
+
+                    translationDOM.innerHTML = `${mampulanSymbol}`;
+
+                    definitionDOM.innerHTML = `${definition}`;
+
+                    transliterationDOM.innerHTML = `${dictionary["eng"][inputWord]["translate"]}`;
+
+                    wordInfoDOM.innerHTML = `<i>${mampulaInfo}</i>
+                    &nbsp;<br><br>
+
+                    Example<br><i>${example}</i>&nbsp;<br><br>
+                    
+                    See also:<br><i>${seeAlso}</i>`;
+
+                    etymologyDOM.innerHTML = `Etymology:<br>${etymology}`;
+
                 } else {
-                    translationTitleDOM.innerHTML = `${language == 'eng' ? "Mampula" : "English"} language translation`;
-                    translateDOM.innerHTML = `${dictionary["mampula"][inputWord]["translate"]}&nbsp;<br><br><i>${mampulaInfo}</i>
+                    transliterationTitleDOM.innerHTML = `${language == 'eng' ? "Mampula" : "English"} language translation`;
+                    wordInfoDOM.innerHTML = `${dictionary["mampula"][inputWord]["translate"]}&nbsp;<br><br><i>${mampulaInfo}</i>
                     &nbsp;<br><br>Example<br><i>${example}</i>&nbsp;<br><br>See also:<br><i>${seeAlso}</i>`;
                 };
 
@@ -129,8 +147,8 @@ function callback(dictionary) {
                 wordDOM.innerHTML = `"${inputWord}" was not found in the dictionary.`;
                 wordDOM.classList.remove('underline');
                 definitionDOM.innerHTML = '';
-                translationTitleDOM.innerHTML = '';
-                translateDOM.innerHTML = '';
+                transliterationTitleDOM.innerHTML = '';
+                wordInfoDOM.innerHTML = '';
             };
         };
     });

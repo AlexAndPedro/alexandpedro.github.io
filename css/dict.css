@@ -32,16 +32,21 @@ input.form__input {
 	font-weight: bold;
 }
 
-#definition_title, #etymology_title{
+#word_title, #definition_title, #etymology_title{
 		display: none;
 }
 
+#geoMampulanWord, #geoDefinition, #geoEtymology{
+    margin: 0 0 0 2rem;
+}
+
+
 .part-of-speech {
-    margin: 0 0 1.5rem 4rem;
+    margin: 0 0 1.5rem 1rem;
     font-size: 1.2rem;
 }
 
-.definition, .etymology, .mampula {
+.definition {
     margin: 0 0 0 4rem;
     font-size: 1.2rem;
 }
@@ -199,6 +204,12 @@ input.form__input {
     width: 80%;
 }
 
+.result-container-2 {
+    margin-left: 4rem;
+    display: inline-block;
+    width: 80%;
+}
+
 .word {
     font-size: 2rem;
     padding-bottom: .5rem;
@@ -218,5 +229,23 @@ input.form__input {
 }
 
 .definition {
-    margin-bottom: 4rem;
+    margin: 1rem;
+}
+
+.translation, #geoMampulanWord{
+    margin: 0;
+    font-size: 2rem;
+    font-family: MampulanFont;
+}
+
+#geoMampulanWord{
+    margin: 0 0 0 2rem;
+    font-size: 2rem;
+    font-family: MampulanFont;
+}
+
+
+.transliteration{
+    margin: 0 0 1rem 0;
+    font-size: 1rem;
 }

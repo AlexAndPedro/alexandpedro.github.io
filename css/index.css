@@ -3,6 +3,11 @@
 	src: url("/fonts/AlexAndPedro-Regular.ttf");
 }
 
+@font-face {
+	font-family: 'MampulanFont';
+	src: url("/fonts/MampulanLanguage-Regular.ttf");
+}
+
 /*Gradient of the background*/
 html {
     font-size: 150%;
@@ -71,7 +76,7 @@ ul {
 .PageBanner{
 	min-height: 100px;
 	overflow: hidden;
-	background-image: url('/images/page_banner.png');
+	background-image: url('/images/page_banner_low_res.png');
 	background-size: 100%;
 	background-position: 0 85%;
 	border-style: solid;
@@ -238,6 +243,12 @@ div.MainMenu ul li:hover{
 
 .AandPSites{
 	clear: both;	
+}
+
+.followAnP{
+	float: left;
+	width: 15%;
+	height: auto;
 }
 
 .followAnP{

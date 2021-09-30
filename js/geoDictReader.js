@@ -59,19 +59,24 @@ function callback(dictionary) {
                     } else {
                     document.querySelector(".input-word").innerHTML = `${dictionary[inputWord].name}, ${dictionary[inputWord]["state code"]}`;
                     }
-                    document.querySelector(".definition").innerHTML = dictionary[inputWord].definition;
+                    document.getElementById("geoMampulanWord").innerHTML = dictionary[inputWord]["mampulan symbol"];
+                    document.getElementById("word_title").style.display = "inline";
+                    
+                    document.getElementById("geoDefinition").innerHTML = dictionary[inputWord].definition;
                     document.getElementById("definition_title").style.display = "inline";
 
-                    document.querySelector(".etymology").innerHTML = dictionary[inputWord].etymology;
+                    document.getElementById("geoEtymology").innerHTML = dictionary[inputWord].etymology;
                     document.getElementById("etymology_title").style.display = "inline";
                 } 
                 else
                 {
                     document.querySelector(".input-word").innerHTML = "Not Found in Dictionary";
+                    document.querySelector(".mampulanWord").innerHTML = "";
                     document.querySelector(".definition").innerHTML = "";
                     document.querySelector(".etymology").innerHTML = "";
                     document.getElementById("definition_title").style.display = "none";
                     document.getElementById("etymology_title").style.display = "none";
+                    document.getElementById("word_title").style.display = "none";
                 }
             
         }
