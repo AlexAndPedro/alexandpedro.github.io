@@ -91,10 +91,11 @@ function callback(dictionary) {
 
             let wordDOM = document.querySelector('.word');
             let definitionDOM = document.querySelector('.definition');
-            let transliterationTitleDOM = document.querySelector('.transliterationTitle');
             let transliterationDOM = document.querySelector('.transliteration');
             let translationDOM = document.querySelector('.translation');
-            let wordInfoDOM = document.querySelector('.wordInfo');
+            let mampulaInfoDOM = document.querySelector('.mampulaInfo');
+            let exampleDOM = document.querySelector('.example');
+            let seeAlsoDOM = document.querySelector('.seeAlso');
             let etymologyDOM = document.querySelector('.etymology');            
 
             if (dictionary[language][inputWord] !== undefined) {
@@ -108,15 +109,16 @@ function callback(dictionary) {
                 let seeAlso = dictionary[language][inputWord]["see also"];
 
                 //This part displays word being searched in its correct capitalization
+                //and part of speech
                 if (language == 'eng') {
                     wordDOM.innerHTML = `${dictionary[language][inputWord][lang_word]}<i class="part-of-speech">${partOfSpeechEng}</i>`;
                 } else {
                     wordDOM.innerHTML = `${dictionary[language][inputWord][lang_word]}<i class="part-of-speech">${partOfSpeechMam}</i>`;
-                };
-                
-                if (!wordDOM.classList.contains('underline')) {
-                    wordDOM.classList.add('underline');
-                };
+                };              
+
+                wordDOM.classList.add('underline');
+            
+                document.querySelector('.result-container-2').style.display = "inline";
 
                 
                     
@@ -128,27 +130,27 @@ function callback(dictionary) {
 
                     transliterationDOM.innerHTML = `${dictionary["eng"][inputWord]["translate"]}`;
 
-                    wordInfoDOM.innerHTML = `<i>${mampulaInfo}</i>
-                    &nbsp;<br><br>
+                    mampulaInfoDOM.innerHTML = `<i>${mampulaInfo}</i>`;
 
-                    Example<br><i>${example}</i>&nbsp;<br><br>
+                    exampleDOM.innerHTML = `Example<br><i>${example}</i>`;
                     
-                    See also:<br><i>${seeAlso}</i>`;
+                    seeAlsoDOM.innerHTML = `See also:<br><i>${seeAlso}</i>`;
 
                     etymologyDOM.innerHTML = `Etymology:<br>${etymology}`;
 
                 } else {
-                    transliterationTitleDOM.innerHTML = `${language == 'eng' ? "Mampula" : "English"} language translation`;
-                    wordInfoDOM.innerHTML = `${dictionary["mampula"][inputWord]["translate"]}&nbsp;<br><br><i>${mampulaInfo}</i>
-                    &nbsp;<br><br>Example<br><i>${example}</i>&nbsp;<br><br>See also:<br><i>${seeAlso}</i>`;
+                    //transliterationTitleDOM.innerHTML = `${language == 'eng' ? "Mampula" : "English"} language translation`;
+                   // wordInfoDOM.innerHTML = `${dictionary["mampula"][inputWord]["translate"]}&nbsp;<br><br><i>${mampulaInfo}</i>
+                   // &nbsp;<br><br>Example<br><i>${example}</i>&nbsp;<br><br>See also:<br><i>${seeAlso}</i>`;
                 };
 
+                //If the word is not found in the dictionary
             } else {
                 wordDOM.innerHTML = `"${inputWord}" was not found in the dictionary.`;
                 wordDOM.classList.remove('underline');
                 definitionDOM.innerHTML = '';
-                transliterationTitleDOM.innerHTML = '';
-                wordInfoDOM.innerHTML = '';
+                //wordInfoDOM.innerHTML = '';
+                document.querySelector('.result-container-2').style.display = "none";
             };
         };
     });
