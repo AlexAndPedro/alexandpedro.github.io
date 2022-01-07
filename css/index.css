@@ -144,6 +144,29 @@ text-decoration:none;
 padding: 0px auto; /* variable width */
 }
 
+
+.AnP_Link {
+	width: 660px;
+	height: 337px;
+    background: url('/images/Alex_And_Pedro_Banner_Fade.png') no-repeat;
+}
+.AnP_Link:hover {
+    background: url('/images/Alex_And_Pedro_Banner.png') no-repeat;
+}
+
+.Statics_Link {
+	width: 660px;
+	height: 371px;
+    background: url('/images/Statics_Banner_Fade.png') no-repeat;
+}
+.Statics_Link:hover {
+    background: url('/images/Statics_Banner.png') no-repeat;
+}
+
+
+
+
+
 /*When you hover the main menu*/
 div.MainMenu ul li:hover{
 	background-color:#eba843;
