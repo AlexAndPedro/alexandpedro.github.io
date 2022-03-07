@@ -379,3 +379,25 @@ button:active {
 	opacity: 0.99;
 	padding: 5px;
 }
+
+.gallery {
+	margin: 0.5em 0.5em;
+	
+}
+
+.gallery img {
+	transition: 0.5s;
+	padding: 0.1em;
+	overflow: hidden;
+}
+
+
+.gallery img:hover {
+	filter: grayscale(100%);
+	transform: scale(1.05);
+}
+
+.gallery img.animated-gif{
+	height: 200px;
+	width: auto;
+  }
