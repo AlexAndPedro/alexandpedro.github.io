@@ -9,48 +9,51 @@
 }
 
 /*Gradient of the background*/
+
 html {
-    font-size: 150%;
+	font-size: 150%;
 }
 
 .gradient {
-  background-image:linear-gradient(#01a9db, #99CCFF);
+	background-image: linear-gradient(#01a9db, #99CCFF);
 }
 
-body{
+body {
 	margin: 0;
-    padding: 0.5%;							/*must be in percentage*/
-    background-attachment: fixed;			/*if the background will move while scrolling or not*/
+	padding: 0.5%;
+	/*must be in percentage*/
+	background-attachment: fixed;
+	/*if the background will move while scrolling or not*/
 	font-family: AnP;
 }
 
-
-
-.Page{
-	width: 70%; 		/* as much as possible, absolute not relative because			*/ 
-	margin: 0 auto;		/* when browser resizes, everything in width changes*/
+.Page {
+	width: 70%;
+	/* as much as possible, absolute not relative because			*/
+	margin: 0 auto;
+	/* when browser resizes, everything in width changes*/
 	min-height: 100%;
 	position: relative;
-
 }
 
 /* For mobile devices, etc. */
-@media(max-width:1100px){
-	.Page{
+
+@media(max-width:1100px) {
+	.Page {
 		width: 100%;
 	}
 }
 
-
 /** Texts that are titles of articles */
+
 h1 {
 	margin: 1rem;
 	font-size: 1.1rem;
 }
 
 img {
-    max-width: 100%;
-    height: auto;
+	max-width: 100%;
+	height: auto;
 }
 
 /**Note: a:hover MUST come after a:link and a:visited
@@ -59,21 +62,23 @@ Note: a:active MUST come after a:hover
 in the CSS definition in order to be effective.
 **/
 
-a:link, a:visited {
-    color: white;
+a:link,
+a:visited {
+	color: white;
 	text-decoration: none;
 }
 
 /* mouse over link */
+
 a:hover {
-    text-decoration: underline;
+	text-decoration: underline;
 }
 
 ul {
-    padding-left: 1rem;
+	padding-left: 1rem;
 }
 
-.PageBanner{
+.PageBanner {
 	min-height: 100px;
 	overflow: hidden;
 	background-image: url('/images/page_banner_low_res.png');
@@ -83,26 +88,26 @@ ul {
 	border-color: #042c41;
 }
 
-.PageBody{
+.PageBody {
 	background-color: white;
 	overflow: auto;
 	min-height: 800px;
 }
 
-.PageLogo{
+.PageLogo {
 	overflow: auto;
 	width: 50%;
 	margin-left: 3rem;
 }
 
-.PageDescription{
+.PageDescription {
 	float: right;
-	min-width: 5%; 
+	min-width: 5%;
 	max-width: 30%;
 	color: #fff;
 }
 
-.PageHeaderSub{
+.PageHeaderSub {
 	float: left;
 	width: 100%;
 	clear: both;
@@ -113,106 +118,110 @@ ul {
 	height: 25px;
 	clear: both;
 	margin: 1rem 0 0 0;
-    background-color: #0e4b68;
-	text-align:center;
-	overflow:hidden;
+	background-color: #0e4b68;
+	text-align: center;
+	overflow: hidden;
 	font-size: 1em;
 }
 
-
-.MainMenu ul{
+.MainMenu ul {
 	list-style-type: none;
-    margin: 0;
-    padding: 0;
+	margin: 0;
+	padding: 0;
 	height: 20px;
-    background-color: #0e4b6800;
+	background-color: #0e4b6800;
 }
 
-
 .MainMenu li {
-padding: 1rem 1%;
-display:inline;
-	background-color:#0e4b68;
+	padding: 1rem 1%;
+	display: inline;
+	background-color: #0e4b68;
 	font-size: 1.2rem;
 	text-align: center;
 }
 
 .MainMenu a {
-    color: #fff;
-    text-align: center;
-text-decoration:none; 
-padding: 0px auto; /* variable width */
+	color: #fff;
+	text-align: center;
+	text-decoration: none;
+	padding: 0px auto;
+	/* variable width */
 }
-
 
 .AnP_Link {
 	width: 660px;
 	height: 337px;
-    background: url('/images/Alex_And_Pedro_Banner_Fade.png') no-repeat;
+	background: url('/images/Alex_And_Pedro_Banner_Fade.png') no-repeat;
 }
+
 .AnP_Link:hover {
-    background: url('/images/Alex_And_Pedro_Banner.png') no-repeat;
+	background: url('/images/Alex_And_Pedro_Banner.png') no-repeat;
 }
 
 .Statics_Link {
 	width: 660px;
 	height: 371px;
-    background: url('/images/Statics_Banner_Fade.png') no-repeat;
+	background: url('/images/Statics_Banner_Fade.png') no-repeat;
 }
+
 .Statics_Link:hover {
-    background: url('/images/Statics_Banner.png') no-repeat;
+	background: url('/images/Statics_Banner.png') no-repeat;
 }
-
-
-
-
 
 /*When you hover the main menu*/
-div.MainMenu ul li:hover{
-	background-color:#eba843;
+
+div.MainMenu ul li:hover {
+	background-color: #eba843;
 }
 
-#TagCloud{
+#TagCloud {
 	overflow: auto;
 }
 
-.TagGroup1, .TagGroup2, .TagGroup3, .TagGroup4{
+.TagGroup1,
+.TagGroup2,
+.TagGroup3,
+.TagGroup4 {
 	float: left;
 	height: 18px;
 }
 
-.TagGroup1{
+.TagGroup1 {
 	font-size: 130%;
 	margin: 2px;
 }
 
-.TagGroup2{
+.TagGroup2 {
 	font-size: 110%;
 	margin: 2px;
 }
 
-.TagGroup3{
+.TagGroup3 {
 	font-size: 90%;
 	margin: 2px;
 }
 
-.TagGroup4{
+.TagGroup4 {
 	font-size: 80%;
 	margin: 2px;
 }
 
-.ComicNavigation{
-  font-weight: bold;
-  border: 3px solid #0b7cb1;
-  border-radius: 20px;
-  margin: auto;
-  width: 90%;
-  overflow: auto;
-  padding: 0.25rem;
-  text-align: center;
+.ComicNavigation {
+	font-weight: bold;
+	border: 3px solid #0b7cb1;
+	border-radius: 20px;
+	margin: auto;
+	width: 90%;
+	overflow: auto;
+	padding: 0.25rem;
+	text-align: center;
 }
 
-.nav-First, .nav-Previous, .nav-Random, .nav-Next, .nav-Latest{
+.nav-First,
+.nav-Previous,
+.nav-Random,
+.nav-Next,
+.nav-Latest {
 	width: auto;
 	display: inline-block;
 	font-weight: inherit;
@@ -220,27 +229,27 @@ div.MainMenu ul li:hover{
 	margin: auto 1.1em;
 }
 
-.ComicTitle{
+.ComicTitle {
 	clear: both;
 	margin: 5px;
 	font-size: 150%;
 	font-weight: bold;
 	color: #0B2161;
-	
 }
 
-.ComicDescription, .PageArticle{
+.ComicDescription,
+.PageArticle {
 	clear: both;
-	margin: 10px;	
+	margin: 10px;
 }
 
-.ComicTags{
+.ComicTags {
 	font-size: 80%;
 	clear: both;
-	margin: 5px 5px 10px 5px;	
+	margin: 5px 5px 10px 5px;
 }
 
-.PageSection{
+.PageSection {
 	font-size: 1.2rem;
 	color: white;
 	font-weight: bold;
@@ -252,67 +261,63 @@ div.MainMenu ul li:hover{
 	background-color: #0e4b68;
 }
 
-
-
-.BlueContainer, .infobox{
-	background-color:#0e4b68;
+.BlueContainer,
+.infobox {
+	background-color: #0e4b68;
 	border: 2px solid #042c41;
 	color: white;
 	min-height: 80px;
 	padding: 5px;
 	margin: 5px;
 	font-size: 1rem;
+	overflow: auto;
 }
 
-.AandPSites{
-	clear: both;	
+.AandPSites {
+	clear: both;
 }
 
-.followAnP{
-	float: left;
-	width: 15%;
-	height: auto;
-}
-
-.followAnP{
+.followAnP {
 	float: left;
 	width: 15%;
 	margin: 0px 10px 10px 0px;
 }
 
-.LeftSideBar{
+.LeftSideBar {
 	float: left;
 	width: 20%;
 }
 
-.RightSideBar{
+.RightSideBar {
 	float: right;
 	width: 20%;
 }
 
-.PageContent{
+.PageContent {
 	overflow: auto;
 	background-color: white;
 	padding: 0.5rem;
 }
 
-.PageContent a:link, .PageContent a:visited, .PageBanner a:link, .PageBanner a:visited{
+.PageContent a:link,
+.PageContent a:visited,
+.PageBanner a:link,
+.PageBanner a:visited {
 	color: #0b7cb1;
 }
 
 .infobox {
 	padding: 5px;
-
 }
 
-#FunFactStatement{
+#FunFactStatement {
 	padding: 5px;
 	min-height: 100px;
 	margin-bottom: 5px;
 	text-align: center;
 }
 
-.button{
+.button {
 	border: 0;
 	background: #006597;
 	border-radius: 4px;
@@ -326,46 +331,45 @@ div.MainMenu ul li:hover{
 	transition: all .1s linear;
 }
 
-
 button:active {
 	box-shadow: 0 2px 0 #003e5e;
 	transform: translateY(3px);
 }
 
-.PageArticle{
+.PageArticle {
 	clear: both;
-	margin: 1rem;
-	padding: 1rem;
+	margin: 0.5rem;
+	padding: 0.5rem;
 }
 
-.ArticleAuthor{
+.ArticleAuthor {
 	font-size: 80%;
 }
 
-
 /*For Images in cast.html*/
-.castImage{
+
+.castImage {
 	width: 8rem;
 	height: auto;
 	float: right;
 	margin: 1rem;
 }
 
-
 /*FOR archive.html*/
-.archive-date{
+
+.archive-date {
 	text-align: right;
-    padding: 0 5px 0 0;
-    font-size: 0.8rem;
-    white-space: nowrap;
+	padding: 0 5px 0 0;
+	font-size: 0.8rem;
+	white-space: nowrap;
 }
 
-.archive-title{
-	 padding: 2px 5px;
-    border-left: 1px dashed #aaaaaa;
+.archive-title {
+	padding: 2px 5px;
+	border-left: 1px dashed #aaaaaa;
 }
 
-.PageEnd{
+.PageEnd {
 	clear: both;
 	padding-bottom: 60px;
 }
@@ -382,7 +386,6 @@ button:active {
 
 .gallery {
 	margin: 0.5em 0.5em;
-	
 }
 
 .gallery img {
@@ -391,13 +394,22 @@ button:active {
 	overflow: hidden;
 }
 
-
 .gallery img:hover {
 	filter: grayscale(100%);
 	transform: scale(1.05);
 }
 
-.gallery img.animated-gif{
+.gallery img.animated-gif {
 	height: 200px;
 	width: auto;
-  }
+}
+
+footer {
+	left: 10px;
+	bottom: 5px;
+	right: 10px;
+	width: auto;
+	background-color: #003e5e;
+	color: white;
+	text-align: center;
+}

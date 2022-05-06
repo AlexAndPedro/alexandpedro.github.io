@@ -25,7 +25,10 @@ function randomFunFact(){
 		"Alex and Pangil are more than friends.[citation needed]",
 		"Pangil only used 0.575 J of work.",
 		"It weighs about a pound.",
-		"Alex loves McChicken burgers and McChicken texts."
+		"Alex loves McChicken burgers and McChicken texts.",
+		"Pangilan is a province located west of the main landmass called Mampulan.",
+		"Alex's last name is Paws.",
+		"Milochitas Swiff is one of the best fast delivery mailcheetah in the job."
 		];
 	
 		//number multiplied must be 1 more than number in array index.
