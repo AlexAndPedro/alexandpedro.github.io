@@ -1,11 +1,18 @@
+.BlueContainer.Dictionary{
+    text-align:center;
+    width: 70%;
+    margin-left: auto;
+	margin-right: auto;
+}
+
 .row {
-    padding: 2rem;
+    padding: 0.5rem;
     display: inline-block;
 }
 
 .section-searchbar {
     height: 1.2rem;
-    width: 15rem;
+    width: auto;
 }
 
 .form {
@@ -24,22 +31,16 @@ input.form__input {
 
 .input-word {
     margin: 3rem 1rem;
-    font-size: 1rem;
+    font-size: 2rem;
 }
 
 .dictionary_title{
-	margin: 0 2rem;
 	font-weight: bold;
 }
 
 #word_title, #definition_title, #etymology_title{
 		display: none;
 }
-
-#geoMampulanWord, #geoDefinition, #geoEtymology{
-    margin: 0 0 0 2rem;
-}
-
 
 .part-of-speech {
     margin: 0 0 1.5rem 1rem;
@@ -49,21 +50,6 @@ input.form__input {
 .definition {
     margin: 0 0 0 4rem;
     font-size: 1.2rem;
-}
-
-.row {
-    padding: 2rem;
-    display: inline-block;
-}
-
-.BlueContainer {
-    background-color: #0e4b68;
-    border: 2px solid #042c41;
-    color: white;
-    min-height: 80px;
-    padding: .3rem;
-    margin: .3rem;
-    font-size: 1rem;
 }
 
 .dictionary-heading h2{
@@ -79,13 +65,10 @@ input.form__input {
 }
 
 .section-searchbar {
-    height: 2rem;
-    width: 50%;
-    min-width: 2rem;
-    margin: 0 0 1rem 2rem;
-    box-sizing: inherit;
+    height: 1.5rem;
+    width: 100%;
     display: block;
-    color: #87CEFA;
+    color: #bedff3;
 }
 
 .form__input {
@@ -239,7 +222,6 @@ input.form__input {
 }
 
 #geoMampulanWord{
-    margin: 0 0 0 2rem;
     font-size: 2rem;
     font-family: MampulanFont;
 }

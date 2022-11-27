@@ -35,3 +35,17 @@ function randomFunFact(){
 	var statement = funFactsList[Math.floor(Math.random() * funFactsList.length)];
 	document.getElementById("FunFactStatement").innerHTML = statement;
 }
+
+function showHide() {
+	var GalleryInfo = document.getElementById("ArtGalleryInfo");
+	var displaySetting = GalleryInfo.style.display;
+	var InfoButton = document.getElementById("ArtGalleryInfoButton");
+
+	if(displaySetting == "none"){
+		GalleryInfo.style.display = "inline-block";
+		InfoButton.innerHTML = "Hide Info";
+	} else {
+		GalleryInfo.style.display = "none";
+		InfoButton.innerHTML = "Show Info";
+	}
+}

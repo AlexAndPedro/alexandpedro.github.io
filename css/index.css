@@ -8,6 +8,10 @@
 	src: url("/fonts/MampulanLanguage-Regular.ttf");
 }
 
+* {
+	box-sizing: border-box;
+  }
+
 /*Gradient of the background*/
 
 html {
@@ -25,6 +29,7 @@ body {
 	background-attachment: fixed;
 	/*if the background will move while scrolling or not*/
 	font-family: AnP;
+	
 }
 
 .Page {
@@ -34,6 +39,7 @@ body {
 	/* when browser resizes, everything in width changes*/
 	min-height: 100%;
 	position: relative;
+	box-shadow: 0px 0px 24px black;
 }
 
 /* For mobile devices, etc. */
@@ -79,9 +85,8 @@ ul {
 }
 
 .PageBanner {
-	min-height: 100px;
 	overflow: hidden;
-	background-image: url('/images/page_banner_low_res.png');
+	background-image: url('/images/assets/page_banner_low_res.png');
 	background-size: 100%;
 	background-position: 0 85%;
 	border-style: solid;
@@ -114,8 +119,7 @@ ul {
 }
 
 .MainMenu {
-	padding: 10px 0;
-	height: 25px;
+	height: auto;
 	clear: both;
 	margin: 1rem 0 0 0;
 	background-color: #0e4b68;
@@ -128,13 +132,14 @@ ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	height: 20px;
+	height: auto;
 	background-color: #0e4b6800;
 }
 
 .MainMenu li {
-	padding: 1rem 1%;
-	display: inline;
+	height: auto;
+	padding: 10px 1%;
+	display: inline-block;
 	background-color: #0e4b68;
 	font-size: 1.2rem;
 	text-align: center;
@@ -171,6 +176,8 @@ ul {
 /*When you hover the main menu*/
 
 div.MainMenu ul li:hover {
+	color: #533912;
+	font-weight: bold;
 	background-color: #eba843;
 }
 
@@ -229,6 +236,10 @@ div.MainMenu ul li:hover {
 	margin: auto 1.1em;
 }
 
+.center {
+	width: 49.5%;
+  }
+
 .ComicTitle {
 	clear: both;
 	margin: 5px;
@@ -273,19 +284,25 @@ div.MainMenu ul li:hover {
 	overflow: auto;
 }
 
+
+
+.BlueContainer.GalleryInfo {
+	background-color: red;
+	border: 2px solid #042c41;
+	color: white;
+	padding: 10px;
+	display: inline-block;
+	min-height: auto;
+	width: auto;
+}
+
 .AandPSites {
 	clear: both;
 }
 
 .followAnP {
-	float: left;
-	width: 15%;
-	margin: 0px 10px 10px 0px;
-}
-
-.LeftSideBar {
-	float: left;
-	width: 20%;
+	display: inline-block;
+	margin: 0.2rem;
 }
 
 .RightSideBar {
@@ -321,19 +338,19 @@ div.MainMenu ul li:hover {
 	border: 0;
 	background: #006597;
 	border-radius: 4px;
-	box-shadow: 0 5px 0 #003e5e;
+	box-shadow: 0 3px 0 #003e5e;
 	color: #fff;
 	cursor: pointer;
 	font: inherit;
-	margin: 0;
+	margin: 5px;
 	outline: 0;
-	padding: 8px 10px;
+	padding: 2px 5px;
 	transition: all .1s linear;
 }
 
 button:active {
-	box-shadow: 0 2px 0 #003e5e;
-	transform: translateY(3px);
+	box-shadow: 0 1px 0 #003e5e;
+	transform: translateY(1px);
 }
 
 .PageArticle {
@@ -385,18 +402,20 @@ button:active {
 }
 
 .gallery {
-	margin: 0.5em 0.5em;
+	text-align:center;
 }
 
 .gallery img {
 	transition: 0.5s;
 	padding: 0.1em;
 	overflow: hidden;
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .gallery img:hover {
-	filter: grayscale(100%);
-	transform: scale(1.05);
+	transform: scale(1.02);
 }
 
 .gallery img.animated-gif {
@@ -412,4 +431,49 @@ footer {
 	background-color: #003e5e;
 	color: white;
 	text-align: center;
+}
+
+#ArtGalleryInfo {
+	margin: 0.5em;
+	display: none;
+}
+
+/* Dog Wrapper */
+
+.DogWrap{
+	position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 180px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    color: #262626;
+}
+
+.DogWrap .Dog.left{
+	background-image: url('/images/dog_guide/thinking_dog.png');
+	background-repeat:no-repeat;
+	background-size:contain;
+}
+
+.DogWrap.left{
+	left: -200px;
+}
+
+.Dog{
+	height: 200px;
+	width: 200px;
+}
+
+.DogWrap .DogText{
+	font-size: 20px;
+    line-height: 18px;
+    text-align: center;
+    padding: 10px;
+    transform: rotate(-3deg);
+    background: #f0f0f0;
+    border: 1.5px solid #cdcdcd;
+    font-variant-ligatures: none;
+	box-shadow: 0px 0px 12px black;
 }

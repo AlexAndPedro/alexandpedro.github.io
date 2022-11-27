@@ -30,7 +30,7 @@
 	<script>
 	                   $(document).ready(function(){
 	              
-	              $('.Header').load("/html/comic_header.html");
+	              $('.Header').load("/html/header.html");
 	              $('.SideBars').load("/html/sideBar.html");
 	              $('Footer').load("/html/footer.html");
 	           });
@@ -57,7 +57,7 @@
 
 
 				<p style="text-align: center;">There are two main landmasses. The one that comprises the provinces of Lîroti, Bursulan, and horibama is called korolan. The one that comprises libodabo, lobolan, pangilan, inabalupa, damidō, asolan, tumbi valley, mikakkō, damshanlan, and mîkelan is called mampula.</p>
-
+box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 
 				<p style="text-align: center;">—</p>
 
@@ -68,16 +68,21 @@
 				<p style="text-align: center;">Wolves are territorial. Most territories are within Dapangisangado, Libodabo, Lobolan, and Pangilan. Hunters (humans and other animals) in wolf territory are prohibited to hunt unless allowed by the alpha. (Note: "Alpha" is just a title.)</p>
 
 
-				<div class="BlueContainer" id="DictionaryContainer">
-					<script src="/js/geoDictReader.js">
-					</script><br>
-					Input Guide: ā (a-), ē (e-), ī (i-), ō(o-), ū(u-), â(a^), î(i^), ô(o^), û(u^)<br>
-					Example: Damidō = "damido-", Lînospa = "li^nospa"<br>
+
+				<!-- Dictionary Part-->
+				<div class="BlueContainer Dictionary">
+					<script src="/js/geoDictReader.js" charset="UTF-8"></script>
+					
+					<br>
+						Input Guide: ā (a-), ē (e-), ī (i-), ō(o-), ū(u-)
+					<br>
+						Example: Damidō = "damido-"
+					<br>
 
 
-					<div class="row">
+					<div class = "row">
 						<div class="section-searchbar">
-							<label for="word">Enter the place</label> <input class="form__input" id="word" placeholder="Example: Pangilan" required="" type="text">
+							<label for="word">Enter the location</label> <input class="form__input" id="word" placeholder="Search Location" required="" type="text">
 						</div>
 					</div>
 

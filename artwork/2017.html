@@ -23,14 +23,14 @@ All images must have no hyphens.-->
 <meta name="keywords" content="alex, pedro, alex and pedro, alexandpedro, alex paws, pedro perez, webcomic, comic, online comic, comic strip, comic, onlinecomic, online-comic, web comic, web-comic, dog, ertle, pangil, wolf, turtle, box turtle">
 <title> Alex and Pedro | Art! </title>
 		<link rel = "stylesheet" type = "text/css" href = "../css/index.css">
-		<!-- <link rel = "stylesheet" type = "text/css" href = "../css/lightbox.min.css"> Remove when ready -->
+		<link rel = "stylesheet" type = "text/css" href = "../css/lightbox.min.css">
 		<script src="../js/jquery-3.5.1.min.js"></script>
-		<!-- <script src="../js/lightbox-plus-jquery.min.js"></script> Remove when ready --> 
+		<script src="../js/lightbox-plus-jquery.min.js"></script>
 		<script src = "../js/index.js"></script>
 		<script>
 					$(document).ready(function(){
 			   
-			   $('.Header').load("../html/comic_header.html");
+			   $('.Header').load("../html/header.html");
 			});
 		
 		
@@ -57,15 +57,109 @@ All images must have no hyphens.-->
 				<div class = "PageContent">
 									
 					
-				<!-- 2021 -->
+				<!-- 2017 -->
 				<a href = "../art.html"><h1>Return to Art Page</h1></a>
 				<h1>
 					2017
 				</h1>
-				<div class = "gallery">
-					
+
+				<button class="button" onclick="showHide()" type="button" id = "ArtGalleryInfoButton">Show Info</button>
+				<div class = "BlueContainer" id = "ArtGalleryInfo" style = "display: none;">
+					This was the time I'm starting to transition from Filipino to English.
 				</div>
-				<img src = "/images/page_under_construction.png">			
+
+				<div class = "gallery">
+					<a href = "../images/artwork/2017/the jeep.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/the jeep.png"></a>
+					<a href = "../images/artwork/2017/Sketch15621515(1).png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Sketch15621515(1).png"></a>
+					<a href = "../images/artwork/2017/Sketch1712376(1).png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Sketch1712376(1).png"></a>
+					<a href = "../images/artwork/2017/Sketch182101241(1).png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Sketch182101241(1).png"></a>
+					<a href = "../images/artwork/2017/alex and pedro youtube title.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/alex and pedro youtube title.png"></a>
+					<a href = "../images/artwork/2017/20170715_162520_Burst01-1.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/20170715_162520_Burst01-1.jpg"></a>
+					<a href = "../images/artwork/2017/Slide7.PNG" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Slide7.PNG"></a>
+					<a href = "../images/artwork/2017/street_background - Copy.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/street_background - Copy.png"></a>
+					<a href = "../images/artwork/2017/alex is thinking cropped.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/alex is thinking cropped.jpg"></a>
+					<a href = "../images/artwork/2017/alex impressions.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/alex impressions.jpg"></a>
+					<a href = "../images/artwork/2017/IMG_1598.JPG" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/IMG_1598.JPG"></a>
+					<a href = "../images/artwork/2017/Second Law of Thermodynamics.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Second Law of Thermodynamics.png"></a>
+					<a href = "../images/artwork/2017/Alex Cool Clothes with Signature.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Alex Cool Clothes with Signature.png"></a>
+					<a href = "../images/artwork/2017/Pawesome 2.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Pawesome 2.png"></a>
+					<a href = "../images/artwork/2017/Pawesome 1.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Pawesome 1.png"></a>
+					<a href = "../images/artwork/2017/Alex drawing no glasses.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Alex drawing no glasses.png"></a>
+					<a href = "../images/artwork/2017/Alex drawing no date no glasses.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Alex drawing no date no glasses.png"></a>
+					<a href = "../images/artwork/2017/Alex Walking - Reverse Color.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Alex Walking - Reverse Color.png"></a>
+					<a href = "../images/artwork/2017/Alex Angry.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Alex Angry.png"></a>
+					<a href = "../images/artwork/2017/20171120_204119.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/20171120_204119.jpg"></a>
+					<a href = "../images/artwork/2017/20171120_204757.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/20171120_204757.jpg"></a>
+					<a href = "../images/artwork/2017/whiteboard_Pangil.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/whiteboard_Pangil.jpg"></a>
+					<a href = "../images/artwork/2017/whiteboard_Pedro.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/whiteboard_Pedro.jpg"></a>
+					<a href = "../images/artwork/2017/whiteboard_Alex.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/whiteboard_Alex.jpg"></a>
+					<a href = "../images/artwork/2017/whiteboard_Pawesome.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/whiteboard_Pawesome.jpg"></a>
+					<a href = "../images/artwork/2017/whiteboard_Janric.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/whiteboard_Janric.jpg"></a>
+					<a href = "../images/artwork/2017/whiteboard_Clara.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/whiteboard_Clara.jpg"></a>
+					<a href = "../images/artwork/2017/whiteboard_Marcos.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/whiteboard_Marcos.jpg"></a>
+					<a href = "../images/artwork/2017/whiteboard_Rhondo.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/whiteboard_Rhondo.jpg"></a>
+					<a href = "../images/artwork/2017/Untitled7.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Untitled7.png"></a>
+					<a href = "../images/artwork/2017/Alex Shock.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Alex Shock.png"></a>
+					<a href = "../images/artwork/2017/Final Pangil Angry.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Final Pangil Angry.png"></a>
+					<a href = "../images/artwork/2017/Final Pangil Angry2.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Final Pangil Angry2.png"></a>
+					<a href = "../images/artwork/2017/Untitled17.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Untitled17.png"></a>
+					<a href = "../images/artwork/2017/Alex Paws Rotation.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Alex Paws Rotation.png"></a>
+					<a href = "../images/artwork/2017/20170423-092656_p1(1)-1.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/20170423-092656_p1(1)-1.jpg"></a>
+					<a href = "../images/artwork/2017/Sketch64171729.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Sketch64171729.jpg"></a>
+					<a href = "../images/artwork/2017/Sketch56135250.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Sketch56135250.png"></a>
+					<a href = "../images/artwork/2017/pedro_perez.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/pedro_perez.png"></a>
+					<a href = "../images/artwork/2017/Pedro Perez.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Pedro Perez.jpg"></a>
+					<a href = "../images/artwork/2017/IMG_287216413487889 - Copy.jpeg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/IMG_287216413487889 - Copy.jpeg"></a>
+					<a href = "../images/artwork/2017/final na bulalakaw cropped.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/final na bulalakaw cropped.png"></a>
+					<a href = "../images/artwork/2017/biyernes_na.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/biyernes_na.png"></a>
+					<a href = "../images/artwork/2017/background nlex 2.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/background nlex 2.png"></a>
+					<a href = "../images/artwork/2017/background 2.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/background 2.png"></a>
+					<a href = "../images/artwork/2017/ah.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/ah.jpg"></a>
+					<a href = "../images/artwork/2017/1438249611279.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/1438249611279.png"></a>
+					<a href = "../images/artwork/2017/20170423-092656_p1.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/20170423-092656_p1.jpg"></a>
+					<a href = "../images/artwork/2017/11267057_1157720584254336_1021862146669749218_n.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/11267057_1157720584254336_1021862146669749218_n.jpg"></a>
+					<a href = "../images/artwork/2017/11033093_1117309338295461_943264152148843289_n.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/11033093_1117309338295461_943264152148843289_n.jpg"></a>
+					<a href = "../images/artwork/2017/10524357_923368727689524_9142014194324119973_n.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/10524357_923368727689524_9142014194324119973_n.jpg"></a>
+					<a href = "../images/artwork/2017/10351468_915134871846243_7546106737881602724_n.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/10351468_915134871846243_7546106737881602724_n.jpg"></a>
+					<a href = "../images/artwork/2017/1174878_725452100814522_1513864003_n.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/1174878_725452100814522_1513864003_n.jpg"></a>
+					<a href = "../images/artwork/2017/2+3=5.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/2+3=5.png"></a>
+					<a href = "../images/artwork/2017/002.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/002.jpg"></a>
+					<a href = "../images/artwork/2017/skyline.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/skyline.png"></a>
+					<a href = "../images/artwork/2017/Sketch275213927.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Sketch275213927.jpg"></a>
+					<a href = "../images/artwork/2017/Sketch156123834 (2).png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Sketch156123834 (2).png"></a>
+					<a href = "../images/artwork/2017/Sketch16073237.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Sketch16073237.jpg"></a>
+					<a href = "../images/artwork/2017/Sketch3517251.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Sketch3517251.png"></a>
+					<a href = "../images/artwork/2017/perry_the_platypus.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/perry_the_platypus.png"></a>
+					<a href = "../images/artwork/2017/Pawesome_s city.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Pawesome_s city.png"></a>
+					<a href = "../images/artwork/2017/lunes_na_bukas.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/lunes_na_bukas.jpg"></a>
+					<a href = "../images/artwork/2017/fetch.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/fetch.png"></a>
+					<a href = "../images/artwork/2017/alex_and_pedro_litrato.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/alex_and_pedro_litrato.png"></a>
+					<a href = "../images/artwork/2017/Alex Reading Magazine.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Alex Reading Magazine.png"></a>
+					<a href = "../images/artwork/2017/Alex pixel.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Alex pixel.png"></a>
+					<a href = "../images/artwork/2017/alex and dinosaur.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/alex and dinosaur.png"></a>
+					<a href = "../images/artwork/2017/1438249610427.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/1438249610427.png"></a>
+					<a href = "../images/artwork/2017/1438162274267.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/1438162274267.png"></a>
+					<a href = "../images/artwork/2017/20170423-092656_p1(1).jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/20170423-092656_p1(1).jpg"></a>
+					<a href = "../images/artwork/2017/10478189_916156378410759_2721026920195843992_n.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/10478189_916156378410759_2721026920195843992_n.jpg"></a>
+					<a href = "../images/artwork/2017/1013835_812772972082434_21703447_n.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/1013835_812772972082434_21703447_n.jpg"></a>
+					<a href = "../images/artwork/2017/003.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/003.jpg"></a>
+					<a href = "../images/artwork/2017/pi_tau.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/pi_tau.png"></a>
+					<a href = "../images/artwork/2017/mga_tauhan_sa_isang_relasyon.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/mga_tauhan_sa_isang_relasyon.png"></a>
+					<a href = "../images/artwork/2017/front_view_alex_paws.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/front_view_alex_paws.png"></a>
+					<a href = "../images/artwork/2017/Alex and Pedro YouTube profile picture.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Alex and Pedro YouTube profile picture.png"></a>
+					<a href = "../images/artwork/2017/20170423-092656_p0-1.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/20170423-092656_p0-1.jpg"></a>
+					<a href = "../images/artwork/2017/Untitled25-1.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/Untitled25-1.png"></a>
+					<a href = "../images/artwork/2017/let's go edited.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/let's go edited.jpg"></a>
+					<a href = "../images/artwork/2017/not available in your country.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/not available in your country.png"></a>
+					<a href = "../images/artwork/2017/merry christmas.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/merry christmas.png"></a>
+					<a href = "../images/artwork/2017/halftone dots vs grayscale.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/halftone dots vs grayscale.png"></a>
+					<a href = "../images/artwork/2017/2017 ends.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/2017 ends.png"></a>
+					<a href = "../images/artwork/2017/fe3913e2-b2f2-41fb-a84a-fd464bca6d0c.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/fe3913e2-b2f2-41fb-a84a-fd464bca6d0c.png"></a>
+					<a href = "../images/artwork/2017/img_0012.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/img_0012.jpg"></a>
+					<a href = "../images/artwork/2017/swat kats_2017_7_24.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/swat kats_2017_7_24.jpg"></a>
+					<a href = "../images/artwork/2017/tumanggong fox.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2017/thumbnail/tumanggong fox.jpg"></a>
+				</div>
+
 				
 				<a href = "../art.html"><h1>Return to Art Page</h1></a>
 				

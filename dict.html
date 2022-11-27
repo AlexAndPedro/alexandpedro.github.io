@@ -25,7 +25,7 @@
 	<script>
 	                       $(document).ready(function(){
 	               
-	               $('.Header').load("/html/comic_header.html");
+	               $('.Header').load("/html/header.html");
 	               $('.SideBars').load("/html/sideBar.html");
 	               $('Footer').load("/html/footer.html");
 	               });
@@ -48,6 +48,7 @@
 
 			<div class="PageContent">
 				<div class="BlueContainer" id="DictionaryContainer">
+					<!--CHANGE SCRIPT BACK TO csvReader.js when done-->
 					<script src="js/csvReader.js">
 					</script>
 
@@ -65,14 +66,14 @@
 
 					<div class="language-selector">
 						<div class="form__radio-group">
-							<input checked class="form__radio-input" id="english-word" name="language" type="radio"> <label class="form__radio-label" for="english-word"><span class="form__radio-button"></span> English Word</label>
+							<input checked class="form__radio-input" id="english-word" name="language" type="radio"> <label class="form__radio-label" for="english-word"><span class="form__radio-button"></span> English to Mampulan</label>
 						</div>
 						<br>
 						<br>
 
 
 						<div class="form__radio-group">
-							<input class="form__radio-input" id="mampula-word" name="language" type="radio"> <label class="form__radio-label" for="mampula-word"><span class="form__radio-button"></span> Mampula Word</label>
+							<input class="form__radio-input" id="mampula-word" name="language" type="radio"> <label class="form__radio-label" for="mampula-word"><span class="form__radio-button"></span>Mampulan to English</label>
 						</div>
 					</div>
 

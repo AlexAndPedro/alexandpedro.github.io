@@ -1,0 +1,19 @@
+.CharacterInfobox {
+    width:35%;
+    float:right;
+    border: 5px solid;
+    border-color:#f5bc00;
+    background-color: #0e4b68;
+}
+
+.CharacterInfoboxName, .CharacterInfoboxInfoTitle{
+    height: 50px;
+    text-align:center;
+    background-color:#f5bc00;
+    font-weight: bold;
+}
+
+.CharacterInfoboxInfo {
+    font-size: 0.8rem;
+    color: white;
+}
