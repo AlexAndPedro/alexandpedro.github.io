@@ -1,5 +1,5 @@
 let path = "/data/word_data.csv"; //change to "/data/word_data.csv" when done
-let delimiter = ",";
+let delimiter = "|";
 
 class Word{
     constructor(WordInfo) {
@@ -18,7 +18,7 @@ class Word{
 
 
 function parseDictCSV(text, delimiter) {
-    delimiter = delimiter || ',';
+    delimiter = delimiter;
     
     let dict = new Object();
     dict["d"] = new Array();
@@ -79,12 +79,12 @@ function callback(dictionary) {
         if (e.key == 'Enter' || e.keyCode == 13){
             
             engRadio = document.getElementById('english-word');
-            let language = engRadio.checked ? 'english' : 'mampulan';
+            //let language = engRadio.checked ? 'english' : 'mampulan';
             let inputWord = e.target.value.toLowerCase();
             e.target.value = '';
 
-            document.querySelector('.result-container').style.display = "block";
-            document.querySelector('.result-container-2').style.display = "block";
+           document.querySelector('.result-container').style.display = "block";
+           document.querySelector('.result-container-2').style.display = "block";
 
             let dictionaryOutput = new Array();
             let englishWord = new Array();
@@ -100,7 +100,7 @@ function callback(dictionary) {
 
             // Finds all the indices of the inputted word
             for(let step = 0; step < dictionary["d"].length; step++) {
-                if(dictionary["d"][step].english.toLowerCase() == inputWord.toLowerCase() || dictionary["d"][step].mampulan.toLowerCase() == inputWord.toLowerCase()){
+                if(dictionary["d"][step].english.toLowerCase() == inputWord.toLowerCase() || dictionary["d"][step].mampulan_symbol.toLowerCase() == inputWord.toLowerCase()){
                     dictionaryOutput.push(dictionary["d"][step]);
                 }
              }
@@ -135,6 +135,7 @@ function callback(dictionary) {
                 //If the user input matches one of the words in the ENGLISH word list
                 if (inputWord.toLowerCase() == englishWord[0].toLowerCase()) {
 
+                    wordDOM.style.fontFamily = "AnP";
                     wordDOM.innerHTML = `${englishWord[0]}`;
                     
                     for(let i = 0; i < dictionaryOutput.length; i++){
@@ -156,16 +157,17 @@ function callback(dictionary) {
                     }
                         
 
-                } else if (inputWord.toLowerCase() == mampulanWord[0].toLowerCase()){    
+                } else if (inputWord.toLowerCase() == mampulanSymbol[0].toLowerCase()){    
                     //If the user input matches one of the words in the MAMPULAN word list
 
-                    wordDOM.innerHTML = `${mampulanWord[0]}`;
+                    wordDOM.style.fontFamily = "MampulanFont";
+                    wordDOM.innerHTML = `${mampulanSymbol[0]}`;
 
                     for(let i = 0; i < dictionaryOutput.length; i++){
                      // Compiling html code to be sent to Dictionary Display
                         // Note that this is only one entry.
                         DictionaryDisplayElement[0] = `<h1>${partOfSpeechMam[i]}</h1>`;
-                        DictionaryDisplayElement[1] = `<h2 class="transliteration" style="font-family:MampulanFont">${mampulanSymbol[i]}</h2>`;
+                        DictionaryDisplayElement[1] = `<h2 class="transliteration">${mampulanWord[i]}</h2>`;
                         DictionaryDisplayElement[2] = `<h2 class="translation">${englishWord[i]}</h2>`;
                         DictionaryDisplayElement[3] = `<h3 class="definition">${definition[i]}</h2>`;
                         DictionaryDisplayElement[4] = `Example:<h3 class="mampulanExample">${mampulanExample[i]}</h2>`;
