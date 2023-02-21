@@ -1,42 +1,38 @@
 let path = "/data/word_data.csv"; //change to "/data/word_data.csv" when done
 let delimiter = ",";
 
+class Word{
+    constructor(WordInfo) {
+        this.english = WordInfo[0];
+        this.mampulan = WordInfo[1];
+        this.mampulan_symbol = WordInfo[2];
+        this.pos_english = WordInfo[3];
+        this.pos_mampulan = WordInfo[4];
+        this.definition = WordInfo[5];
+        this.etymology = WordInfo[6];
+        this.example_eng = WordInfo[7];
+        this.example_mam = WordInfo[8];
+        this.see_also = WordInfo[9];
+    }
+}
+
+
 function parseDictCSV(text, delimiter) {
     delimiter = delimiter || ',';
     
     let dict = new Object();
-    dict["eng"] = new Object();
-    dict["mampula"] = new Object();
+    dict["d"] = new Array();
 
     let lines = text.trim().split('\n');
     let headers = [];
-    lines.forEach((line, index) => {
-        if (index == 0) {
-            headers = line.trim().split(delimiter);
-        } else {
-            let eng_word = '';
-            let mam_word = '';
-            line.trim().split(delimiter).forEach((elem, index) => {
-                if (index == 0) {
-                // For English, the first column of CSV becomes a header
-                    eng_word = elem
-                    dict["eng"][eng_word.toLowerCase()] = new Object();
-                    dict["eng"][eng_word.toLowerCase()][headers[index]] = elem;
-                } else if (index == 1) {
-                // For English, the second column becomes the word to translate to.
-                // For Mampula, the second column becomes a header.
-                //              the first column becomes the word to translate to.
-                    mam_word = elem
-                    dict["mampula"][mam_word.toLowerCase()] = new Object();
-                    dict["mampula"][mam_word.toLowerCase()][headers[index]] = elem;
-                    
-                    dict["mampula"][mam_word.toLowerCase()]["translate"] = eng_word;
-                    dict["eng"][eng_word.toLowerCase()]["translate"] = mam_word;
-                    
-                } else {
-                // Fills in the information from the rest of the columns
-                    dict["eng"][eng_word.toLowerCase()][headers[index]] = elem;
-                    dict["mampula"][mam_word.toLowerCase()][headers[index]] = elem;
+    lines.forEach((line, rowIndex) => {
+        if (rowIndex == 0) {
+            headers = line.trim().split(delimiter);                                 //the first row of the csv file is a header
+        } else {                                                                    //as for the rest of the rows...
+            line.trim().split(delimiter).forEach((elem, columnIndex) => {                 //note that index here means columns now
+                if (columnIndex == 0) {                                                       // For English, the first column of CSV becomes a header
+                    let entry = new Word(line.trim().split(delimiter));
+                    dict["d"].push(entry);
                 }
             });
         }
@@ -83,78 +79,121 @@ function callback(dictionary) {
         if (e.key == 'Enter' || e.keyCode == 13){
             
             engRadio = document.getElementById('english-word');
-            let language = engRadio.checked ? 'eng' : 'mampula';
-            let lang_word = engRadio.checked ? 'english' : 'mampula';
-
+            let language = engRadio.checked ? 'english' : 'mampulan';
             let inputWord = e.target.value.toLowerCase();
             e.target.value = '';
 
-            let wordDOM = document.querySelector('.word');
-            let definitionDOM = document.querySelector('.definition');
-            let transliterationDOM = document.querySelector('.transliteration');
-            let translationDOM = document.querySelector('.translation');
-            let mampulaInfoDOM = document.querySelector('.mampulaInfo');
-            let exampleDOM = document.querySelector('.example');
-            let seeAlsoDOM = document.querySelector('.seeAlso');
-            let etymologyDOM = document.querySelector('.etymology');            
+            document.querySelector('.result-container').style.display = "block";
+            document.querySelector('.result-container-2').style.display = "block";
 
-            if (dictionary[language][inputWord] !== undefined) {
-                let partOfSpeechEng = dictionary[language][inputWord]["part of speech English"];
-                let partOfSpeechMam = dictionary[language][inputWord]["part of speech Mampula"];
-                let definition = dictionary[language][inputWord]["definition"];
-                let mampulaInfo = dictionary[language][inputWord]["mampula info"];
-                let mampulanSymbol = dictionary[language][inputWord]["mampulan symbol"]
-                let etymology = dictionary[language][inputWord]["etymology"];
-                let example = dictionary[language][inputWord]["example"];
-                let seeAlso = dictionary[language][inputWord]["see also"];
+            let dictionaryOutput = new Array();
+            let englishWord = new Array();
+            let mampulanWord = new Array();
+            let mampulanSymbol = new Array();
+            let partOfSpeechEng = new Array();
+            let partOfSpeechMam = new Array();
+            let definition = new Array();
+            let etymology = new Array();
+            let englishExample = new Array();
+            let mampulanExample = new Array();
+            let seeAlso = new Array();
 
-                //This part displays word being searched in its correct capitalization
-                //and part of speech
-                if (language == 'eng') {
-                    wordDOM.innerHTML = `${dictionary[language][inputWord][lang_word]}<i class="part-of-speech">${partOfSpeechEng}</i>`;
-                } else {
-                    wordDOM.innerHTML = `${dictionary[language][inputWord][lang_word]}<i class="part-of-speech">${partOfSpeechMam}</i>`;
-                };              
+            // Finds all the indices of the inputted word
+            for(let step = 0; step < dictionary["d"].length; step++) {
+                if(dictionary["d"][step].english.toLowerCase() == inputWord.toLowerCase() || dictionary["d"][step].mampulan.toLowerCase() == inputWord.toLowerCase()){
+                    dictionaryOutput.push(dictionary["d"][step]);
+                }
+             }
+             let wordDOM = document.querySelector('.word');
+             // if a dictionaryOutput exists or has an element
+            if (dictionaryOutput !== undefined && dictionaryOutput.length > 0) {
 
-                wordDOM.classList.add('underline');
+                //puts in dictionary Output in an array for easier access 
+                for(let i = 0; i < dictionaryOutput.length; i++){
+                    englishWord.push(dictionaryOutput[i].english);
+                    mampulanWord.push(dictionaryOutput[i].mampulan);
+                    mampulanSymbol.push(dictionaryOutput[i].mampulan_symbol);
+                    partOfSpeechEng.push(dictionaryOutput[i].pos_english);
+                    partOfSpeechMam.push(dictionaryOutput[i].pos_mampulan);
+                    definition.push(dictionaryOutput[i].definition);
+                    etymology.push(dictionaryOutput[i].etymology);
+                    englishExample.push(dictionaryOutput[i].example_eng);
+                    mampulanExample.push(dictionaryOutput[i].example_mam);
+                    seeAlso.push(dictionaryOutput[i].see_also);
+                }
             
-                document.querySelector('.result-container-2').style.display = "inline";
+                //ALL DOMS (ALL HTMLS)
 
+
+
+
+                let DictionaryDisplayElement = new Array();
+                let DictionaryDisplayEng = new Array();
+                let DictionaryDisplayMam = new Array();
                 
+
+                //If the user input matches one of the words in the ENGLISH word list
+                if (inputWord.toLowerCase() == englishWord[0].toLowerCase()) {
+
+                    wordDOM.innerHTML = `${englishWord[0]}`;
                     
-                if (language == 'eng') {
+                    for(let i = 0; i < dictionaryOutput.length; i++){
 
-                    translationDOM.innerHTML = `${mampulanSymbol}`;
+                        // Compiling html code to be sent to Dictionary Display
+                        // Note that this is only one entry.
+                        DictionaryDisplayElement[0] = `<h1>${partOfSpeechEng[i]}</h1>`;
+                        DictionaryDisplayElement[1] = `<h2 class="translation" style="font-family:MampulanFont">${mampulanSymbol[i]}</h2>`;
+                        DictionaryDisplayElement[2] = `<h3 class="transliteration">${mampulanWord[i]}</h2>`;
+                        DictionaryDisplayElement[3] = `<h3 class="definition">${definition[i]}</h2>`;
+                        DictionaryDisplayElement[4] = `Example:<h3 class="mampulanExample">${mampulanExample[i]}</h2>`;
+                        DictionaryDisplayElement[5] = `<h3 class="englishExample">${englishExample[i]}</h2>`;
+                        DictionaryDisplayElement[6] = `Etymology:<h3 class="etymology">${etymology[i]}</h2>`;
+                        DictionaryDisplayElement[7] = `See Also:<h3 class="seeAlso">${seeAlso[i]}</h2>`;
 
-                    definitionDOM.innerHTML = `${definition}`;
 
-                    transliterationDOM.innerHTML = `${dictionary["eng"][inputWord]["translate"]}`;
+                       DictionaryDisplayEng[i] = DictionaryDisplayElement.join('');
 
-                    mampulaInfoDOM.innerHTML = `<i>${mampulaInfo}</i>`;
+                    }
+                        
 
-                    exampleDOM.innerHTML = `Example<br><i>${example}</i>`;
-                    
-                    seeAlsoDOM.innerHTML = `See also:<br><i>${seeAlso}</i>`;
+                } else if (inputWord.toLowerCase() == mampulanWord[0].toLowerCase()){    
+                    //If the user input matches one of the words in the MAMPULAN word list
 
-                    etymologyDOM.innerHTML = `Etymology:<br>${etymology}`;
+                    wordDOM.innerHTML = `${mampulanWord[0]}`;
+
+                    for(let i = 0; i < dictionaryOutput.length; i++){
+                     // Compiling html code to be sent to Dictionary Display
+                        // Note that this is only one entry.
+                        DictionaryDisplayElement[0] = `<h1>${partOfSpeechMam[i]}</h1>`;
+                        DictionaryDisplayElement[1] = `<h2 class="transliteration" style="font-family:MampulanFont">${mampulanSymbol[i]}</h2>`;
+                        DictionaryDisplayElement[2] = `<h2 class="translation">${englishWord[i]}</h2>`;
+                        DictionaryDisplayElement[3] = `<h3 class="definition">${definition[i]}</h2>`;
+                        DictionaryDisplayElement[4] = `Example:<h3 class="mampulanExample">${mampulanExample[i]}</h2>`;
+                        DictionaryDisplayElement[5] = `<h3 class="englishExample">${englishExample[i]}</h2>`;
+                        DictionaryDisplayElement[6] = `Etymology:<h3 class="etymology">${etymology[i]}</h2>`;
+                        DictionaryDisplayElement[7] = `See Also:<h3 class="seeAlso">${seeAlso[i]}</h2>`;
+
+
+                       DictionaryDisplayMam[i] = DictionaryDisplayElement.join('');
+                    }
+
 
                 } else {
-                    //transliterationTitleDOM.innerHTML = `${language == 'eng' ? "Mampula" : "English"} language translation`;
-                   // wordInfoDOM.innerHTML = `${dictionary["mampula"][inputWord]["translate"]}&nbsp;<br><br><i>${mampulaInfo}</i>
-                   // &nbsp;<br><br>Example<br><i>${example}</i>&nbsp;<br><br>See also:<br><i>${seeAlso}</i>`;
-                };
+                    wordDOM.innerHTML = `"${inputWord}" was not found in the dictionary.`;
+                    document.querySelector('.result-container-2').style.display = "none";
 
-                //If the word is not found in the dictionary
+                };
+                
+                // All possible entries are in DictionaryDisplay. We write entire html code to .result-container-2
+                document.querySelector('.result-container-2').innerHTML = DictionaryDisplayEng.join('') + DictionaryDisplayMam.join('');
+
             } else {
+                //If the word is not found in the dictionary
                 wordDOM.innerHTML = `"${inputWord}" was not found in the dictionary.`;
                 wordDOM.classList.remove('underline');
-                definitionDOM.innerHTML = '';
-                //wordInfoDOM.innerHTML = '';
                 document.querySelector('.result-container-2').style.display = "none";
             };
-        };
-    });
-
+        }
+    }
+    )
 }
-
-

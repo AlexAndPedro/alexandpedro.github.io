@@ -3,6 +3,7 @@
     width: 70%;
     margin-left: auto;
 	margin-right: auto;
+    overflow: hidden;
 }
 
 .row {
@@ -10,10 +11,7 @@
     display: inline-block;
 }
 
-.section-searchbar {
-    height: 1.2rem;
-    width: auto;
-}
+
 
 .form {
     height: 100%;
@@ -47,13 +45,7 @@ input.form__input {
     font-size: 1.2rem;
 }
 
-.definition {
-    margin: 0 0 0 4rem;
-    font-size: 1.2rem;
-}
-
 .dictionary-heading h2{
-    font-size: 3.5rem;
     text-transform: uppercase;
     font-weight: 500;
     display: block;
@@ -65,10 +57,11 @@ input.form__input {
 }
 
 .section-searchbar {
-    height: 1.5rem;
-    width: 100%;
+    height: 2rem;
+    width: 80%;
     display: block;
     color: #bedff3;
+    margin-left: 1rem;
 }
 
 .form__input {
@@ -126,7 +119,7 @@ input.form__input {
 }
 
 .language-selector {
-    height: 2rem;
+    height: 4rem;
     width: 80%;
     min-width: 2rem;
     margin: 0 0 2rem 2rem;
@@ -183,21 +176,28 @@ input.form__input {
 
 .result-container {
     margin-left: 2rem;
-    display: inline-block;
+    display: none;
     width: 80%;
 }
 
 .result-container-2 {
-    margin-left: 4rem;
-    display: inline-block;
+    display: block;
+    margin-left: 2rem;
     width: 80%;
+    font-size: 1.5rem;
+}
+
+.h3 {
+    font-size: 0.5rem;
 }
 
 .word {
     font-size: 2rem;
     padding-bottom: .5rem;
     border: 0;
-    margin: s0;
+    margin: 0;
+    text-decoration-line: underline;
+
 }
 
 .part-of-speech {
@@ -213,11 +213,20 @@ input.form__input {
 
 .definition {
     margin: 1rem;
+    font-size: 1.2rem;
 }
 
 .translation, #geoMampulanWord{
     margin: 0;
-    font-size: 2rem;
+    font-size: 3rem;
+}
+
+.mampulanExample, .englishExample, .seeAlso, .etymology{
+    margin-left: 1rem;
+    font-size: 1.2rem;
+}
+
+.mampulanExample{
     font-family: MampulanFont;
 }
 

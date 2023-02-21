@@ -1,54 +1,42 @@
-let path = "/data/word_TEST.csv"; //change to "/data/word_data.csv" when done
+let path = "/data/word_data.csv"; //change to "/data/word_data.csv" when done
 let delimiter = ",";
 
 function parseDictCSV(text, delimiter) {
-  
-    //declaring new objects
+    delimiter = delimiter || ',';
+    
     let dict = new Object();
     dict["eng"] = new Object();
-    dict["mampula"] = new Object();
+    dict["mampulan"] = new Object();
 
-    //changing CSV file to array
-    let lines = text.trim().split('\n');                                            // splits text rows due to \n
+    let lines = text.trim().split('\n');
     let headers = [];
     lines.forEach((line, index) => {
         if (index == 0) {
-            headers = line.trim().split(delimiter);                                 // the first row of csv, "english, mampula, mampulan symbol, etc. is defined as header and split"
+            headers = line.trim().split(delimiter);
         } else {
             let eng_word = '';
             let mam_word = '';
-            line.trim().split(delimiter).forEach((elem, index) => {                 // each row of the rest of the row are split by commas.
-                if (index == 0) {                           
-                    eng_word = elem                                                 // For English, the first column becomes a header, the second column becomes the word to translate to.
-                    if(dict["eng"][eng_word.toLowerCase()] === undefined){              // If the word has no place, add a place.
-                        dict["eng"][eng_word.toLowerCase()] = new Object();             // If the word is taken, add to the word, not replace.
-                        dict["eng"][eng_word.toLowerCase()][headers[index]] = [elem];
-                    } else {
-                        dict["eng"][eng_word.toLowerCase()][headers[index]].push(elem);
-                    }
+            line.trim().split(delimiter).forEach((elem, index) => {
+                if (index == 0) {
+                // For English, the first column of CSV becomes a header
+                    eng_word = elem
+                    dict["eng"][eng_word.toLowerCase()] = new Object();
+                    dict["eng"][eng_word.toLowerCase()][headers[index]] = elem;
                 } else if (index == 1) {
-                    mam_word = elem                                                 // For Mampula, the second column becomes a header, the first column becomes the word to translate to.
-                    if(dict["mampula"][mam_word.toLowerCase()] === undefined){ 
-                        dict["mampula"][mam_word.toLowerCase()] = new Object();
-                        dict["mampula"][mam_word.toLowerCase()][headers[index]] = [elem];
-
-                        dict["mampula"][mam_word.toLowerCase()]["translate"] = [eng_word];
-                        dict["eng"][eng_word.toLowerCase()]["translate"] = [mam_word];
-
-                    } else {
-                        dict["mampula"][mam_word.toLowerCase()][headers[index]].push(elem);
-
-                        dict["mampula"][mam_word.toLowerCase()]["translate"].push(eng_word);
-                        dict["eng"][eng_word.toLowerCase()]["translate"].push(mam_word);                      
-                    }
-
-
-
+                // For English, the second column becomes the word to translate to.
+                // For Mampula, the second column becomes a header.
+                //              the first column becomes the word to translate to.
+                    mam_word = elem
+                    dict["mampulan"][mam_word.toLowerCase()] = new Object();
+                    dict["mampulan"][mam_word.toLowerCase()][headers[index]] = elem;
+                    
+                    dict["mampulan"][mam_word.toLowerCase()]["translate"] = eng_word;
+                    dict["eng"][eng_word.toLowerCase()]["translate"] = mam_word;
                     
                 } else {
                 // Fills in the information from the rest of the columns
                     dict["eng"][eng_word.toLowerCase()][headers[index]] = elem;
-                    dict["mampula"][mam_word.toLowerCase()][headers[index]] = elem;
+                    dict["mampulan"][mam_word.toLowerCase()][headers[index]] = elem;
                 }
             });
         }
@@ -92,34 +80,36 @@ function callback(dictionary) {
     document.querySelector('.form__input#word').addEventListener('keyup', e=> {
         e.preventDefault();
 
-        if (e.key == 'Enter'){                                           //If the 'Enter' Key is pressed
+        if (e.key == 'Enter' || e.keyCode == 13){
             
             engRadio = document.getElementById('english-word');
-            let language = engRadio.checked ? 'eng' : 'mampula';        // Check the language
-            let lang_word = engRadio.checked ? 'english' : 'mampula';   // Check the laguage_word
+            let language = engRadio.checked ? 'eng' : 'mampulan';
+            let lang_word = engRadio.checked ? 'english' : 'mampulan';
 
-            let inputWord = e.target.value.toLowerCase();               // input word turns to lowercase for stanrdize inputs ("RiCe" and "rIce") have same input
-            e.target.value = '';                                        // turns the value back to blank
+            let inputWord = e.target.value.toLowerCase();
+            e.target.value = '';
 
-            //The following are DOMs for editing HTML elements
             let wordDOM = document.querySelector('.word');
             let definitionDOM = document.querySelector('.definition');
             let transliterationDOM = document.querySelector('.transliteration');
             let translationDOM = document.querySelector('.translation');
-            let mampulaInfoDOM = document.querySelector('.mampulaInfo');
-            let exampleDOM = document.querySelector('.example');
+            let mampulanInfoDOM = document.querySelector('.mampulanInfo');
+            let mampulanExampleDOM = document.querySelector('.mampulanExample');
+            let englishExampleDOM = document.querySelector('.englishExample');
             let seeAlsoDOM = document.querySelector('.seeAlso');
             let etymologyDOM = document.querySelector('.etymology');            
 
+            document.querySelector('.result-container-2').style.display = "block";
 
             if (dictionary[language][inputWord] !== undefined) {
                 let partOfSpeechEng = dictionary[language][inputWord]["part of speech English"];
                 let partOfSpeechMam = dictionary[language][inputWord]["part of speech Mampula"];
                 let definition = dictionary[language][inputWord]["definition"];
-                let mampulaInfo = dictionary[language][inputWord]["mampula info"];
+                let mampulanInfo = dictionary[language][inputWord]["mampulan info"];
                 let mampulanSymbol = dictionary[language][inputWord]["mampulan symbol"]
                 let etymology = dictionary[language][inputWord]["etymology"];
-                let example = dictionary[language][inputWord]["example"];
+                let mampulanExample = dictionary[language][inputWord]["mampulan example"];
+                let englishExample = dictionary[language][inputWord]["english example"];
                 let seeAlso = dictionary[language][inputWord]["see also"];
 
                 //This part displays word being searched in its correct capitalization
@@ -130,11 +120,7 @@ function callback(dictionary) {
                     wordDOM.innerHTML = `${dictionary[language][inputWord][lang_word]}<i class="part-of-speech">${partOfSpeechMam}</i>`;
                 };              
 
-                wordDOM.classList.add('underline');
-            
-                document.querySelector('.result-container-2').style.display = "inline";
-
-                
+                wordDOM.classList.add('underline');              
                     
                 if (language == 'eng') {
 
@@ -144,17 +130,19 @@ function callback(dictionary) {
 
                     transliterationDOM.innerHTML = `${dictionary["eng"][inputWord]["translate"]}`;
 
-                    mampulaInfoDOM.innerHTML = `<i>${mampulaInfo}</i>`;
+                    mampulanInfoDOM.innerHTML = `<i>${mampulanInfo}</i>`;
 
-                    exampleDOM.innerHTML = `Example<br><i>${example}</i>`;
+                    mampulanExampleDOM.innerHTML = `${mampulanExample}`;
+
+                    englishExampleDOM.innerHTML = `<i>${englishExample}</i>`;
                     
-                    seeAlsoDOM.innerHTML = `See also:<br><i>${seeAlso}</i>`;
+                    seeAlsoDOM.innerHTML = `<i>${seeAlso}</i>`;
 
-                    etymologyDOM.innerHTML = `Etymology:<br>${etymology}`;
+                    etymologyDOM.innerHTML = `${etymology}`;
 
                 } else {
                     //transliterationTitleDOM.innerHTML = `${language == 'eng' ? "Mampula" : "English"} language translation`;
-                   // wordInfoDOM.innerHTML = `${dictionary["mampula"][inputWord]["translate"]}&nbsp;<br><br><i>${mampulaInfo}</i>
+                   // wordInfoDOM.innerHTML = `${dictionary["mampulan"][inputWord]["translate"]}&nbsp;<br><br><i>${mampulanInfo}</i>
                    // &nbsp;<br><br>Example<br><i>${example}</i>&nbsp;<br><br>See also:<br><i>${seeAlso}</i>`;
                 };
 
