@@ -192,7 +192,7 @@ approach|sopitun|sopitun|verb|verb||sorun pit (go near)|||||
 approximate|sopitweinchun|sopitweincun|verb|verb|||||||
 approximation|sopitweinches|sopitweinces|noun|noun||sorunpitun weinces (approach position)|||||
 April|fomū|fomu-|noun|noun|||||||
-apron|eipurun|eipurun|noun|noun|||||||
+apron|eiprun|eipurun|noun|noun|||||||
 arc|āku|a-ku|noun|noun|||||||
 arc length|āku sa len|a-ku sa len|noun|noun|||||||
 archipelagic|ekuwailang|ekuwailaq|adjective|ng adjective||列島 (eku+aila)|||archipelago||
@@ -268,7 +268,7 @@ attempt|atem|atem|noun|noun|||||||
 attempt|atemun|atemun|verb|run verb|||||||
 attention|chiungi|||||注意|||||
 attitude|||||||||||
-attorney|||||||||||
+attorney|houwan|houwan|noun|noun||law + person|||lawyer||
 audience|||||||||||
 August|eimū||noun|noun|||||||
 author|||||||||||
@@ -561,7 +561,8 @@ challenge|||||||||||
 champion|||||||||||
 championship|||||||||||
 chance|zin||noun|noun|||||||
-change|henu<br>henchenu (formal)||verb|verb|||||||
+change|henun||verb|verb|||||||
+change|henchenun||verb|verb|formal term for <i>henun</i>||||||
 channel|chanel||noun|noun|||||||
 chapter|||||||||||
 character|||||||||||
@@ -700,8 +701,8 @@ conductor|fingsuinwan|fiqsuinwan|noun|noun|in music|(1) 導体 (2) 指揮者||||
 conference|||||||||||
 confess|dunwairun|dunwairun|verb|run verb|||||||
 confession|dunwai|dunwai|noun|noun|||||||
-confidence|jaishin|jaishin|noun|noun|||||||
-confinement|shakkin|shakkin|noun|noun|||||||
+confidence|jaishin|jaixin|noun|noun|||||||
+confinement|shakkin|xakkin|noun|noun|||||||
 confirm|sichuninun|sicuninun|verb|run verb|||||||
 confirmation|sichunin|sicunin|noun|noun|||||||
 conflict|||||||||||
@@ -716,21 +717,23 @@ connection|||||||||||
 consciousness|ngishik|qixik|noun|noun||意識|||||
 consecutive|renkon||||||||||
 consequence|||||||||||
-consider|agemiunu||verb|verb|||||||
-consideration|agemiun||noun|noun|||||||
-consist|konsiru||||||||||
-consonant|lane||    ||||||||
-constant|tēsū (number)<br>tiging (the same)||||||||||
-constant number|tigiung sū||||||||||
-constitution|konsuhou||    ||||||||
-construct|bororu (a structure)||  ||||||||
-construction|borosechu (establishment) ||    ||||||||
+consider|agemiunun|agemiunun|verb|verb|||||||
+consideration|agemiun|agemiun|noun|noun|||||||
+consist|konsiru|konsiru|||||||||
+consonant|lane|lane|    ||||||||
+constant|tēsū|te-su-|noun|noun|number||||||
+constant|tiging|tigiq|adjective|adjective|the same or not changing||||||
+constant number|tigiung sū|tigiung sū|||||||||
+constitution|konsuhou|konsuhou|    ||||||||
+construct|bororun|bororu|verb|run verb|a structure||||||
+construction|borosechu|borosecu|noun|noun|establishment||||||
 consult|teturasirun|teturasirun|||||||||
 consultation|teturasi|teturasi||||相談|||||
 consumer|kesutuhiwan||||||||||
 consumerism|kesutuhishugi||||||||||
 consumption|kesutuhi||||||||||
-contact|rendeino (communication) <br> rendeinoru||||||||||
+contact|rendeino|rendeino|noun|noun|||||||
+contact|rendeinorun|rendeinorun|verb|run verb|||||||
 contain|||||||||||
 contaminant|wunrunbujil|wunrunbujil||||汚染物質|||||
 contaminate|wunrunun|wunrunun||||汚染|||||
@@ -1035,7 +1038,7 @@ dump|taponun|taponun|verb|verb|||||||
 during|||||||||||
 dust|das|das|||||||||
 duty|takama|takama|noun|noun|||||||
-Dysprosium|dispurosium|dispurosium|noun|noun|||||||
+Dysprosium|disprosium|dispurosium|noun|noun|||||||
 each|ata (one each)|ata|||||||||
 eagle|agala|agala|noun|noun|||||||
 ear|te’nga|te’qa|noun|noun|||||||
@@ -1833,14 +1836,15 @@ law|hou||||||||||
 lawn|lōn||||||||||
 Lawrencium|lorensium|lorensium|noun|noun|||||||
 lawsuit|deiruliti||||||||||
-lawyer|||||||||||
+lawyer|houwan|houwan|noun|noun|||||attorney||
 laxative|dounzai||||||||||
 lay|||||||||||
 layer|||||||||||
 lazy|damang|damaq|||||||||
-lead|lidu||verb|verb|||||||
-Lead|tinon|tinon|noun|noun|||||||
-leader|lidwan||noun|noun|||||||
+lead|kiro|kiro|verb|verb|leadership, example|show + way|||||
+lead|kirorun|kirorun|verb|run verb|to guide on a way especially by going in advance|show + way|||||
+lead|tinon|tinon|noun|noun|||||||
+leader|lidwan||noun|noun|a soft, heavy, metallic element with atomic number 82 found mostly in combination and used especially in alloys, batteries, and shields against sound, vibration, or radiation||||||
 leadership|||||||||||
 leading|||||||||||
 leaf|daho||||||||||
@@ -2370,26 +2374,25 @@ pause|pōs (n.) <br>pōsun||||||||||
 paw|wanon|wanon|||||||||
 pay|har<br>harun||||||||||
 payment|||||||||||
-peace|yapa||||||||||
+peace|yapa|yapa|||||||||
 peak|||||||||||
-pedro|peduro||noun||a person and alex's owner||||||
-peel|pīlu||||||||||
-pen|pen||||||||||
+peel|pīlu|pīlu|||||||||
+pen|pen|pen|||||||||
 penalty|||||||||||
-pencil|lapa||||||||||
-penguin|pengguwin||||||||||
+pencil|lapa|lapa|||||||||
+penguin|pengguwin|pengguwin|||||||||
 pension|||||||||||
-pentagon|bekakkachi||noun|noun|||||||
-people|pipan||||||||||
+pentagon|bekakkachi|bekakkachi|noun|noun|||||||
+people|pipan|pipan|||||||||
 per|||||||||||
 percentage|||||||||||
 perception|||||||||||
-perfect|pappaking|||||完璧|||||
-perfection|pappaki|||||完璧|||||
-perfectionist|pappakishugiwan|||||完璧主義|||||
+perfect|pappaking|pappaking|adjective|ng adjective||完璧|||||
+perfection|pappaki|pappaki|noun|noun||完璧|||||
+perfectionist|pappakishugiwan|pappakixugiwan|noun|noun||完璧主義 + wan|||||
 perform|||||||||||
 performance|||||||||||
-performance (effectiveness)|shōnō|||||性能|||||
+performance|shōnō|xo-no-||||性能|||||
 perhaps|||||||||||
 perigee|chikaawonpon||noun|||近地点|||||
 period|||||||||||
@@ -2417,16 +2420,18 @@ phone|foun||noun|noun||phone|||||
 Phosphorus|fosfo|fosfo|noun|noun||phosphrous|||||
 photo|foto||noun|noun|||||||
 photography|||noun|noun|||||||
-phrase|satakurin|||||sata (word) +kurin (group)|||||
-physical|taing (body)<br>buring (physics)||||||||||
-physical education|taiik (formal)<br>taing tur'ik||||||||||
-Physics|buriga||noun|noun||物理学|||||
-piano|piyano||noun|noun||piano|||||
-piccolo|pikolo||||||||||
+phrase|satakurin|satakurin||||sata (word) +kurin (group)|||||
+physical|taing|taiq|||taing (body)||||||
+physical|buring|buriq|||buring (physics)||||||
+physical education|taiik|taiik|||taiik (formal)||||||
+physical education|taing turik|taiq turik|||taing tur'ik||||||
+Physics|buriga|buriga|noun|noun||物理学|||||
+piano|piyano|piyano|noun|noun||piano|||||
+piccolo|pikolo|pikolo|||||||||
 pick|||||||||||
 pickpocket|pitanusuwan|pitanusuwan|noun|noun||pita (pocket) + nusu (steal) + wan (person)|||||
-picture|||noun|noun|||||||
-pie|||||||||||
+picture|dranggei|draqgei|noun|noun||dran + gei 絵画|||||
+pie|pai|pai|noun|noun||English <i>pie</ie>|||||
 piece|||||||||||
 pig|babo|babo|||||||||
 pigeon|pagana|pagana|||||||||
@@ -2441,6 +2446,7 @@ pitch|||||||||||
 pizza|piza|piza|||||||||
 place|she|xe|||||||||
 plagiarism|nususaku|nususaku|||||||||
+plagiarize|nususakurun|nususakurun|verb|run verb|||||||
 plague|salo|salo|noun|noun|||||||
 plain|pulein|pulein|||||||||
 plaintiff|haradun|haradun|||||||||
@@ -2515,7 +2521,7 @@ practice|bichelān|bicela-n|||||||||
 pragmatic|jikngeing|jikqeiq|||||||||
 pragmatism|jikngeishugi|jikqeixugi|||||||||
 prairie dog|pumana|pumana|||||||||
-Praseodymium|puraseyodimium|puraseyodimium|noun|noun|||||||
+Praseodymium|praseyodimium|puraseyodimium|noun|noun|||||||
 precipitation|huluawon|huluawon|||||||||
 predator|hulkainwan|hulkainwan|||||||||
 predict|yoseiru|yoseiru|||||||||
@@ -2567,7 +2573,7 @@ professional|||||||||||
 professor|||||||||||
 profile|||||||||||
 profit|||||||||||
-program|puroga<br>purogaru||noun, verb||||||||
+program|proga<br>progaru||noun, verb||||||||
 progress|||||||||||
 progression|sūeku (math)||||||||||
 project|||||||||||
@@ -2583,21 +2589,22 @@ propagate|puroru||||||||||
 propel|puroperu||||||||||
 propeller|puropeki||||||||||
 proper noun|bokaaring neishi||noun|noun|||||||
-property|chaifion (estate)|||||財産|||||
+property|chaifion||noun|noun||財産|||||
 proposal|||||||||||
 prosperity|fanwi|fanwi|noun|noun||繁栄|||||
 Protactinium|purotaktinium|purotaktinium|noun|noun|||||||
 protagonist|shuwan’ein||noun|noun|||||||
-protect|||||||||||
-protection|ngon|qon|||||||||
-proton|yōla||noun|noun|||||||
-protractor|mīndoki||noun|noun|||||||
-prove|zainburairu||||||||||
-provide|bigirun||verb|verb|||||||
-province|mana||noun|noun|||||||
-psychoanalysis|fin'gyomīnmukon||noun|noun|||||||
-psychology|posoriga|||||心理学|||||
-public|eing (adjective) einzaka (facility/room)||||||||||
+protect|ngonun||verb|un verb|to cover or shield from exposure, injury, damage, or destruction||||||
+protection|ngon|qon|noun|noun|the act of protecting||||||
+proton|yōla|yōla|noun|noun|||||||
+protractor|mīndoki|mīndoki|noun|noun|||||||
+prove|zainburairu|zainburairu|||||||||
+provide|bigirun|bigirun|verb|verb|||||||
+province|mana|mana|noun|noun|||||||
+psychoanalysis|fin'gyomīnmukon|fin'gyomīnmukon|noun|noun|||||||
+psychology|posoriga|posoriga||||心理学|||||
+public|eing|eing|adjective|g adjective|||||||
+public|einzaka|einzaka|noun|noun|(facility/room)||||||
 public safety|ein'an|ein'an|noun|noun||公安|||||
 public welfare|ein'an|ein'an|noun|noun||公安|||||
 publication|ouhang||||||||||
@@ -2605,9 +2612,9 @@ publishing|ouhang||||||||||
 puffer fish|fugu||||||||||
 pull|hikuru|||||引|||||
 pump|panpu||||||||||
-punch|||||||||||
+punch|suntun|suntun|verb|un verb|||||||
 puppet|papet|||||puppet|||||
-puppy|laaso (baby dog)||||||||||
+puppy|laaso||||baby dog||||||
 purchase|kōhairu|||||購入|||||
 pure-bred|junuduko (animal)||||||||||
 purple|||||||||||
@@ -3464,7 +3471,7 @@ two|dung|duq|||||||||
 type|taip, taipu (on keyboard)|taip, taipu|||||||||
 tyrant|abakun|abakun||||暴君|||||
 umbrella|payo|payo|||||||||
-unauthorized|delon (g)|delon (g)|||||||||
+unauthorized|delong|deloq|||||||||
 unauthorized reproduction|delong keikaizong|deloq keikaizoq|||||||||
 uncle|||||||||||
 undecipherable|depiudokkatang|depiudokkataq|adjective|ng adjective|||||||
@@ -3596,7 +3603,7 @@ water pressure|awonwatu, awong atu|awonatu, awoq atu|noun|||水圧|||||
 waterfall|ikat|ikat|noun||||||||
 wave|wei|wei|noun||||||||
 wavelength|weilen|weilen|noun||||||||
-way|||||||||||
+way|ro|ro|noun|noun||道|||||
 we|kamo (exclusive), kami (inclusive)|kamo, kami|pronoun||||||||
 weak|jakung|jakuq|adjective|ung adjective|||||||
 weaken|jaku|jaku|verb||||||||
@@ -5487,3 +5494,12 @@ hump|||||||||||
 hind|||||||||||
 hinder|||||||||||
 automate|jaidōrun|jaido-run|verb|run verb||automatic|||automatic||
+genre|||||||||||
+trident|mibangi|mibaqi|noun|noun||three + teeth|||||
+defence|bōgian|bo-gian|noun|noun|To ward off attacks against|防御|||||
+defend|bōgianun|bo-gianun|verb|un verb|To ward off attacks against|防御|||||
+titan|titan|titan|noun|noun|||||||
+triumph|kranrogan|kranrogan|noun|noun||凱旋|||||
+triumph|dawenri|dawenri|noun|noun||大勝利|||||
+subscribe|||||||||||
+underwrite|||||||||||
