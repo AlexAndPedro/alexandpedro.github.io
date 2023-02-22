@@ -100,7 +100,7 @@ function callback(dictionary) {
 
             // Finds all the indices of the inputted word
             for(let step = 0; step < dictionary["d"].length; step++) {
-                if(dictionary["d"][step].english.toLowerCase() == inputWord.toLowerCase() || dictionary["d"][step].mampulan_symbol.toLowerCase() == inputWord.toLowerCase()){
+                if(dictionary["d"][step].english.toLowerCase() == inputWord.toLowerCase() || dictionary["d"][step].mampulan_symbol.toLowerCase() == inputWord.toLowerCase() || dictionary["d"][step].mampulan.toLowerCase() == inputWord.toLowerCase()){
                     dictionaryOutput.push(dictionary["d"][step]);
                 }
              }
@@ -157,7 +157,7 @@ function callback(dictionary) {
                     }
                         
 
-                } else if (inputWord.toLowerCase() == mampulanSymbol[0].toLowerCase()){    
+                } else if (inputWord.toLowerCase() == mampulanSymbol[0].toLowerCase() || inputWord.toLowerCase() == mampulanWord[0].toLowerCase()){    
                     //If the user input matches one of the words in the MAMPULAN word list
 
                     wordDOM.style.fontFamily = "MampulanFont";
