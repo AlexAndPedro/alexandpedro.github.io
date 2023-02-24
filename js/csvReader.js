@@ -78,7 +78,7 @@ function callback(dictionary) {
 
         if (e.key == 'Enter' || e.keyCode == 13){
             
-            engRadio = document.getElementById('english-word');
+            //engRadio = document.getElementById('english-word');
             //let language = engRadio.checked ? 'english' : 'mampulan';
             let inputWord = e.target.value.toLowerCase();
             e.target.value = '';
