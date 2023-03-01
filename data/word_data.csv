@@ -4,13 +4,14 @@
 a|i|i|indefinite article|irregular adjective|"In English, it is used as a function word before singular nouns when the referent is unspecified.<br>In Mampulan, it is used like the number ""one""."|Old Mampulan <i>a</i>|a person|i wan|one||
 a little bit|chot|cot|noun|noun|(a little bit of)|Possibly Japanese <i>chotto</i>|||||
 a lot|midang|midaq|adjective|ng adjective|a large number or amount of (things, people, etc.)|Old Mampulan <i>meituan</i>|I eat a lot of apples.|Ko midaq mak kainu.|many||
-Aardvark|||||||||||
+aardvark|saromin|saromin||||Old Mampulan <i>hisaromein</i>|||||
 aardwolf|kasama|kasama|noun|noun|a maned striped nocturnal mammal (Proteles cristatus) of southern and eastern Africa that resembles the related hyenas and feeds chiefly on insects and especially termites|Old Mampulan|||||
-abandon|||||||||||
-abandoned|||||||||||
+abandon|frinun|frinun|verb|un verb|To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions.|frin|He abandoned his dream to be a doctor.|Ye yes tun ten i-wan na panan frina.|abandoned||
+abandoned|frina|frina|verb|un verb|past tense of Mampulan dictionary form verb <i>abandon</i>|frinun (abandon)|He abandoned his dream to be a doctor.|Ye yes tun ten i-wan na panan frina.|abandon||
+abandoned|frinang|frinaq|adjective|na adjective|adjective form of Mampulan <i>frinun</i> (abandon)|frinun (abandon)|I want to adopt that abandoned dog.|ko zes frinaq wano gusu tunenun.|abandon||
 abbreviate|zanarun|zanaru|verb|run verb|to make briefer|略|||abbreviation||
 abbreviation|zana|zana|noun|noun|a shortened form of a written word or phrase used in place of the whole word or phrase|略|||abbreviate||
-ability|ubi|ubi||||Old Mampulan|||||
+ability|kat|kat|noun|noun||Old Mampulan|||can||
 able|katun|katun|noun|noun|(suffix) aka  (-ible)||||||
 able|kanō|kano-|suffix|suffix|(suffix) aka  (-ible)||||||
 abort|||||||||||
@@ -18,12 +19,12 @@ about|ma’nga|maqa|adverb|adverb|approximately|Filipino <i>mga</i>|I need about
 about|ngan|qan|adverb|adverb|denotes a topic||This book is about dogs.||||
 above|sa shoun|sa xoun|adverb|noun|in a higher place||||||
 abroad|laba|laba||||Old Mampulan|||||
-absent|dezōng|dezo-q|adjective|g adjective||不在|||||
+absent|dezōng|dezo-q|adjective|g adjective|being away from a place; withdrawn from a place; not present; missing.|不在|||||
 absolute|zefai|zefai|noun|noun||絶対|||||
 absolute|zefaing|zefaiq|adjective|||絶対|||||
-absolutism|zefaishugi|zefaixugi|noun|noun||絶対主義|||||
-absorb|||||||||||
-abstract|||||||||||
+absolutism|zefaishugi|zefaixugi|noun|noun|Doctrine of preordination; doctrine of absolute decrees; doctrine that God acts in an absolute manner.|絶対主義|||||
+absorb|sikshiurun|sikxiurun|verb|verb|The act or process of absorbing or of being absorbed as incorporation.<br>(chemistry, physics) the imbibing or reception by molecular or chemical action, of radiant energy; the process of being neutrons being absorbed by the nucleus; interception.|吸収|||absorb||
+abstract|zappaplous|zappaplous|noun|noun||抽象|||||
 abuse|pogonala|pogonala|noun|noun||虐待|||||
 academic|akadeng|akadeq|adjective|ng adjective|||||||
 academic background|gareki|gareki|noun|noun|formal form|Japanese 学歴|An academic background is needed to apply.||academic||
@@ -86,7 +87,7 @@ admirable|||||||||||
 admired|||||||||||
 admit|||||||||||
 adolescent|||||||||||
-adopt|||||||||||
+adopt|tunenun|tunenun|verb|un verb||tun + senun (to choose)|I want to adopt that abandoned dog.|ko zes frinaq wano gusu tunenun.|||
 adored|||||||||||
 adult|adu|adu|noun|noun|||||||
 advance|||||||||||
@@ -142,10 +143,9 @@ ajar|||||||||||
 alarm|alām|ala-m|noun|noun|||||||
 alarmed|||||||||||
 alarming|||||||||||
-Albatross|||||||||||
+albatross|||||||||||
 alcohol|||||||||||
 alert|||||||||||
-alex|aleksu|aleksu|proper noun|proper noun|a dog||||||
 algebra|yosūga|yosu-ga|noun|noun|||||||
 algorithm|algorizum|algorizum|noun|noun|||||||
 alibi|alibai|alibai|noun|noun|||||||
@@ -167,11 +167,11 @@ also|mon|mon|||||||||
 alternate|tagang|taga|adjective|ng adjective|||||||
 alternate|tagarun|tagarun|verb|run verb|||||||
 alternation|kōdeiga|ko-deiga|noun|noun|||||||
-alternative|||||||||||
+alternative|yo|yo|noun|noun||代|||||
 although|odou|odou|conjuction||||||even though||
 altitude|teido|teido|noun|noun||高度|||||
 altruism|rihokashugi|rihokaxugi|noun|noun|||||||
-altruistic|||||||||||
+altruistic|rihokashuging|rihokaxugiq|adjective|ng adjective||altruism|||||
 Aluminium|aluminium|aluminium|noun|noun|||||||
 always|ala|ala|adverb|adverb|||||||
 am|ten|ten|verb|irregular verb|||||is, be, are||
@@ -186,7 +186,7 @@ Americium|amerisium|amerisium|noun|noun|||||||
 amicus curiae|amikaskiuriyai|amikaskiuriyai|noun|noun||from English <i>amicus curiae</i>|||friend of the court||
 among|||||||||||
 amount|||||||||||
-Amphibian|||||||||||
+amphibian|linbuikise|||||両生類|||||
 ample|||||||||||
 amplitude|shunāba|xuna-ba|noun|noun||shun + hāba|||||
 amused|||||||||||
@@ -458,7 +458,7 @@ bathroom|||||||||||
 battery|densin|densin|noun|noun||電池|||||
 battle|||||||||||
 bay|bei|bei|||||||||
-be|te|te|||||||is, are, am||
+be|ten|ten|verb|irregular verb|||||is, are, am||
 beach|||||||||||
 Beaked whale|||||||||||
 bean|||||||||||
@@ -562,7 +562,7 @@ blur|||||||||||
 blushing|||||||||||
 boa|nakana|nakana|||||||||
 Boar|||||||||||
-board|ita (material)|ita (material)|||||||||
+board|pitan|pitan|||board like plank||||||
 boat|pun|pun|||||||||
 Bobcat|||||||||||
 Bobolink|||||||||||
@@ -625,7 +625,7 @@ bribery|wairo|wairo|||||||||
 brick|||||||||||
 bridge|plon|plon|noun|noun|||||||
 brief|||||||||||
-bright|buraing|buraiq|adjective|ng adjective|||||||
+bright|praing|praiq|adjective|ng adjective|||||||
 brilliant|||||||||||
 bring|burun|burun|verb|run verb|||||||
 bring up|ikun|ikun||||育|||||
@@ -840,7 +840,7 @@ chisel|chise|chise|||||||||
 Chlorine|sōtosau|so-tosau|noun|noun||塩素|||||
 chocolate|cokolate|cokolate|||||||||
 choice|||||||||||
-choose|||||||||||
+choose|senun|senun|verb|un verb||選|||||
 chord |hapaka (geometry)<br>wane (music)|hapaka (geometry)<br>wane (music)|||||||||
 Christmas|Kurismas|Kurismas|||||||||
 Chromium|kuromium|kuromium|noun|noun|||||||
@@ -1352,7 +1352,8 @@ dictionary|itensho|itenxo|noun|noun|||||||
 die|dairun|dairun|verb|run verb|||||||
 diet|dayet|dayet|noun|noun|||||||
 differ|chikirun|cikirun|verb|run verb|||||||
-difference|chiki <br> sa (math)|ciki<br>sa|noun|noun|||||||
+difference|chiki|ciki|noun|noun|||||||
+difference|sa|sa|noun|noun|math||||||
 different|||||||||||
 difficult|||||||||||
 difficulty|||||||||||
@@ -1387,9 +1388,9 @@ discover|hakulurun|hakulurun|verb|run verb||発見|||||
 discrete|||||||||||
 discriminate|sabeturu|sabeturu|||||||||
 discrimination|sabetu|sabetu|||||||||
-discuss|dessokun|dessokun||||desdusorun (separate) + tokun (talk)|||||
-discussion|dessokas|dessokas||||desdusorun (separate) + tokun (talk)|||||
-disease|kasin|kasin||||Old Mampulan|||||
+discuss|dessokun|dessokun|verb|un verb||desdusorun (separate) + tokun (talk)|||||
+discussion|dessokas|dessokas|noun|noun||desdusorun (separate) + tokun (talk)|||||
+disease|kasin|kasin|noun|noun||Old Mampulan <i>kahasein</i>|||||
 disequilibrium|dehēgara|dehe-gara|||||||||
 disfigured|||||||||||
 disguised|||||||||||
@@ -1511,8 +1512,9 @@ edge|sairu|sairu|noun|noun|||||||
 edible|kainkatung|kainkatuq|adjective|ung adjective||kainun (eat) + kat (can)|||||
 edit|edirun|edirun|verb|run verb|||||||
 editor|ediwan|ediwan|noun|noun|||||||
-educated|||||||||||
-education|turik|turik|    |||tur'ik|||||
+educated|turikang|turikaq|adjective|ng adjective||past tense of turikun + -ng|||||
+education|turik|turik|noun|noun||tur'ik|||||
+educate|turikun|turikun|verb|un verb||tur'ik|||||
 eel|una|una|||||||||
 effect|bisa|bisa|noun|noun|||||||
 effective|bisang|bisaq|adjective|ng adjective||効|||||
@@ -1532,18 +1534,18 @@ elaborate|||||||||||
 elastic|||||||||||
 elated|||||||||||
 elderly|||||||||||
-Election|senkato|senkato|||||||||
-electric|||||||||||
-electrical cable|denlain|denlain|||||||||
-electricity|denti|denti|||||||||
-electrification|denchen|dencen|||||||||
-electrify|denchenu|dencenu|||||||||
-electromagnetic|denmagung|denmaguq|    ||||||||
+election|senkato|senkato|||||||||
+electric|denting|dentiq|adjective|ng adjective|||||||
+electrical cable|denlain|denlain|noun|noun|||||||
+electricity|denti|denti|noun|noun|||||||
+electrification|denchen|dencen|noun|noun|||||||
+electrify|denchenun|dencenun|verb|verb|||||||
+electromagnetic|denmagung|denmaguq|adjective|ng adjective|||||||
 electron|denla|denla|noun|noun|||||||
 elegant|||||||||||
 elementary|||||||||||
-elementary school|sugachun|sugacun|||||||||
-elementary school student|sugawan|sugawan|      ||||||||
+elementary school|sugachun|sugacun|noun|noun|||||||
+elementary school student|sugawan|sugawan|noun|noun|||||||
 elephant|ela|ela|||||||||
 Elephant seal|||||||||||
 elevator|||||||||||
@@ -1569,8 +1571,8 @@ empiricism|arkenshugi|arkenxugi|||||||||
 employ|yodorun|yodorun|verb|run verb||雇|||||
 employee|||||||||||
 employer|yodowan|yodowan|noun|noun||雇|||||
-employment|||||||||||
-Emu|||||||||||
+employment|yodo|yodo|noun|noun||雇|||||
+emu|||||||||||
 emulate|||||||||||
 enable|||||||||||
 enchanted|||||||||||
@@ -1592,12 +1594,12 @@ enjoy|||||||||||
 enlarge|||||||||||
 enlightened|||||||||||
 enormous|||||||||||
-enough|enang|enaq|adverb|||enanak|||||
-enough|ennak|ennak|adjective|||enanak|||||
+enough|enang|enaq|adjective|ng adjective||enanak|||||
+enough|ennak|ennak|adverb|adverb||enanak|||||
 enraged|||||||||||
 ensure|||||||||||
-enter|hairu|hairu|||||||||
-entertain|entāru|enta-ru|||||||||
+enter|hairun|hairun|verb|run verb|||||||
+entertain|entārun|enta-run|verb|run verb|||||||
 entertainment|entā|enta-|noun|noun|||||||
 enthusiasm|||||||||||
 entire|||||||||||
@@ -1706,8 +1708,8 @@ experienced|||||||||||
 experiment|jikken|jikken|    ||||||||
 expert|||||||||||
 expire|||||||||||
-explain|zeiburairun|zeiburairun|verb|run verb|to make known or to give the reason for or cause of|説明|||explanation||
-explanation|zeiburai|zeiburai|noun|noun||説明|||explain||
+explain|zeiprairun|zeiprairun|verb|run verb|to make known or to give the reason for or cause of|説明|||explanation||
+explanation|zeiprai|zeiprai|noun|noun||説明|||explain||
 explicit|||||||||||
 explode|gippakuru|gippakuru|||||||||
 explosion|gippaku|gippaku|    ||||||||
@@ -3184,7 +3186,9 @@ naughty|ugong|ugoq|adjective||:no </br>:Santa gives you coal lol|your naughty br
 nautical|||||||||||
 navigate|nabiru|nabiru|||||||||
 navigation|nabi|nabi|||||||||
-near|pit (prepositon.)<br>pitang<br>pitak|pit (prepositon.)<br>pitaq<br>pitak|||||||||
+near|pit|pit|preposition||||||||
+near|pitaq|pitaq|adjective||||||||
+near|pitak|pitak|noun|noun|||||||
 nearly|||||||||||
 neat|||||||||||
 necessary|||||||||||
@@ -3279,7 +3283,8 @@ numb|||||||||||
 number|sū (n.)|su- (n.)|||||||||
 number theory|sūron|su-ron|noun|noun|||||||
 numerator|minla|minla|||||||||
-nurse|nāsu<br>nāsuru|na-su<br>na-suru|||||||||
+nurse|nāsu|na-su|noun|noun|||||||
+nurse|nāsurun|na-surun|verb|run verb|||||||
 nutritious|||||||||||
 nutty|||||||||||
 o|||||||||||
@@ -3317,12 +3322,13 @@ offer|||||||||||
 office|||||||||||
 officer|||||||||||
 official|einshiking (adj)|einxikiq (adj)|adjective|ng adjective|||||||
-officially|kōngshiki.ku|ko-qxiki.ku|||||||||
+officially|kōngshikinak|ko-qxikinak|adverb|adverb|||||||
 offset|||||||||||
 often|||||||||||
 Oganesson|ouganeson|ouganeson|noun|noun|||||||
 oh|||||||||||
-oil|abu (food)<br> batoabu (petroleum)|abu (food)<br> batoabu (petroleum)|||||||||
+oil|abu|abu|||food||||||
+oil|batoabu|batoabu|||petroleum||||||
 oily|||||||||||
 ok|||||||||||
 old|lumang|lumaq|adjective|ng adjective|||||||
@@ -3341,7 +3347,7 @@ onion|bolagine|bolagine|noun|noun|||||||
 only|lang|laq|||||||||
 onto|||||||||||
 oolong tea|ūlong cha|u-loq cha|||||||||
-open|opuru|opuru|||||||||
+open|opurun|opurun|verb|run verb|||||||
 opening|||||||||||
 opera|opera|opera|||||||||
 operate|||||||||||
@@ -3776,7 +3782,7 @@ promote|piunun|piunun|verb|un verb|||||||
 promotion|piun|piun|noun|noun|||||||
 prompt|||||||||||
 pronunciation|hakune|hakune|||||||||
-proof|zainburai|zainburai|||||||||
+proof|zainprai|zainprai|||||||||
 prop|||||||||||
 propagate|puroru|puroru|||||||||
 propel|puroperu|puroperu|||||||||
@@ -3793,7 +3799,7 @@ protection|ngon|qon|noun|noun|the act of protecting||||||
 proton|yōla|yo-la|noun|noun|||||||
 protractor|mīndoki|mi-ndoki|noun|noun|||||||
 proud|||||||||||
-prove|zainburairu|zainburairu|||||||||
+prove|zainprairu|zainprairu|||||||||
 provide|bigirun|bigirun|verb|run verb|||||||
 province|mana|mana|noun|noun|||||||
 prudent|||||||||||
@@ -5684,8 +5690,7 @@ absolviture|||||||||||
 absonant|||||||||||
 absonous|||||||||||
 absorbent|||||||||||
-absorpt|||||||||||
-absorption|||||||||||
+absorption|sikshiu|sikxiu|noun|noun|The act or process of absorbing or of being absorbed as incorporation.<br>(chemistry, physics) the imbibing or reception by molecular or chemical action, of radiant energy; the process of being neutrons being absorbed by the nucleus; interception.|吸収|||absorb||
 abstain|||||||||||
 abstemious|||||||||||
 abstention|||||||||||
@@ -6006,7 +6011,7 @@ adnexa|||||||||||
 adolescence|||||||||||
 Adolphus|||||||||||
 adoptative|||||||||||
-adoption|||||||||||
+adoption|tunen|tunen|noun|noun||tun + sen (to choose)|||||
 adorable|||||||||||
 adoration|||||||||||
 adore|||||||||||
@@ -7637,7 +7642,7 @@ myth|||||||||||
 narcissism|||||||||||
 nectar|||||||||||
 olympic|||||||||||
-orchestra|||||||||||
+orchestra|orkestra|orkestra|noun|noun|A large group of musicians who play together on various instruments, usually including some from strings, woodwind, brass and/or percussion; the instruments played by such a group. |English <i>orchestra</i>|||||
 orgasm|||||||||||
 paradise|||||||||||
 patriot|||||||||||
@@ -7655,7 +7660,7 @@ symphony|||||||||||
 syntax|||||||||||
 tactic|||||||||||
 talent|||||||||||
-telescope|||||||||||
+telescope||||||望遠鏡|||||
 theater|||||||||||
 therapy|||||||||||
 therm|||||||||||
@@ -7664,10 +7669,22 @@ zoo|||||||||||
 zoology|||||||||||
 container|kanayaki|kanayaki|noun|noun||kannaiharun (contain) + ki (-er) = kannaihaki|||||
 mandate|||||||||||
-whiteboard|||||||||||
-blackboard|||||||||||
+whiteboard|butipitan|||||white + board|||||
+blackboard|kuropitan|||||black + board|||||
 laptop|||||||||||
 consent|onakan|onakan|noun|noun||同 + 感|||||
-consent|onangi|onangi|noun|noun|||||agree||
+consent|onangi|onaqi|noun|noun|||||agree, agreement||
 consent|onakanun|onakanun|verb|un verb||同 + 感|||||
-warrior|kourwan|||||kour + wan|||||
+warrior|kourwan|kourwan|noun|noun||kour + wan|||||
+transparent|grounpraing|grounpraiq|adjective|ng adjective|having the property of transmitting light without appreciable scattering so that bodies lying beyond are seen clearly|透明|||||
+opaque|degrounpraing|degrounpraiq|adjective|ng adjective|blocking the passage of radiant energy and especially light|de + grounprai|||||
+opacity|degrounpraishō|degrounpraisho-|noun|noun|The state or quality of being opaque, not allowing light to pass through.|degrounprai (opaque) + 性|||||
+will be|ti|ti|verb|irregular verb|future tense of Mampulan dictionary form verb <i>ten</i>||||||
+drank|ira|ira|verb|run verb|past tense of Mampulan dictionary form verb <i>kainun</i>||||||
+will drink|iri|iri|verb|run verb|future tense of Mampulan dictionary form verb <i>kainun</i>||||||
+is drinking|irunan|irunan|verb|run verb|present progressive tense of Mampulan dictionary form verb <i>irun</i>||||||
+was drinking|iranan|iranan|verb|run verb|past progressive tense of Mampulan dictionary form verb <i>irun</i>||||||
+will be drinking|irinan|irinan|verb|run verb|future progressive tense of Mampulan dictionary form verb <i>irun</i>||||||
+are drinking|irunan|irunan|verb|run verb|present progressive tense of Mampulan dictionary form verb <i>irun</i>||||||
+were drinking|iranan|iranan|verb|run verb|past progressive tense of Mampulan dictionary form verb <i>irun</i>||||||
+am drinking|irunan|irunan|verb|run verb|present progressive tense of Mampulan dictionary form verb <i>irun</i>||||||
