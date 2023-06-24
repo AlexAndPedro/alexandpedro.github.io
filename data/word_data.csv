@@ -14,8 +14,8 @@ abalienation|||||||||||
 abandon|frinun|frinun|verb|un verb|To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions.|frin|He abandoned his dream to be a doctor.|Ye yes tun ten i-wan na panan frina.|abandoned||
 abandoned|frina|frina|verb|un verb|past tense of Mampulan dictionary form verb <i>abandon</i>|frinun (abandon)|He abandoned his dream to be a doctor.|Ye yes tun ten i-wan na panan frina.|abandon||
 abandoned|frinang|frinaq|adjective|na adjective|adjective form of Mampulan <i>frinun</i> (abandon)|frinun (abandon)|I want to adopt that abandoned dog.|ko zes frinaq wano gusu tunenun.|abandon||
-abbreviate|zanarun|zanaru|verb|run verb|to make briefer|略|||abbreviation||
-abbreviation|zana|zana|noun|noun|a shortened form of a written word or phrase used in place of the whole word or phrase|略|||abbreviate||
+abbreviate|desshongnakun|desshongnakun|verb|run verb|to make briefer|zana (abbreviate)|||abbreviation||
+abbreviation|desshonnak|desshonnak|noun|noun|a shortened form of a written word or phrase used in place of the whole word or phrase|des shon nakun (to become short)|||abbreviate||
 abdicate|||||||||||
 abdication|||||||||||
 abdicative|||||||||||
@@ -118,7 +118,7 @@ abscond|||||||||||
 absconsio|||||||||||
 abscopal|||||||||||
 absence|||||||||||
-absent|dezōng|dezo-q|adjective|g adjective|being away from a place; withdrawn from a place; not present; missing.|不在|||||
+absent|dezōng|dezo-q|adjective|g adjective|being away from a place; withdrawn from a place; not present; missing.|de (negation) 在|||||
 absentation|||||||||||
 absentia|||||||||||
 absential|||||||||||
@@ -145,8 +145,7 @@ absorption|sikshiu|sikxiu|noun|noun|The act or process of absorbing or of being 
 abstract|zappaplous|zappaplous|noun|noun||抽象|||||
 abuse|pogonala|pogonala|noun|noun||虐待|||||
 academic|akadeng|akadeq|adjective|ng adjective|||||||
-academic background|gareki|gareki|noun|noun|informal form of <i>akadeng bakura</i>|Japanese 学歴|An academic background is needed to apply.||academic||
-academic background|akadeng bakura|akadeq bakura|noun|noun|formal form of <i>gareki</i>|Japanese 学歴|An academic background is needed to apply.||academic||
+academic background|akadeng bakura|akadeq bakura|noun|noun||Japanese ga (study) 歴|An academic background is needed to apply.||academic||
 academic dishonesty|akadeng ditapa|akadeq ditapa|noun|noun|||||||
 academy|akade|akade|noun|noun|||||||
 acapella|akapela|akapela|noun|noun|||||||
@@ -164,7 +163,7 @@ accomplice|tanahanwan|tanahanwan|noun|noun|||||||
 accomplished|||||||||||
 according|||||||||||
 account|akawnto|akawnto||||English <i>account</i>|||||
-accountancy|kaihaka|kaihaka|noun|noun|||||||
+accountancy|kaimas|kaimas|noun|noun|||||||
 accumulate|||||||||||
 accurate|||||||||||
 accuse|||||||||||
@@ -200,7 +199,7 @@ acid|asi|asi|noun|noun|||||||
 acidic|||||||||||
 acquire|akegerun|akegerun|verb|run verb|you get something|獲得||I would like to acquire this|see acquisition||
 acquisition|akege|akege|noun|noun|  |獲得|||see acquire||
-acquittal|detumihosmēn|detumihosme-n|noun|noun||無罪放免|||||
+acquittal|detumihosmēn|detumihosme-n|noun|noun||無罪hos (release)免|||||
 acrobat|||||||||||
 acrobatic|||||||||||
 across|akun|akun|preposition|preposition|||||||
@@ -210,7 +209,7 @@ Actinium|aktinium|aktinium|noun|noun|||||||
 action|okuras|okuras|noun|noun|||||||
 activate|||||||||||
 active|katung|katuq|adjective|ng adjective||活|||||
-activity|katudō|katudo-||||活動|||||
+activity|katudō|katudo-||||活 dō (move)|||||
 actor|okuwan|okuwan|noun|noun|||||||
 actress|okuwan|okuwan|noun|noun|||||||
 actrice|||||||||||
@@ -413,8 +412,8 @@ advent|||||||||||
 adventitia|||||||||||
 adventitious|||||||||||
 adventive|||||||||||
-adventure|okkius|okkius|noun|noun||(okakius)|||||
-adventurer|okkiuswan|okkiuswan|noun|noun||(okakiuswan)|||||
+adventure|okkius|okkius|noun|noun||oka + kius|||||
+adventurer|okkiuswan|okkiuswan|noun|noun||oka + kius+ wan|||||
 adventurous|||||||||||
 adverb|nganshi|qanxi|||||||||
 adverbial|||||||||||
@@ -432,40 +431,9 @@ advesperate|||||||||||
 advesperation|||||||||||
 advice|ado|ado|noun|noun|||||||
 advise|adorun|adorun|verb||||||||
-advocate|||||||||||
-advocation|||||||||||
-advoke|||||||||||
-advolution|||||||||||
-advoutrer|||||||||||
-advowson|||||||||||
-adyt|||||||||||
-adytum|||||||||||
-aedicula|||||||||||
-aedicule|||||||||||
-aedile|||||||||||
-aedility|||||||||||
-Aedui|||||||||||
-Aegean|||||||||||
-aeger|||||||||||
-aegilops|||||||||||
-aegipan|||||||||||
-aegis|||||||||||
-Aegisthus|||||||||||
-aegrotat|||||||||||
-Aegyptus|||||||||||
-Aeneas|||||||||||
-Aeneid|||||||||||
-aeneous|||||||||||
-Aeolic|||||||||||
-aeolipile|||||||||||
-aeolo-|||||||||||
-Aeolus|||||||||||
-aequalis|||||||||||
-Aequian|||||||||||
-æquison|||||||||||
-aequoreal|||||||||||
-aerarium|||||||||||
-aerate|||||||||||
+advocate|tunyorun|tunyorun|verb|run verb||tunyorun (to call)|||||
+advocation|tunyo|tunyo|noun|noun||tunyo (to call)|||||
+aerate|hertūun|hertūun|verb|verb||her (air) + tū (through) + un|||||
 aerenchyma|||||||||||
 aereous|||||||||||
 aerial|||||||||||
@@ -544,7 +512,7 @@ Africana|||||||||||
 after|afu|afu|adverb||||||||
 after|afu|afu|preposition||||||||
 afternoon|tali|tali|||||||||
-aftershock|yokuin|yokuin|noun|noun||余震|||||
+aftershock|yokuin|yokuin|noun|noun||余+ kuin (shake, tremble)|||||
 again|uli|uli|adverb||||||||
 against|fairen des|fairen des|noun|noun|(against [noun])|対|||||
 agaric|||||||||||
@@ -604,17 +572,12 @@ agnominal|||||||||||
 agnomination|||||||||||
 agnoprotein|||||||||||
 ago|jubbei|jubbei||||以前|||||
-agon|||||||||||
-agonescence|||||||||||
-agonescent|||||||||||
-agonism|||||||||||
-agonistarch|||||||||||
 agonizing|||||||||||
 agony|||||||||||
 agoraphobia|||||||||||
-agree|onangirun|onaqirun|verb|run verb|to concur in (something, such as an opinion) : ADMIT, CONCEDE|同意|||||
-agreeable|||||||||||
-agreement|onangi|onaqi|noun|noun|harmony of opinion, action, or character|同意|||||
+agree|roungirun|rouqirun|verb|run verb|to concur in (something, such as an opinion) : ADMIT, CONCEDE|rou (same)意|||||
+agreeable|roungikatung|rouqikatuq|adjective|ung adjective||roungi (agree) + katung (can)|||||
+agreement|roungi|rouqi|noun|noun|harmony of opinion, action, or character|rou (same)意|||||
 agrestic|||||||||||
 agri-|||||||||||
 agricolation|||||||||||
@@ -798,7 +761,7 @@ alphos|||||||||||
 Alpian|||||||||||
 alpine|||||||||||
 Alps|||||||||||
-already|ana|ana|adverb||||||||
+already|ana|ana|adverb|adverb|||||||
 also|mon|mon|||||||||
 alt|||||||||||
 Alta|||||||||||
@@ -1051,13 +1014,13 @@ anatomical|||||||||||
 anatomy|||||||||||
 -ance|||||||||||
 anceps|||||||||||
-ancestor|sosaki|sosaki|noun|noun|||||||
+ancestor|urwan|urwan|noun|noun||ur wan (before person)|||||
 Anchises|||||||||||
 anchor|||||||||||
 anchored|||||||||||
 anchorite|||||||||||
 anchovy|||||||||||
-ancient|hurung|huruq|adjective|ung adjective||"hour (Old Mampulan for ""before"")"|||||
+ancient|hurung|huruq|adjective|ung adjective||"hour (Old Mampulan for ""before""). Similar to Mampulan word <i>ur</i>"|||||
 ancile|||||||||||
 ancilla|||||||||||
 ancillary|||||||||||
@@ -1142,7 +1105,7 @@ anima|||||||||||
 animadversion|||||||||||
 animadversive|||||||||||
 animadvert|||||||||||
-animal|dōbu|do-bu|noun|noun|||||||
+animal|dōbu|do-bu|noun|noun||dō (moving) + bu (object)|||||
 animal trap|kashoku|kaxoku|noun|noun|||||||
 animalcule|||||||||||
 animastic|||||||||||
@@ -1213,7 +1176,7 @@ answer|kotarun|kotarun|verb|run verb|||||||
 ant|ato|ato|noun|noun|||||||
 -ant|||||||||||
 anta|||||||||||
-antagonist|opoyakū|opoyaku-|noun|noun|||||||
+antagonist|obuwan|obuwan|noun|noun||obu + wan (obstacle person)|||||
 Antarctic|||||||||||
 Antares|||||||||||
 ante|||||||||||
@@ -1248,9 +1211,9 @@ anthem|||||||||||
 anthesis|||||||||||
 Anthony|||||||||||
 anthracite|||||||||||
-anthropomorphic|tamokaching|tamokaciq|adjective|ng adjective|||||||
-anthropomorphism|tamokachi|tamokaci|noun|noun|||||||
-anthropomorphize|tamokachichenu|tamokacicenu|verb||||||||
+anthropomorphic|wankaching|tamokaciq|adjective|ng adjective||wan + kachi (person form)|||||
+anthropomorphism|wankachi|tamokaci|noun|noun||wan + kachi (person form)|||||
+anthropomorphize|wankachichenun|tamokacicenun|verb|un verb||wan + kachi + chen (person form + -ization)|||||
 anthropophagi|||||||||||
 anthropophagus|||||||||||
 anti|||||||||||
@@ -1379,13 +1342,13 @@ apostolic|||||||||||
 apostrophe|||||||||||
 Apotactite|||||||||||
 apothecary|||||||||||
-apothem|aposemu|aposemu|noun|noun||English apothem|||||
+apothem|aposem|aposem|noun|noun||English apothem|||||
 apotheosis|||||||||||
 apozem|||||||||||
 apparate|||||||||||
 apparation|||||||||||
 apparatus|||||||||||
-apparatûs|||||||||||
+apparatus|||||||||||
 apparent|||||||||||
 apparition|||||||||||
 apparitor|||||||||||
@@ -1409,7 +1372,7 @@ appertain|||||||||||
 appetence|||||||||||
 appetent|||||||||||
 appetible|||||||||||
-appetite|kain'yaku|kain'yaku|noun|noun|||||||
+appetite|kainyok|kainyok|noun|noun|||||||
 appetition|||||||||||
 Appian|||||||||||
 Appius|||||||||||
@@ -1457,12 +1420,12 @@ arc-|||||||||||
 arc length|āku sa len|a-ku sa len|noun|noun|||||||
 arcade|||||||||||
 archer|||||||||||
-archipelagic|ekuwailang|ekuwailaq|adjective|ng adjective||列島 (eku+aila)|||archipelago||
-archipelago|ekuwaila|ekuwaila|noun|noun||列島 (eku+aila)|||archipelagic||
+archipelagic|aitkuring|aitkuriq|adjective|ng adjective||ait kurin  (island group)|||archipelago||
+archipelago|aitkurin|aitkurin|noun|noun||ait kurin  (island group)|||archipelagic||
 architect|||||||||||
 architectonic|||||||||||
 architector|||||||||||
-architecture|||||||||||
+architecture|borotia|||||建築|||||
 archive|reksunshe|reksunxe|noun|noun||rekisa (historical) + asunshe (storage) = rekisasunshe|||||
 archivolt|||||||||||
 archontology|||||||||||
@@ -1510,7 +1473,7 @@ areolet|||||||||||
 Areopagite|||||||||||
 Areopagitic|||||||||||
 aret|||||||||||
-arête|||||||||||
+arete|||||||||||
 Arezzo|||||||||||
 argal|||||||||||
 argala|||||||||||
@@ -1596,7 +1559,7 @@ armor|||||||||||
 Armoric|||||||||||
 Armorica|||||||||||
 armure|||||||||||
-army|gun|gun||||軍|||||
+army|wal|wal||||軍|||||
 Arno|||||||||||
 aroma|||||||||||
 aromatic|||||||||||
@@ -1615,8 +1578,8 @@ Arretine|||||||||||
 arrha|||||||||||
 arride|||||||||||
 arris|||||||||||
-arrival|||||||||||
-arrive|rairun|rairun||||come|||||
+arrival|rai|rai||||rai|||||
+arrive|rairun|rairun||||rai|||||
 arrogance|||||||||||
 arrogancy|||||||||||
 arrogant|||||||||||
@@ -1630,7 +1593,7 @@ Arsamosata|||||||||||
 Arsenic|arsenik|arsenik|noun|noun|||||||
 arsenical|||||||||||
 Arsis|||||||||||
-arson|hosapo|hosapo|noun|noun||放火|||||
+arson|hosapo|hosapo|noun|noun||hos (release)apo (fire)|||||
 arsonist|hosapowan|hosapowan|noun|noun||hosapo (arson) + wan (person)|||||
 art|an|an|||||||||
 art museum|biujutukan|biujutukan|noun|noun|||||||
@@ -1685,7 +1648,7 @@ ascendant|||||||||||
 ascendible|||||||||||
 ascension|||||||||||
 ascertain|||||||||||
-asceticism|kin’yokushugi|kin’yokuxugi|noun|noun|||||||
+asceticism|kin’yokshugi|kin’yokxugi|noun|noun||禁欲主義|||||
 ascian|||||||||||
 ascites|||||||||||
 Asclepius|||||||||||
@@ -1760,7 +1723,8 @@ assertion|||||||||||
 assertoric|||||||||||
 assertory|||||||||||
 asses|||||||||||
-assess|||||||||||
+assess|lukounttērun||verb|run verb||lukoun (investigate) + tē (to determine or establish)|||||
+assessment|lukounttē||noun|noun||査定|||||
 assession|||||||||||
 assessor|||||||||||
 asset|biupafion|biupafion|noun|noun|||||||
@@ -1783,9 +1747,8 @@ assist|||||||||||
 assistance|ayuda|ayuda|noun|noun|(financial assistance)||||||
 assistant|||||||||||
 assize|||||||||||
-associate|||||||||||
-associate |ren’omorun|ren’omorun|||||||||
-association|ren’omo|ren’omo|||||||||
+associate|renrinun|renrinun|||||||||
+association|renrin|renrin|||||||||
 assoil|||||||||||
 assonance|||||||||||
 assonate|||||||||||
@@ -1854,9 +1817,9 @@ Atilius|||||||||||
 Atlantic|||||||||||
 atlas|||||||||||
 atmosphere|datikot|datikot|||||||||
-atmospheric pressure|tiatu|tiatu|||formal||||||
-atmospheric pressure|datikotung atu|datikotuq atu|||||||||
-atmospheric pressure|datikot sa atu|datikot sa atu|||||||||
+atmospheric pressure|tibran|tibran|||formal||||||
+atmospheric pressure|datikotung bran|datikotuq bran|||||||||
+atmospheric pressure|datikot sa bran|datikot sa bran|||||||||
 atom|harala|harala|    ||||||||
 -ator|||||||||||
 atrabilarian|||||||||||
@@ -1870,9 +1833,10 @@ atrocious|||||||||||
 atrocity|||||||||||
 atrophy|||||||||||
 atropine|||||||||||
-attach|turu|turu|||||||||
+attach|kabun|kabun|||||||||
 attached|||||||||||
 attack|kōgano|ko-gano|    |||攻撃|||||
+attack|lama|lama|    |||襲|||||
 attagen|||||||||||
 attain|||||||||||
 attainture|||||||||||
@@ -1880,8 +1844,8 @@ Attalia|||||||||||
 attame|||||||||||
 attemper|||||||||||
 attemperate|||||||||||
-attempt|dindaicha|dindaica|noun|noun|(to commit a crime)|未遂|||||
-attempt|dindaicharun|dindaica|verb|run verb|(to commit a crime)|未遂|||||
+attempt|dinsait|dinsait|noun|noun|(to commit a crime)|未遂|||||
+attempt|dinsaitun|dinsaitun|verb|un verb|(to commit a crime)|未遂|||||
 attempt|atem|atem|noun|noun|||||||
 attempt|atemun|atemun|verb|run verb|||||||
 attend|||||||||||
@@ -1921,8 +1885,8 @@ authority|||||||||||
 authorized|||||||||||
 auto|||||||||||
 automate|jaidōrun|jaido-run|verb|run verb||automatic|||automatic||
-automatic|jaidōng|jaido-q|adjective|ng adjective||自動|||||
-automatically|jaidōnak|jaido-nak|adverb|adverb||自動|||||
+automatic|jaidōng|jaido-q|adjective|ng adjective||自 dō (move)|||||
+automatically|jaidōnak|jaido-nak|adverb|adverb||自 dō (move)|||||
 autotomy|jaijein|jaijein|noun|noun|||||||
 auxiliary|||||||||||
 avail|||||||||||
@@ -2013,10 +1977,10 @@ bee|buchi|buci|noun|noun||Old Mampulan|||||
 beep|||||||||||
 beer|||||||||||
 Beetle|||||||||||
-before|ur|ur||||Old Mampulan <i>hour</i>. See Mampulan word <i>hur</i>|||||
+before|ur|ur||||Old Mampulan <i>hour</i>. See Mampulan word <i>hurung</i>|||||
 begin|hiunun|hiunun|verb|run verb|||||start||
 beginning|hiun|hiun|noun|noun|||||||
-behavior|goudō|goudo-||||行動|||||
+behavior|goudō|goudo-||||行 dō (move)|||||
 behind|||||||||||
 being|||||||||||
 belated|||||||||||
@@ -2033,7 +1997,7 @@ bend|||||||||||
 beneficial|||||||||||
 benefit|ringen|riqen|||usually economic benefit|利益,恩恵|||||
 benefit|gurawe|gurawe||||利益,恩恵|||||
-benign|lianshō|lianxo-|    |||良性|||||
+benign|lianles|lianles|    |||良性|||||
 Berkelium|berkelium|berkelium|noun|noun|||||||
 Beryllium|berilium|berilium|noun|noun|||||||
 best|||||||||||
@@ -2060,7 +2024,7 @@ biography|||||||||||
 biology|buibuga|buibuga|noun|noun|||||||
 bird|ipon|ipon|||||||||
 birth|chonibui|conibui|||||||||
-birthday|chonibuihi|conibuihi|||||||||
+birthday|chonibuirau|conibuirau|||||||||
 birthstone|chonibuibato|conibuibato|||||||||
 Bismuth|bismus|bismus|noun|noun|||||||
 Bison|||||||||||
@@ -2090,7 +2054,7 @@ blizzard|mandi|mandi|||||||||
 block|||||||||||
 blond|||||||||||
 blood|duko|duko|||||||||
-blood pressure|duko sa atu|duko sa atu|    ||||||||
+blood pressure|duko sa bran|duko sa bran|    ||||||||
 blood type|duko sa pasa|duko sa taip|noun|noun|||||||
 bloodlust|sateti|sateti|    ||||||||
 bloom|sakun|sakun|verb||||||||
@@ -2133,7 +2097,7 @@ bore|tamarun|tamarun|verb|run verb|feeling bored|tamang. adjective came first|||
 bored|tamang|tamaq|adjective|ng adjective|||||||
 boring|||||||||||
 born|fionarun|||||passive form 産|||||
-Boron|boron|boron|noun|noun||硼素|||||
+Boron|boron|boron|noun|noun||硼+ sau (origin, prime, or element)|||||
 boss|||||||||||
 bossy|||||||||||
 both|||||||||||
@@ -2161,7 +2125,7 @@ bread|pan|pan|||||Ko kainu pan mei miun.|I eat bread with milk.|||
 break|pasounun|pasounun|||||||||
 breakable|||||||||||
 breakfast|asakain|asakain|||||||||
-breakthrough|totupa|totupa|noun|noun||突破|||||
+breakthrough|totupa|totupa|noun|noun||突pa (to break)|||||
 breast|||||||||||
 breath|nas|nas|||||||||
 breathe|nasun|nasun||un verb|||||||
@@ -2175,11 +2139,11 @@ brilliant|||||||||||
 bring|burun|burun|verb|run verb|||||||
 bring up|ikun|ikun||||育|||||
 brisk|||||||||||
-brittleness|maroshō|maroxo-|noun|noun||脆性|||||
+brittleness|maroles|maroles|noun|noun||脆性|||||
 broad|burōng|buro-q|adjective|ng adjective|||||||
 broadcast|hossō|hosso-|||||||||
 broken|||||||||||
-Bromine|buromin|buromin|noun|noun||臭素|||||
+Bromine|buromin|buromin|noun|noun||臭+ sau (origin, prime, or element)|||||
 bronze|banaka|banaka|noun|noun|||||||
 brother|buro|buro|noun|noun|||||||
 brown|kayung|kayuq||g adjective|||||||
@@ -2216,7 +2180,7 @@ but|par|par|||||||||
 butter|batā|bata-|||||||||
 butterfly|faro|faro|noun|noun||Old Mampulan|||||
 buttery|||||||||||
-button|bota|bota|||||||||
+button|trunki|trunki|||||||||
 buy|bairu|bairu|||||||||
 buyer|||||||||||
 Buzzard|||||||||||
@@ -2274,7 +2238,7 @@ captain|||||||||||
 capture|||||||||||
 Capybara|||||||||||
 car|kā|ka-|||||||||
-Carbon|tansau|tansau|noun|noun||炭素|||||
+Carbon|tansau|tansau|noun|noun||炭+ sau (origin, prime, or element)|||||
 card|kād|ka-d|||||||||
 cardboard|kakko|kakko|noun|noun|||||||
 Cardinal|||||||||||
@@ -2355,7 +2319,7 @@ chaos|||||||||||
 chapter|||||||||||
 char|||||||||||
 character|||||||||||
-charcoal|putan|putan|noun|noun||木炭|||||
+charcoal|putan|putan|noun|noun|| pu (tree) 炭|||||
 charge|||||||||||
 charity|||||||||||
 charming|||||||||||
@@ -2389,7 +2353,7 @@ Chinese|chainawan|cainawan|noun|noun|person||||||
 chip|||||||||||
 Chipmunk|||||||||||
 chisel|chise|cise|||||||||
-Chlorine|sōtosau|so-tosau|noun|noun||塩素|||||
+Chlorine|sōtosau|so-tosau|noun|noun||塩+ sau (origin, prime, or element)|||||
 chocolate|cokolate|cokolate|||||||||
 choice|||||||||||
 choose|senun|senun|verb|un verb||選|||||
@@ -2439,7 +2403,7 @@ cliff|kabana|kabana|||||||||
 climate|tibuko|tibuko|noun|noun|||||||
 clinic|kulinik|kulinik|||||||||
 clip|||||||||||
-clock|fonaka|fonaka||||foun + haka|||||
+clock|founmas|founmas||||foun + mas|||||
 clog|bara|bara|noun|noun|||||||
 clog|bararun|bararun|verb|run verb|||||||
 clone|||||||||||
@@ -2488,8 +2452,8 @@ collide|chongtoturun|coqtoturun|verb|run verb||衝突|||||
 collision|chongtotu|coqtotu|noun|noun||衝突|||||
 colloquial|||||||||||
 colonel|||||||||||
-color|kolo|kolo|||||||colored||
-colored|koloru kolong|koloru koloq|adjective||||||color||
+color|klon|klon|||||||colored||
+colored|klong|kloq|adjective||||||color||
 colorful|||||||||||
 colorize|||||||||||
 colorless|||||||||||
@@ -2544,8 +2508,8 @@ complicit|tanahang|tanahaq|adjective|g adjective|||||||
 compose|||||||||||
 composed|||||||||||
 compound|samatap|samatap|noun|noun||sama orun na tap (put together parts) (parts that are put together)|||||
-compress|achchubanun|accubanun|verb|un verb|||||||
-compression|achchuban|accuban|noun|noun||圧縮 (atuchuban)|||||
+compress|branchubanun|brancubanun|verb|un verb||bran (pressure) + chuban (shrink or contract)|||||
+compression|branchuban|brancuban|noun|noun||bran (pressure) + chuban (shrink or contract)|||||
 compute|kompiuru|kompiuru|||||||||
 computer|kompiuki|kompiuki|||||||||
 con-|sama-|sama|prefix|prefix|together|sama (together)|||||
@@ -2565,7 +2529,7 @@ condition|jōpano|jo-pano||||状態|||||
 condolence|padenrigain|padenrigain|| ||哀悼|||||
 Condor|||||||||||
 conductor|mibitai|mibitai|noun|noun|mibitai (of electricity)|導体|||||
-conductor|fingsuinwan|fiqsuinwan|noun|noun|in music|指揮者|||||
+conductor|fingsuinwan|fiqsuinwan|noun|noun|in music|指揮 + wan (person)|||||
 conference|||||||||||
 confess|dunwairun|dunwairun|verb|run verb|||||||
 confession|dunwai|dunwai|noun|noun|||||||
@@ -2589,9 +2553,9 @@ connection|||||||||||
 conscious|||||||||||
 consciousness|ngishik|qixik|noun|noun||意識|||||
 consecutive|renkon|renkon|||||||||
-consent|onakan|onakan|noun|noun||同 + 感|||||
-consent|onangi|onaqi|noun|noun|||||agree, agreement||
-consent|onakanun|onakanun|verb|un verb||同 + 感|||||
+consent|roukan|roukan|noun|noun||rou (same) + 感|||||
+consent|roungi|rouqi|noun|noun|||||agree, agreement||
+consent|roukanun|roukanun|verb|un verb||rou (same) + 感|||||
 consequence|||||||||||
 consider|agemiunun|agemiunun|verb|un verb|||||||
 considerate|||||||||||
@@ -2630,7 +2594,7 @@ continent|dariku|dariku|noun|noun|||||||
 continue|konun|konun|verb|un verb|||||||
 continuity|konte|konte|noun|noun|||||||
 contrabass|kontorabas|kontorabas|||||||double bass||
-contract|onangisama|onaqisama|noun|noun||onangirun (agree) + sama (together)|||||
+contract|roungisama|rouqisama|noun|noun||roungirun (agree) + sama (together)|||||
 contribution||||||貢献|||||
 control|senggian|seqgian||||(1) 制御 (2) |||||
 conventional|||||||||||
@@ -2706,7 +2670,7 @@ creamy|||||||||||
 create|raksakurun|raksakurun|verb|run verb|||||||
 creation|raksaku|raksaku|noun|noun|||||||
 creative|raksakung|raksakuq|adjective|ng adjective|||||||
-creativity|raksakushō|raksakuxo-|noun|noun|||||||
+creativity|raksakules|raksakules|noun|noun|||||||
 creator|raksakuwan|raksakuwan|noun|noun|||||||
 creature|||||||||||
 credit|||||||||||
@@ -2784,9 +2748,9 @@ darling|||||||||||
 Darmstadtium|damsutatium|damsutatium|noun|noun|||||||
 data|deita|deita|noun|noun||data|||||
 database|deitabeis|deitabeis|noun|noun||database|||||
-date|hijon|hijon|noun|noun||日付|||||
+date|raujon|raujon|noun|noun||日付|||||
 daughter|paidan|paidan||||娘|||||
-day|hi|hi||||日|||||
+day|rau|rau||||日|||||
 dazzling|||||||||||
 de|||||||||||
 deactivate|||||||||||
@@ -2846,7 +2810,7 @@ defense|bōei|bo-ei|noun|noun||防衛|||||
 defenseless|||||||||||
 defensive|||||||||||
 defiant|||||||||||
-defibrillation|jonisdō|jonisdo-||||除細動|||||
+defibrillation|jonisdō|jonisdo-||||除細 dō (move)|||||
 deficient|||||||||||
 define|tēgiru|te-giru|||||||||
 definite|||||||||||
@@ -2864,12 +2828,12 @@ delete|kezujoru|kezujoru|||||||||
 deletion|kezuchiho|kezuciho|||||||||
 delicious|rasung|rasuq|||||||||
 delightful|||||||||||
-delinquent|delian|delian||||不良|||||
+delinquent|delian|delian||||de (negation) 良|||||
 delirious|||||||||||
 deliver|deliru  (a mail or package)|deliru  (a mail or package)|||||||||
 delivery|||||||||||
 delta|mikakkuno (delta of a river)|mikakkuno (delta of a river)|||||||||
-delusion|cheidawomo|ceidawomo|noun|noun||妄想 (cheida + omo)|||||
+delusion|cheidarin|ceidarin|noun|noun||妄想 (cheida + rin)|||||
 demand|||||||||||
 demanding|||||||||||
 democracy|minshushugi|minxuxugi|||||||||
@@ -2903,7 +2867,7 @@ desert|sunabaku|sunabaku|||||||||
 deserted|||||||||||
 desertification|sunabakuchen|sunabakucen|||||||||
 deserve|gusābun|gusa-bun|verb|un verb||good serve|||||
-design|||||||||||
+design|sechumas|||||設計|||||
 designate|fingtēru (verb)|fiqte-ru (verb)|||||||||
 designation|fingtē (noun)|fiqte- (noun)|||||||||
 designer|||||||||||
@@ -2916,7 +2880,7 @@ despotism|jokchirishugi|jokcirixugi|||||||||
 destiny|diunmē|diunme-|noun|noun||運命|||||
 destroy|||||||||||
 destruct|||||||||||
-destruction|gachimetu|gacimetu||||壊滅|||||
+destruction|brakmetu|brakmetu||||brak (to break)滅|||||
 detach|||||||||||
 detail|||||||||||
 detailed|||||||||||
@@ -3084,7 +3048,7 @@ dry cell battery|wakadensin|wakadensin||||乾電池|||||
 dual|||||||||||
 Dubnium|dubnium|dubnium|noun|noun|||||||
 duck|ya|ya|||||||||
-ductility|chekeshō|cekexo-|noun|noun||延性|||||
+ductility|chekeles|cekeles|noun|noun||延性|||||
 due|||||||||||
 dull|||||||||||
 dump|taponun|taponun|verb|un verb|||||||
@@ -3094,7 +3058,7 @@ durable|||||||||||
 during|||||||||||
 dust|das|das|||||||||
 dutiful|||||||||||
-duty|takama|takama|noun|noun|||||||
+duty|takama|takama|noun|noun||Old Mampulan|||||
 dynasty|||||||||||
 Dysprosium|disprosium|dispurosium|noun|noun|||||||
 each|ata (one each)|ata|||||||||
@@ -3105,7 +3069,7 @@ early|||||||||||
 earnest|||||||||||
 earth|awonbola (planet)|awonbola|noun|noun|||||||
 earthenware|doki|doki|noun|noun|||||||
-earthquake|awonkuin|awonkuin|noun|noun||地震|||||
+earthquake|awonkuin|awonkuin|noun|noun||地+ kuin (shake, tremble)|||||
 earthworm|tokko|tokko|noun|noun|||||||
 Earwig|||||||||||
 ease|yat (noun), yatun (verb)|yat<br>yatun|||||||||
@@ -3138,7 +3102,7 @@ efficient|bisaliong|bisalioq||||効率|||||
 effort|afo|afo|||||||||
 egg|oun|oun|noun|noun|||||||
 eggplant|talo|talo|||||||||
-ego|rizak (formal)<br>īgou|rizak<br>i-gou|||||||||
+ego|rizak|rizak|||||||||
 egoism|rizakshugi|rizakxugi|||||||||
 egregious|||||||||||
 Egret|||||||||||
@@ -3175,7 +3139,7 @@ else|||||||||||
 embarrassed|||||||||||
 embed|||||||||||
 embellished|||||||||||
-emergency|gakkiu|gakkiu|    ||||||||
+emergency|gakkiu|gakkiu|    |||gak (tense) + kiu (sudden)|||||
 emesis|huahalan|huahalan||||嘔吐|||||
 eminent|||||||||||
 emit|||||||||||
@@ -3219,9 +3183,9 @@ ensure|||||||||||
 enter|hairun|hairun|verb|run verb|||||||
 entertain|entārun|enta-run|verb|run verb|||||||
 entertainment|entā|enta-|noun|noun|||||||
-enthusiasm|||||||||||
+enthusiasm|inkannas|inkannas|noun|noun||in kan (in the spirit) + -nas|||||
 entire|||||||||||
-entrance|haibi|haibi|||||||||
+entrance|haibi|haibi|noun|noun|||||||
 entrepreneur|okogyōwan|okogyo-wan|noun|noun|||||||
 entrepreneurship|okogyō|okogyo-|noun|noun|||||||
 entry|||||||||||
@@ -3268,13 +3232,13 @@ et cetera|eche|ece|noun|noun|||||||
 etherealize|||||||||||
 ethical|||||||||||
 ethics|||||||||||
-etymology|kataminaga|kataminaga|noun|noun||語源学|||||
+etymology|kataminaga|kataminaga|noun|noun||語+ mina (origin or source) + ga (study) |||||
 eukaryote|makakbuibu|makakse-bu|noun|noun|||||||
 eulogy|iulo|iulo|noun|noun|||||||
 euphoric|||||||||||
 Europe|||||||||||
 Europium|yuropium|yuropium|noun|noun|||||||
-Eustachian tube|te'ngazutu|teqazutu|noun|noun|||||||
+Eustachian tube|orenazutu|teqazutu|noun|noun||orena (ear) + zutu (tube)|||||
 euthanasia|anrakuziun|anraziun|noun|noun||安楽死|||||
 evacuate|tinnanun|tiqnanu|verb|un verb||避難 (ting + nan)|||||
 evacuation|tinnan|tiqnan|noun|noun||避難 (ting + nan)|||||
@@ -3327,8 +3291,8 @@ exit|oubi|oubi|||||||||
 exosphere|sototikot|sototikot|      ||||||||
 exotic|||||||||||
 expand|||||||||||
-expect|yōmorun|yo-mo|verb|run verb||yo (予) + omo (想)|||||
-expectation|yōmo|yo-mo|noun|noun||yo (予) + omo (想)|||||
+expect|yorinun|yorinun|verb|run verb||yo (予) + rin (想)|||||
+expectation|yorin|yorin|noun|noun||yo (予) + rin (想)|||||
 expense|tui|tui||||費|||||
 expensive|takang|takaq|adjective|ng adjective|||||||
 experience|arken|arken|    |||経験|||||
@@ -3381,7 +3345,8 @@ fairy|yaufin|yaufin||||妖精|||||
 faithful|||||||||||
 fake|||||||||||
 falcon|mabado|mabado|||||||||
-fall|huru<br>yen (season)|huru<br>yen|noun|noun|||||||
+fall|hurun|huru|noun|noun|||||||
+fall|yen|yen|noun|noun|season. See autumn||||||
 false|||||||||||
 fame|arinei|arinei|||||||||
 familiar|||||||||||
@@ -3390,7 +3355,7 @@ family name|mekin|mekin|noun|noun|||||||
 famous|arineing|arineiq|||||||||
 fan|||||||||||
 fancy|||||||||||
-fang|pangil|paqil|noun|noun|a long sharp tooth||||||
+fang|pangil|paqil|noun|noun|a long sharp tooth|from Pangil the Wolf Legend|||||
 fantastic|||||||||||
 fantasy|||||||||||
 far|yung|yuq|||||||||
@@ -3423,7 +3388,7 @@ feed|||||||||||
 feedback|||||||||||
 feel|kanun (emotion) |kanun|verb|un verb|||||||
 feeling|kan|kan|||||||||
-feet|bes|bes|||||||||
+feet|bes son|bes|||plural form of foot||||||
 feisty|||||||||||
 felicity|||||||||||
 feline|||||||||||
@@ -3439,9 +3404,9 @@ ferret|shirona|xirona|||||||||
 fertilizer|fraitoka|fraitoka|noun|noun||肥料|||||
 fetch|sundoru (from school) |sundoru (from scool) |||||||||
 feud|fiun|fiun|noun|noun||from English feud|||||
-few|||||||||||
+few|plun|plun|noun|noun|||||||
 fez|fez|fez|||||||||
-fibrillation|nisdō|nisdo-||||細動|||||
+fibrillation|nisdō|nisdo-||||細 dō (move)|||||
 fickle|||||||||||
 fidelity|chekkel|cekkel|noun|noun||忠誠 (chekikel)|||||
 field|ta (crops, rice,…)|ta (crops, rice,…)|noun|noun|||||||
@@ -3462,7 +3427,7 @@ finalize|||||||||||
 finally|||||||||||
 finance|chaimu|caimu|||||||financial accounting||
 financial|||||||||||
-financial accounting|chaimung kaihaka|caimuq kaihaka|||||||finance||
+financial accounting|chaimung kaimas|caimuq kaimas|||||||finance||
 finch|amoma|amoma|||||||||
 find|finun|finun|||||||||
 find a job|angshokun|aqxokun|||||I need to get a job.|Ko kailu aqxokun.|find employment, get a job||
@@ -3512,9 +3477,10 @@ flimsy|||||||||||
 flip|||||||||||
 flippant|||||||||||
 float|ukaru|ukaru|  ||||||||
-floor|sahi|sahi|||||||||
-flour|chhojikona|chojikona|||||||||
-flow|riu <br> riuru|riu <br> riuru|||||||||
+floor|paso|paso|noun|noun|||||||
+flour|hana|hana|noun|noun|||||||
+flow|taloy|taloy|noun|noun||"replaced old word ""riu"""|||||
+flow|taloyun|taloyun|verb|run verb|||||||
 flower|fa|fa|||||||||
 flowering of flowers|opufa|opufa|||||||||
 flowery|||||||||||
@@ -3542,7 +3508,7 @@ font|fontu|fontu|noun|noun|||||||
 food|kenas|kenas|||||||||
 foolhardy|||||||||||
 foolish|||||||||||
-foot|||||||||||
+foot|bes|bes|||||||||
 football|||||||||||
 footlight|pāziu|pa-ziu|    ||||||||
 footnote|pāchiu|pa-ciu|    ||||||||
@@ -3552,7 +3518,7 @@ forceful|||||||||||
 forecast|yoho|yoho|    ||||||||
 foreign|||||||||||
 foreign affairs|sotomu|sotomu|noun|noun|||||||
-foreshock|beikuin|beikuin||||前震|||||
+foreshock|beikuin|beikuin||||前+ kuin (shake, tremble)|||||
 forest|fore|fore|||||||||
 forever|||||||||||
 forget|||||||||||
@@ -3588,7 +3554,7 @@ fraud|zaki|zaki|||||||||
 frayed|||||||||||
 free|fī|fi-|||fī (freedom)||||||
 free|detoka|detoka|||detoka (free of charge)||||||
-freedom|jayu|jayu||||jaiyu 自由 becomes jayu|||||
+freedom|jayu|jayu||||jaiyu becomes jayu|||||
 freeze|dongun|doqun|verb|un verb||凍|||||
 freeze to death|dongziun|doqziun|noun|noun||凍死|||||
 French|||||||||||
@@ -3596,7 +3562,7 @@ French horn|hōn|ho-n|||||||||
 frequent|||||||||||
 fresh|anagemu (food)|anagemu (food)|||||||||
 friction|magebi|magebi|||||||||
-Friday|gonhi|gonhi|||||||||
+Friday|gonrau|gonrau|||||||||
 friend|fen|fen|||||||||
 friend of the court|amikaskiuriyai|amikaskiuriyai||||from English <i>amicus curiae</i>|||amicus curiae||
 friendly|||||||||||
@@ -3611,7 +3577,7 @@ frog|lakan|lakan|noun|noun||Old Mampulan|||||
 from|wo|wo||particle|origin particle||||||
 from now on|imaafu|imaafu|adverb|adverb|||||||
 from… to|wo… de|wo… de|||||||||
-front|beilain  (weather front, front line)|beilain  (weather front, front line)|noun|noun|||||||
+front|beilain|beilain|noun|noun|(weather front, front line)||||||
 frontier|furoti|furoti|||||||||
 frosty|||||||||||
 frozen|||||||||||
@@ -3627,8 +3593,8 @@ full|fung|fuq|adjective|ng adjective|||||||
 fumbling|||||||||||
 fume|||||||||||
 fun|raku|||||楽|||||
-function|relesū|relesu-|    ||relesū|Japanese 関数, 機能|||||
-function|kinō|kino-|    ||kinō|Japanese 関数, 機能|||||
+function|relesū|relesu-|    ||relesū|関数|||||
+function|kinō|kino-|    ||kinō|機能|||||
 functional|||||||||||
 fund|fando|fando|||||||||
 fundraising|deipigon|deipigon|noun|noun||募金|||||
@@ -3646,7 +3612,7 @@ Gadolinium|gadolinium|gadolinium|noun|noun|||||||
 gain|||||||||||
 galaxy|||||||||||
 gallbladder|gul|gul|noun|noun|||||||
-gallery|geiriudein (art)|geiriudein (art)|noun|noun|||||||
+gallery|geiriudein|geiriudein|noun|noun|art gallery||||||
 Galliform|||||||||||
 Gallium|galium|galium|noun|noun|||||||
 game|||||||||||
@@ -3766,11 +3732,11 @@ grateful|||||||||||
 grater|guraki|guraki|noun|noun|||||||
 grave|||||||||||
 gravity|||||||||||
-gray|obolong|oboloq||||oboun (ash) + kolo (color)|||||
-great|malaka<br>malakang|malaka<br>malakaq|||||||||
+gray|oboklong|obokloq||||oboun (ash) + klon (color)|||||
+great|malakang|malakaq|||||||||
 Great blue heron|||||||||||
 Great white shark|||||||||||
-greed|musayoku|musayoku|||||||||
+greed|musayok|musayok|||||||||
 greedy|||||||||||
 green|lunung|lunuq|||||||||
 gregarious|||||||||||
@@ -3870,7 +3836,7 @@ hasty|||||||||||
 hat|||||||||||
 hatchery|keschemba|kescemba|noun|noun||keschenba|||||
 hatchet|hache|hace|noun|noun|||||||
-hate|ayaru|ayaru|verb||||||||
+hate|ayarun|ayarun|verb|run verb|||||||
 hateful|||||||||||
 haunting|||||||||||
 have|mairun (exist as in I have a toy.)|mairun|verb||(exist as in He has a toy.)||||||
@@ -3948,7 +3914,7 @@ hold|harun|harun|verb||||||||
 hold firmly|kapat|kapat|||||||||
 holder|hawan (person)|hawan|noun|noun||Mampulan Language <i>harun</i> and <i>man</i>|||||
 hole|sito|sito|noun|noun||Old Mampulan|||||
-holiday|resuhi|resuhi|noun|noun|||||||
+holiday|resurau|resurau|noun|noun|||||||
 hollow|||||||||||
 Holmium|holmium|holmium|noun|noun|||||||
 home|houn|houn|noun|noun|one's place of residence||||domicile||
@@ -3998,7 +3964,7 @@ howl|wōnu|wo-nu|noun|noun||possibly from Mampulan woun (wolf)|||||
 howl|wōnu, wōnun|wo-nun|verb|run verb||possibly from Mampulan woun (wolf)|||||
 huge|||||||||||
 human|||||||||||
-human resources|wanwate|wanwate|noun|noun||人材|||||
+human resources|wanwate|wanwate|noun|noun||wan (person) + wate (material)|||||
 humanism|wanroshugi|wanroxugi|noun|noun|||||||
 humble|||||||||||
 humidity|aundo|aundo|noun|noun|||||||
@@ -4012,14 +3978,14 @@ hundred|che|ce|||||||||
 hungry|||||||||||
 hunt|hanrun|hanrun|verb|run verb|||||||
 hunter|hanwan|hanwan|noun|noun|||||||
-hurry|kiurun|kiurun|verb|run verb||kiu (急)|||||
+hurry|kiurun|kiurun|verb|run verb||kiu (hurry)|||||
 hurt|araru|araru|||||||||
 hurtful|||||||||||
 husband|||||||||||
 husky|||||||||||
 hybrid|zatshu|zatxu|noun|noun|||||||
 hydro|||||||||||
-Hydrogen|siusau|siusau|noun|noun||水素|||||
+Hydrogen|siusau|siusau|noun|noun||siu (water) +  sau (origin, prime, or element)|||||
 hyena|hamana|hamana|noun|noun|||||||
 hymn|hideuta|hideuta|noun|noun|||||||
 hyper|||||||||||
@@ -4028,7 +3994,7 @@ hyperthermia|acchuil|accuil||||acucuil|||||
 hyperventilation|higikōnsik|higiko-nsik|noun|noun|||||hyperpnea||
 hypnotic|||||||||||
 hypo|||||||||||
-hypocenter|kuinmina|kuinmina||||震源|||||
+hypocenter|kuinmina|kuinmina||||kuin (shake, tremble)+ mina (origin or source)|||||
 hypotenuse|nasasairu|nasasairu|noun|noun||斜辺|||||
 I|ko|ko|pronoun|||Old Mampulan|I ate bread.|Ko pan kaina.|||
 ice|ais|ais|noun|noun|||||||
@@ -4055,7 +4021,7 @@ ignorant|||||||||||
 ignore|||||||||||
 iguana|igana|igana|||||||||
 ill|||||||||||
-illegal|dehoung|dehouq|adjective|ng adjective||不法|||||
+illegal|dehoung|dehouq|adjective|ng adjective||de (negation) 法|||||
 ill-fated|||||||||||
 ill-informed|||||||||||
 illiterate|dedokkatung|dedokkatuq|adjective|ung adjective||de (negation) + dokkatung (literate)|||||
@@ -4238,8 +4204,8 @@ invalidate|||||||||||
 invasion|lamarai|lamarai|||||||||
 invent|||||||||||
 invert|||||||||||
-investigate|siralukounun|siralukounun|verb|un verb||調査|||||
-investigation|siralukoun|siralukoun|noun|noun||調査|||||
+investigate|lukounun|siralukounun|verb|un verb||調査|||||
+investigation|lukoun|siralukoun|noun|noun||調査|||||
 investment|mesain|mesain||||投資|||||
 invincible|||||||||||
 invisible|dematkatung|dematkatuq|adjective|ung adjective||de- (negation) + mat (eye) + kat (can)|||||
@@ -4372,7 +4338,7 @@ Krypton|kuripton|kuripton|noun|noun|||||||
 lab|||||||||||
 label|||||||||||
 labor|||||||||||
-lack|debes|debes|noun|noun|the fact or state of being wanting or deficient|不足|a lack of evidence|zainmikiun sa debes|||
+lack|debes|debes|noun|noun|the fact or state of being wanting or deficient|de (negation) bes (foot)|a lack of evidence|zainmikiun sa debes|||
 ladder|||||||||||
 lady|||||||||||
 Ladybug|||||||||||
@@ -4606,16 +4572,16 @@ make progress|gouburun|gouburun|verb|run verb|||||||
 male|||||||||||
 malevolent|||||||||||
 malform|akkachirun|akkacirun|verb|run verb||aku (bad) + kachi (form)|||||
-malignant|akushō|akuxo-|||||||||
+malignant|akules|akules|||||||||
 mall|mōl|mo-l|||||||||
-malleability|jounshō|jounxo-|noun|noun||展性|||||
+malleability|jounles|jounles|noun|noun||展性|||||
 mammal|mamal|mamal|||||||||
 mammoth|||||||||||
 man|lala (sex)|lala (sex)|||||||||
 manage|||||||||||
 management|zuturi (of a business)<br>sousaku (operations in a code)|zuturi (of a business)<br>sousaku (operations in a code)|||||||||
 manager|||||||||||
-managerial accounting|zuturiung kaihaka|zuturiuq kaihaka|||||||||
+managerial accounting|zuturiung kaimas|zuturiuq kaimas|||||||||
 Manatee|||||||||||
 mandarin duck|oshidori|oxidori|||||||||
 mandate|||||||||||
@@ -4686,12 +4652,12 @@ mealy|||||||||||
 mean|palayun|palayun||||平均|||average||
 meaning|ngiyaji|qiyaji|||||||||
 measly|||||||||||
-measure|hakaru|hakaru|||||||||
+measure|masun|masun|||||||||
 measurement|||||||||||
 meat|mala|mala|||||||||
 meat-eating|malakain|malakain|||||||||
 meaty|||||||||||
-mechanics|liga|liga||||力学|||||
+mechanics|liga|liga||||力 ga (study) |||||
 medal|medal|medal||||medal|||||
 media|||||||||||
 median|chukos (math)|cukos (math)|||||||||
@@ -4772,7 +4738,7 @@ minus|||||||||||
 minute|||||||||||
 miracle|himala|himala|noun|noun|||||||
 mirage|mertiyun|mertiyun|noun|noun|an optical effect that is sometimes seen at sea or in the desert or over a hot pavement that may have the appearance of a pool of water or a mirror in which distant objects are seen inverted and that is caused by the bending or reflection of rays of light by a layer of heated air of varying density|蜃気楼 (mer + ti + hun)|||||
-mirror|gane|gane|noun|noun|||||||
+mirror|gar|gar|noun|noun|||||||
 miscellaneous|zatung|zatuq|adjective|ung adjective|consisting of diverse things or members|雑|||||
 miserable|||||||||||
 miserly|||||||||||
@@ -4802,7 +4768,7 @@ Molybdenum|molibdenum|molibdenum|noun|noun|||||||
 mom|mam|mam|noun|noun|||||||
 moment|||||||||||
 moment of silence|damagoma (prayer)|damagoma (prayer)|noun|noun|||||||
-Monday|mūhi|mu-hi|noun|noun|||||||
+Monday|mūrau|mu-rau|noun|noun|||||||
 monetary|tūrubu|tu-rubu|noun|noun|||||||
 money|||||||||||
 money order|tamedeiga|tamedeiga|noun|noun|||||||
@@ -4843,7 +4809,7 @@ mountainous|||||||||||
 mouse|nemi|nemi|noun|noun||鼠|||rat||
 mouth|bi|bi|||||||||
 move|dō<br>dōru|do-<br>do-ru|noun|noun|||||||
-move out of the way|nomoru|nomoru|verb||||||||
+move out of the way|nomorun|nomorun|verb|run verb|||||||
 movement|||||||||||
 movie|||||||||||
 Mr|||||||||||
@@ -4855,7 +4821,7 @@ muffled|||||||||||
 mug|mag|mag|noun|noun|||||||
 Mule|||||||||||
 multi-|nge-|qe-|prefix||||||||
-multicolor|ngekolong|qekoloq|adjective||||||||
+multicolor|ngeklong|qekloq|adjective||||||||
 multicolored|||||||||||
 multiplicand|hībachusū|hi-bacusu-|noun|noun|||||||
 multiplication|bachuhou|bacuhou|noun|noun|||||||
@@ -4875,7 +4841,7 @@ musical composition|sakūta|saku-ta|noun|noun|||||||
 musical instrument|rakki|rakki|noun|noun||rakuki|||||
 musician|nerakuwan|nerakuwan|noun|noun|||||||
 Muskox|||||||||||
-must|masun|masun|||||||||
+must|mastun|mastun|||||||||
 mustard|karashi|karaxi|noun|noun|||||||
 musty|||||||||||
 mutate|miuturu|miuturun|verb|run verb|||||||
@@ -4945,8 +4911,8 @@ network|||||||||||
 neuron|pangiyar nisbō|paqiyar nisbo-||||神経細胞|||||
 neurosis|pangiyaryil|paqiyaryil||||神経症 (pangi'ar'il)|||||
 neurotransmitter|pangiyarlakmalubunai|paqiyarlakmalubunai||||神経伝達物質 (pangi + ar + lak + malu + bu + nai)|||||
-neutral|chushō (not acid nor base)|cuxo- (not acid nor base)|noun|noun|||||||
-neutron|chushōla|cuxo-la|noun|noun|||||||
+neutral|chules (not acid nor base)|cules (not acid nor base)|noun|noun|||||||
+neutron|chulesla|culesla|noun|noun|||||||
 never|nun|nun|adverb|adverb|||||||
 new|anang|anaq|adjective|ng adjective|||||||
 New World quail|||||||||||
@@ -4969,13 +4935,13 @@ nimble|||||||||||
 nine|ning|niq|||||||||
 Niobium|niyobium|niyobium|noun|noun|||||||
 nippy|||||||||||
-Nitrogen|chitsau|citsau|noun|noun||窒素|||||
+Nitrogen|chitsau|citsau|noun|noun||窒+ sau (origin, prime, or element)|||||
 no|nan|nan|||||||||
 no one|dewan|dewan|||||||||
 Nobelium|nobelium|nobelium|noun|noun|||||||
 noble|guing|guiq|adjective|ng adjective||貴|||||
 nobody|dewan|dewan|||||||||
-nocturnal|kabisoshōng|kabisoxo-q|adjective|ng adjective||夜行性|||||
+nocturnal|kabisolesung|kabisolesuq|adjective|ng adjective||夜行性|||||
 noir|nuwār|nuwa-r|||||||||
 noise|||||||||||
 noisy|||||||||||
@@ -4987,9 +4953,9 @@ none|dei|dei|noun|noun||de (negative) + I (one)|||||
 nonflammable|deapokatung|deapokatuq|adjective|ung adjective||de + apokat|||||
 nonstop|||||||||||
 nor|||||||||||
-normal|iunitū|iunitu-|||ordinary||||||
+normal|yunitū|yunitu-|||ordinary||||||
 normalize|||||||||||
-normally|iunitūnak|iunitu-nak|adverb|adverb|||||||
+normally|yunitūnak|yunitu-nak|adverb|adverb|||||||
 north|nōs|no-s|||||||||
 nose|sano|sano|||||||||
 not|||||||||||
@@ -5084,7 +5050,7 @@ onion|bolagine|bolagine|noun|noun|||||||
 only|lang|laq|||||||||
 onto|||||||||||
 oolong tea|ūlong cha|u-loq ca|||||||||
-opacity|degrounpraishō|degrounpraixo-|noun|noun|The state or quality of being opaque, not allowing light to pass through.|degrounprai (opaque) + 性|||||
+opacity|degrounprailes|degrounprailes|noun|noun|The state or quality of being opaque, not allowing light to pass through.|degrounprai (opaque) + 性|||||
 opaque|degrounpraing|degrounpraiq|adjective|ng adjective|blocking the passage of radiant energy and especially light|de + grounprai|||||
 open|opurun|opurun|verb|run verb|||||||
 opening|||||||||||
@@ -5159,7 +5125,7 @@ owl|satori|satori|noun|noun|||||||
 own|oun|oun|||||||||
 owner|||||||||||
 ox|uza|uza|noun|noun|||||||
-Oxygen|asisau|asisau|noun|noun||酸素|||||
+Oxygen|asisau|asisau|noun|noun||酸+ sau (origin, prime, or element)|||||
 ozone|ouzoun|ouzoun|||||||||
 pace|peis|peis|||||||||
 Pacific Ocean|Pasifik oushan|Pasifik ouxan|||||||||
@@ -5273,7 +5239,7 @@ perfection|pappaki|pappaki|noun|noun||完璧|||||
 perfectionist|pappakishugiwan|pappakixugiwan|noun|noun||完璧主義 + wan|||||
 perform|||||||||||
 performance|||||||||||
-performance|shōnō|xo-no-||||性能|||||
+performance|lesnō|lesno-||||性能|||||
 perfumed|||||||||||
 perhaps|||||||||||
 perigee|chikaawonpon|cikaawonpon|noun|noun||近地点|||||
@@ -5319,7 +5285,7 @@ physical|taing|taiq|||taing (body)||||||
 physical|buring|buriq|||buring (physics)||||||
 physical education|taiik|taiik|||taiik (formal)||||||
 physical education|taing turik|taiq turik|||taing tur'ik||||||
-Physics|buriga|buriga|noun|noun||物理学|||||
+Physics|buriga|buriga|noun|noun||物理ga (study) |||||
 piano|piyano|piyano|noun|noun||piano|||||
 piccolo|pikolo|pikolo|||||||||
 pick|||||||||||
@@ -5353,14 +5319,14 @@ plague|salo|salo|noun|noun|||||||
 plain|pulein|pulein|||||||||
 plaintiff|haradun|haradun|||||||||
 plaintive|||||||||||
-plan|hakagei|hakagei|noun|noun||計画|||||
+plan|masgei|masgei|noun|noun||計画|||||
 Planarian|||||||||||
 plane|kanna|kanna|||(tool)||||||
 planet|somara|somara|noun|noun||行星|||||
 plant|pulabu|pulabu|||||||||
 plant-eating|kusakain|kusakain|||||||||
 plastic|||||||||||
-plasticity|daikashō|daikaxo-|noun|noun||塑性|||||
+plasticity|daikales|daikales|noun|noun||塑性|||||
 plate|saka|saka|noun|noun|||||||
 platform|palakachi|palakaci|noun|noun||pala (flat) + kachi (form)|||||
 Platinum|pulatinum|pulatinum|noun|noun|||||||
@@ -5575,10 +5541,10 @@ prune|||||||||||
 pseudo-|zin-|zin-|prefix|prefix||擬|||||
 pseudointellectual|zinnoung|zinnouq|noun|noun||zin- + nuong|||||
 pseudonym|zinnei|zinnei|noun|noun||zin- + nei|||||
-pseudopod|zinbes|zinbes|noun|noun||zin- + 足|||||
+pseudopod|zinbes|zinbes|noun|noun||zin- + bes (foot)|||||
 pseudoscience|zinkaga|zinkaga|noun|noun|||||||
 psychoanalysis|fin'gyomīnmukon|fin'gyomi-nmukon|noun|noun|||||||
-psychology|posoriga|posoriga||||心理学|||||
+psychology|posoriga|posoriga||||心理ga (study) |||||
 Ptarmigan|||||||||||
 public|eing|eiq|adjective|g adjective|||||||
 public|einzaka|einzaka|noun|noun|(facility/room)||||||
@@ -5605,7 +5571,7 @@ pure-bred|junudukong|junudukoq|adjective|ng adjective|pure-bred animal||||||
 purge|||||||||||
 purple|||||||||||
 purpose|meteki|meteki|||||||||
-push|tularu|tularu||||押|||||
+push|trunun|trunun||||押|||||
 pushy|||||||||||
 put|orun|orun|||||||||
 putrid|||||||||||
@@ -5661,11 +5627,13 @@ raid|lamarai|lamarai|||||||||
 rail|reil|reil|||||||||
 railroad crossing|fumijein|fumijein|||||||||
 rain|wun|wun|||||||||
+rainbow||||||(color + arch)|||||
 Rainbow trout|||||||||||
 rainfall|huluawon|huluawon|||||||||
 rainforest|wunfore|wunfore|||||||||
-raise|iku (a child)|iku (a cild)|||||||||
-rake|reik<br>reikun|reik<br>reikun|||||||||
+raise|ikun|ikun||| (raising a child)||||||
+rake|reik|reik|||||||||
+rake|reikun|reikun|||||||||
 rampage|kanama|kanama|||||||||
 range|wara|wara|||||||||
 rap|rap|rap|||||||||
@@ -5692,7 +5660,7 @@ reaction|fedō|fedo-|||||||||
 read|dokun|dokun||||Old Mampulan <i>daukun</i>|||||
 ready|rading|radiq|adjective|ng adjective|||||||
 real|rīng|ri-q|adjective|ng adjective|||||||
-real estate|dedōfion|dedo-fion||||不動産|||||
+real estate|dedōfion|dedo-fion||||de (negation)  dō (move)産|||||
 realistic|genjikung|genjikuq|adjective|ung adjective||現実|||||
 reality|genjik|genjik||||現実|||||
 realization|tosa|tosa|noun|noun||tosarun|||||
@@ -5737,7 +5705,7 @@ redefine|||||||||||
 redirect|||||||||||
 redo|||||||||||
 reduce|||||||||||
-reduction|hesuko|hesuko||||減少|||||
+reduction|heplun|heplun||||減少|||||
 refer|||||||||||
 reference|patitera|patitera||||参照|||||
 refill|||||||||||
@@ -5831,7 +5799,7 @@ reserve|||||||||||
 reset|||||||||||
 reshape|||||||||||
 reside|sumurun|sumurun||||住|||||
-resident|sumuwan|sumuwan||||住 + 者|||||
+resident|sumuwan|sumuwan||||住 + wan (person)|||||
 resin|chopotabo|copotabo|||||||||
 resist|zungaurun|zuqaurun||||抵抗|||||
 resistance|zungau|zuqau||||抵抗|||||
@@ -5841,7 +5809,7 @@ resolution|ketuwin|ketuwin||||決議|||||
 resolve|ketuwinun|ketuwinun|verb|un verb|||||||
 resonance|tannaku|tannaku|noun|noun||共鳴|||||
 resort|resorto|resorto|noun|noun|||||||
-resource|wate|wate|noun|noun||材|||||
+resource|wate|wate|noun|noun||+ wate (material)|||||
 resourceful|rosokate|rosokate|noun|noun||rosoko + wate (raccoon resources)|||||
 respect|yinzun|yinzun|noun|noun||尊敬|||||
 respectful|||||||||||
@@ -5958,8 +5926,8 @@ rusty|||||||||||
 Ruthenium|rusenium|rusenium|noun|noun|||||||
 Rutherfordium|ruserfordium|ruserfordium|noun|noun|||||||
 Saber-toothed cat|||||||||||
-sabotage|pagachi|pagacirun|verb|run verb|A deliberate action aimed at weakening someone (or something, a nation, etc) or preventing them from being successful, through subversion, obstruction, disruption, and/or destruction.|破壊|Our plans were sabotaged.|Teis hakagei pagaciraren.|||
-sabotage|pagachi|pagaci|noun|noun|A deliberate action aimed at weakening someone (or something, a nation, etc) or preventing them from being successful, through subversion, obstruction, disruption, and/or destruction.|破壊|||||
+sabotage|pabrak|pabrakrun|verb|run verb|A deliberate action aimed at weakening someone (or something, a nation, etc) or preventing them from being successful, through subversion, obstruction, disruption, and/or destruction.|pa (to break)brak (to break)|Our plans were sabotaged.|Teis masgei pabrakraren.|||
+sabotage|pabrak|pabrak|noun|noun|A deliberate action aimed at weakening someone (or something, a nation, etc) or preventing them from being successful, through subversion, obstruction, disruption, and/or destruction.|pa (to break)brak (to break)|||||
 sack|sako|sako|noun|noun|||||||
 sacrament|||||||||||
 sacred|||||||||||
@@ -5980,7 +5948,7 @@ salt|atta|atta|noun|noun|||||||
 salty|attang|attaq|adjective|ng adjective|||||||
 salvo|chounsha|counxa|||||||||
 Samarium|samarium|samarium|noun|noun|||||||
-same|onang|onaq|adjective|ng adjective|||||||
+same|roung|rouq|adjective|ng adjective|||||||
 sample|yosa|yosa|noun|noun|||||||
 sand|||||||||||
 sand dunes|sunaromo|sunaromo|noun|noun|||||||
@@ -6004,7 +5972,7 @@ satisfaction|fubes|fubes|noun|noun|||||||
 satisfied|fubesung|fubesuq|adjective|ung adjective||content|||||
 satisfy|fubesun|fubesun|verb|un verb|||||||
 saturate|||||||||||
-Saturday|dohi|dohi|noun|noun|||||||
+Saturday|dorau|dorau|noun|noun|||||||
 savage|woumunak|woumukunak||||possibly from Mampulan woun (wolf)|||||
 save|helurun|helurun||||助|||||
 savings|||||||||||
@@ -6040,7 +6008,7 @@ scratch|||||||||||
 scratchy|||||||||||
 scrawny|||||||||||
 screen|||||||||||
-screw|neji (small tool)|neji|||||||||
+screw|neji|neji|||(small tool)||||||
 screwdriver|nejiizki|nejiizki||||Mampulan Language <i>neji</i>, <i>izu</i> and <i>ki</i>|||||
 script|||||||||||
 scroll|||||||||||
@@ -6051,7 +6019,7 @@ sea lion|akana|akana|noun|noun|||||||
 sea otter|rakko|rakko|noun|noun|||||||
 Sea slug|||||||||||
 Sea snail|||||||||||
-sea wall|bōdalunrougon|bo-dalunrougon||||防潮堤|||seawall||
+sea wall|bōdalunplain|bo-dalunplain||||防潮堤|||seawall||
 Seaborgium|siborgium|siborgium|noun|noun|||||||
 Seahorse|||||||||||
 seal|saltan|saltan|noun|noun|animal||||||
@@ -6060,7 +6028,7 @@ seal|fūbinerun|fu-binerun|||to seal a crack||||||
 search|sagarun|sagarun|||||||||
 season|sounrate (e.g. summer)|sounrate (e.g. summer)|noun|noun|||||||
 seat|za|za|noun|noun|||||||
-seawall|bōdalunrougon|bo-dalunrougon||||防潮堤|||sea wall||
+seawall|bōdalunplain|bo-dalunplain||||防潮堤|||sea wall||
 second|sekon|sekon|noun|noun|One-sixtieth of a minute; the SI unit of time, defined as the duration of 9,192,631,770 periods of radiation corresponding to the transition between two hyperfine levels of caesium-133 in a ground state at a temperature of absolute zero and at rest.|English <i>second</i>|||||
 secondary|||||||||||
 second-hand|||||||||||
@@ -6118,14 +6086,14 @@ seven|ping|piq|||||||||
 sever|||||||||||
 several|sūng|su-q|||||Several people went to the basketball game.||||
 severe|||||||||||
-sex|shōbetu|xo-betu|noun|noun||性別|||||
-sexual|shōbetung|xo-betuq|adjective|g adjective||shōbetu|||||
+sex|lesbetu|lesbetu|noun|noun||性別|||||
+sexual|lesbetung|lesbetuq|adjective|g adjective||lesbetu|||||
 shabby|||||||||||
 shadow|shage|xage|noun|noun||影|||||
 shadowy|||||||||||
 shady|||||||||||
-shake|kuinun|kuinun||||震|||||
-shake|kuin|kuin||||震|||||
+shake|kuinun|kuinun||||kuin (shake, tremble)|||||
+shake|kuin|kuin||||kuin (shake, tremble)|||||
 shaking|sherun|xerun|||||||||
 shallow|shalong|xaloq|||||||||
 shame|||||||||||
@@ -6162,7 +6130,7 @@ shooting|shagano|xagano|noun|noun|Shooting is the act or process of discharging 
 shop|tion|tion|noun|noun|||||||
 shop|tionun|tionun|verb|un verb|||||||
 shopping|||||||||||
-short|shong|xoq|||opposite of long||||||
+short|shong|xoq|adjective|g adjective|opposite of long||||||
 shorts|shōto|xo-to|||clothing||||||
 short-term|shonki|xonki|||||||||
 shot|shu|xu|noun|noun||shuru|||||
@@ -6208,7 +6176,7 @@ simplify|||||||||||
 simplistic|||||||||||
 simply|||||||||||
 simulate|||||||||||
-simultaneous|onafoun|onafoun|||||||||
+simultaneous|roufoun|roufoun|||||||||
 sin|||||||||||
 since|dal (because meaning)|dal|||||||||
 sinful|||||||||||
@@ -6259,7 +6227,7 @@ sloth|salasa|salasa|||||||||
 slow|surong|suroq|adjective||||||||
 slug|nomasa|nomasa|||||||||
 slushy|||||||||||
-small|sung|suq|||||||||
+small|sung|suq|adjective|ng adjective|||||||
 small intestine|suchaw|sucaw|noun|noun|||||||
 smart|sumang|sumaq|adjective||||||||
 smell|sanowe|sanoher|noun|noun||sano (nose) + her (air)|||||
@@ -6313,7 +6281,7 @@ sometimes|bafoun|bafoun|adverb|||ba (some) + foun (time)|||||
 somewhere|badashe|badaxe|||||||||
 son|||||||||||
 song|naik|naik|noun|noun|||||||
-soon|||||||||||
+soon|nanfoun|nanfoun|adverb|adverb||nanfoun (time does not exist)|||||
 soot|sūt|su-t|noun|noun||煤|||||
 sophisticated|||||||||||
 sore|||||||||||
@@ -6351,7 +6319,7 @@ spectacular|||||||||||
 spectator|||||||||||
 speech|sapaca|sapaca|||||||||
 speed|sitdo|sitdo|noun|noun|||||||
-speedometer|sitdohaka|sitdohaka|noun|noun|||||||
+speedometer|sitdomas|sitdomas|noun|noun|||||||
 speedy|||||||||||
 spell|hoche|hoce||||綴|||||
 spelunker|||||||||||
@@ -6359,7 +6327,7 @@ spend|supun|supun|verb|un verb|||||||
 Sperm whale|||||||||||
 sphere|||||||||||
 spherical|||||||||||
-sphygmomanometer|dukoatuhaka|dukoatuhaka|noun|noun|||||||
+sphygmomanometer|dukoatumas|dukoatumas|noun|noun|||||||
 spicy|||||||||||
 Spider|||||||||||
 Spider monkey|||||||||||
@@ -6420,7 +6388,7 @@ start|hiunun|hiunun|verb|un verb|||||begin||
 state|jōpano||||state of emergency|状態|The president has declared a state of emergency.|Kironan gakkiu sa jo-pano nunseira.|||
 statement|||||||||||
 station|sutei|sutei|noun|noun|||||||
-statistics|konenhakaga|konenhakaga|noun|noun|||||||
+statistics|konenmasga|konenmasga|noun|noun|||||||
 statue|surnas|surnas|noun|noun||sur (stand) + nas (nominalizing verb)|||||
 status|||||||||||
 stay|||||||||||
@@ -6428,7 +6396,7 @@ steak|||||||||||
 steak |suteik|suteik|noun|noun|||||||
 steal|nusu|nusu|verb||||||||
 stealthy|||||||||||
-steam|siupiunti|siupiunti|noun|noun|The vapor formed when water changes from the liquid phase to the gas phase.|水蒸気|The steam from the pot is hot.|Wo poun na siupiunti acunq te.|||
+steam|siupiunti|siupiunti|noun|noun|The vapor formed when water changes from the liquid phase to the gas phase.|siu (water) + piun (vapor) + 気|The steam from the pot is hot.|Wo poun na siupiunti acunq te.|||
 steel|bakala|bakala|noun|noun|||||||
 Steelhead trout|||||||||||
 steep|||||||||||
@@ -6467,7 +6435,7 @@ strait|tiuzang|tiuzaq||||海峡|||||
 strange|||||||||||
 stranger|||||||||||
 strategy|||||||||||
-Stratosphere|naksonkot|naksonkot|||||||||
+stratosphere|naksonkot|naksonkot|||||||||
 strawberry|puresa|puresa|||||||||
 stream|bati|bati|noun|noun|river||||||
 street|suto|suto|||||||||
@@ -6494,7 +6462,7 @@ stub|||||||||||
 student|gawan|gawan|||||||||
 studio|||||||||||
 studious|||||||||||
-study|garun|garun||||学|||||
+study|garun|garun||||ga (study) |||||
 stuff|astan|astan|||||||||
 stunning|||||||||||
 stupendous|||||||||||
@@ -6553,7 +6521,7 @@ sum|wa|wa|||||||||
 summer|sal|sal||||夏|||||
 summit|||||||||||
 sun|||||||||||
-Sunday|hihi|hihi|||||||||
+Sunday|raurau|raurau|||||||||
 sunlight|hiziu|hiziu|||||||||
 sunny|||||||||||
 sunshower|teintirein|teintirein|||||||||
@@ -6615,7 +6583,7 @@ sympathy|||||||||||
 symphony|||||||||||
 sync|||||||||||
 synchronize|||||||||||
-synonym|onagikata|onagikata|||||||||
+synonym|rougikata|rougikata|||||||||
 syntax|||||||||||
 synthesize|||||||||||
 system|sis|sis|noun|noun|||||||
@@ -6755,7 +6723,7 @@ thick|kapang|kapaq|||||||||
 thief|nusuwan|nusuwan|noun|noun|||||burglar, robber||
 thin|niping|nipiq|||||||||
 thing|bu|bu|||||||||
-think|omorun|omorun|verb|run verb|(I think I did…)||||||
+think|rinun|rinun|verb|un verb|(I think I did…)||||||
 think|isirun|isirun|verb|run verb|(think about…)||||||
 third|||||||||||
 thirsty|||||||||||
@@ -6784,7 +6752,7 @@ Thrush|||||||||||
 Thulium|sulium|sulium|noun|noun|||||||
 thunder|douno|douno|noun|noun|||||||
 thunderous|||||||||||
-Thursday|puhi|puhi|noun|noun|||||||
+Thursday|purau|purau|noun|noun|||||||
 thus|zuku|zuku|||||||||
 tick|||||||||||
 ticket|tik|tik|noun|noun|||||||
@@ -6850,7 +6818,7 @@ toward|||||||||||
 towel|||||||||||
 tower|tawa|tawa|||||||||
 town|watan|watan|||||||||
-toxin|leinsau|leinsau|noun|noun||毒素|||||
+toxin|leinsau|leinsau|noun|noun||毒+ sau (origin, prime, or element)|||||
 toy|puki|puki|noun|noun||Mampulan Language <i>puru</i> and <i>ki</i>|||||
 trace|||||||||||
 track|||||||||||
@@ -6933,7 +6901,7 @@ tuba|tuba|tuba|||||||||
 tubby|||||||||||
 tube|zutu|zutu|||||||||
 tubular bells|||||||||||
-Tuesday|apohi|apohi|||||||||
+Tuesday|aporau|aporau|||||||||
 tumor|gunageiro|gunageiro|||||||||
 Tuna|||||||||||
 tune|||||||||||
@@ -7065,7 +7033,7 @@ vacuum cleaner|sōjoki|so-joki|noun|noun|||||||
 vague|||||||||||
 vain|||||||||||
 valediction|||||||||||
-Valentine’s Day|balentain sa hi|Valentain sa hi|noun|noun|||||||
+Valentine’s Day|balentain sa rau|Valentain sa hi|noun|noun|||||||
 valid|||||||||||
 validate|||||||||||
 valley|bali|vali|noun|noun|||||||
@@ -7076,7 +7044,8 @@ Vampire squid|||||||||||
 Vanadium|banadium|banadium|noun|noun|||||||
 vanilla|banila|vanila|noun|noun|||||||
 vapid|||||||||||
-variable|hensū  (math) (formal)|hensu-|noun|noun|||||||
+variable|hensū|hensu-|noun|noun|||||||
+variable|||noun|noun|||||||
 variation|iba|iba|noun|noun|||||||
 varied|ibang|ibaq|adjective|ng adjective|||||||
 variety|||noun|noun|||||||
@@ -7115,7 +7084,7 @@ vibraphone|baiburafoun|baiburafoun|noun|noun|||||||
 vice-principal|tur'ata|tur'ata|noun|noun|||||||
 vicinity|||||||||||
 vicious|||||||||||
-victim|hīlaunwan|hi-launwan|noun|noun||被害者|||||
+victim|hīlaunwan|hi-launwan|noun|noun||被害 + wan (person)|||||
 victorious|||||||||||
 victory|wenri|wenri||||勝利|||||
 Vicuna|||||||||||
@@ -7179,8 +7148,8 @@ wallet|pera|pera|||||||||
 Walrus|||||||||||
 wan|||||||||||
 want|gus|gus|noun|noun|||||||
-want|gusun|gusun|verb|un verb|informal version of Mampulan word <i>yokurun</i>||||||
-want|yokurun|yokurun|verb|run verb|formal version of Mampulan word <i>gusun</i>||||||
+want|gusun|gusun|verb|un verb|informal version of Mampulan word <i>yokun</i>||||||
+want|yokun|yokun|verb|run verb|formal version of Mampulan word <i>gusun</i>||||||
 war|kour|kour|noun|noun||Old Mampulan|||||
 Warbler|||||||||||
 ward|peishata|peixata|||||||||
@@ -7209,9 +7178,9 @@ watchful|||||||||||
 water|awon|awon|noun|noun||Old Mampulan <i>hawon</i>|||||
 water|hawon|hawon|noun|noun|(obsolete) Old Mampulan for awon||||awon||
 Water Boa|||||||||||
-water pressure|awonwatu, awong atu|awonatu, awoq atu|noun|noun||水圧|||||
-water vapor|siupiunti|siupiunti|noun|noun|The vapor formed when water changes from the liquid phase to the gas phase.|水蒸気|The water vapor from the pot is hot.|Wo poun na siupiunti acunq te.|||
-water vapour|siupiunti|siupiunti|noun|noun|The vapor formed when water changes from the liquid phase to the gas phase.|水蒸気|The water vapour from the pot is hot.|Wo poun na siupiunti acunq te.|||
+water pressure|awonwatu, awong atu|awonatu, awoq atu|noun|noun||siu (water) + 圧|||||
+water vapor|siupiunti|siupiunti|noun|noun|The vapor formed when water changes from the liquid phase to the gas phase.|siu (water) + piun (vapor) + 気|The water vapor from the pot is hot.|Wo poun na siupiunti acunq te.|||
+water vapour|siupiunti|siupiunti|noun|noun|The vapor formed when water changes from the liquid phase to the gas phase.|siu (water) + piun (vapor) + 気|The water vapour from the pot is hot.|Wo poun na siupiunti acunq te.|||
 waterfall|ikat|ikat|noun|noun|||||||
 waterlogged|||||||||||
 watery|||||||||||
@@ -7222,7 +7191,7 @@ way|roun|ro|noun|noun||道|||||
 we|tei|tei|pronoun|pronoun|inclusive we||We did it!|Tei ta yara!|teis, our||
 we|toi|toi|pronoun|pronoun|exclusive we||We did it!|Toi ta yara!|tois, our||
 weak|jakung|jakuq|adjective|ung adjective|||||||
-weaken|jaku|jaku|verb||||||||
+weaken|desjaknakun|desjaknakun|verb|||des jak nakun (to become weak)|||||
 weakness|jakas|jakas||||jak + as|||||
 wealth|||||||||||
 wealthy|||||||||||
@@ -7237,7 +7206,7 @@ webbed|||||||||||
 webcomics|||||||||||
 website|websait|websait||||website|||||
 wedding|||||||||||
-Wednesday|awonhi|awonhi|noun|noun|||||||
+Wednesday|awonrau|awonrau|noun|noun|||||||
 wee|||||||||||
 weed|||||||||||
 week|wiku|wiku|noun|noun|||||||
@@ -7312,8 +7281,8 @@ will eat|kaini|kaini|verb|un verb|future tense of Mampulan dictionary form verb 
 willing|||||||||||
 wilted|||||||||||
 win|wenun|wenun|verb|un verb||勝|||||
-wind|hangi|haqi|noun|noun||風|||||
-wind speed|hangisit (formal)|haqisit|noun|noun||風速|||||
+wind|hangi|haqi|noun|noun||hangi (wind)|||||
+wind speed|hangisit (formal)|haqisit|noun|noun||hangi (wind) + sit (fast)|||||
 winding|||||||||||
 window|chima|cima|noun|noun||窓|||||
 windy|||||||||||
@@ -7344,7 +7313,7 @@ wonder|banga|baqa|noun|noun|||||||
 wonderful|||||||||||
 wondering about|channawarun|cannawarun|verb|run verb|||||||
 wonton|wantan|wantan|noun|noun||wonton|||||
-wood|puwate|puwate|noun|noun||木材|||||
+wood|puwate|puwate|noun|noun||pu (tree) + wate (material)|||||
 wooden|||||||||||
 woodpecker|warena|warena|noun|noun|||||||
 woozy|||||||||||
@@ -7393,7 +7362,7 @@ yield|sirarun|sirarun|verb|run verb|(give up)||||||
 yoke|yok|yok|noun|noun||Old Mampulan|||||
 you|ro|ro|pronoun|pronoun||Old Mampulan|||||
 you|riu|riu|pronoun|pronoun||Old Mampulan|||||
-young|yang|yaq|adjective|g adjective||若|||||
+young|yang|yaq|adjective|g adjective||yan (young)|||||
 younger brother|adi|adi|noun|noun||Old Mampulan|||||
 younger sister|imon|imon|noun|noun||Old Mampulan|||||
 your|ros|ros|adjective|irregular adjective|second person singular personal pronoun|ro + sa|||||
@@ -7415,11 +7384,25 @@ Zinc|zinku|zinku|noun|noun|||||||
 Zirconium|zirkonium|zirkonium|noun|noun|||||||
 zone|naso|naso|noun|noun||Old Mampulan|||||
 zoo|||||||||||
-zoology|dōbuga|do-buga|noun|noun|branch of biology that studies the animal kingdom, including the structure, embryology, classification, habits, and distribution of all animals, both living and extinct, and how they interact with their ecosystems.|動物学|||||
+zoology|dōbuga|do-buga|noun|noun|branch of biology that studies the animal kingdom, including the structure, embryology, classification, habits, and distribution of all animals, both living and extinct, and how they interact with their ecosystems.|dōbu (animal) + ga (study) |||||
 zoom|zūm|zu-m|noun|noun|To manipulate a display so as to magnify or shrink it.|English <i>zoom</i>|||||
 muzzle|nuslo|nuslo|noun|noun||from Nuslo the Fox Legend.|||||
 shell|martan|martan|noun|noun|typically a turtle shell|from Martan the Turtle Legend.|||||
 rudder|himo|himo|noun|noun||舵|||||
 oar|sakon|sakon|noun|noun||櫂|||||
 roar|arār|ara-r|noun|noun||from Arār the Lion Legend.|||||
-abate||||||to weaken|||||
+abate|dessunakun|dessunakun|verb|verb||des su nakun (to become small)|||||
+abdicate|hossaun|hossaun|verb|verb||hos (set free) + saun (abandon, discard)|||||
+aberrant|woyunitūng|woyunitu-ng|adjective|ng adjective|Differing from the norm|wo yunitū (from normal)|||||
+abhorrent|desdāyanakung|desda-yanakuq|adjective|ng adjective||des dang aya nak(un) + ung (to become big hate)|||||
+abject|||||||||||
+abjure|||||||||||
+abrogate|||||||||||
+abscess|||||||||||
+abscond|||||||||||
+abstemious|||||||||||
+abstient|||||||||||
+abysmal|||||||||||
+otolaryngology|orenalongigiran'ga|||||orena (ear) + longi (nose) + giran (throat) + ga (study)|||||
+embezzlement|horisanga|||||横領|||||
+everyday|||||||||||
