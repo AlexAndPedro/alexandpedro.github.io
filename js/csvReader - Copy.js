@@ -126,64 +126,70 @@ function callback(dictionary) {
 
 
 
-                let DictionaryDisplayElementE = new Array();
-                let DictionaryDisplayElementM = new Array();
+                let DictionaryDisplayElement = new Array();
                 let DictionaryDisplayEng = new Array();
                 let DictionaryDisplayMam = new Array();
-               wordDOM.innerHTML = ``;
+                wordDOM.innerHTML = ``;
+                
 
+                //If the user input matches one of the words in the ENGLISH word list
+                if (inputWord.toLowerCase() == englishWord[0].toLowerCase()) {
 
-                for(let i = 0; i < dictionaryOutput.length; i++){
-                    if (inputWord.toLowerCase() == englishWord[i].toLowerCase()) {
-                        wordDOM.style.fontFamily = "AnP";
+                    wordDOM.style.fontFamily = "AnP";
+                    
+                    for(let i = 0; i < dictionaryOutput.length; i++){
 
                         // Compiling html code to be sent to Dictionary Display
                         // Note that this is only one entry.
-                        DictionaryDisplayElementE[0] = `<h1 class="word">${englishWord[i]}</h1>`;
-                        DictionaryDisplayElementE[1] = `<h1>${partOfSpeechEng[i]}</h1>`;
-                        DictionaryDisplayElementE[2] = `<h2 class="translation" style="font-family:MampulanFont">${mampulanSymbol[i]}</h2>`;
-                        DictionaryDisplayElementE[3] = `<h3 class="transliteration">${mampulanWord[i]}</h2>`;
-                        DictionaryDisplayElementE[4] = `<h3 class="definition">${definition[i]}</h2>`;
-                        DictionaryDisplayElementE[5] = `Example:<h3 class="mampulanExample">${mampulanExample[i]}</h2>`;
-                        DictionaryDisplayElementE[6] = `<h3 class="englishExample">${englishExample[i]}</h2>`;
-                        DictionaryDisplayElementE[7] = `Etymology:<h3 class="etymology">${etymology[i]}</h2>`;
-                        DictionaryDisplayElementE[8] = `See Also:<h3 class="seeAlso">${seeAlso[i]}</h2><hr>`;
+                        DictionaryDisplayElement[0] = `<h1 class="word">${englishWord[0]}</h1>`;
+                        DictionaryDisplayElement[1] = `<h1>${partOfSpeechEng[i]}</h1>`;
+                        DictionaryDisplayElement[2] = `<h2 class="translation" style="font-family:MampulanFont">${mampulanSymbol[i]}</h2>`;
+                        DictionaryDisplayElement[3] = `<h3 class="transliteration">${mampulanWord[i]}</h2>`;
+                        DictionaryDisplayElement[4] = `<h3 class="definition">${definition[i]}</h2>`;
+                        DictionaryDisplayElement[5] = `Example:<h3 class="mampulanExample">${mampulanExample[i]}</h2>`;
+                        DictionaryDisplayElement[6] = `<h3 class="englishExample">${englishExample[i]}</h2>`;
+                        DictionaryDisplayElement[7] = `Etymology:<h3 class="etymology">${etymology[i]}</h2>`;
+                        DictionaryDisplayElement[8] = `See Also:<h3 class="seeAlso">${seeAlso[i]}</h2>`;
 
 
-                        DictionaryDisplayEng[i] = DictionaryDisplayElementE.join('');
+                       DictionaryDisplayEng[i] = DictionaryDisplayElement.join('');
 
                     }
+                        
 
-                    if (inputWord.toLowerCase() == mampulanWord[i].toLowerCase()){  
-                         //If the user input matches one of the words in the MAMPULAN word list
+                } else if (inputWord.toLowerCase() == mampulanSymbol[0].toLowerCase() || inputWord.toLowerCase() == mampulanWord[0].toLowerCase()){    
+                    //If the user input matches one of the words in the MAMPULAN word list
 
-                                             // Compiling html code to be sent to Dictionary Display
+                    wordDOM.style.fontFamily = "MampulanFont";
+
+                    for(let i = 0; i < dictionaryOutput.length; i++){
+                     // Compiling html code to be sent to Dictionary Display
                         // Note that this is only one entry.
                         wordDOM.style.fontFamily = "MampulanFont";
-                        DictionaryDisplayElementM[0] = `<h1 class="word" style="font-family:MampulanFont">${mampulanSymbol[i]}</h1>`;
-                        DictionaryDisplayElementM[1] = `<h3 class="transliteration">${mampulanWord[i]}</h2>`;
-                        DictionaryDisplayElementM[2] = `<h1>${partOfSpeechMam[i]}</h1>`;
-                        DictionaryDisplayElementM[3] = `<h2 class="translation">${englishWord[i]}</h2>`;
-                        DictionaryDisplayElementM[4] = `<h3 class="definition">${definition[i]}</h2>`;
-                        DictionaryDisplayElementM[5] = `Example:<h3 class="mampulanExample">${mampulanExample[i]}</h2>`;
-                        DictionaryDisplayElementM[6] = `<h3 class="englishExample">${englishExample[i]}</h2>`;
-                        DictionaryDisplayElementM[7] = `Etymology:<h3 class="etymology">${etymology[i]}</h2>`;
-                        DictionaryDisplayElementM[8] = `See Also:<h3 class="seeAlso">${seeAlso[i]}</h2><hr>`;
+                        DictionaryDisplayElement[0] = `<h1 class="word">${mampulanSymbol[0]}</h1>`;
+                        DictionaryDisplayElement[1] = `<h1>${partOfSpeechMam[i]}</h1>`;
+                        DictionaryDisplayElement[2] = `<h2 class="translation">${englishWord[i]}</h2>`;
+                        DictionaryDisplayElement[3] = `<h3 class="definition">${definition[i]}</h2>`;
+                        DictionaryDisplayElement[4] = `Example:<h3 class="mampulanExample">${mampulanExample[i]}</h2>`;
+                        DictionaryDisplayElement[5] = `<h3 class="englishExample">${englishExample[i]}</h2>`;
+                        DictionaryDisplayElement[6] = `Etymology:<h3 class="etymology">${etymology[i]}</h2>`;
+                        DictionaryDisplayElement[7] = `See Also:<h3 class="seeAlso">${seeAlso[i]}</h2>`;
 
 
-                       DictionaryDisplayMam[i] = DictionaryDisplayElementM.join('');
-
-
+                       DictionaryDisplayMam[i] = DictionaryDisplayElement.join('');
                     }
 
 
+                } else {
+                    wordDOM.innerHTML = `"${inputWord}" was not found in the dictionary.`;
+                    document.querySelector('.result-container-2').style.display = "none";
+                    document.querySelector('.result-container-3').style.display = "none";
 
-                }
-
+                };
                 
                 // All possible entries are in DictionaryDisplay. We write entire html code to .result-container-2
-                document.querySelector('.result-container-2').innerHTML = DictionaryDisplayEng.join('');
-                document.querySelector('.result-container-3').innerHTML = DictionaryDisplayMam.join('');
+                document.querySelector('.result-container-2').innerHTML = DictionaryDisplayEng;
+                document.querySelector('.result-container-3').innerHTML = DictionaryDisplayMam;
 
             } else {
                 //If the word is not found in the dictionary

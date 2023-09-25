@@ -154,6 +154,13 @@ input.form__input {
     font-size: 1.5rem;
 }
 
+.result-container-3 {
+    display: block;
+    margin-left: 2rem;
+    width: 80%;
+    font-size: 1.5rem;
+}
+
 .h3 {
     font-size: 0.5rem;
 }
@@ -207,4 +214,10 @@ input.form__input {
 .transliteration{
     margin: 0 0 1rem 0;
     font-size: 1rem;
+}
+
+hr{
+    border: 2px solid #082a3f;
+    border-radius: 2px;
+    width: 75%;
 }
