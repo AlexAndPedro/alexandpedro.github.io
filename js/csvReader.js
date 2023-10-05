@@ -154,7 +154,7 @@ function callback(dictionary) {
 
                     }
 
-                    if (inputWord.toLowerCase() == mampulanWord[i].toLowerCase()){  
+                    if (inputWord.toLowerCase() == mampulanSymbol[i].toLowerCase()){  
                          //If the user input matches one of the words in the MAMPULAN word list
 
                                              // Compiling html code to be sent to Dictionary Display
