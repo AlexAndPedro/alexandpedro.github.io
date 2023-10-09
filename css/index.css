@@ -99,6 +99,11 @@ ul {
 	min-height: 800px;
 }
 
+.dark-mode {
+	background-color: #010c13;
+	color: white;
+  }
+
 .PageLogo {
 	overflow: auto;
 	width: 50%;
@@ -287,7 +292,7 @@ div.MainMenu ul li:hover {
 
 
 .BlueContainer.GalleryInfo {
-	background-color: red;
+	background-color: #0b7cb1;
 	border: 2px solid #042c41;
 	color: white;
 	padding: 10px;
@@ -312,7 +317,6 @@ div.MainMenu ul li:hover {
 
 .PageContent {
 	overflow: auto;
-	background-color: white;
 	padding: 0.5rem;
 }
 
