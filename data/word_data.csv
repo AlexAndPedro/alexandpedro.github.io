@@ -4,17 +4,16 @@
 a|i|i|indefinite article|irregular adjective|"In English, it is used as a function word before singular nouns when the referent is unspecified.<br>In Mampulan, it is used like the number ""one""."|From Old Mampulan <i>i</i>|a person|I wan|one||
 a little bit|chot|cot|noun|noun|(a little bit of)|Possibly Japanese <i>chotto</i>|I am a little bit concerned.||||
 a lot|midang|midaq|adjective|ng adjective|a large number or amount of (things, people, etc.)|From Old Mampulan <i>meituan</i>|I eat a lot of apples.|Ko ni midaq mak kainu.|many||
-a lot|meituan|meituan|adjective|ng adjective|(obsolete) Old Mampulan for midang||||midang||
 aardvark|saromin|saromin|noun|noun|a large burrowing nocturnal mammal (Orycteropus afer) of sub-Saharan Africa that has a long snout, extensible tongue, powerful claws, large ears, and heavy tail and feeds especially on termites and ants|From Old Mampulan <i>hisaromein</i>|||||
-aardvark|hisaromein|hisaromein|noun|noun|(obsolete) Old Mampulan for saromin||||saromin||
+aardvark|hisaromein|hisaromein|noun|noun|(obsolete) Old Mampulan for saromin|-|||saromin||
 aardwolf|kasama|kasama|noun|noun|a maned striped nocturnal mammal (Proteles cristatus) of southern and eastern Africa that resembles the related hyenas and feeds chiefly on insects and especially termites|From Old Mampulan <i>kahasama</i>|||||
-abacus|abakus|abakus|noun|noun|an instrument for performing calculations by sliding counters along rods or in grooves||||||
-abandon|frinun|frinun|verb|un verb|To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions.|frin|He abandoned his dream to be a doctor.|Ye ni yes tun ten i-wan na panan frina.|abandoned||
+abacus|abakus|abakus|noun|noun|an instrument for performing calculations by sliding counters along rods or in grooves|From English <i>abacus</i>|||||
+abandon|frinun|frinun|verb|un verb|To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions.|frin (abandon)|He abandoned his dream to be a doctor.|Ye ni yes tun ten i-wan na panan frina.|abandoned||
 abandoned|frina|frina|verb|un verb|past tense of Mampulan dictionary form verb <i>abandon</i>|frinun (abandon)|He abandoned his dream to be a doctor.|Ye ni yes tun ten i-wan na panan frina.|abandon||
 abandoned|frinang|frinaq|adjective|na adjective|adjective form of Mampulan <i>frinun</i> (abandon)|frinun (abandon)|I want to adopt that abandoned dog.|ko ni zes frinaq wano gusu tunenun.|abandon||
 abate|sunakun|sunakun|verb|un verb|to decrease in force or intensity|su nakun (to become small)|||||
-abbreviate|shongnakun|xoqnakun|verb|run verb|to make briefer|shon nakun (to become short)|||abbreviation||
-abbreviation|shongnak|xoqnak|noun|noun|a shortened form of a written word or phrase used in place of the whole word or phrase|des shon nakun (to become short)|||abbreviate||
+abbreviate|shonnakun|xonnakun|verb|run verb|to make briefer|shon nakun (to become short)|||abbreviation||
+abbreviation|shonnak|xonnak|noun|noun|a shortened form of a written word or phrase used in place of the whole word or phrase|shon nakun (to become short)|||abbreviate||
 abdicate|hossaunun|hossaunun|verb|un verb|to renounce a throne, high office, dignity, or function|hos (set free) + saun (abandon, discard)|||||
 abdomen|tawabon|tawabon|noun|noun|The belly, or that part of the body between the thorax and the pelvis, not including the back; or in some lower vertebrates, the portion between the cardiac and caudal regions.|tawa (stomach) + bon (part)|||||
 abdominal|tawabong|tawabong|adjective|g adjective|of, relating to, or involving the abdomen|tawa (stomach) + bon (part)|||||
@@ -22,7 +21,7 @@ abduct|tuozikūnun|tuoziku-nun|verb|un verb|to seize and take away (a person) by
 abduction|tuozikūn|tuoziku-n|noun|noun|the action of abducting : the condition of being abducted|tuozikūnun (to take away)|||||
 aberrant|woyunitūng|woyunitu-q|adjective|ng adjective|Differing from the norm|wo yunitū (from normal)|||||
 aberrate|ozitounun|ozitounun|verb|run verb|To go astray; to diverge; to deviate (from); deviate from.|ozitoun (aberration)|||||
-aberration|ozitoun|ozitoun|noun|noun|the fact or an instance of deviating or being aberrant especially from a moral standard or normal state|ozi (wander/move away)|||||
+aberration|ozitoun|ozitoun|noun|noun|the fact or an instance of deviating or being aberrant especially from a moral standard or normal state|ozi (wander/move away) + tounun (move)|||||
 abhor|oporun|oporun|verb|run verb|to regard with extreme repugnance : to feel hatred or loathing for|possibly from opo (enemy)|||||
 abhorrent|opong|opoq|adjective|ng adjective|causing or deserving strong dislike or hatred : being so repugnant as to stir up positive antagonism|possibly from opo (enemy)|||||
 abhorrent|dāyanakung|da-yanakuq|adjective|ng adjective|causing or deserving strong dislike or hatred : being so repugnant as to stir up positive antagonism|dang aya nak(un) + ung (to become big hate)|||||
@@ -31,8 +30,8 @@ ability|kat|kat|noun|noun|the quality or state of being able|From Old Mampulan <
 able|katun|katun|noun|noun|(suffix) aka  (-ible)|kat (ablility)|||||
 able|katung|katuq|suffix|suffix|(suffix) aka  (-ible)|kat (ability)|||||
 about|ma’nga|maqa|adverb|adverb|approximately|Filipino <i>mga</i>|I need about two minutes|ko ni maqa duq jipat kailu.|||
-about|ngan|qan|adverb|adverb|denotes a topic||This book is about dogs.||||
-above|shoundes|xoundes|adverb|noun|in a higher place||||||
+about|ngan|qan|adverb|adverb|denotes a topic|From Old Mampulan|This book is about dogs.||||
+above|shoundes|xoundes|adverb|noun|in a higher place|shoun + des|||||
 abroad|labanak|labanak|adverb|adverb|beyond the boundaries of one's country : in or to a foreign country|From Old Mampulan|||||
 absent|dezōng|dezo-q|adjective|g adjective|being away from a place; withdrawn from a place; not present; missing.|de (negation) zōn (exist)|||||
 absolute|zefai|zefai|noun|noun|free from imperfection|ze (cease, end, discontinue)fai (opposite, versus) |||||
@@ -51,7 +50,7 @@ acceleration|jasit|jasit|noun|noun|The act of accelerating, or the state of bein
 accept|tūkerun|tu-kerun|verb|run verb|To receive, especially with a consent, with favour, or with approval. |tu + ukerun (to receive)|||||
 acceptable|tūkekatung|tu-kekatuq|adjective|ung adjective|worthy, decent, sure of being accepted or received with at least moderate pleasure|tūkerun (to accept) + kat (-able)|||||
 accident|haptin|haptin|noun|noun|An unexpected event with negative consequences occurring without the intention of the one suffering the consequences, and (in the strict sense) not directly caused by humans.|hap (happening) + tin (thing, matter)|||||
-accolade|akaleid|akaleid|noun|noun|An expression of approval; praise.||||||
+accolade|akaleid|akaleid|noun|noun|An expression of approval; praise.|From English <i>accolade</i>|||||
 accommodation|shuktoma|xuktoma|noun|noun|in a hotel|shuk (lodge) +_toma (stay (at a hotel))|||||
 accompaniment|akanzau|akancene|noun|noun|music|akan (companion)+ zau (playing music)|||||
 accomplice|tanahanwan|tanahanwan|noun|noun|(law) An associate in the commission of a crime; a participator in an offense, whether a principal or an accessory.||||||
@@ -60,11 +59,11 @@ accountancy|kaimas|kaimas|noun|noun|The function of compiling and providing fina
 acid|asin|asin|noun|noun|A sour substance.<br>(chemistry) Any compound which yields H+ ions (protons) when dissolved in water; an Arrhenius acid.||||||
 acquire|akegerun|akegerun|verb|run verb|you get something|ake (seize, get)ge (get, earn)|I would like to acquire this||see acquisition||
 acquisition|akege|akege|noun|noun|The act or process of acquiring.|ake (seize, get)ge (get, earn)|||see acquire||
-acquittal|detumihoskis|detumihoskis|noun|noun|A legal decision that someone is not guilty with which they have been charged, or the formal dismissal of a charge by some other legal process.|de (negative/negation) + tumi (crime) + hos (release)免|||||
-across|akun|akun|preposition|preposition|||||||
-act|oku|oku|noun|noun|||||||
-act|okurun|okurun|verb|run verb|||||||
-Actinium|aktinium|aktinium|noun|noun|||||||
+acquittal|detumihoskis|detumihoskis|noun|noun|A legal decision that someone is not guilty with which they have been charged, or the formal dismissal of a charge by some other legal process.|de (negative/negation) + tumi (crime) + hos (release)|||||
+across|akun|akun|preposition|preposition|To, toward or from the far side of (something that lies between two points of interest)||||||
+act|oku|oku|noun|noun|A division of a theatrical performance.|From Old Mampulan|||||
+act|okurun|okurun|verb|run verb||oku|||||
+Actinium|aktinium|aktinium|noun|noun||From English <i>|||||
 action|okuras|okuras|noun|noun|||||||
 active|wasung|wasuq|adjective|ng adjective||was (active)|||||
 activity|wastoun|wastoun|noun|noun||was + toun (move)|||||
@@ -108,13 +107,13 @@ ago|jubbin|jubbin||||jubi + bin|||||
 agree|roungirun|rouqirun|verb|run verb|to concur in (something, such as an opinion) : ADMIT, CONCEDE|rou (same) + ngi (thought, idea)|||||
 agreeable|roungikatung|rouqikatuq|adjective|ung adjective||roungi (agree) + katung (can)|||||
 agreement|roungi|rouqi|noun|noun|harmony of opinion, action, or character|rou (same) + ngi (thought, idea)|||||
-agriculture|agubour|agubour|noun|noun|the science, art, or practice of cultivating the soil, producing crops, and raising livestock and in varying degrees the preparation and marketing of the resulting products|農業|||||
+agriculture|agubour|agubour|noun|noun|the science, art, or practice of cultivating the soil, producing crops, and raising livestock and in varying degrees the preparation and marketing of the resulting products|agu (agriculture) + bour (business, work)|||||
 aim|eimun|eimu|verb|un verb|||||||
 air|her|her|noun|noun|||||||
-air raid|kūlama|ku-lama|noun|noun|an attack in which bombs are dropped from aircraft on to a ground target|空襲|||||
+air raid|kūsut|ku-sut|noun|noun|an attack in which bombs are dropped from aircraft on to a ground target|kū (sky) + sut (attack)|||||
 air temperature|tiyon|tiyon|noun|noun|formal|ti (air/atmosphere)+ on (warm)|||||
 air temperature|her sa ondo|her sa ondo|noun|noun|informal phrase of Mampulan <i>tion</i>|her (air) + ondo (temperature)|||||
-airplane|ekki|ekki|noun|noun||eka (fly) + ki (machine)|||||
+airplane|fulki|fulki|noun|noun||ful (fly) + ki (machine)|||||
 alarm|alām|ala-m|noun|noun|||||||
 algebra|yosūga|yosu-ga|noun|noun|||||||
 algorithm|algorizum|algorizum|noun|noun|||||||
@@ -275,7 +274,7 @@ atom|harola|harola|noun||||||||
 atrium|painmikun|painmikun|noun|||pain (heart)房|||||
 attach|kabun|kabun|verb||||||||
 attack|kōgano|ko-gano|noun|||攻撃|||||
-attack|lamarun|lamarun|verb|run verb||襲|||||
+attack|sutun|sutun|verb|un verb||sut (attack)|||||
 attempt|dinsait|dinsait|noun|noun|(to commit a crime)|未遂|||||
 attempt|dinsaitun|dinsaitun|verb|un verb|(to commit a crime)|未遂|||||
 attempt|aten|aten|noun|noun|||||||
@@ -374,21 +373,21 @@ blizzard|mandi|mandi|noun|noun|||||||
 blood|duko|duko|noun|noun|||||||
 blood pressure|duko sa bran|duko sa bran|noun|noun|||||||
 blood type|duko sa pasa|duko sa taip|noun|noun|||||||
-bloodlust|sateti|sateti|noun||||||||
-bloom|sakun|sakun|verb||||||||
+bloodlust|sateti|sateti|noun|noun|||||||
+bloom|sakun|sakun|verb|un verb|||||||
 blooming of flowers|dosfa|dosfa|noun|noun|||||||
 blow|fourun|fourun|verb|run verb|to be in motion||||||
-blue|bugung|buguq|adjective||||||||
-boa|nakana|nakana|noun||||||||
-board|pitan|pitan|noun||board like plank||||||
-boat|pun|pun|noun||||||||
-bodily|taing|taiq|adjective||||||||
-body|tai|tai|noun||||||||
+blue|bugung|buguq|adjective|ng adjective|||||||
+boa|nakana|nakana|noun|noun|||||||
+board|pitan|pitan|noun|noun|board like plank||||||
+boat|pun|pun|noun|noun|||||||
+bodily|taing|taiq|adjective|ng adjective|||||||
+body|tai|tai|noun|noun|||||||
 body temperature|taiyon|taiyon|noun|noun||tai (body) + on (warm) becomes taiyon|||||
 body temperature|tai sa ondo|tai sa ondo|noun|noun|informal phrase of Mampulan <i>tayon</i>|tai (body) + on (warm) becomes taiyon|||||
 Bohrium|bōrium|bo-rium|noun|noun|||||||
-bone|boun|boun|noun|||骨|||||
-book|aka|aka|noun|||Old Mampulan <i>heaka</i>|This book is about dogs.||||
+bone|gait|gait|noun|noun||骨|||||
+book|aka|aka|noun|noun||Old Mampulan <i>heaka</i>|This book is about dogs.||||
 book|heaka|heaka|noun|noun|(obsolete) Old Mampulan for aka||||aka||
 bookmark|akapour|akapour|noun|noun|A strip of material used to mark a place in a book.|aka + pour (book + mark). Calque of English bookmark|||||
 boomerang|būmerang|bu-meraq|noun||||||||
@@ -433,7 +432,7 @@ buoyancy|ukali|ukali|noun||||||||
 burger|bāgā|ba-ga-|noun|noun|||||||
 burglar|nusuwan|nusuwan|noun|noun||nusu + wan|||thief, robber||
 burn|wakun|wakun|verb|un verb|||||||
-bus|basu|basu|noun|noun|||||||
+bus|bas|bas|noun|noun|||||||
 bush|robus|robus|noun|noun|||||||
 busy|isong|isoq|adjective|ng adjective|(of a person) Engaged in activity or by someone else||||||
 busy|niking|nikiq|adjective|ng adjective|(of a place) crowded with business or activities; having a great deal going on||||||
@@ -450,7 +449,7 @@ cake|keik|keik|noun|noun|||||||
 Calcium|kalsium|kalsium|noun|noun|||||||
 calculate|hakkalurun|hakkalurun|verb|run verb|||||||
 calculator|hakkaluki|hakkaluki|noun|noun|||||||
-calculus|mikurosekibako'ga|mikurosekibakoga|noun|noun|||||||
+calculus|kalkulus|kalkulus|noun|noun|||||||
 calendar|diuba|diuba|noun|noun|||||||
 calf|lakosa|lakosa|noun|noun|||||||
 Californium|kalifornium|kalifornium|noun|noun|||||||
@@ -463,7 +462,7 @@ cameraman|kamerawan|kamerawan|noun|noun||kamera + wan|||||
 camouflage|atagot|atagot|noun|noun|the disguising especially of military equipment or installations with paint, nets, or foliage|ata (head) + gotun (hide)|The army tanks were painted green and brown for camouflage.||||
 can|tala|tala|noun|noun|A typically cylindrical vessel for liquids, usually of steel or aluminium with a carrying handle over the top.||||||
 cancellation|resuleku|resuleku|noun|noun|(lecture, class)||||||
-cancer|hede|hede|noun|noun||癌|||||
+cancer|marsan|marsan|noun|noun|||||||
 canoe|kanū|kanu-|noun|noun|||||||
 cap|kap|kap|noun|noun|||||||
 capillary|kapila|kapila|noun|noun|||||||
@@ -479,7 +478,7 @@ carnivorous|malakaing|malakaiq|adjective|noun|||||||
 carpet|sasaki|sasaki|noun|noun|||||||
 carrot|karot|karot|noun|noun|||||||
 carry|buanun|buanun|noun|noun||probably from proto-Mampulan <i>buhanhun</i>|||||
-cartilage|nanboun|nanboun|noun|noun|||||||
+cartilage|nan'gait|nangait|noun|noun|||||||
 cartography|awonzuga|awonzuga|noun|noun|||||||
 cartoon|kātūn|ka-tu-n|noun|noun|||||||
 case|keis|keis|noun|noun|(law)||||||
@@ -508,8 +507,8 @@ Cerium|serium|serium|noun|noun|||||||
 certification|sainkak|sainkak|noun|noun||sain (fund, resources) + kak (status, character)|||||
 certify|sainkakun|sainkakun|verb|un verb||sain (fund, resources) + kak (status, character)|||||
 Cesium|sīsium|si-sium|noun|noun|||||||
-chain|klin||noun|noun|(metal links)||||||
-chain|renklin||noun|noun|(as in chain reaction)||||||
+chain|klin|klin|noun|noun|(metal links)||||||
+chain|renklin|renklin|noun|noun|(as in chain reaction)||||||
 chair|zabu|zabu|noun|noun||zarun (sit) + bu (thing)|||||
 chairman|||noun|noun|||||||
 chalk|ucho|uco|noun|noun||From Old Mampulan|||||
@@ -528,8 +527,8 @@ chemistry|cen'ga|cenga|noun|noun||cen + ga|||||
 chess|chesu|cesu|noun|noun|||||||
 chew|ngurun|qurun|verb|run verb|||||||
 chicken|tikasa|tikasa|noun|noun|||||||
-child|la|la|||||||||
-children|la son|la son|||||||||
+child|la|la|noun|noun|||||||
+children|la son|la son|noun|noun|||||||
 chili|chile|cile|noun|noun||chili|||||
 chimpanzee|chimpanzī|cimpanzi-|noun|noun||English|||||
 chin|ogo|ogo|noun|noun|||||||
@@ -558,29 +557,29 @@ clear|lining|liniq|adjective||||||||
 clever|tumankurang|tumakuraq|adjective|ng adjective||tuman okuras (fox action)|||||
 cliff|kabana|kabana|noun|noun|||||||
 climate|tibuko|tibuko|noun|noun|||||||
-clinic|kulinik|kulinik|||||||||
-clock|founmas|founmas||||foun + mas|||||
+clinic|kulinik|kulinik|noun|noun||From English <i>clinic</i>|||||
+clock|founmas|founmas|noun|noun||foun + mas|||||
 clog|bara|bara|noun|noun|||||||
 clog|bararun|bararun|verb|run verb|||||||
 close|zararun|zararun|verb|run verb|||||||
-closet|kolose|kolose|||||||||
-cloth|tuno|tuno|noun|noun|||||||
-clothes|fana|fana|||||||||
-cloud|kumo|kumo|||||||||
-club|kulabu|kulabu|||||||||
-clue|kapa|kapa|||||||||
-coal|battan|battan|noun|noun||石炭 (bato+tan)|||||
-coal mine|tanbius|tanbius|noun|noun||炭鉱|||||
-coast|kous|kous|||||||||
-coat|kout|kout|||||||||
-coat of arms|molokaiki|molokaiki|noun|noun|||||||
+closet|kolose|kolose|noun|noun|||||||
+cloth|tuno|tuno|noun|noun|A fabric, usually made of woven, knitted, or felted fibres or filaments, such as used in dressing, decorating, cleaning or other practical use.||||||
+clothes|fana|fana|noun|noun|Items of clothing; apparel.||||||
+cloud|kumo|kumo|noun|noun|||||||
+club|kulabu|kulabu|noun|noun|||||||
+clue|kapa|kapa|noun|noun|||||||
+coal|battan|battan|noun|noun|A black or brownish black rock formed from prehistoric plant remains, composed largely of carbon and burned as a fuel.|bato (stone) + tan (coal)|||||
+coal mine|tanbius|tanbius|noun|noun||tan (coal) + bius (ore)|||||
+coast|kous|kous|noun|noun|||||||
+coat|kout|kout|noun|noun|||||||
+coat of arms|molokaiki|molokaiki|noun|noun|Hereditary designs and symbols depicted on an escutcheon, sometimes accompanied by other elements of a heraldic achievement, such as a helm, crest, crest coronet, torse, mantling and supporters; described by a blazon.||||||
 Cobalt|kobalto|kobalto|noun|noun|||||||
-cockatoo|kakato|kakato|||||||||
-code|koud|koud|||||||||
-coefficient|tiensū|tiensu-|    |||係数|||||
-co-existence|tanazon|tanazon|||||||||
-coffee|kōfī|ko-fi-|||||||||
-cold|fulu|fulu|noun|noun| (flu)||||||
+cockatoo|kakato|kakato|noun|noun|||||||
+code|koud|koud|noun|noun|||||||
+coefficient|tiensū|tiensu-|noun|noun||係数|||||
+co-existence|tanazon|tanazon|noun|noun|||||||
+coffee|kōfī|ko-fi-|noun|noun|A beverage made by infusing the beans of the coffee plant in hot water.||||||
+cold|fulu|fulu|noun|noun|A common, usually harmless, viral illness, usually with congestion of the nasal passages and sometimes fever.||||||
 cold|bochong|bocoq|adjective|ng adjective|(cold object)||||||
 cold|samung|samuq|adjective|ng adjective|samung (cold weather)||||||
 collar|eri|eri|noun|noun|||||||
@@ -594,9 +593,9 @@ colour|salai||||||||||
 column|kolo|kolo|||||||||
 comb|kulai|kulai|noun|noun|||||||
 combinatorics|kumigōsūga|kumigo-su-ga|noun|noun|||||||
-combust|niunwakun|niunwakun|verb|un verb||燃焼|||||
-combustion|niunwak|niunwak|noun|noun||燃焼|||||
-combustive|niunwakung|niunwakuq|adjective|ung adjective||燃焼|||||
+combust|niunwakun|niunwakun|verb|un verb||niun (burn) + wak (burn) |||||
+combustion|niunwak|niunwak|noun|noun||niun (burn) + wak (burn) |||||
+combustive|niunwakung|niunwakuq|adjective|ung adjective||niun (burn) + wak (burn) |||||
 come|rairun|rairun|||||||||
 commence|dos'hiunun|doshiunun|verb|run verb||開始|||||
 commencement|dos'hiun|doshiun|noun|noun||開始|||||
@@ -709,16 +708,15 @@ corruption|wunshok|wunxok|noun|noun|||||||
 couch|apa|apa|||||||||
 council|badu||||||||||
 count|kourun|kourun|||||||||
-counterattack|libalama|libalama|noun|noun||逆襲|||||
-country|saban|saban|||||||||
-coup|kū|ku-|||||||||
-coup d'état|kudeta|kudeta|||||||||
-courage|kārti|ka-rti|||||||||
-courageous|kārung|ka-r (na)|||||||||
-cover|kabā|kaba-|||||||||
-covered|kabāru|kaba-ru|||||||||
-cow|kosa|kosa|  ||||||||
-coyote|gasa|gasa|||||||||
+counterattack|libasut|libasut|noun|noun||逆+ sut (attack)|||||
+country|saban|saban|noun|noun|||||||
+coup|kū|ku-|noun|noun|||||||
+coup d'état|kudeta|kudeta|noun|noun|||||||
+courage|kārti|ka-rti|noun|noun|||||||
+courageous|kārung|ka-ruq|adjective|ng adjective|||||||
+cover|kabā|kaba-|noun|noun|||||||
+cow|kosa|kosa|noun|noun|||||||
+coyote|gasa|gasa|noun|noun|||||||
 crack|bitak|bitak|noun|noun|||||||
 crack|bitakun|bitakun|verb|un verb|||||||
 crane|karena|karena|noun|noun|bird||||||
@@ -756,7 +754,7 @@ cut|jeinun|jeinun|verb|un verb||jei (cut)|||||
 cute|kiging|kigiq|adjective|ng adjective||From Old Mampulan|Dogs are cute.|Wano kigiq te.|||
 cycle|zais|zais||||zais (cycle)|||||
 cytoplasm|nisbōnai|nisbo-nai|      ||the organized complex of inorganic and organic substances external to the nuclear membrane of a cell and including the cytosol and membrane-bound organelles (such as mitochondria or chloroplasts)||||||
-cytoskeleton|nisbōbounkak|nisbo-bounkak|        ||the network of protein filaments and microtubules in the cytoplasm that controls cell shape, maintains intracellular organization, and is involved in cell movement||||||
+cytoskeleton|nisbōgaitkak|nisbo-gaitkak|        ||the network of protein filaments and microtubules in the cytoplasm that controls cell shape, maintains intracellular organization, and is involved in cell movement||||||
 dad|tam|tam|noun|noun|||||||
 daily|maihi|maihi|adverb|adverb|occurring, made, or acted upon every day||||||
 dam|dam|dam|||||||||
@@ -775,16 +773,16 @@ database|deitabeis|deitabeis|noun|noun|a usually large collection of data organi
 date|raujon|raujon|noun|noun|the time at which an event occurs|rau (day, sun)jon (attached, joined)|||||
 daughter|paidan|paidan|noun|noun|a female offspring especially of human parents|娘|||||
 day|rau|rau|noun|noun|the time of light between one night and the next|rau (day, sun)|||||
-death|mordonsari|mordonsari|||(formal, polite)||||||
-death|mordon|mordon|||||||||
-death by fire|wakmordon|wakmordon|noun|noun||焼mordon (death)|||||
-death penalty|mordonkē|mordonke-|||||||||
+death|mordonsari|mordonsari|noun|noun|(formal, polite) The cessation of life and all associated processes; the end of an organism's existence as an entity independent from its environment and its return to an inert, nonliving state.||||mordon||
+death|mordon|mordon|noun|noun|(informal) The cessation of life and all associated processes; the end of an organism's existence as an entity independent from its environment and its return to an inert, nonliving state.||||sari||
+death by fire|wakmordon|wakmordon|noun|noun||wak (burn) + mordon (death)|||||
+death penalty|mordonkē|mordonke-|noun|noun|||||||
 debate|taunron|taunron|noun|noun||討論|||||
 debris|pasato|pasato|noun|noun|||||||
 debt|shaggon|xaggon|noun|noun||借+ gon (gold) shagu + gon|||||
 decapitate|datuhorun|datuhorun|verb|un verb||datu + hor|||||
-deceive|deiheru|deiheru|||||||||
-deceleration|hesit|hesit|||||||||
+deceive|deiherun|deiheru|verb|run verb|||||||
+deceleration|hesit|hesit|noun|noun|||||||
 December|tendumū|tendumu-|noun|noun|||||||
 deception|rosoras|rosoras|noun|noun||rosoko + ras (raccoon)|||||
 decide|keturun|keturun|verb|run verb||ketu (decide)|||||
@@ -1203,13 +1201,13 @@ floor|paso|paso|noun|noun|||||||
 flour|hana|hana|noun|noun|||||||
 flow|taloy|taloy|noun|noun||"replaced old word ""riu"""|||||
 flow|taloyun|taloyun|verb|run verb|||||||
-flower|fa|fa|||||||||
-flowering of flowers|dosfa|dosfa|||||||||
-flu|fulu|fulu|||||||||
+flower|fa|fa|noun|noun|||||||
+flowering of flowers|dosfa|dosfa|noun|noun|||||||
+flu|fulu|fulu|noun|noun|||||||
 Fluorine|fusau|fusau|noun|noun||fu+sau|||||
-flute|fulūt|fulu-t|||||||||
+flute|fulūt|fulu-t|noun|noun|||||||
 fly|ngau|ngau|noun||||||||
-fly|ekarun|ekarun|verb||||||||
+fly|fulun|fulun|verb|un verb|||||||
 fog|maka|maka|||||||||
 fold|akarun|akarun|verb|run verb|||||||
 folder|akaki|akaki|||||||||
@@ -1218,13 +1216,13 @@ follow|sudun|sudun|verb|un verb|||||||
 follower|sudwan|sudwan|noun|noun|||||||
 following|dounsiru|dounsiru|||(the following statement)||||||
 font|fontu|fontu|noun|noun|||||||
-food|kenas|kenas|||||||||
-foot|bes|bes|||||||||
-footlight|raunziu|raunziu|    ||||||||
-footnote|raunchiu|raunciu|    ||||||||
-for|san|san|||||||||
-force|tak|tak|||||||||
-forecast|yoho|yoho|    ||||||||
+food|kainbu|kainbu|noun|noun|||||||
+foot|bes|bes|noun|noun|||||||
+footlight|raunziu|raunziu|noun|noun|||||||
+footnote|raunchiu|raunciu|noun|noun|||||||
+for|san|san|noun|noun|||||||
+force|tak|tak|noun|noun|||||||
+forecast|yoho|yoho|noun|noun|||||||
 foreign affairs|lasmu|lasmu|noun|noun|||||||
 foreshock|binkuin|binkuin||||bin + kuin (shake, tremble)|||||
 forest|poun|poun|||||||||
@@ -1515,15 +1513,15 @@ improvement|tokilian|tokilian|noun|noun|the act or process of improving|toki (re
 impure|dejunung|dejunuq|adjective|ung adjective|containing something unclean|de + junu (not pure)|||||
 in|lob|lob|||||||||
 in the middle of|kan ~ chu|kan ~ cu|noun phrase|noun phrase|in the process of doing (something)|kan (in) + chu (middle)|I'm in the middle of something here.|Ko kan babu chu kan zi te|||
-inaugurate|ammakarun|ammakarun|verb|run verb|(of president)|ang + makaru|||||
-inauguration|ammaka|ammaka|noun|noun|(of president)| ang + maka|||||
+inaugurate|angmakarun|aqmakarun|verb|run verb|(of president)|ang + makaru|||||
+inauguration|angmaka|aqmaka|noun|noun|(of president)|ang + maka|||||
 incantation|guromou|guromou|noun|noun||呪+ mou (literature)|||||
 include|losamarun|losamarun|verb|run verb||lob (in) + sama (together)|||||
 inclusion|pakkat|pakkat|noun|noun|||||||
 inclusive|pakkatung|pakkatuq|noun|noun|||||||
 income|shiuhai|xiuhai|noun|noun|||||||
-increase|biurerun|biurerun||run verb||biure (increase)|||||
-incubate|keschenu|kescenu|verb||||||||
+increase|biurerun|biurerun|verb|run verb||biure (increase)|||||
+incubate|keschenun|kescenu|verb|un verb|||||||
 incubation|keschen|kescen|noun|noun|||||||
 incubator|keschenki|kescenki|noun|noun|||||||
 independence|deasawanras|deasawanras|noun|noun||de + asawan + ras|||||
@@ -1532,15 +1530,15 @@ index|fingsū|fiqsu-|nou|noun|math index||||||
 index|indeksu|fiqsu-|noun|noun|||||||
 indicate|fingpatun|fiqpatun|verb|un verb||fing (finger, point to) + pat (to show)|||||
 indication|fingpat|finqpat|noun|noun|||||||
-indigo|inding|indiq|||||||||
-indirect|gapsetu|gapsetu|||||||||
-indiscriminate|desabetung|desabetuq|||||||||
-indiscrimination|desabetu|desabetu|||||||||
+indigo|inding|indiq|adjective|ng adjective|||||||
+indirect|gapsetu|gapsetu|noun|noun|||||||
+indiscriminate|desabetung|desabetuq|adjective|ng adjective|||||||
+indiscrimination|desabetu|desabetu|noun|noun|||||||
 Indium|indium|indium|noun|noun|||||||
-individual|kowan|kowan|||||||||
-individualism|kowannal|kowannal|||||||||
+individual|kowan|kowan|noun|noun|||||||
+individualism|kowannal|kowannal|noun|noun|||||||
 indoor|yanaing|yanaiq|adjective|ng adjective||屋 + nai (inside)|||||
-industry|fiongbour|fioqbour|noun|noun||fion + bour fion (product [productivity])業|||||
+industry|fiongbour|fioqbour|noun|noun||fion (product [productivity]) + bour|||||
 inedible|dekainkatung|dekainkatuq|adjective|ung adjective||de- (negation) + kainun (eat) + kat (can)|||||
 ineffective|debisang|debisaq|adjective|ng adjective||de- (negation) + bisa (effective)|||||
 inflammable|apokatung|apokatuq|adjective|ung adjective||apo (fire) + kat (can)|||||
@@ -1573,7 +1571,7 @@ interruption|iume|iume|noun|noun|||||||
 intersect|kōsaponun|ko-saponun|verb|un verb|||||||
 intersection|kōsapon|ko-sapon|noun|noun|||||||
 intimidate |intirun|intirun|verb|run verb|||||||
-invasion|lamarai|lamarai|noun|noun|||||||
+invasion|sutrai|lamarai|noun|noun||sut + rai. Syllabication becomes su-trai|||||
 investigate|lukounun|siralukounun|verb|un verb||sira (investigate) + lukoun (investigate) |||||
 investigation|lukoun|siralukoun|noun|noun||sira (investigate) + lukoun (investigate) |||||
 investment|mesain|mesain|noun|noun||met (throw) + sain (fund, resources)|||||
@@ -1631,10 +1629,10 @@ kick|kīkun|ki-kun|verb|un verb|||||||
 kidney|kitan|kitan|noun|noun|||||||
 kill|saterun|saterun|verb|run verb||sate|||||
 killed in action|trounmordon|canmordon|noun|noun|a casualty classification generally used by militaries to describe the deaths of their own forces at the hands of hostile forces|troun (war) + mordon (death)|||||
-kimchi|kimchi|kimci|||||||||
-kind|bait|bait|||||||||
-king|kima|kima|||||||||
-kingdom|bajo||||||||||
+kimchi|kimchi|kimci|noun|noun|||||||
+kind|bait|bait|nou|noun|||||||
+king|kima|kima|noun|noun|||||||
+kingdom|bajo||noun|noun|||||||
 kite|hipakachi|hipakaci|noun|noun|||||||
 kitten|lapusan|lapusan|||||||||
 kiwi|kiwi|kiwi|||||||||
@@ -2173,7 +2171,7 @@ pigeon|touba|touba|noun|noun|||||||
 pill|kebola|kebola|||(textile)||||||
 pillow|pila|pila|||||||||
 pilot|pailoto|pailoto|noun|noun|||||||
-pilot|doekkiwan|doekkiwan|noun|noun|pilot of a airlane|dorun (drive) + ekki (airplane) + wan (person)|||||
+pilot|dofulkiwan|dofulkiwan|noun|noun|pilot of a airlane|dorun (drive) + fulki (airplane) + wan (person)|||||
 pin|pin|pin|||||||||
 pink|pinkung|pinkuq|||||||||
 pipe|paip|paip|||||||||
@@ -2357,16 +2355,16 @@ racist|zounalwan|zounalwan|noun|noun|||||||
 radiation|hoshshalain|hoxxalain|noun|noun|||||||
 radiation exposure|hīhoke|hi-hoke|noun|noun||hī (receiving) +  hoke (exposure)|||||
 Radium|radium|radium|noun|noun|||||||
-radius|gitkoso|gitkoso|||||||||
+radius|gitkoso|gitkoso|noun|noun|(geometry) A line segment between any point of a circle or sphere and its center||||||
 Radon|radon|radon|noun|noun|||||||
-raft|raf|raf|||||||||
-raid|lamarai|lamarai|||||||||
-rail|kro|kro|||||||||
-railroad crossing|fumijein|fumijein|||||||||
-railway|bagu||||||||||
-rain|wun|wun|||||||||
-rainfall|huluawon|huluawon|||||||||
-rainforest|wunpoun|wunpoun|||||||||
+raft|raf|raf|noun|noun|||||||
+raid|sutrai|sutrai|noun|noun||sut + rai. Syllabication becomes su-trai|||||
+rail|kro|kro|noun|noun||sut + rai. Syllabication becomes su-trai|||||
+railroad crossing|fumijein|fumijein|noun|noun|||||||
+railway|bagu|bagu|noun|noun|||||||
+rain|wun|wun|noun|noun|||||||
+rainfall|huluawon|huluawon|noun|noun|||||||
+rainforest|wunpoun|wunpoun|noun|noun|||||||
 raise|shounun|xounun|verb|un verb| (raising a child)|shoun (up)|||||
 raise|ikun|ikun|verb|un verb| (raising a child)||||||
 rake|reik|reik|||||||||
@@ -2438,7 +2436,7 @@ relax|toukresurun|toukresurun||||loose + resu (rest)|||||
 relay|chugya|cugya|noun|noun|TV||||||
 relay broadcasting|chugya hossō|cugya hosso-|||||||||
 religion|majo||||||||||
-remain|zanu|zanu|verb||||||||
+remain|zanun|zanun|verb|un verb|||||||
 remainder|besiyo|besiyo|||||||||
 remember|remeru|remeru|||||||||
 rendezvous|rāndei|ra-ndei|||||||||
@@ -2788,7 +2786,7 @@ station|sutei|sutei|noun|noun|||||||
 statistics|konenmasga|konenmasga|noun|noun|||||||
 statue|surnas|surnas|noun|noun||sur (stand) + nas (nominalizing verb)|Can you take a picture of me with this statue?|Ro i ko sa dranggei mei zis surnas katu saturun?|||
 steak |suteik|suteik|noun|noun|||||||
-steal|nusu|nusu|verb||||||||
+steal|nusun|nusun|verb|un verb|||||||
 steam|siupiunti|siupiunti|noun|noun|The vapor formed when water changes from the liquid phase to the gas phase.|siu (water) + piun (vapor) + ti (air/atmosphere)|The steam from the pot is hot.|Wo poun na siupiunti acunq te.|||
 steel|bakala|bakala|noun|noun|||||||
 stencil|suten|suten|noun|noun|||||||
@@ -5728,7 +5726,6 @@ albatross|loyu|loyu|noun|noun||Old Mampulan|||||
 court|luba|luba|noun|noun||Old Mampulan|||||
 wealth|lubin|lubin|noun|noun||Old Mampulan|||||
 reinscription|lubon|lubon|noun|noun||Old Mampulan|||||
-campaigning|lubu|lubu|noun|noun||Old Mampulan|||||
 misplacement|ludan|ludan|noun|noun||Old Mampulan|||||
 expansion|ludo|ludo|noun|noun||Old Mampulan|||||
 secretion|ludon|ludon|noun|noun||Old Mampulan|||||
@@ -5744,7 +5741,7 @@ zebrafish|lukon|lukon|noun|noun||Old Mampulan|||||
 forte|luku|luku|noun|noun||Old Mampulan|||||
 fisting|lulo|lulo|noun|noun||Old Mampulan|||||
 breakpoint|lulu|lulu|noun|noun||Old Mampulan|||||
-copyright|luma|luma|noun|noun||Old Mampulan|||||
+copyright|prunsakupot|prunsakupot|noun|noun||著作権|||||
 tracksuit|luman|luman|noun|noun||Old Mampulan|||||
 fail|lumi|lumi|noun|noun||Old Mampulan|||||
 allegation|lumo|lumo|noun|noun||Old Mampulan|||||
@@ -9841,16 +9838,16 @@ tyranny|abamor|abamor|noun|noun||aba + mor|||||
 exsanguinate|lasdukorun|lasdukorun|verb|run verb||lasduko|||||
 exsanguination|lasduko|lasduko|noun|noun||lasduko (out + blood)|||||
 between|duchudes|ducudes|preposition|preposition||in the middle of two|||||
-below|doundes|doundes|preposition|preposition|||||||
-beside|latdes|latdes|preposition|preposition|||||||
-on|ses|ses|preposition|preposition|||||||
-over|shoundes|xoundes|preposition|preposition|||||||
-in front of|bindes|bindes|preposition|preposition|||||||
-under|doundes|doundes|preposition|preposition|||||||
-behind|afudes|afudes|preposition|preposition|||||||
-opposite|mukudes|mukudes|preposition|preposition|||||||
-in|chudes|chudes|preposition|preposition|||||||
-by|fiudes|fiudes|preposition|preposition|||||||
+below|doundes|doundes|preposition|preposition||doun + des|||||
+beside|latdes|latdes|preposition|preposition||lat + des|||||
+on|ses|ses|preposition|preposition||sa des|||||
+over|shoundes|xoundes|preposition|preposition||shoun des|||||
+in front of|bindes|bindes|preposition|preposition||bin + des|||||
+under|doundes|doundes|preposition|preposition||doun des|||||
+behind|afudes|afudes|preposition|preposition||afu des|||||
+opposite|mukudes|mukudes|preposition|preposition||muku + des|||||
+in|chudes|chudes|preposition|preposition||chu + des|||||
+by|fiudes|fiudes|preposition|preposition||fiu + des|||||
 each other|itoka|itoka|pronoun|pronoun|To one another; one to the other; signifies that a verb applies to two or more entities both as subjects and as direct objects:|itowoka (one + and + other)|||one another||
 one another|itoka|itoka|pronoun|pronoun|To one another; one to the other; signifies that a verb applies to two or more entities both as subjects and as direct objects:|itowoka (one + and + other)|||each other||
 direct hit|forchu|forcu|noun|noun||for (life, lifetime) + chu (middle)|||||
@@ -9874,4 +9871,7 @@ far|ayung|ayuq|adjective|ng adjective|(obsolete) Old Mampulan for <i>yung</i>|||
 fortitude|||||||||||
 fortify|||||||||||
 testify|zainseirun|zainseirun|verb|run verb|||||||
-affliction|||||||||||
+affliction|||noun|noun|||||||
+conquer|mourposun|mourposun|verb|un verb|||||||
+conquer|oferwinun|oferwinun|verb|un verb|||||||
+compulsive|tuyohakung|tuyohakuq|adjective|ung adjective|||||||
