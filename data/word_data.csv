@@ -8,8 +8,8 @@ aardvark|saromin|saromin|noun|noun|a large burrowing nocturnal mammal (Orycterop
 aardvark|hisaromein|hisaromein|noun|noun|(obsolete) Old Mampulan for saromin|-|||saromin||
 aardwolf|kasama|kasama|noun|noun|a maned striped nocturnal mammal (Proteles cristatus) of southern and eastern Africa that resembles the related hyenas and feeds chiefly on insects and especially termites|From Old Mampulan <i>kahasama</i>|||||
 abacus|abakus|abakus|noun|noun|an instrument for performing calculations by sliding counters along rods or in grooves|From English <i>abacus</i>|||||
-abandon|frinun|frinun|verb|un verb|To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions.|frin (abandon)|He abandoned his dream to be a doctor.|Ye ni yes tun ten i-wan na panan frina.|abandoned||
-abandoned|frina|frina|verb|un verb|past tense of Mampulan dictionary form verb <i>abandon</i>|frinun (abandon)|He abandoned his dream to be a doctor.|Ye ni yes tun ten i-wan na panan frina.|abandon||
+abandon|frinun|frinun|verb|un verb|To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions.|frin (abandon)|He abandoned his dream to be a doctor.|Ye ni yes as ten i-wan na panan frina.|abandoned||
+abandoned|frina|frina|verb|un verb|past tense of Mampulan dictionary form verb <i>abandon</i>|frinun (abandon)|He abandoned his dream to be a doctor.|Ye ni yes as ten i-wan na panan frina.|abandon||
 abandoned|frinang|frinaq|adjective|na adjective|adjective form of Mampulan <i>frinun</i> (abandon)|frinun (abandon)|I want to adopt that abandoned dog.|ko ni zes frinaq wano gusu tunenun.|abandon||
 abate|sunakun|sunakun|verb|un verb|to decrease in force or intensity|su nakun (to become small)|||||
 abbreviate|shonnakun|xonnakun|verb|run verb|to make briefer|shon nakun (to become short)|||abbreviation||
@@ -109,7 +109,6 @@ agreeable|roungikatung|rouqikatuq|adjective|ung adjective||roungi (agree) + katu
 agreement|roungi|rouqi|noun|noun|harmony of opinion, action, or character|rou (same) + ngi (thought, idea)|||||
 agriculture|agubour|agubour|noun|noun|the science, art, or practice of cultivating the soil, producing crops, and raising livestock and in varying degrees the preparation and marketing of the resulting products|agu (agriculture) + bour (business, work)|||||
 aim|eimun|eimu|verb|un verb|||||||
-air|her|her|noun|noun|||||||
 air raid|kūsut|ku-sut|noun|noun|an attack in which bombs are dropped from aircraft on to a ground target|kū (sky) + sut (attack)|||||
 air temperature|tiyon|tiyon|noun|noun|formal|ti (air/atmosphere)+ on (warm)|||||
 air temperature|her sa ondo|her sa ondo|noun|noun|informal phrase of Mampulan <i>tion</i>|her (air) + ondo (temperature)|||||
@@ -118,7 +117,6 @@ alarm|alām|ala-m|noun|noun|||||||
 algebra|yosūga|yosu-ga|noun|noun|||||||
 algorithm|algorizum|algorizum|noun|noun|||||||
 alibi|alibai|alibai|noun|noun|||||||
-all|zeng|zeq|adjective|g adjective|||||||
 allow|payarun|payarun|verb|run verb|||||||
 ally|ālai|a-lai|noun|noun|||||||
 alma mater|mamachun|mamacun|noun|noun|||||||
@@ -155,7 +153,6 @@ android|āndoroydo|a-ndoroydo|noun|noun|||||||
 anesthesia|raigundū|raigundu-|noun|noun|||||||
 anger|nu|nu|noun|noun||Old Mampulan|||||
 angry|nung|nuq|adjective|ng adjective|||||||
-animal|tounbu|tounbu|noun|noun||toun (moving) + bu (object)|||||
 animal trap|kashoku|kaxoku|noun|noun|||||||
 ankle|anko|anko|noun|noun|||||||
 annual|maitiung|maitiuq|adjective||||||||
@@ -236,8 +233,8 @@ arrival|rai|rai|noun|||rai|||||
 arrive|rairun|rairun|verb|||rai|||||
 arrow|aro|aro|noun|noun|||||||
 arsenic|arsenik|arsenik|noun|noun|||||||
-arson|hosapo|hosapo|noun|noun||hos (release)apo (fire)|||||
-arsonist|hosapowan|hosapowan|noun|noun||hosapo (arson) + wan (person)|||||
+arson|hosapo|hosapo|noun|noun||hos (release) boun (fire)|||||
+arsonist|hosapowan|hosapowan|noun|noun||hosboun (arson) + wan (person)|||||
 art|an|an|noun||||||||
 art museum|biujutukan|biujutukan|noun|noun|||||||
 artery|tounmasa|tounmasa|noun|noun|||||||
@@ -356,28 +353,23 @@ big|dang|daq|adjective|ng adjective|||||||
 bile|bail|bail|noun|noun|||||||
 biology|buibuga|buibuga|noun|noun|||||||
 bird|ipon|ipon|noun|noun|||||||
-birth|chonibui|conibui|noun|noun|||||||
 birthday|buirau|buirau|noun|noun||bui (life) + rau (day)|||||
 birthstone|buibato|buibato|noun|noun||bui (life) + stone (bato)|||||
 bishop|mafo||noun|noun|||||||
 Bismuth|bismus|bismus|noun|noun|||||||
 bite|gatun|gatun|verb|un verb||gat (bite)|||||
 bitter|paitung|paituq|adjective|ung adjective||苦|||||
-black|kurong|kuroq|noun|noun|||||||
-black ice|ramil|ramil|noun|noun|||||||
 blackboard|kuropitan|kuropitan|noun|noun||black + board|||||
 blackmail|haunhakjō|haunhakjo-|noun|noun|||||||
 blanket|kapi|kapi|noun|noun|||||||
 blimp|tibola|tibola|noun|noun|||||||
 blizzard|mandi|mandi|noun|noun|||||||
-blood|duko|duko|noun|noun|||||||
 blood pressure|duko sa bran|duko sa bran|noun|noun|||||||
 blood type|duko sa pasa|duko sa taip|noun|noun|||||||
 bloodlust|sateti|sateti|noun|noun|||||||
 bloom|sakun|sakun|verb|un verb|||||||
 blooming of flowers|dosfa|dosfa|noun|noun|||||||
 blow|fourun|fourun|verb|run verb|to be in motion||||||
-blue|bugung|buguq|adjective|ng adjective|||||||
 boa|nakana|nakana|noun|noun|||||||
 board|pitan|pitan|noun|noun|board like plank||||||
 boat|pun|pun|noun|noun|||||||
@@ -393,7 +385,7 @@ bookmark|akapour|akapour|noun|noun|A strip of material used to mark a place in a
 boomerang|būmerang|bu-meraq|noun||||||||
 bore|tamarun|tamarun|verb|run verb|feeling bored|tamang. adjective came first|||||
 bored|tamang|tamaq|adjective|ng adjective|||||||
-born|fionarun||verb|run verb||passive form fion (product [productivity])|||||
+born|fiontun|fiontun|verb|run verb||passive form fion (born)|||||
 Boron|boron|boron|noun|noun||boron|||||
 bottle|boto|boto|||||||||
 bottom|nala|nala|||||||||
@@ -534,7 +526,7 @@ chimpanzee|chimpanzī|cimpanzi-|noun|noun||English|||||
 chin|ogo|ogo|noun|noun|||||||
 China|chaina|caina|||||||||
 Chinese|chainang|cainaq|||related to China||||||
-Chinese|chainawan|cainawan|noun|noun|person||Years ago, I was Chinese.|Jubbin tiun, ko ni cainawan ta.|||
+Chinese|chainawan|cainawan|noun|noun|person from China||Years ago, I was Chinese.|Jubbin tiun, ko ni cainawan ta.|||
 chisel|chise|cise|||||||||
 Chlorine|sōtosau|so-tosau|noun|noun||塩+ sau (origin, prime, or element)|||||
 chocolate|cokolate|cokolate|||||||||
@@ -774,7 +766,6 @@ date|raujon|raujon|noun|noun|the time at which an event occurs|rau (day, sun)jon
 daughter|paidan|paidan|noun|noun|a female offspring especially of human parents|娘|||||
 day|rau|rau|noun|noun|the time of light between one night and the next|rau (day, sun)|||||
 death|mordonsari|mordonsari|noun|noun|(formal, polite) The cessation of life and all associated processes; the end of an organism's existence as an entity independent from its environment and its return to an inert, nonliving state.||||mordon||
-death|mordon|mordon|noun|noun|(informal) The cessation of life and all associated processes; the end of an organism's existence as an entity independent from its environment and its return to an inert, nonliving state.||||sari||
 death by fire|wakmordon|wakmordon|noun|noun||wak (burn) + mordon (death)|||||
 death penalty|mordonkē|mordonke-|noun|noun|||||||
 debate|taunron|taunron|noun|noun||討論|||||
@@ -877,7 +868,6 @@ dinosaur|fainredun|fainredun|noun|noun||恐竜|||||
 diplomacy|laskō|lasko-|noun|noun|||||||
 diplomat|laskō|lasko-|noun|noun|||||||
 diplomatic relations|sabankō|sabanko-|noun|noun||saban (country) + 交|||||
-dire|wounang|wounaq||||possibly from Mampulan woun (wolf)|||||
 direct|choksetu|coksetu|||||||||
 dirt|dāt|da-t|||||||||
 dirty|dātīng|da-ti-q|  ||||||||
@@ -901,7 +891,7 @@ distance|laya|laya|||||||||
 distinct|norbetung|norbetuq|adjective|ng adjective|That which distinguishes; a single occurrence of a determining factor or feature, the fact of being divided; separation, discrimination.|norbetu (distinction)|||||
 distinction|norbetu|norbetu|noun|noun|That which distinguishes; a single occurrence of a determining factor or feature, the fact of being divided; separation, discrimination.|区別|||||
 distribute|agerun|agerun|verb|run verb|(give out papers)||||||
-distribution|riutū|riutu-|noun|noun|(marketing)||||||
+distribution|nagantū|nagantu-|noun|noun|(marketing)||||||
 diverse|metsitang|metsitaq|adjective|ng adjective||many + situations|||||
 divide|desdurun|desdurun|verb|run verb||des du (to two)|||||
 dividend|hījosū|hi-josu-|noun|noun|||||||
@@ -912,7 +902,6 @@ do|yarun|yarun|verb|run verb|||I will do it myself.|Pein ni ta yari.|||
 doctor|īwan|i-wan|noun|noun|A physician; a member of the medical profession; one who is trained and licensed to heal the sick or injured.||||||
 doctor|mediwan|mediwan|noun|noun|(archaic) doctor||||||
 dodge|iwun|iwun|verb|un verb|||||||
-dog|wano|wano|noun|noun|a highly variable domestic mammal (Canis familiaris) closely related to the gray wolf|more likely from woun|Dogs are cute.|Wano kigiq te.|||
 dolphin|dalapa|dalapa|||||||||
 domestic|sabannai|sabannai|||(1) within a country|saban (country) + nai (inside)|||||
 domesticated|chāchikung|ca-cikuq|||||||||
@@ -928,7 +917,7 @@ down|doun|doun|||||||||
 download|dounkage|dounkage|noun|noun|||||||
 download|dounkagerun|dounkagerun|verb|run verb|||||||
 dragon|dago|dago|||||||||
-drainage basin|riuuki|riuuki|||||||||
+drainage basin|naganuki|naganuki|||||||||
 drank|ira|ira|verb|run verb|past tense of Mampulan dictionary form verb <i>kainun</i>||||||
 draw|gurun|gurun|||drawing a picture|Japanese <i>aiko</i>|||||
 draw|aiko|aiko|||not win or lose. Just tie|Japanese <i>aiko</i>|||||
@@ -952,7 +941,7 @@ Dysprosium|disprosium|dispurosium|noun|noun|||||||
 each|ata|ata|noun|noun|one each||||||
 eagle|agala|agala|noun|noun|||||||
 ear|orena|orena|noun|noun||from Orena the Rabbit Legend. Replaced Old Mampulan <i>dinan</i>|||||
-earth|awonbola|awonbola|noun|noun|planet||||||
+earth|donbola|donbola|noun|noun|planet||||||
 earthenware|doki|doki|noun|noun|||||||
 earthquake|awonkuin|awonkuin|noun|noun||地+ kuin (shake, tremble)|||||
 earthworm|tokko|tokko|noun|noun|||||||
@@ -1075,11 +1064,11 @@ even|el|el|||(1) (intensifier for extreme conditions)||Even he could do it.|El y
 even though|odou|odou|conjuction||||||although||
 every|maing|maiq|adjective|ng adjective|||||||
 every day|maing rau|maiq rau|adverb|adverb|an adverb phrase meaning daily or every weekday.|maing + rau|||||
-everybody|zenwan|zenwan|pronoun|pronoun||zen (all) + wan (person)|Everybody wants to eat apples.|Zenwan ni mak gusu tun kainun|||
+everybody|latwan|latwan|pronoun|pronoun||lat (all) + wan (person)|Everybody wants to eat apples.|latwan ni mak gusu tun kainun|||
 everyday|mairaung|mairauq|adjective|ng adjective|encountered or used routinely or typically|mairau|||||
-everyone|zenwan|zenwan|pronoun|pronoun||zen (all) + wan (person)|Everyone wants to eat apples.|Zenwan ni mak gusu tun kainun|||
-everything|zenbu|zenbu|||||||||
-everywhere|zendashe|zendaxe|||||||||
+everyone|latwan|latwan|pronoun|pronoun||lat (all) + wan (person)|Everyone wants to eat apples.|latwan ni mak gusu tun kainun|||
+everything|latbu|latbu|||||||||
+everywhere|latdashe|latdaxe|||||||||
 evidence|zainmikiun|zainmikiun|noun|noun|an outward sign or something that furnishes proof|zain (evidence)拠|||||
 example|mosaroun|mosaroun|noun|noun||mosaroun (using a sample)|||||
 exclude|lassama|lassama||||las (outside) + sama (together)|||||
@@ -1130,7 +1119,6 @@ fame|sika|sika|||||||||
 family|hiran|hiran|noun|noun||Old Mampulan. Similar to Old English hīred|||||
 family name|mekin|mekin|noun|noun|||||||
 famous|sikang|sikaq|||||||||
-fang|pangil|paqil|noun|noun|a long sharp tooth|from the name Pangil the Wolf Legend|||||
 far|yung|yuq|adjective|ng adjective|Distant; remote in space.|From Old Mampulan <i>ayung</i>|||||
 fascism|fashinal|faxinal|noun|noun|||||||
 fashion|maja|maja|noun|noun|||||||
@@ -1181,8 +1169,7 @@ find a job|angshokun|aqxokun|||||I need to get a job.|Ko kailu aqxokun.|find emp
 find employment|angshokun|aqxokun|||||I need to get a job.|Ko kailu aqxokun.|find a job, get a job||
 fine|ngaing|qaiq|adjective|ng adjective|||||||
 finger|fing|fiq|||||||||
-fire|apo|apo|  ||||||||
-fire extinguisher|kesuapoki|kesuapoki|||||||||
+fire extinguisher|kesubounki|kesubounki|||||||||
 fish|hisdan|hisdan||||Old Mampulan <i>hisdan</i>|||||
 fish ball|panata|panata|||||||||
 fish sauce|patis|patis|||||||||
@@ -1191,7 +1178,7 @@ fist|kobu|kobu|noun|noun|||||||
 five|beng|beq|||||||||
 fix|ayun|ayun|verb|un verb|||||||
 flag|fura|fura|||||||||
-flammable|apokatung|apokatuq|adjective|ung adjective||apo (fire) + kat (can)|||||
+flammable|bounkatung|bounkatuq|adjective|ung adjective||boun (fire) + kat (can)|||||
 flat|palang|palaq|adjective|ng adjective||平|||||
 flaw|furō|furo-|noun|noun|||||||
 flawed|furōng|furo-q|adjective|ng adjective|||||||
@@ -1199,8 +1186,6 @@ Flerovium|fulerobium|fulerobium|noun|noun|||||||
 float|ukaru|ukaru|  ||||||||
 floor|paso|paso|noun|noun|||||||
 flour|hana|hana|noun|noun|||||||
-flow|taloy|taloy|noun|noun||"replaced old word ""riu"""|||||
-flow|taloyun|taloyun|verb|run verb|||||||
 flower|fa|fa|noun|noun|||||||
 flowering of flowers|dosfa|dosfa|noun|noun|||||||
 flu|fulu|fulu|noun|noun|||||||
@@ -1227,7 +1212,6 @@ foreign affairs|lasmu|lasmu|noun|noun|||||||
 foreshock|binkuin|binkuin||||bin + kuin (shake, tremble)|||||
 forest|poun|poun|||||||||
 fork|fōk|fo-k|||||||||
-form|kachi|kaci|||||||||
 formless|dekachi|dekaci||||de + kachi|||||
 fort|hero|hero|noun|noun|||||||
 forum|forun|forun|||||||||
@@ -1260,7 +1244,6 @@ fry|furun|furun||||From Old Mampulan|||||
 full|fung|fuq|adjective|ng adjective|||||||
 fun|raku|||||楽|||||
 function|relesū|relesu-|    ||relesū|関数|||||
-function|kinō|kino-|    ||kinō|ki (machine) + 能|||||
 fund|fando|fando|||||||||
 fundraising|deipigon|deipigon|noun|noun||募+ gon (gold)|||||
 fund-raising|deipigon|deipigon|noun|noun||募+ gon (gold)|||||
@@ -1303,7 +1286,6 @@ go|sorun|sorun|verb|run verb|||||||
 go back|etorun|etorun|verb|run verb|||||||
 go out|gou-outu|gou-outu|||||||||
 goat|kamba|kamba|noun|noun|||||||
-gobble|wonkainun|wonkainun|verb|un verb||From Old Mampulan <i>woun</i> (&quot;wolf&quot;) + <i>kainun</i> (&quot;to eat&quot;)|||||
 god|wongi|woqi|noun|noun|||||||
 goggles|gogolu|gogolu|||||||||
 gold|gon|gon|noun|noun|||||||
@@ -1330,7 +1312,6 @@ grater|guraki|guraki|noun|noun|||||||
 gray|oboklong|obokloq||||oboun (ash) + klon (color)|||||
 great|malakang|malakaq|||||||||
 greed|musayok|musayok|||||||||
-green|lunung|lunuq|||||||||
 grip|wana|wana|noun|noun|||||||
 grip|wanarun|wanarun|verb|run verb|||||||
 gross|zatang|zatang|adjective|ng adjective|(overall, as in gross area)||||||
@@ -1382,8 +1363,7 @@ head|hor|hor||||hor (head)|||||
 health|heltas|heltas|noun|noun||helu (save) + tai (body) becomes helutairas becomes heltas|||||
 healthy|heltasang|heltasaq||||heltas (healthy) + (ang)|||||
 hear|dinanun|dinanun|verb|||Old Mampulan dinan|||||
-heart|pain|pain|noun|noun||From Old Mampulan <i>pahin</i>|||||
-heat|ini|ini|noun|noun||From Old Mampulan|||||
+heat|ini|ini|noun|noun||From Old Mampulan <i>pahin</i>|||||
 heatstroke|acchuil|accuil|noun|noun||acucuil|||||
 heaven|tiensaban|tiensaban|noun|noun||tien + saban|||||
 heavy|baung|baung|adjective|ng adjective|(of a physical object) Having great weight.|From Old Mampulan|||||
@@ -1461,7 +1441,6 @@ how|danroun|danroun|pronoun|pronoun||dan (what) + roun (way)|||||
 how many|dankoun|dankoun|pronoun|pronoun||(what count)|||||
 how much|dankoun|dankoun|pronoun|pronoun||(what count)|||||
 howl|wōnu|wo-nu|noun|noun||possibly from Mampulan woun (wolf)|||||
-howl|wōnun|wo-nun|verb|run verb||possibly from Mampulan woun (wolf)|||||
 human resources|wanwate|wanwate|noun|noun||wan (person) + wate (material)|||||
 humanism|wanhonnal|wanronal|noun|noun||wan (person) + hon (origin, true) + nal (idea)|||||
 humble|tamutung|tamutung|adjective|ung adjective||tamut (humility)|||||
@@ -1530,7 +1509,6 @@ index|fingsū|fiqsu-|nou|noun|math index||||||
 index|indeksu|fiqsu-|noun|noun|||||||
 indicate|fingpatun|fiqpatun|verb|un verb||fing (finger, point to) + pat (to show)|||||
 indication|fingpat|finqpat|noun|noun|||||||
-indigo|inding|indiq|adjective|ng adjective|||||||
 indirect|gapsetu|gapsetu|noun|noun|||||||
 indiscriminate|desabetung|desabetuq|adjective|ng adjective|||||||
 indiscrimination|desabetu|desabetu|noun|noun|||||||
@@ -1541,7 +1519,7 @@ indoor|yanaing|yanaiq|adjective|ng adjective||屋 + nai (inside)|||||
 industry|fiongbour|fioqbour|noun|noun||fion (product [productivity]) + bour|||||
 inedible|dekainkatung|dekainkatuq|adjective|ung adjective||de- (negation) + kainun (eat) + kat (can)|||||
 ineffective|debisang|debisaq|adjective|ng adjective||de- (negation) + bisa (effective)|||||
-inflammable|apokatung|apokatuq|adjective|ung adjective||apo (fire) + kat (can)|||||
+inflammable|bounkatung|bounkatuq|adjective|ung adjective||boun (fire) + kat (can)|||||
 inform|horun|horun|verb|run verb|||||||
 information|isan|isan|noun|noun|||||||
 injection|chiusha|ciuxa|noun|noun|||||||
@@ -1639,14 +1617,12 @@ kiwi|kiwi|kiwi|||||||||
 knee|mije|mije|noun|noun|||||||
 knife|ou|ou|||||||||
 knock|noku|noku|||||||||
-know|nourun|nourun|verb|run verb|To perceive the truth or factuality of; to be certain of or that.||||||
 knowledge|noushik|nouxik|||||||||
 Komodo dragon|Komodo sa dago|Komodo sa dago|||||||||
 Krypton|kuripton|kuripton|noun|noun|||||||
 lack|debes|debes|noun|noun|the fact or state of being wanting or deficient|de (negation) bes (foot)|a lack of evidence|zainmikiun sa debes|||
 lake|sin|sin|||||||||
 lamp|kumato|kumato|||||||||
-land|lando|lando|||||||||
 landing|chakuriku|cakuriku|noun|noun|(landing of a flight)||||||
 lane|mago||||||||||
 language|seikata|seikata|||||||||
@@ -1707,7 +1683,6 @@ line graph|lain rana|lain rana|||||||||
 linguistics|seikataga|seikataga|||||||||
 lion|layon|layon|||||||||
 lipstick|bichiba|biciba|||||||||
-liquid|paitai|paitai|||||||||
 liquidation|lunkalu|lunkalu|||||||||
 listen|lirun|lirun|||||||||
 liter|litā|lita-|||||||||
@@ -1724,13 +1699,12 @@ living thing|buibu|buibu||||bui (life) + bu (thing)|||||
 lizard|lagara|lagara|||||||||
 load|kage|kage|noun||||||||
 load|kagerun|kagerun|||||||||
-loan|loun|loun|||money lent at interest||||||
 loan|shaggon|xaggon|||formal form of <i>loun</i>||||||
 loathe|lousun|lousun|verb|un verb|to dislike greatly and often with disgust or intolerance||||||
 lock|lak|lak|noun|noun|||||||
 lock|lakun|lakun|verb|un verb|||||||
 logarithm|faisū|faisu-||||fai (opposite, versus) 数|||||
-logistics|buriu|buriu|noun|noun||bu (thing)流|||||
+logistics|bunagan|bunagan|noun|noun||bu (thing)流|||||
 loitering|channawa|cannawa|||||||||
 long|leng|leq|||||||||
 longitude|ardo|ardo|||||||||
@@ -1774,8 +1748,6 @@ main|mein|mein|||||||||
 maintenance|menten|menten|noun|noun||maintenance|||||
 make|sukun|sukun|verb|un verb|||||||
 make progress|gouburun|gouburun|verb|run verb|||||||
-malform|akkachirun|akkacirun|verb|run verb||aku (bad) + kachi (form)|||||
-malignant|akushin|akuxin|||||||||
 mall|mōl|mo-l|||||||||
 malleability|jounshin|jounxin|noun|noun||展+ shin (the state, property, or quality)|||||
 mammal|mamal|mamal|||||||||
@@ -1790,7 +1762,6 @@ mannequin|manekin|manekin|noun|noun|||||||
 mantle|manto|manto|noun|noun| (clothing)|mantle|||||
 manufacture|seinun|seinun|verb|un verb||sein (manufacture)|||||
 manufacturer|seinwan|seinwan|noun|noun||sein (manufacture) + wan (person)|||||
-manuscript|utuhon|utuhon|noun|noun|||||||
 many|rung|rung|adjective|ung adjective|||||||
 map|awonzu|awonzu|noun|noun|||||||
 maple tree|aisada|aisada|noun|noun|||||||
@@ -1884,8 +1855,6 @@ mountain|shan|xan|noun|noun|||||||
 mountain range|shanmasa|xanmasa|noun|noun||山脈|||||
 mouse|nos|nos|noun|noun||鼠|||rat||
 mouth|bi|bi|||||||||
-move|toun|toun|noun|noun|||||||
-move|tounun|tounun|verb|un verb|||||||
 move out of the way|nomorun|nomorun|verb|run verb|||||||
 much|machung|macuq|adjective||||||||
 mug|mag|mag|noun|noun|||||||
@@ -1912,9 +1881,9 @@ muzzle|nuslo|nuslo|noun|noun||from Nuslo the Fox Legend.|||||
 my|kos|kos|adjective|irregular adjective||ko + sa|That is my bag.|Zes kos muro te.|||
 myself|pein|pein|pronoun|pronoun|reflexive pronoun||||||
 mystery|zarmitu|zarmitu|noun|noun||zarara sa simmitu (closed secret)|||||
-myth|pangishei|||||pangi (god)  + shei (talk, story)|||||
-nail|kuko|kuko|noun|noun|fingernail||||||
-nail|pako|pako|noun|noun|construction nails||||||
+myth|pangishei|pangishei|noun|noun||pangi (god)  + shei (talk, story)|||||
+nail|tor|tor|noun|noun|fingernail||||||
+nail|par|par|noun|noun|construction nails||||||
 name|nei|nei|noun|noun|||||||
 nap|karinemu|karinemu|noun|noun|formal version||||||
 nap|karinemurun|karinemurun|verb|run verb|||||||
@@ -1927,7 +1896,7 @@ national|sabanming|sabanmiq|adjective|g adjective|||||||
 nationalism|sabanchānal|sabanca-nal|||||||||
 native|chombing|combiq||||Mampulan <i>chonibui</i> (birth)|||||
 naughty|ugong|ugoq|adjective||:no </br>:Santa gives you coal lol|your naughty brain|||||
-navigate|nabiru|nabiru|||||||||
+navigate|nabirun|nabiru|||||||||
 navigation|nabi|nabi|||||||||
 near|pit|pit|preposition||||||||
 near|pitaq|pitaq|adjective||||||||
@@ -1972,7 +1941,7 @@ noir|nuwār|nuwa-r|||||||||
 nominalization|neishichen|neixicen|noun|noun||neishi + chen|||||
 non living thing|Dibuibu|Dibuibu|||||||||
 none|dei|dei|noun|noun||de (negative) + I (one)|||||
-nonflammable|deapokatung|deapokatuq|adjective|ung adjective||de + apokat|||||
+nonflammable|debounkatung|debounkatuq|adjective|ung adjective||de + bounkat|||||
 normal|yunitū|yunitu-|||ordinary||||||
 normally|yunitūnak|yunitu-nak|adverb|adverb|||||||
 north|hila|hila|||||||||
@@ -2021,7 +1990,6 @@ oil|batoabu|batoabu|||petroleum||||||
 old|lumang|lumaq|adjective|ng adjective|||||||
 older brother|kāyo|ka-yo|noun|noun|||||||
 older sister|one|one|noun|noun|||||||
-omnivore|zatkain tounbu|zatkain tounbu|noun|noun|||||||
 omnivorous|zatkaing|zatkaiq|adjective|g adjective|||||||
 on|od|od|||||||||
 once|ing mawa|iq mawa|||||||||
@@ -2042,8 +2010,7 @@ opportunity|kikai|kikai|noun|noun|||||||
 opposition|bagi||||||||||
 or|ō|o-|||||||||
 oral|bing|biq|adjective|ng adjective|Relating to the mouth|bi (mouth)|||||
-orange|ekang|ekaq|adjective|ng adjective|||||||
-orange|naran|naran|noun|noun|||||||
+orange|naran|naran|noun|noun|fruit||||||
 orchestra|orkestra|orkestra|noun|noun|A large group of musicians who play together on various instruments, usually including some from strings, woodwind, brass and/or percussion; the instruments played by such a group. |English <i>orchestra</i>|||||
 organelle|nisbōsukiboke|nisbo-sukiboke|||||||||
 organism|buibu|buibu||||bui (life) + bu|||||
@@ -2137,7 +2104,6 @@ perigee|ser'awonpon|ser'awonpon|noun|noun||近地点|||||
 perjury|riunzain|riunzain||||偽zain (evidence)|||||
 permission|kiokang|kiokaq|||||||||
 perpendicular|tarechok|tarecok|||||||||
-person|wan|wan|||human, individual|From Old Mampulan huwan|||||
 personification|tamochen|tamocen|||||||||
 personify|tamochenu|tamocenu|||||||||
 perspective|fāserhou|fa-serhou|noun|noun|visual||||||
@@ -2177,7 +2143,6 @@ pink|pinkung|pinkuq|||||||||
 pipe|paip|paip|||||||||
 pirate|tiuzoku|tiuzoku|||(sea pirate)||||||
 pizza|piza|piza|||||||||
-place|she|xe|||||||||
 plagiarism|nususaku|nususaku|||||||||
 plagiarize|nususakurun|nususakurun|verb|run verb|||||||
 plague|salo|salo|noun|noun|||||||
@@ -2240,7 +2205,6 @@ pour|buhorun|buhorun|||||||||
 power|pawa|pawa|||||||||
 power|beki|beki|||(result of an exponent)||||||
 power outage |shaiden|xaiden|||||||||
-practice|bichelān|bicela-n|||||||||
 pragmatic|jikngeing|jikqeiq|||||||||
 pragmatism|jikngeinal|jikqeinal|||||||||
 prairie dog|pumana|pumana|||||||||
@@ -2408,7 +2372,6 @@ reconnaissance satellite|teizas sa eimara|teizas sa eimara|noun|noun|||||||
 record|sirureko|||||記録|||||
 rectangle|lenkachi|lenkaci|noun|noun||長+形|||||
 rectum|chokchaw|cokcaw|noun|noun||直腸|||||
-red|pung|puq|||||||||
 reduction|heplun|heplun||||減少|||||
 reference|patitera|patitera||||参照|||||
 reflect|fechiharu|feciharu|||||||||
@@ -2494,8 +2457,7 @@ right|gain|gain|noun|noun|(direction)||||||
 rim|itoliko|itoliko|noun|noun|(bottom rim of cup/bowl)||||||
 ring|hurin|hurin|||||||||
 risk|gasha|gaxa|||||||||
-river|antak|antak|||||||||
-river source|antakmina|antakmina|||||||||
+river source|aunakmina|aunakmina|||||||||
 road|roud|roud|||||||||
 roam|roumun|roumun|verb|un verb|||||||
 roar|arār|ara-r|noun|noun|to utter or emit a full loud prolonged sound|from Arār the Lion Legend.|||||
@@ -2532,7 +2494,7 @@ sabotage|pabrak|pabrakrun|verb|run verb|A deliberate action aimed at weakening s
 sabotage|pabrak|pabrak|noun|noun|A deliberate action aimed at weakening someone (or something, a nation, etc) or preventing them from being successful, through subversion, obstruction, disruption, and/or destruction.|pa (to break)brak (to break)|||||
 sack|sako|sako|noun|noun|||||||
 sad|lungung|luquq|adjective|ung adjective|||||||
-safety|anzen|anzen|||||||||
+safety|anlat|anlat|||||||||
 saga|rure|rure|||||||||
 salad|salade|salade||||French salade|||||
 salami|salami|salami|noun|noun||salami|||||
@@ -2547,7 +2509,7 @@ sand dunes|sunaromo|sunaromo|noun|noun|||||||
 sandpaper|liha|liha|noun|noun|||||||
 sandwich|sanwich|sanwic|noun|noun|||||||
 sane|heltasgung|heltasguq|adjective|ng adjective||heltas (health) + gung (good)|||||
-sanitizer|heltaschenunki|heltascenunki||||heltas (healthy) + 化 (-ization) + run (changed to verb) + ki (thing)|||||
+sanitizer|heltaschenunki|heltascenunki|noun|noun||heltas (healthy) + 化 (-ization) + run (changed to verb) + ki (thing)|||||
 sardine|sandan|sandan|noun|noun|||||||
 satellite|eimara|eimara|noun|noun|||||||
 satire|satai|satai|noun|noun|||||||
@@ -2667,7 +2629,6 @@ significant|mairunngiging|mairunngiging|adjective|ng adjective|Signifying someth
 silence|deidama|deidama|noun|noun|||||||
 silent|deidamang|deidamaq|adjective|ng adjective||沈黙|||||
 Silicon|silikon|silikon|noun|noun|||||||
-Silver|wounmedan|wounmedan|noun|noun||From Old Mampulan <i>woun</i> (&quot;wolf&quot;) + <i>medan</i> (&quot;metal&quot;)|||||
 simple|taling|taliq|adjective|ng adjective|||||||
 simultaneous|roufoung|roufouq|adjective|ng adjective|||||||
 since|dal|dal|preposition|presposition|because meaning||||||
@@ -2718,7 +2679,6 @@ sock|meja|meja|||||||||
 Sodium|natrium|natrium|noun|noun|||||||
 soft|sofung|sofuq|adjective||||||||
 software|softowēr|softowe-r||||English software|||||
-soil|domapa|domapa||||土壌|||||
 solid|bokatai|bokatai|noun|noun|||||||
 solid|bokataing |bokataiq |adjective|ng adjective|||||||
 solution|solas|solas|||||||||
@@ -2800,7 +2760,6 @@ stoic|sutouwiknalwan|sutouwiknalwan|noun|noun|||||||
 stoic|sutouwikung|sutouwikuq|adjective|ung adjective|||||||
 stoicism|sutouwiknal|sutouwiknal|noun|noun|||||||
 stomach|chan|can|noun|noun|||||||
-stone|bato|bato|noun|noun|||||||
 stop|shai|xai|noun|noun|||||||
 stop|shairun|xairun|verb|run verb|||||||
 stop a vehicle|shaikārun|xaika-run|verb|run verb||停kā (car, vehicle)|||||
@@ -2815,7 +2774,6 @@ strabismus|tumaka|tumaka|||||||crossed eyes||
 strait|tiuzang|tiuzaq||||海峡|||||
 stratosphere|naksonkot|naksonkot|||||||||
 strawberry|raso|raso|noun|noun|||||||
-stream|bati|bati|noun|noun|river||||||
 street|suto|suto|||||||||
 strength|fortan|fortan|noun|noun|||||||
 strengthen|tuyoru|tuyoru|||||||||
@@ -2963,7 +2921,6 @@ thick|kapang|kapaq|||||||||
 thief|nusuwan|nusuwan|noun|noun|||||burglar, robber||
 thigh|hita|hita|noun|noun|||||||
 thin|niping|nipiq|||||||||
-thing|bu|bu|||||||||
 think|rinun|rinun|verb|un verb|(I think I did…)|I think I drew a person.|||||
 think|isirun|isirun|verb|run verb|(think about…)|I think about chicken all the time.|||||
 this|zis|zis|pronoun|pronoun|the person, thing, or idea that is present or near in place, time, or thought or that has just been mentioned|zi + sa|||||
@@ -3003,9 +2960,9 @@ today|nga|qa|||||||||
 together|sama|sama|||||||||
 tomato|tomato|tomato||||tomato|||||
 tomb|haka|haka|||||||||
-tomorrow|buka|buka|adverb|adverb||From Old Mampulan|||||
-ton|ton|ton|||||||||
-tone|sirala|sirala||||調子|||||
+tomorrow|fiuro|fiuro|adverb|adverb||From <i>fiu-</i> (&quot;next&quot;) + <i>rau</i> (&quot;day&quot;)|||||
+ton|ton|ton|noun|noun|||||||
+tone|sirala|sirala|noun|noun||調子|||||
 tongue|lasa|lasa|noun|noun||From Old Mampulan|||||
 tonight |imakabi|imakabi|adverb|adverb|||||||
 too|mon|mon|||mon (also)||||||
@@ -3016,7 +2973,7 @@ topology|shega|xega|noun|noun||she (place) + ga (study of)|||||
 torch|nano|nano|noun|noun|||||||
 tornado|reta|reta|||||||||
 total assets|zatasainfion|zatabiupafion|noun|noun||総+ sain (fund, resources) +fion (product [productivity])|||||
-totalitarianism|zentainal|zentainal|noun|noun||全体nal (idea) |||||
+totalitarianism|lattainal|lattainal|noun|noun||全体nal (idea) |||||
 tower|tawa|tawa|||||||||
 town|watan|watan|||||||||
 toxin|leinsau|leinsau|noun|noun||lein (poison)+ sau (origin, prime, or element)|||||
@@ -3039,7 +2996,6 @@ trapezoid|daikachi|daikaci|noun|noun|||||||
 trash|baso|baso|||||||||
 treat|kaurun|kaurun|verb|run verb|||||||
 treaty|rasayak|rasayak|noun|noun||条約|||||
-tree|punu|pu|||||||||
 tremble|guwinun|guwinun||||possibly from kuin (shake)|||||
 triangle|mikaku|mikakkaci|noun|noun||from (mikakukaci)|||||
 trickery|rosowas|rosowas|noun|noun||rosoko + was (raccoon activity)|||||
@@ -3055,7 +3011,7 @@ trumpet|trampet|trampet|noun|noun|||||||
 try|subun|subun|verb|un verb|||||||
 tuba|tuba|tuba|||||||||
 tube|zutu|zutu|noun|noun|||||||
-Tuesday|aporau|aporau|||||||||
+Tuesday|bounrau|bounrau|||||||||
 tumor|gunageiro|gunageiro||||腫瘍|||||
 Tungsten|wulfuram|wulfuram|noun|noun|||||||
 turn|izun|izun|||||||||
@@ -3139,7 +3095,6 @@ vinegar|nebi|nebi|noun|noun|||||||
 viola|biyola|biyola|noun|noun|||||||
 violate|asainun|asainun|verb|un verb|||||||
 violation|asain|asain|noun|noun|||||||
-violet|baileng|baileq|adjective|ng adjective||baile (violet)|||||
 violin|bayolin|baiyolin|noun|noun|||||||
 viper|baipar|baipar|noun|noun|||||||
 virus|bairus|bairus|noun|noun|||||||
@@ -3157,7 +3112,7 @@ voice actor|bochoru|bocoru|noun|noun|||||bo sa okuwan||
 voice actress|bochoru|bocoru|noun|noun|||||bo sa okuwan||
 voice actor|bo sa okuwan|bo sa okuwan|noun|noun|informal||||bochoru||
 voice actress|bo sa okuwan|bo sa okuwan|noun|noun|informal||||bochoru||
-volcano|aposhan|apoxan|noun|noun||apo (fire) + shan (mountain)|||||
+volcano|bounshan|bounxan|noun|noun||boun (fire) + shan (mountain)|||||
 volume|taiseki|taiseki|noun|noun|||||||
 volvulus|chawgaigitian|cawgaigitian|noun|noun|||||||
 vomiting|halan|halan|noun|noun||halan|||||
@@ -3192,7 +3147,6 @@ was eating|kainanan|kainanan|verb|un verb|past progressive tense of Mampulan dic
 wasabi|wasabi|wasabi|noun|noun|||||||
 wash|hugun|hugun|verb|un verb|||||||
 watch|wirun|wirun|verb|run verb|||||||
-water|awon|awon|noun|noun||From Old Mampulan <i>hawon</i>|||||
 water|hawon|hawon|noun|noun|(obsolete) Old Mampulan for awon||||awon||
 water pressure|awonwatu|awonatu|noun|noun||siu (water) + bran (pressure)|||||
 water pressure|awong atu|awoq atu|noun|noun||siu (water) + bran (pressure)|||||
@@ -3282,7 +3236,6 @@ word|sata|sata|noun|noun|The smallest unit of language that has a particular mea
 work|hata|hata|noun|noun|||||||
 work|hatarun|hatarun|verb|run verb||hata (work)|||||
 worker|wākwan|wa-kwan|noun|noun||wāk + wan|||||
-world|yon|yon|noun|noun|The subjective human experience, regarded collectively; human collective existence; existence in general.|From Old Mampulan|||||
 worry|warun|warun|verb|run verb||From Old Mampulan|||||
 wrap|yapun|yapun|verb|un verb||From Old Mampulan|||||
 wrist|teneku|teneku|noun|noun||From Old Mampulan|||||
@@ -3299,7 +3252,6 @@ yawn|hikarun|hikarun|verb|run verb||From Old Mampulan|||||
 year|tiun|tiun|noun|noun|the period of about 365 1/4 solar days required for one revolution of the earth around the sun|From Old Mampulan|||||
 yearly|maitiun|maitiun|adverb|adverb||mai + tiun (every year)|||||
 yeast|boko|boko|noun|noun||From Old Mampulan|||||
-yellow|alang|alaq|adjective|ng adjective||From Old Mampulan|||||
 yes|ē|e-|noun|noun||From Old Mampulan|||||
 yesterday|kaha|kaha|adverb|adverb||From Old Mampulan|||||
 yet|eto|eto|noun|noun||From Old Mampulan|||||
@@ -4929,7 +4881,6 @@ grin|ihe|ihe|noun|noun||Old Raccoon Mampulan|||||
 gripper|ihi|ihi|noun|noun||Old Raccoon Mampulan|||||
 grit|iho|iho|noun|noun||Old Raccoon Mampulan|||||
 grocery|ihu|ihu|noun|noun||Old Raccoon Mampulan|||||
-ground|ije|ije|noun|noun||Old Raccoon Mampulan|||||
 grouper|ijo|ijo|noun|noun||Old Raccoon Mampulan|||||
 grouse|iju|iju|noun|noun||Old Raccoon Mampulan|||||
 grove|ike|ike|noun|noun||Old Raccoon Mampulan|||||
@@ -7268,8 +7219,8 @@ raven|sodan|sodan|noun|noun||Old Mampulan|||||
 filly|sodo|sodo|noun|noun||Old Mampulan|||||
 demand|sodu|sodu|noun|noun||Old Mampulan|||||
 aircraft|sofa|sofa|noun|noun||Old Mampulan|||||
-diagnose|latlonun|latlonun|verb|un verb||latlon (diagnosis)|||||
-diagnosis|latlon|latlon|noun|noun||診断|||||
+diagnose|maitlonun|latlonun|verb|un verb||maitlon (diagnosis)|||||
+diagnosis|maitlon|latlon|noun|noun||診断|||||
 fingerling|sofo|sofo|noun|noun||Old Mampulan|||||
 cloves|sogi|sogi|noun|noun||Old Mampulan|||||
 clerk|sogu|sogu|noun|noun||Old Mampulan|||||
@@ -7586,7 +7537,6 @@ bandolier|tubi|tubi|noun|noun||Old Mampulan|||||
 starboard|tubin|tubin|noun|noun||Old Mampulan|||||
 chrome|tubo|tubo|noun|noun||Old Mampulan|||||
 marketplace|tubon|tubon|noun|noun||Old Mampulan|||||
-current|tubu|tubu|noun|noun||Old Mampulan|||||
 belly|tudi|tudi|noun|noun||Old Mampulan|||||
 rubric|tudin|tudin|noun|noun||Old Mampulan|||||
 beating|tudo|tudo|noun|noun||Old Mampulan|||||
@@ -8444,7 +8394,6 @@ heal|didorun|didorun|verb|run verb||Old Raccoon Mampulan|||||
 indulge|diforun|diforun|verb|run verb||Old Raccoon Mampulan|||||
 demonstrate|digurun|digurun|verb|run verb||Old Raccoon Mampulan|||||
 introduce|dinurun|dinurun|verb|run verb||Old Raccoon Mampulan|||||
-influence|diparun|diparun|verb|run verb||Old Raccoon Mampulan|||||
 submit|dipirun|dipirun|verb|run verb||Old Raccoon Mampulan|||||
 penetrate|dirarun|dirarun|verb|run verb||Old Raccoon Mampulan|||||
 remedy|diyirun|diyirun|verb|run verb||Old Raccoon Mampulan|||||
@@ -8940,7 +8889,6 @@ clumsy|shinsi|xinsiq|adjective|ng adjective|||||||
 cluttered|munbo|munboq|adjective|ng adjective|||||||
 coarse|chudan|cudaq|adjective|g adjective|||||||
 colorful|kinma|kinmaq|adjective|ng adjective|||||||
-colorless|tonbo|tonboq|adjective|ng adjective|||||||
 colossal|dunbo|dunboq|adjective|ng adjective|||||||
 competent|jusan|jusaq|adjective|g adjective|||||||
 complicated|yindi|yindiq|adjective|ng adjective|||||||
@@ -9837,7 +9785,6 @@ eighth|ikaeing|ikaeiq|adjective|ng adjective|||||||
 ninth|ikaning|ikaniq|adjective|ng adjective|||||||
 tyranny|abamor|abamor|noun|noun||aba + mor|||||
 exsanguinate|lasdukorun|lasdukorun|verb|run verb||lasduko|||||
-exsanguination|lasduko|lasduko|noun|noun||lasduko (out + blood)|||||
 between|duchudes|ducudes|preposition|preposition||in the middle of two|||||
 below|doundes|doundes|preposition|preposition||doun + des|||||
 beside|latdes|latdes|preposition|preposition||lat + des|||||
@@ -9849,8 +9796,6 @@ behind|pusdes|pusdes|preposition|preposition||pus des|||||
 opposite|mukudes|mukudes|preposition|preposition||muku + des|||||
 in|chudes|chudes|preposition|preposition||chu + des|||||
 by|fiudes|fiudes|preposition|preposition||fiu + des|||||
-each other|itoka|itoka|pronoun|pronoun|To one another; one to the other; signifies that a verb applies to two or more entities both as subjects and as direct objects:|itowoka (one + and + other)|||one another||
-one another|itoka|itoka|pronoun|pronoun|To one another; one to the other; signifies that a verb applies to two or more entities both as subjects and as direct objects:|itowoka (one + and + other)|||each other||
 direct hit|forchu|forcu|noun|noun||for (life, lifetime) + chu (middle)|||||
 webcomic|webkomik|webkomik|noun|noun||English <i>webcomic</i>|||||
 run|||verb||To flow||||||
@@ -9877,3 +9822,125 @@ conquer|mourposun|mourposun|verb|un verb|||||||
 conquer|oferwinun|oferwinun|verb|un verb|||||||
 compulsive|tuyohakung|tuyohakuq|adjective|ung adjective|||||||
 to be filled with|krirun|krirun|verb|run verb|||||||
+water|awon|awon|noun|noun|(uncountable) A substance (of molecular formula H2O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam.|From Old Mampulan <i>hawon</i>|Water is essential to life on Earth.||||
+earth|don|don|noun|noun||From Old Mampulan|||||
+fire|boun|boun|noun|noun||From Old Mampulan|||||
+air|her|her|noun|noun||From Old Mampulan|||||
+stone|bato|bato|noun|noun||From Old Mampulan|||||
+heart|pain|pain|noun|noun||From Old Mampulan|||||
+blood|duko|duko|noun|noun||From Old Mampulan|||||
+birth|bitan|bitan|noun|noun||From Old Mampulan|||||
+death|mordon|mordon|noun|noun|(informal) The cessation of life and all associated processes; the end of an organism's existence as an entity independent from its environment and its return to an inert, nonliving state.|From Old Mampulan|||||
+person|wan|wan|noun|noun|human, individual|From Old Mampulan huwan|||||
+thing|bu|bu|noun|noun||From Old Mampulan|||||
+place|pein|she|noun|noun||From Old Mampulan|||||
+tree|denon|denon|noun|noun||From Old Mampulan|||||
+river|aunak|aunak|noun|noun||From Old Mampulan <i>awon</i> (&quot;water&quot;) + <i>takun</i> (&quot;to run&quot;)|||||
+stream|awak|awak|noun|noun||From Old Mampulan <i>aunak</i> (&quot;river&quot;)|||||
+flow|taloy|taloy|noun|noun||From Old Mampulan|||||
+flow|taloyun|taloyun|verb|un verb||From Old Mampulan <i>taloy</i> (&quot;flow&quot;)|||||
+current|nagan|nagan|noun|noun||From Eagle Language <i>nagan</i> (&quot;flow&quot;)|||||
+liquid|pai|pai|noun|noun||From Old Mampulan|||||
+land|landon|landon|noun|noun||From Old Mampulan|||||
+ground|lupan|lupan|noun|noun||From Old Mampulan|||||
+soil|dommap|dommap|noun|noun||From Old Mampulan <i>don</i> (&quot;earth&quot;) + <i>mapa</i> from Eagle Language (&quot;earth&quot;)|||||
+world|yon|yon|noun|noun||From Raccoon Language|||||
+dog|wanon|wanon|noun|noun||From <i>woun</i> (&quot;wolf&quot;)|||||
+howl|wonun|wonun|verb|un verb||From Old Mampulan <i>woun</i> (&quot;wolf&quot;)|||||
+dire|wounang|wounaq|adjective|ng adjective||From Old Mampulan <i>woun</i> (&quot;wolf&quot;)|||||
+gobble|wonkainun|wonkainun|verb|un verb||From Old Mampulan <i>woun</i> (&quot;wolf&quot;) + <i>kainun</i> (&quot;to eat&quot;)|||||
+silver|wounmedan|wounmedan|noun|noun||From Old Mampulan <i>woun</i> (&quot;wolf&quot;) + <i>medan</i> (&quot;metal&quot;)|||||
+fang|pangil|paqil|noun|noun||From <i>Pangil</i>, the Wolf Legend of Mampulan|||||
+strong|pangilang|paqilaq|adjective|ng adjective||From <i>Pangil</i>, the Wolf Legend of Mampulan. Displaced Old Mampulan word <i>fortanong</i>|||||
+wise|pangung|paquq|adjective|ung adjective||From <i>Pangil</i>, the Wolf Legend of Mampulan|||||
+strength|fortan|fortan|noun|noun||From Old Mampulan|||||
+fox|tuman|tuman|noun|noun||From Old Mampulan|||||
+cunning|tumaiteng|tumaiteq|adjective|ng adjective||From <i>tuman sa nite</i> (&quot;fox-like&quot;)|||||
+guardian|tumawan|tumawan|noun|noun||From <i>tuman</i> (&quot;fox&quot;) + <i>wan</i> (&quot;person&quot;)|||||
+clever|tumating|tumatiq|adjective|ng adjective||From <i>tuman</i> (&quot;fox&quot;) + <i>brain</i> (&quot;ati&quot;)|||||
+benevolent|tumaniling|tumaniliq|adjective|ng adjective||From <i>tuman</i> (&quot;fox&quot;) + <i>hili</i> (&quot;wish&quot;)|||||
+benevolence|tumanili|tumanili|noun|noun||From <i>tuman</i> (&quot;fox&quot;) + <i>hili</i> (&quot;wish&quot;)|||||
+powder|kopon|kopon|noun|noun|||||||
+phosphorus|tumankopon|tumankopon|noun|noun||From <i>tuman</i> (&quot;fox&quot;) + <i>kopon</i> (&quot;powder&quot;)|||||
+muzzle|nuslo|nuslo|noun|noun||From <i>Nuslo</i>, the Fox Legend of Mampulan|||||
+raccoon|rouson|rouson|noun|noun||From Old Mampulan|||||
+deception|rosonnas|rosonnas|noun|noun||From <i>rouson</i> (&quot;raccoon&quot;) + <i>-nas</i> (&quot;the state/quality/measure&quot;)|||||
+sinister|padrousong|padrousoq|adjective|g adjective||From <i>padang rouson</i> (&quot;bad raccoon&quot;)|||||
+write|shorun|shorun|verb|run verb|||||||
+manuscript|rousonsho|rousonsho|noun|noun||From <i>rouson</i> (&quot;raccoon&quot;) + <i>sho</i> (&quot;to write&quot;)|||||
+mask|taspan|taspan|noun|noun||From <i>Taspan</i>, the Raccoon Legend of Mampulan|||||
+ear|orena|orena|noun|noun||From <i>Orena</i>, the Rabbit Legend of Mampulan|||||
+shell|martan|martan|noun|noun||From <i>Martan</i>, the Turtle Legend of Mampulan|||||
+muscle|fortorun|fortorun|noun|noun||From <i>Fortorun</i>, the Bear Legend of Mampulan|||||
+roar|arār|ara-r|noun|noun||From <i>Arār</i>, the Lion Legend of Mampulan|||||
+life|bitan|bitan|noun|noun|| |||||
+both|lin|lin|||||||||
+amphibian|linbitan|linbitan|noun|noun||From <i>lin</i> (&quot;both&quot;) + <i>bitan</i> (&quot;life&quot;)|||||
+war|troun|troun|noun|noun|||||||
+antebellum|trounbin|trounbin|noun|noun||From <i>troun</i> (&quot;war&quot;) + <i>bin</i> (&quot;before&quot;)|||||
+school|gapein|gapein|noun|noun||From <i>ga</i> (&quot;study&quot;) + <i>pein</i> (&quot;place&quot;)|||||
+student|gawan|gawan|noun|noun||From <i>ga</i> (&quot;study&quot;) + <i>wan</i> (&quot;person&quot;)|||||
+say|sabun|sabun|verb|un verb||From Old Mampulan|||||
+contradict|fesabun|fesabun|verb|un verb||From <i>fe-</i> (&quot;against&quot;) + <i>sabun</i> (&quot;say&quot;)|||||
+postbellum|trounpus|trounpus|noun|noun||From <i>troun</i> (&quot;war&quot;) + <i>pus</i> (&quot;after&quot;)|||||
+post-war|trounpus|trounpus|noun|noun||From <i>troun</i> (&quot;war&quot;) + <i>pus</i> (&quot;after&quot;)|||||
+hole|puna|puna|noun|noun|||||||
+hollow|punong|punoq|adjective|ng adjective||Perhaps related to <i>puna</i> (&quot;hole&quot;)|||||
+cave|tabana|tabana|noun|noun||From Old Mampulan|||||
+cavity|puno|puno|noun|noun||Compare <i>puna</i> (&quot;hole&quot;)|||||
+wind|panit|panit|noun|noun||From Old Mampulan|||||
+color|klon|klon|noun|noun||From Old Mampulan|||||
+nose|sano|sano|noun|noun||From Old Mampulan|||||
+smell|sanwer|sanwer|noun|noun||From <i>sano</i> (&quot;nose&quot;) + <i>air</i> (&quot;her&quot;)|||||
+odor|sanwer|sanwer|noun|noun||From <i>sano</i> (&quot;nose&quot;) + <i>air</i> (&quot;her&quot;)|||||
+odorless|demsanwerung|demsanweruq|adjective|ung adjective||From <i>dem-</i> (&quot;without&quot;) + <i>sano</i> (&quot;nose&quot;) + <i>air</i> (&quot;her&quot;)|||||
+colorless|demklong|demklonq|adjective|ung adjective||From <i>dem-</i> (&quot;without&quot;) + <i>klor</i> (&quot;color&quot;)|||||
+heartless|dempaing|dempaiq|adjective|ng adjective||From <i>dem-</i> (&quot;without&quot;) + <i>pain</i> (&quot;heart&quot;)|||||
+red|pung|puq|adjective|ng adjective||From Old Mampulan|||||
+orange|ekang|ekaq|adjective|ng adjective||From Old Mampulan|||||
+yellow|alang|alaq|adjective|ng adjective||From Old Mampulan|||||
+green|lunung|lunuq|adjective|ng adjective||From Old Mampulan|||||
+blue|bugung|buguq|adjective|ng adjective||From Old Mampulan|||||
+indigo|inding|indiq|adjective|ng adjective||From Old Mampulan|||||
+violet|baileng|baileq|adjective|ng adjective||From Old Mampulan|||||
+black|itung|ituq|adjective|ng adjective||From Old Mampulan|||||
+white|buting|butiq|adjective|ng adjective||From Old Mampulan|||||
+pink|pinkung|pinkuq|adjective|ng adjective||From Human Language <i>pink</i>|||||
+ash|oboun|oboun|noun|noun||From Old Mampulan|||||
+gray|oboklong|obokloq|adjective|g adjective||From <i>oboun-</i> (&quot;ash&quot;) + <i>klon</i> (&quot;color&quot;)||oboun (ash) + klon (color)|||
+smoke|kuwer|kuwer|noun|noun||From <i>kurong-</i> (&quot;black&quot;) + <i>her</i> (&quot;air&quot;)|||||
+other|woka|woka|adjective|special adjective||From Old Mampulan|||||
+and|to|to||||From Old Mampulan|||||
+each other|itoka|itoka|pronoun|pronoun|To one another; one to the other; signifies that a verb applies to two or more entities both as subjects and as direct objects:|From <i>I to woka-</i> (&quot;one and other&quot;)|||one another||
+one another|itoka|itoka|pronoun|pronoun|To one another; one to the other; signifies that a verb applies to two or more entities both as subjects and as direct objects:|From <i>I to woka-</i> (&quot;one and other&quot;)|||each other||
+ex-|||prefix||||||||
+exsanguination|lasduko|lasduko|noun|noun||From <i>las</i> (&quot;out&quot;) + <i>duko</i> (&quot;blood&quot;)|||||
+emit|||||||||||
+eradication|||||||||||
+eccentric|||||||||||
+influence|bisasion|bisasion|noun|noun||From <i>bisa</i> (&quot;effect&quot;) + <i>sion</i> (&quot;circle&quot;)|||||
+nourish|rukun|rukun|verb|un verb||From Old Mampulan|||||
+nourished|ruktung|ruktuq|adjective|g adjective||From <i>rukun</i> (&quot;to nourish&quot;) + <i>-tun</i> (&quot;present passive form&quot;)|||||
+function|kinō|kino-|noun|noun||From <i>ki</i> (&quot;machine&quot;) + <i>nō</i> (&quot;function&quot;)|||||
+form|kachi|kaci|noun|noun||From Old Mampulan|||||
+practice|sanain|sanain|noun|noun||From Raccoon Language|||||
+dystopia|haitpein|||||From <i>hait-</i> (&quot;bad&quot;) + <i>pein</i> (&quot;place&quot;)|||||
+malinfluence|haitbisain|||||From <i>hait-</i> (&quot;bad&quot;) + <i>bisaen</i> (&quot;influence&quot;)|||||
+maleffect|haitbisa|||||From <i>hait-</i> (&quot;bad&quot;) + <i>bisa</i> (&quot;effect&quot;)|||||
+malodor|haitsanwer|||||From <i>hait-</i> (&quot;bad&quot;) + <i>sanwer</i> (&quot;odor&quot;)|||||
+malnourished|haitruktung|haitruktung|adjective|g adjective||From <i>hait-</i> (&quot;bad&quot;) + <i>ruktung</i> (&quot;nourished&quot;)|||||
+malfunction|haitkinō|haitkino-|noun|noun||From <i>hait-</i> (&quot;bad&quot;) + <i>kinō</i> (&quot;function&quot;)|||||
+malform|haitkachi|haitkaci|noun|noun||From <i>hait-</i> (&quot;bad&quot;) + <i>kachi</i> (&quot;form&quot;)|||||
+malignant|haitshing|haitxiq|adjective|g adjective||From <i>hait-</i> (&quot;bad&quot;) + <i>shin</i> (&quot;state of&quot;)|||||
+malpractice|haitsanain|haisanain|noun|noun||From <i>hait-</i> (&quot;bad&quot;) + <i>sanain</i> (&quot;practice&quot;)|||||
+malefactor|haitwan|haitwan|noun|noun||From <i>hait-</i> (&quot;bad&quot;) + <i>wan</i> (&quot;person&quot;)|||||
+maleficent|haityang|haityaq|adjective|ng adjective||From <i>hait-</i> (&quot;bad&quot;) + <i>wan</i> (&quot;to do&quot;)|||||
+know|nourun|nourun|verb|run verb|To perceive the truth or factuality of; to be certain of or that.|From Old Mampulan|||||
+move|tounun|tounun|verb|un verb||From Old Mampulan|||||
+animal|tounbu|tounbu|noun|noun||From <i>toun-</i> (&quot;move&quot;) + <i>bu</i> (&quot;thing&quot;)|||||
+all|lat|lat||||From Old Mampulan|||||
+omniscient|latnoung|latnouq|adjective|adjective||From <i>lat-</i> (&quot;all, omni-&quot;) + <i>nourun</i> (&quot;to know&quot;)|||||
+omnipotent|latfortanong|latfortanoq|adjective|adjective||From <i>lat-</i> (&quot;all, omni-&quot;) + <i>fortanong</i> (&quot;Old Mampulan for strong&quot;)|||||
+omnipresent|latbeng|latbeng|adjective|adjective||From <i>lat-</i> (&quot;all, omni-&quot;) + <i>ten</i> (&quot;Old Mampulan for strong&quot;)|||||
+omnipotence|latnōng|latno-q|adjective|adjective||From <i>lat-</i> (&quot;all, omni-&quot;) + <i>fortanong</i> (&quot;Old Mampulan for strong&quot;)|||||
+omnivore|latkain tounbu|latkain tounbu|noun|noun||From <i>lat-</i> (&quot;all, omni-&quot;) + <i>kainun</i> (&quot;to eat&quot;) + <i>tounbu</i> (&quot;animal&quot;)|||||
