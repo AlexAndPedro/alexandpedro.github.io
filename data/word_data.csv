@@ -89,26 +89,26 @@ pink|pinkung|pinkuq|adjective|ng adjective||From Human Language <i>pink</i>|||||
 ash|oboun|oboun|noun|noun||From Old Mampulan|||||
 gray|oboklong|obokloq|adjective|g adjective||From <i>oboun-</i> (&quot;ash&quot;) + <i>klon</i> (&quot;color&quot;)||oboun (ash) + klon (color)|||
 smoke|kuwer|kuwer|noun|noun||From <i>kurong-</i> (&quot;black&quot;) + <i>her</i> (&quot;air&quot;)|||||
-big|dang|daq||||From Old Mampulan|||||
-small|sung|suq||||From Old Mampulan|||||
+big|dang|daq|adjective|ng adjective||From Old Mampulan|||||
+small|sung|suq|adjective|ng adjective||From Old Mampulan|||||
 one|i|i|noun|noun||From Old Mampulan|||||
 two|du|du|noun|noun||From Old Mampulan|||||
-three|mi|mi|noun|noun||From Old Mampulan|||||
+three|ma|ma|noun|noun||From Old Mampulan|||||
 four|kor|kor|noun|noun||From Old Mampulan|||||
-five|bon|bon|noun|noun||From Old Mampulan|||||
+five|bel|bel|noun|noun||From Old Mampulan|||||
 six|si|si|noun|noun||From Old Mampulan|||||
-seven|pi|pi|noun|noun||From Old Mampulan|||||
+seven|po|po|noun|noun||From Old Mampulan|||||
 eight|ei|ei|noun|noun||From Old Mampulan|||||
-nine|ni|ni|noun|noun||From Old Mampulan|||||
+nine|kas|kas|noun|noun||From Old Mampulan|||||
 ten|te|te|noun|noun||From Old Mampulan|||||
 hundred|che|che|noun|noun||From Old Mampulan|||||
 thousand|teke|teke|noun|noun||From <i>te</i> (&quot;ten&quot;) + <i>che</i> (&quot;hundred&quot;)|||||
 million|dake|dake|noun|noun||From <i>teke</i> (&quot;thousand&quot;)|||||
 zero|sip|sip|noun|noun||From Old Mampulan|||||
-other|woka|woka|adjective|special adjective||From Old Mampulan|||||
-and|to|to||||From Old Mampulan|||||
-each other|itoka|itoka|pronoun|pronoun|To one another; one to the other; signifies that a verb applies to two or more entities both as subjects and as direct objects:|From <i>I to woka-</i> (&quot;one and other&quot;)|||one another||
-one another|itoka|itoka|pronoun|pronoun|To one another; one to the other; signifies that a verb applies to two or more entities both as subjects and as direct objects:|From <i>I to woka-</i> (&quot;one and other&quot;)|||each other||
+other|tes|tes|adjective|special adjective||From Old Mampulan|||||
+and|to|to|conjunction|conjunction||From Old Mampulan|||||
+each other|ittes|ittes|pronoun|pronoun|To one another; one to the other; signifies that a verb applies to two or more entities both as subjects and as direct objects:|From <i>I to tes</i> (&quot;one and other&quot;)|||one another||
+one another|ittes|ittes|pronoun|pronoun|To one another; one to the other; signifies that a verb applies to two or more entities both as subjects and as direct objects:|From <i>I to tes</i> (&quot;one and other&quot;)|||each other||
 ex-|las-|las-|prefix|prefix||From <i>las</i> (&quot;out&quot;)|||||
 exsanguination|lasduko|lasduko|noun|noun||From <i>las</i> (&quot;out&quot;) + <i>duko</i> (&quot;blood&quot;)|||||
 effect|bisa|bisa|noun|noun||From Old Mampulan|||||
@@ -118,16 +118,17 @@ influence|bisain|bisain|noun|noun||From <i>bisa</i> (&quot;effect&quot;) + <i>en
 nourish|rukun|rukun|verb|un verb||From Old Mampulan|||||
 nourished|ruktung|ruktuq|adjective|g adjective||From <i>rukun</i> (&quot;to nourish&quot;) + <i>-tun</i> (&quot;present passive form&quot;)|||||
 function|kinō|kino-|noun|noun||From <i>ki</i> (&quot;machine&quot;) + <i>nō</i> (&quot;function&quot;)|||||
-form|kachi|kaci|noun|noun||From Old Mampulan|||||
+form|let|let|noun|noun||From Old Mampulan|||||
 practice|sanain|sanain|noun|noun||From Raccoon Language|||||
 do|yarun|yarun|verb|run verb||From Old Mampulan|||||
+bad|haitung|haituq|adjective|ung adjective||From Old Mampulan|||||
 dystopia|haitpein|haitpein|noun|noun||From <i>hait-</i> (&quot;bad&quot;) + <i>pein</i> (&quot;place&quot;)|||||
 malinfluence|haitbisain|haitbisain|noun|noun||From <i>hait-</i> (&quot;bad&quot;) + <i>bisaen</i> (&quot;influence&quot;)|||||
 maleffect|haitbisa|haitbisa|noun|noun||From <i>hait-</i> (&quot;bad&quot;) + <i>bisa</i> (&quot;effect&quot;)|||||
 malodor|haitsanwer|haitsanwer|noun|noun||From <i>hait-</i> (&quot;bad&quot;) + <i>sanwer</i> (&quot;odor&quot;)|||||
 malnourished|haitruktung|haitruktung|adjective|g adjective||From <i>hait-</i> (&quot;bad&quot;) + <i>ruktung</i> (&quot;nourished&quot;)|||||
 malfunction|haitkinō|haitkino-|noun|noun||From <i>hait-</i> (&quot;bad&quot;) + <i>kinō</i> (&quot;function&quot;)|||||
-malform|haitkachi|haitkaci|noun|noun||From <i>hait-</i> (&quot;bad&quot;) + <i>kachi</i> (&quot;form&quot;)|||||
+malform|haitlet|haitlet|noun|noun||From <i>hait-</i> (&quot;bad&quot;) + <i>let</i> (&quot;form&quot;)|||||
 malignant|haitshing|haitxiq|adjective|g adjective||From <i>hait-</i> (&quot;bad&quot;) + <i>shin</i> (&quot;state of&quot;)|||||
 malpractice|haitsanain|haisanain|noun|noun||From <i>hait-</i> (&quot;bad&quot;) + <i>sanain</i> (&quot;practice&quot;)|||||
 malefactor|haitwan|haitwan|noun|noun||From <i>hait-</i> (&quot;bad&quot;) + <i>wan</i> (&quot;person&quot;)|||||
@@ -162,9 +163,104 @@ how many|dankoun|dankoun|pronoun|pronoun||From <i>dan</i> (&quot;what&quot;) + <
 how much|dankoun|dankoun|pronoun|pronoun||From <i>dan</i> (&quot;what&quot;) + <i>koun</i> (&quot;count&quot;)|||||
 whose|dansa|dansa|pronoun|pronoun||From <i>duan</i> (&quot;who&quot;) + <i>sa</i> (&quot;shows possession&quot;)|||||
 which|dannur|dannur|pronoun|pronoun||From <i>dan</i> (&quot;who&quot;) + <i>nur</i> (&quot;part&quot;)|||||
+ant|ato|ato|||||||||
+anteater|atokain|atokain|||||||||
+arctic fox |āktikung tuman|a-ktikuq tuman|||||||||
+bear|our|our|||||||||
+boa|nakana|nakana|||||||||
+calf|latir|latir|||||||||
+coyote|gasa|gasa|||||||||
+dragon |dago|dago|||||||||
+eagle|agala|agala|||||||||
+elephant|ela|ela|||||||||
+falcon |faloun|faloun|||||||||
+fennec fox |feneku|feneku|||||||||
+fly (insect)|ngau|ngau|||||||||
+giraffe |gira|gira|||||||||
+goat |kamba|kamba|||||||||
+goose|gansa|gansa|||||||||
+hawk |houk|houk|||||||||
+horse |ama|ama|||||||||
+jaguar |jaguwar|jaguwar|||||||||
+kitten|lapusan|lapusan|||(baby cat)||||||
+Komodo dragon |komodo dago|komodo dago|||||||||
+lion|layon|layon|||||||||
+lizard |lagara|lagara|||||||||
+macaque|makaka|makaka|||||||||
+monkey |sar|sar|||||||||
+mouse|nos|nos|||(animal)||||||
+otter |atar|atar|||||||||
+ox |uza|uza|||||||||
+Pacific saury/ mackerel pike|samma|samma|||||||||
+panda |panda|panda|||||||||
+pigeon |touba|touba|||||||||
+puffer fish|fugu|fugu|||||||||
+puppy|lawano|lawano|||(baby dog)||||||
+rabbit |une|une|||||||||
+raccoon dog/tanuki|tanuki|tanuki|||||||||
+sardine |sandan|sandan|||||||||
+sheep|tupa|tupa|||||||||
+tiger |taigā|taiga-|||||||||
+turtle|ter|ter|||||||||
+viper |baipar|baipar|||||||||
+pig|lei|lei|noun|noun|||||||
+cow|tir|tir|noun|noun||From Old Mampulan|||||
 milk|miun|miun|noun|noun||From Old Mampulan|||||
 rice|gai|gai|noun|noun||From Old Mampulan|||||
 meat|flan|flan|noun|noun||From Old Mampulan|||||
+salt|atta|atta|noun|noun|||||||
+pepper|pren|pren|noun|noun|||||||
+bread|pan|pan|noun|noun|||||||
+coffee|kōfī|ko-fi-|noun|noun|||||||
+honey|malen|malen|noun|noun|||||||
+apple|mak|mak|noun|noun|||||||
+orange|naran|naran|noun|noun|||||||
+banana|banana|banana|noun|noun|||||||
+pizza|pitsa|pitsa|noun|noun|||||||
+ketchup|kecchap|keccap|noun|noun|||||||
+sauce|sanas|sanas|noun|noun|||||||
+soup|basau|basau|noun|noun|||||||
+noodle|sunon|sunon|noun|noun|||||||
+hotdog|hotdog|hotdog|noun|noun|||||||
+cilantro|koriyanda|koriyanda|noun|noun|||||||
+juice|hugan|hugan|noun|noun|||||||
+tomato|tomato|tomato|noun|noun|||||||
+fish|hisdan|hisdan|noun|noun|||||||
+vegetable|lugai|lugai|noun|noun|||||||
+fruit|brasan|brasan|noun|noun|||||||
+bean|frol|frol|noun|noun|||||||
+carrot|tarok|tarok|noun|noun|||||||
+beef|tirflan|tirflan|noun|noun|||||||
+pork|leiflan|leiflan|noun|noun|||||||
+cereal|sirial|sirial|noun|noun|||||||
+oatmeal|||noun|noun|||||||
+dairy|||noun|noun|||||||
+grain|||noun|noun|||||||
+toast|||noun|noun|||||||
+cheese|chīs|ci-s|noun|noun|||||||
+butter|||noun|noun|||||||
+soda|||noun|noun|||||||
+tea|||noun|noun|||||||
+wine|||noun|noun|||||||
+beer|||noun|noun|||||||
+cream|||noun|noun|||||||
+yogurt|||noun|noun|||||||
+pie|||noun|noun|||||||
+chocolate|chokolat|cokolat|noun|noun|||||||
+cake|keik|keik|noun|noun|||||||
+cookie|||noun|noun|||||||
+onion|yasin|yasin|noun|noun|||||||
+garlic|waban|waban|noun|noun|||||||
+potato|patata|patata|noun|noun|||||||
+lemon|līn|li-n|noun|noun|||||||
+pea|api|api|noun|noun|||||||
+egg|||noun|noun|||||||
+broccoli|||noun|noun|||||||
+chicken|||noun|noun|||||||
+pasta|||noun|noun|||||||
+|||||||||||
+|||||||||||
+|||||||||||
 head|hor|hor|noun|noun||From Old Mampulan|||||
 arm|frat|frat|noun|noun||From Old Mampulan|||||
 leg|bintin|bintin|noun|noun||From Old Mampulan|||||
@@ -179,9 +275,171 @@ finger|songan|songan|noun|noun||From Old Mampulan|||||
 hand|shain|shain|noun|noun||From Old Mampulan|||||
 foot|bes|bes|noun|noun||From Old Mampulan|||||
 ankle|tobil|tobil|noun|noun||From Old Mampulan|||||
-hair|kabel|kabel|noun|noun||From Old Mampulan|||||
-tooth|zal|zal|noun|noun||From Old Mampulan|||||
+hair|bouk|bouk|noun|noun||From Old Mampulan|||||
+tooth|pangan|pangan|noun|noun||From Old Mampulan|||||
 tongue|hion|hion|noun|noun||From Old Mampulan|||||
 wrist|karpi|karpi|noun|noun||From Old Mampulan|||||
 body|tai|tai|noun|noun||From Old Mampulan|||||
 fight|froun|froun|noun|noun||From Old Mampulan|||||
+have|mairun|mairun|verb|run verb||From Old Mampulan|||||
+go|sorun|sorun|verb|run verb||From Old Mampulan|||||
+get|urun|urun|verb|run verb||From Old Mampulan|||||
+make|asun|asun|verb|un verb||From Old Mampulan|||||
+think|rinun|rirun|verb|un verb||From Old Mampulan|||||
+take|ku-nun||verb|un verb||From Old Mampulan|||||
+see|lurun|lurun|verb|run verb||From Old Mampulan|||||
+come|rairun|rairun|verb|run verb||From Old Mampulan|||||
+want|gusun|gusun|verb|un verb||From Old Mampulan|||||
+look|lurun|lurun|verb|run verb||From Old Mampulan|||||
+use|ngeirun|ngeirun|verb|run verb||From Old Mampulan|||||
+find|finun|finun|verb|un verb||From Old Mampulan|||||
+give|girun|girun|verb|run verb||From Old Mampulan|||||
+tell|tirun|tirun|verb|run verb||From Old Mampulan|||||
+work|hatarun|hatarun|verb|run verb||From Old Mampulan|||||
+call|yorun|yorun|verb|run verb||From Old Mampulan|||||
+try|subun|subun|verb|un verb||From Old Mampulan|||||
+ask|tanun|tanun|verb|un verb||From Old Mampulan|||||
+need|kailun|kailun|verb|un verb||From Old Mampulan|||||
+feel|mainun|mainun|verb|un verb||From Old Mampulan|||||
+become|nakun|nakun|verb|un verb||From Old Mampulan|||||
+leave|layun|layun|verb|un verb||From Old Mampulan|||||
+mean|sigun|sigun|verb|un verb||From Old Mampulan|||||
+keep|kardun|kardun|verb|un verb||From Old Mampulan|||||
+let|lerun|lerun|verb|run verb||From Old Mampulan|||||
+begin|hiunun|hiunun|verb|un verb||From Old Mampulan|||||
+seem|parun|parun|verb|run verb||From Old Mampulan|||||
+help|aitun|aitun|verb|un verb||From Old Mampulan|||||
+talk|birun|birun|verb|run verb||From Old Mampulan|||||
+turn|izun|izun|verb|un verb||From Old Mampulan|||||
+start|hiunun|hiunun|verb|un verb||From Old Mampulan|||||
+show|kirun|kirun|verb|run verb||From Old Mampulan|||||
+hear|dinanun|dinanun|verb|un verb||From Old Mampulan|||||
+play|purun|purun|verb|un verb|(a game, a video, movie)|From Old Mampulan|||||
+play|larun|larun|verb|run verb|(an actor)|From Old Mampulan|||||
+play|tugun|tugun|verb|un verb|(an instrument)|From Old Mampulan|||||
+play|usurun|usurun|verb|run verb|(deceived)|From Old Mampulan|||||
+like|aimun|aimun|verb|un verb||From Old Mampulan|||||
+live|buirun|buirun|verb|run verb||From Old Mampulan|||||
+believe|reinun|reinun|verb|un verb||From Old Mampulan|||||
+hold|harun|harun|verb|run verb||From Old Mampulan|||||
+bring|motun|motun|verb|un verb||From Old Mampulan|||||
+happen|apun|apun|verb|un verb||From Old Mampulan|||||
+provide|fonun|fonun|verb|un verb||From Old Mampulan|||||
+stand|surun|surun|verb|run verb||From Old Mampulan|||||
+lose|talun|talun|verb|un verb||From Old Mampulan|||||
+pay|pakun|pakun|verb|un verb||From Old Mampulan|||||
+meet|arun|arun|verb|run verb||From Old Mampulan|||||
+include|lobsamarun|lobsamarun|verb|run verb||From <i>lob</i> (&quot;in&quot;) + <i>sama</i> (&quot;together&quot;)|||||
+exclude|lassamarun|lassamarun|verb|run verb||From <i>las</i> (&quot;out&quot;) + <i>sama</i> (&quot;together&quot;)|||||
+continue|konun|konun|verb|un verb||From Old Mampulan|||||
+set|estun|estun|verb|un verb||From Old Mampulan|||||
+learn|bosun|bosun|verb|un verb||From Old Mampulan|||||
+change|henun|henun|verb|un verb||From Old Mampulan|||||
+lead|kirounun|kirounun|verb|un verb||From Old Mampulan|||||
+understand|adeirun|adeirun|verb|run verb||From Old Mampulan|||||
+watch|wirun|wirun|verb|run verb||From Old Mampulan|||||
+follow|sundun|sundun|verb|un verb||From Old Mampulan|||||
+stop|shairun|shairun|verb|run verb||From Old Mampulan|||||
+create|raksakurun|raksakurun|verb|run verb||From Old Mampulan|||||
+speak|saltun|saltun|verb|un verb||From Old Mampulan|||||
+read|dokun|dokun|verb|un verb||From Old Mampulan|||||
+allow|paigun|paigun|verb|un verb||From Old Mampulan|||||
+add|jarun|jarun|verb|run verb||From Old Mampulan|||||
+spend|supun|supun|verb|un verb||From Old Mampulan|||||
+grow|gorun|gorun|verb|run verb||From Old Mampulan|||||
+open|dosun|dosun|verb|un verb||From Old Mampulan|||||
+walk|tiurun|tiurun|verb|run verb||From Old Mampulan|||||
+win|wenun|wenun|verb|un verb||From Old Mampulan|||||
+offer|rusanun|rusanun|verb|un verb||From Old Mampulan|||||
+remember|tandun|tandun|verb|un verb||From Old Mampulan|||||
+love|sairun|sairun|verb|run verb||From Old Mampulan|||||
+consider|agemiunun|agemiunun|verb|un verb||From Old Mampulan|||||
+appear|mitirun|mitirun|verb|run verb||From Old Mampulan|||||
+buy|bairun|bairun|verb|run verb||From Old Mampulan|||||
+wait|alarun|alarun|verb|run verb||From Old Mampulan|||||
+serve|sābun|sābun|verb|un verb||From Old Mampulan|||||
+die|dairun|dairun|verb|run verb||From Old Mampulan|||||
+send|inpoyun|inpoyun|verb|un verb||From Old Mampulan|||||
+expect|yorinun|yorinun|verb|un verb||From Old Mampulan|||||
+build|tiarun|tiarun|verb|run verb||From Old Mampulan|||||
+stay|josun|josun|verb|un verb||From Old Mampulan|||||
+fall|taisun|taisun|verb|un verb||From Old Mampulan|||||
+cut|jeinun|jeinun|verb|un verb||From Old Mampulan|||||
+reach|alkun|alkun|verb|un verb||From Old Mampulan|||||
+kill|saterun|saterun|verb|run verb||From Old Mampulan|||||
+remain|zanun|zanun|verb|un verb||From Old Mampulan|||||
+suggest|mitorun|mitorun|verb|run verb||From Old Mampulan|||||
+raise|shounun|shounun|verb|un verb||From Old Mampulan|||||
+pass|watun|watun|verb|un verb||From Old Mampulan|||||
+sell|wurun|wurun|verb|run verb||From Old Mampulan|||||
+require|rekurun|rekurun|verb|run verb||From Old Mampulan|||||
+report|portun|portun|verb|un verb||From Old Mampulan|||||
+decide|keturun|keturun|verb|run verb||From Old Mampulan|||||
+pull|hikurun|hikurun|verb|run verb||From Old Mampulan|||||
+push|trunun|trunun|verb|un verb||From Old Mampulan|||||
+teach|turun|turun|verb|un verb||From Old Mampulan|||||
+teacher|turwan|turwan|noun|noun||From <i>turun</i> (&quot;teach&quot;) + <i>wan</i> (&quot;person&quot;)|||||
+otter|atar|atar|noun|noun||From Old Mampulan|||||
+writer|sulwan|sulwan|noun|noun||From <i>sulun</i> (&quot;write&quot;) + <i>wan</i> (&quot;person&quot;)|||||
+shake|kuinun|kuinun|verb|un verb||From Old Mampulan|||||
+earthquake|donkuin|donkuin|noun|noun||From <i>don</i> (&quot;earth&quot;) + <i>kuin</i> (&quot;shake&quot;)|||||
+urge|urtun|urtun|verb|un verb||From Old Mampulan|||||
+urgent|urtung|urtuq|adjective|ng adjective||From <i>urtun</i> (&quot;urge&quot;)|||||
+site|ret|ret|noun|noun||From Old Raccoon Mampulan|||||
+situate|retun|retun|verb|un verb||From <i>ret</i> (&quot;site&quot;)|||||
+situation|retunnas|retunnas|noun|noun||From <i>retun</i> (&quot;situate&quot;) + <i>-nas</i> (&quot;a nominalizing suffix&quot;)|||||
+emergency|arnas|arnas|noun|noun||From Old Eagle Mampulan|||||
+moon|mur|mur|noun|noun||From Old Wolf Mampulan|||||
+second|napo|napo|noun|noun||From Old Mampulan|||||
+minute|rama|rama|noun|noun||From Old Mampulan|||||
+hour|ilan|ilan|noun|noun||From Old Mampulan|||||
+day|rou|rou|noun|noun||From Old Mampulan|||||
+week|sat|sat|noun|noun||From Old Mampulan|||||
+month|mor|mor|noun|noun||From <i>mur</i> (&quot;ten&quot;) + <i>tiun</i> (&quot;year&quot;)|||||
+year|tiun|tiun|noun|noun||From Old Mampulan|||||
+decade|tedun|tedun|noun|noun||From <i>te</i> (&quot;ten&quot;) + <i>tiun</i> (&quot;year&quot;)|||||
+century|chedun|cedun|noun|noun||From <i>che</i> (&quot;hundred&quot;) + <i>tiun</i> (&quot;year&quot;)|||||
+millenium|tekdun|tekdun|noun|noun||From <i>teke</i> (&quot;thousand&quot;) + <i>tiun</i> (&quot;year&quot;)|||||
+sun|rau|rau|||||||||
+sun|fatoyō|fatoyo-|noun|noun|formal||||||
+sound|rat|rat|noun|noun||From Old Raccoon Mamuplan|||||
+substance|nai|nai|noun|noun||From Old Mampulan|||||
+feeling|main|main|noun|noun||From Old Mampulan|||||
+emotion||||||From Old Mampulan|||||
+meaning|ngi|qi|noun|noun||From Old Mampulan|||||
+book|aka|aka|noun|noun||From Old Mampulan|||||
+same|hirung|hiruq|adjective|ung adjective|||||||
+simultaneous|hirfoung|hirfoung|adjective|g adjective||From <i>hir</i> (&quot;same&quot;) + <i>foun</i> (&quot;time&quot;)|||||
+homonym|||||||||||
+homogeneity|hirnai|hirnai|noun|noun||From <i>hir</i> (&quot;same&quot;) + <i>rat</i> (&quot;substance&quot;)|||||
+homogeneous|hirnaing|hirnaiq|adjective|ng adjective||From <i>hir</i> (&quot;same&quot;) + <i>rat</i> (&quot;substance&quot;)|||||
+homogenize|hirnairun|hirnairun|verb|run verb||From <i>hir</i> (&quot;same&quot;) + <i>rat</i> (&quot;substance&quot;)|||||
+homophone|hirrat|hirrat|noun|noun||From <i>hir</i> (&quot;same&quot;) + <i>rat</i> (&quot;sound&quot;)|||||
+homograph|hirlet|hirlet|noun|noun||From <i>hir</i> (&quot;same&quot;) + <i>rat</i> (&quot;sound&quot;)|||||
+sympathy|hirmain|hirmain|noun|noun||From <i>hir</i> (&quot;sam&quot;) + <i>main</i> (&quot;feeling&quot;)|||||
+agreement|hirngi|hirqi|noun|noun||From <i>hir</i> (&quot;sam&quot;) + <i>ngi</i> (&quot;idea&quot;)|||||
+synchronization|hirfounchen|hirfouncen|noun|noun||From <i>hir</i> (&quot;sam&quot;) + <i>foun</i> (&quot;time&quot;) + <i>chen</i> (&quot;-ization&quot;)|||||
+synchronize|hirfounchenun|hirfouncenun|verb|un verb||From <i>hirfounchen</i> (&quot;synchronization&quot;)|||||
+chronology|foun'ga|founga|noun|noun||From <i>foun</i> (&quot;time&quot;) + <i>ga</i> (&quot;study(&quot;)|||||
+chronicle|founaka|founaka|noun|noun||From <i>foun</i> (&quot;time&quot;) + <i>aka</i> (&quot;book&quot;)|"A famous chronicle in Mampulan is the ""Chronicle of the Wolves"" by Pangil."|"Kan mampulan iq sikaq founaka ni ""woun sa founaka"" mo Paqil te"|||
+chronicler|founakawan|founakawan|noun|noun||foun (time) + aka (book)|Pangil is the first wolf chronicler.|Paqil ni ika'i woun founakawan te|(Fun fact!) Pangil the Wolf Legend is the oldest chronicler of the wolves.||
+from|wo|wo|preposition|preposition||From Old Mampulan|||||
+to|des|des|preposition|preposition||From Old Mampulan|||||
+of|sa|sa|preposition|preposition||From Old Mampulan|||||
+with|mo|mo|preposition|preposition||From Old Mampulan|||||
+with|mei|mei|preposition|preposition||From Old Mampulan|||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
+careful|||||||||||
+beautiful|||||||||||
+mindful|||||||||||
+grateful|||||||||||
+harmful|||||||||||
+plentiful|||||||||||
+dreadful|||||||||||
+disgraceful|||||||||||
+cheerful|||||||||||
