@@ -126,7 +126,7 @@ dystopia|haitpein|haitpein|noun|noun||From <i>hait-</i> (&quot;bad&quot;) + <i>p
 malinfluence|haitbisain|haitbisain|noun|noun||From <i>hait-</i> (&quot;bad&quot;) + <i>bisaen</i> (&quot;influence&quot;)|||||
 maleffect|haitbisa|haitbisa|noun|noun||From <i>hait-</i> (&quot;bad&quot;) + <i>bisa</i> (&quot;effect&quot;)|||||
 malodor|haitsanwer|haitsanwer|noun|noun||From <i>hait-</i> (&quot;bad&quot;) + <i>sanwer</i> (&quot;odor&quot;)|||||
-malnourished|haitruktung|haitruktung|adjective|g adjective||From <i>hait-</i> (&quot;bad&quot;) + <i>ruktung</i> (&quot;nourished&quot;)|||||
+malnourished|haitruktung|haitruktuq|adjective|g adjective||From <i>hait-</i> (&quot;bad&quot;) + <i>ruktung</i> (&quot;nourished&quot;)|||||
 malfunction|haitkinō|haitkino-|noun|noun||From <i>hait-</i> (&quot;bad&quot;) + <i>kinō</i> (&quot;function&quot;)|||||
 malform|haitlet|haitlet|noun|noun||From <i>hait-</i> (&quot;bad&quot;) + <i>let</i> (&quot;form&quot;)|||||
 malignant|haitshing|haitxiq|adjective|g adjective||From <i>hait-</i> (&quot;bad&quot;) + <i>shin</i> (&quot;state of&quot;)|||||
@@ -140,7 +140,7 @@ animal|tounbu|tounbu|noun|noun||From <i>toun-</i> (&quot;move&quot;) + <i>bu</i>
 all|lat|lat||||From Old Mampulan|||||
 omniscient|latnoung|latnouq|adjective|ng adjective||From <i>lat-</i> (&quot;all, omni-&quot;) + <i>nourun</i> (&quot;to know&quot;)|||||
 omnipotent|latfortanong|latfortanoq|adjective|ng adjective||From <i>lat-</i> (&quot;all, omni-&quot;) + <i>fortanong</i> (&quot;Old Mampulan for strong&quot;)|||||
-omnipresent|latbeng|latbeng|adjective|adjective||From <i>lat-</i> (&quot;all, omni-&quot;) + <i>be</i> (&quot;Old Mampulan for strong&quot;)|||||
+omnipresent|latbeng|latbeq|adjective|adjective||From <i>lat-</i> (&quot;all, omni-&quot;) + <i>be</i> (&quot;Old Mampulan for strong&quot;)|||||
 omnipotence|latkatung|latkat-q|adjective|ung adjective||From <i>lat-</i> (&quot;all, omni-&quot;) + <i>kat</i> (&quot;can, able to do&quot;)|||||
 omnivore|latkain tounbu|latkain tounbu|noun|noun||From <i>lat-</i> (&quot;all, omni-&quot;) + <i>kainun</i> (&quot;to eat&quot;) + <i>tounbu</i> (&quot;animal&quot;)|||||
 cat|flis|flis|noun|noun||From Old Mampulan|||||
@@ -175,7 +175,7 @@ eagle|agala|agala|||||||||
 elephant|ela|ela|||||||||
 falcon |faloun|faloun|||||||||
 fennec fox |feneku|feneku|||||||||
-fly (insect)|ngau|ngau|||||||||
+fly (insect)|ngau|qau|||||||||
 giraffe |gira|gira|||||||||
 goat |kamba|kamba|||||||||
 goose|gansa|gansa|||||||||
@@ -261,6 +261,10 @@ pasta|||noun|noun|||||||
 |||||||||||
 |||||||||||
 |||||||||||
+together|samaku|samaku|adverb|adverb|||||||
+|||||||||||
+|||||||||||
+|||||||||||
 head|hor|hor|noun|noun||From Old Mampulan|||||
 arm|frat|frat|noun|noun||From Old Mampulan|||||
 leg|bintin|bintin|noun|noun||From Old Mampulan|||||
@@ -271,12 +275,12 @@ face|muka|muka|noun|noun||From Old Mampulan|||||
 neck|hal|hal|noun|noun||From Old Mampulan|||||
 shoulder|ombor|ombor|noun|noun||From Old Mampulan|||||
 chest|patrin|patrin|noun|noun||From Old Mampulan|||||
-finger|songan|songan|noun|noun||From Old Mampulan|||||
+finger|songan|soqan|noun|noun||From Old Mampulan|||||
 hand|shain|shain|noun|noun||From Old Mampulan|||||
 foot|bes|bes|noun|noun||From Old Mampulan|||||
 ankle|tobil|tobil|noun|noun||From Old Mampulan|||||
 hair|bouk|bouk|noun|noun||From Old Mampulan|||||
-tooth|pangan|pangan|noun|noun||From Old Mampulan|||||
+tooth|pangan|paqan|noun|noun||From Old Mampulan|||||
 tongue|hion|hion|noun|noun||From Old Mampulan|||||
 wrist|karpi|karpi|noun|noun||From Old Mampulan|||||
 body|tai|tai|noun|noun||From Old Mampulan|||||
@@ -291,7 +295,7 @@ see|lurun|lurun|verb|run verb||From Old Mampulan|||||
 come|rairun|rairun|verb|run verb||From Old Mampulan|||||
 want|gusun|gusun|verb|un verb||From Old Mampulan|||||
 look|lurun|lurun|verb|run verb||From Old Mampulan|||||
-use|ngeirun|ngeirun|verb|run verb||From Old Mampulan|||||
+use|ngeirun|qeirun|verb|run verb||From Old Mampulan|||||
 find|finun|finun|verb|un verb||From Old Mampulan|||||
 give|girun|girun|verb|run verb||From Old Mampulan|||||
 tell|tirun|tirun|verb|run verb||From Old Mampulan|||||
@@ -405,11 +409,10 @@ sun|fatoyō|fatoyo-|noun|noun|formal||||||
 sound|rat|rat|noun|noun||From Old Raccoon Mamuplan|||||
 substance|nai|nai|noun|noun||From Old Mampulan|||||
 feeling|main|main|noun|noun||From Old Mampulan|||||
-emotion||||||From Old Mampulan|||||
 meaning|ngi|qi|noun|noun||From Old Mampulan|||||
 book|aka|aka|noun|noun||From Old Mampulan|||||
 same|hirung|hiruq|adjective|ung adjective|||||||
-simultaneous|hirfoung|hirfoung|adjective|g adjective||From <i>hir</i> (&quot;same&quot;) + <i>foun</i> (&quot;time&quot;)|||||
+simultaneous|hirfoung|hirfouq|adjective|g adjective||From <i>hir</i> (&quot;same&quot;) + <i>foun</i> (&quot;time&quot;)|||||
 homonym|||||||||||
 homogeneity|hirnai|hirnai|noun|noun||From <i>hir</i> (&quot;same&quot;) + <i>rat</i> (&quot;substance&quot;)|||||
 homogeneous|hirnaing|hirnaiq|adjective|ng adjective||From <i>hir</i> (&quot;same&quot;) + <i>rat</i> (&quot;substance&quot;)|||||
@@ -420,7 +423,7 @@ sympathy|hirmain|hirmain|noun|noun||From <i>hir</i> (&quot;sam&quot;) + <i>main<
 agreement|hirngi|hirqi|noun|noun||From <i>hir</i> (&quot;sam&quot;) + <i>ngi</i> (&quot;idea&quot;)|||||
 synchronization|hirfounchen|hirfouncen|noun|noun||From <i>hir</i> (&quot;sam&quot;) + <i>foun</i> (&quot;time&quot;) + <i>chen</i> (&quot;-ization&quot;)|||||
 synchronize|hirfounchenun|hirfouncenun|verb|un verb||From <i>hirfounchen</i> (&quot;synchronization&quot;)|||||
-chronology|foun'ga|founga|noun|noun||From <i>foun</i> (&quot;time&quot;) + <i>ga</i> (&quot;study(&quot;)|||||
+chronology|foun'ga|foun'ga|noun|noun||From <i>foun</i> (&quot;time&quot;) + <i>ga</i> (&quot;study(&quot;)|||||
 chronicle|founaka|founaka|noun|noun||From <i>foun</i> (&quot;time&quot;) + <i>aka</i> (&quot;book&quot;)|"A famous chronicle in Mampulan is the ""Chronicle of the Wolves"" by Pangil."|"Kan mampulan iq sikaq founaka ni ""woun sa founaka"" mo Paqil te"|||
 chronicler|founakawan|founakawan|noun|noun||foun (time) + aka (book)|Pangil is the first wolf chronicler.|Paqil ni ika'i woun founakawan te|(Fun fact!) Pangil the Wolf Legend is the oldest chronicler of the wolves.||
 from|wo|wo|preposition|preposition||From Old Mampulan|||||
@@ -442,13 +445,13 @@ we|tei|tei|pronoun|pronoun||From Old Mampulan|||||
 we|toi|toi|pronoun|pronoun||From Old Mampulan|||||
 they|sei|sei|pronoun|pronoun||From Old Mampulan|||||
 car|brun|brun|noun|noun||Probably from car onomatopoeia when a car starts or drives vroom|||||
-wall|pade|pade||||From Old Mampulan|||||
-window|chima|chima||||From Old Mampulan|||||
-door|nila|nila||||From Old Mampulan|||||
-warehouse|not|not||||From Old Mampulan|||||
-garage|brunnot|brunnot||||From <i>brun</i> (&quot;car&quot;) + <i>not</i> (&quot;warehouse&quot;)|||||
-balcony|beranda|beranda||||From <i>veranda</i>|||||
-yard|||||||||||
+wall|pade|pade|noun|noun||From Old Mampulan|||||
+window|chima|chima|noun|noun||From Old Mampulan|||||
+door|nila|nila|noun|noun||From Old Mampulan|||||
+warehouse|not|not|noun|noun||From Old Mampulan|||||
+garage|brunnot|brunnot|noun|noun||From <i>brun</i> (&quot;car&quot;) + <i>not</i> (&quot;warehouse&quot;)|||||
+balcony|beranda|beranda|noun|noun||From <i>veranda</i>|||||
+yard|wina|wina|noun|noun||From Old Mampulan|||||
 harbor|osanila|osanila|noun|noun||From <i>awon sa nila</i> (&quot;door of water&quot;)|||port||
 harbour|osanila|osanila|noun|noun||From <i>foun</i> (&quot;door of water&quot;)|||port||
 port|osanila|osanila|noun|noun||From <i>foun</i> (&quot;door of water&quot;)|||harbor, harbour||
@@ -461,3 +464,31 @@ plentiful|||||||||||
 dreadful|||||||||||
 disgraceful|||||||||||
 cheerful|||||||||||
+instinct|honlot|honlot|noun|noun||From <i>hon</i> (&quot;origin, fundamental&quot;) + <i>lot</i> (&quot;ability, skill&quot;)|||||
+little|komong|komoq|||||||||
+consent|samamain|roumain|noun|noun||From <i>sama</i> (&quot;together&quot;) + <i>main</i> (&quot;feeling&quot;)|||||
+a little bit|komobunak|komobunak|adverb|adverb||From <i>komo</i> (&quot;little&quot;) + <i>bu</i> (&quot;thing&quot;)|I am a little bit concerned.||||
+a lot|midang|midaq|adjective|ng adjective|a large number or amount of (things, people, etc.)|From Old Mampulan <i>meituan</i>|I eat a lot of apples.|Ko ni midaq mak kainu.|many||
+next|fiung|fiuq|adjective|ng adjective|||||||
+next|bupusung|bupusuq|adjective|ung adjective|formal|From <i>thing</i> (&quot;bu&quot;) + <i>-post (after) </i> (&quot;pus&quot;)|||||
+previous|bubing|bubiq|adjective|ung adjective|formal||||||
+night|kapi|kapi|noun|noun|||||||
+neat|linung|linuq|adjective|ng adjective|||||||
+random|delin|delin|noun|noun||From <i>de</i> (&quot;not&quot;) + <i>lin</i> (&quot;neat&quot;)|||||
+fast|situng|situq|adjective|adjective||From Old Mampulan|||||
+slow|surong|suroq|adjective|adjective||From Old Mampulan|||||
+fast|sitnak|sitnak|adverb|adverb||From <i>situng</i> (&quot;fast&quot;)|||||
+slowly|suronak|suronak|adverb|adverb||From <i>surong</i> (&quot;slow&quot;)|||||
+every|maing|maiq|adverb|adverb|||||||
+annually|maitiun|maitiun|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>tiuin</i> (&quot;year&quot;)|||||
+yearly|maitiun|maitiun|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>tiuin</i> (&quot;year&quot;)|||||
+daily|mairou|mairou|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>tiuin</i> (&quot;year&quot;)|||||
+monthly|maimor|maimor|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>tiuin</i> (&quot;year&quot;)|||||
+recently|saichika|saichika|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>tiuin</i> (&quot;year&quot;)|||||
+tomorrow|bupusurou|bupusrou|adverb|adverb||From <i>bupus</i> (&quot;previous&quot;) + <i>rou</i> (&quotd;day&quot;)|||||
+weekly|maisat|maisat|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>tiuin</i> (&quot;year&quot;)|||||
+yesterday|bubinrou|bubinrou|adverb|adverb||From <i>bubin</i> (&quot;previous&quot;) + <i>tiuin</i> (&quotd;day&quot;)|||||
+today|nga|qa|adverb|adverb||From Old Mampulan <i>meituan</i>|||||
+tonight|ngakapi|qakapi|adverb|adverb||From <i>nga</i> (&quot;today&quot;) + <i>kapi</i> (&quot;night&quot;)|||||
+word|sata|sata|noun|noun|The smallest unit of language that has a particular meaning and can be expressed by itself; the smallest discrete, meaningful unit of language.|From Old Mampulan|A dictionary is a type of book which explains the meanings of words.||||
+dictionary|satāka|sata-ka|noun|noun||From <i>sata</i> (&quot;word&quot;) + <i>aka</i> (&quot;book&quot;)|A dictionary is a type of book which explains the meanings of words.||||
