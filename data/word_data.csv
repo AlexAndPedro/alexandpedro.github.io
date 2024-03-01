@@ -19,7 +19,7 @@ stream|awak|awak|noun|noun||From Old Mampulan <i>aunak</i> (&quot;river&quot;)||
 flow|fou|fou|noun|noun||From Old Mampulan|||||
 flow|fourun|fourun|verb|run verb||From Old Mampulan <i>fou</i> (&quot;flow&quot;)|||||
 current|nagan|nagan|noun|noun||From Eagle Language <i>nagan</i> (&quot;flow&quot;)|||||
-liquid|pai|pai|noun|noun||From Old Mampulan|||||
+liquid|pal|pal|noun|noun||From Old Mampulan|||||
 land|landon|landon|noun|noun||From Old Mampulan|||||
 ground|lupan|lupan|noun|noun||From Old Mampulan|||||
 soil|dommap|dommap|noun|noun||From Old Mampulan <i>don</i> (&quot;earth&quot;) + <i>mapa</i> from Eagle Language (&quot;earth&quot;)|||||
@@ -245,19 +245,19 @@ wine|||noun|noun|||||||
 beer|||noun|noun|||||||
 cream|||noun|noun|||||||
 yogurt|||noun|noun|||||||
-pie|||noun|noun|||||||
+pie|pai|pai|noun|noun|||||||
 chocolate|chokolat|cokolat|noun|noun|||||||
 cake|keik|keik|noun|noun|||||||
-cookie|||noun|noun|||||||
+cookie|kukki|kukki|noun|noun|||||||
 onion|yasin|yasin|noun|noun|||||||
 garlic|waban|waban|noun|noun|||||||
 potato|patata|patata|noun|noun|||||||
 lemon|līn|li-n|noun|noun|||||||
 pea|api|api|noun|noun|||||||
-egg|||noun|noun|||||||
-broccoli|||noun|noun|||||||
-chicken|||noun|noun|||||||
-pasta|||noun|noun|||||||
+egg|oun|oun|noun|noun|||||||
+broccoli|brokus|brokus|noun|noun|||||||
+chicken|tikasa|tikasa|noun|noun|||||||
+pasta|pasta|pasta|noun|noun|||||||
 |||||||||||
 |||||||||||
 |||||||||||
@@ -379,7 +379,7 @@ sell|wurun|wurun|verb|run verb||From Old Mampulan|||||
 require|rekurun|rekurun|verb|run verb||From Old Mampulan|||||
 report|portun|portun|verb|un verb||From Old Mampulan|||||
 decide|keturun|keturun|verb|run verb||From Old Mampulan|||||
-pull|hikurun|hikurun|verb|run verb||From Old Mampulan|||||
+pull|dukun|dukun|verb|run verb||From Old Mampulan|||||
 push|trunun|trunun|verb|un verb||From Old Mampulan|||||
 teach|turun|turun|verb|un verb||From Old Mampulan|||||
 teacher|turwan|turwan|noun|noun||From <i>turun</i> (&quot;teach&quot;) + <i>wan</i> (&quot;person&quot;)|||||
@@ -455,8 +455,9 @@ yard|wina|wina|noun|noun||From Old Mampulan|||||
 harbor|osanila|osanila|noun|noun||From <i>awon sa nila</i> (&quot;door of water&quot;)|||port||
 harbour|osanila|osanila|noun|noun||From <i>foun</i> (&quot;door of water&quot;)|||port||
 port|osanila|osanila|noun|noun||From <i>foun</i> (&quot;door of water&quot;)|||harbor, harbour||
+beauty|biu|biu|noun|noun|||||||
 careful|||||||||||
-beautiful|||||||||||
+beautiful|biung|biuq|adjective|ng adjective|||||||
 mindful|||||||||||
 grateful|||||||||||
 harmful|||||||||||
@@ -492,3 +493,23 @@ today|nga|qa|adverb|adverb||From Old Mampulan <i>meituan</i>|||||
 tonight|ngakapi|qakapi|adverb|adverb||From <i>nga</i> (&quot;today&quot;) + <i>kapi</i> (&quot;night&quot;)|||||
 word|sata|sata|noun|noun|The smallest unit of language that has a particular meaning and can be expressed by itself; the smallest discrete, meaningful unit of language.|From Old Mampulan|A dictionary is a type of book which explains the meanings of words.||||
 dictionary|satāka|sata-ka|noun|noun||From <i>sata</i> (&quot;word&quot;) + <i>aka</i> (&quot;book&quot;)|A dictionary is a type of book which explains the meanings of words.||||
+train|dukbrun|dukbrun|noun|noun||From <i>duk</i> (&quot;pull&quot;) + <i>brun</i> (&quot;car&quot;)|||||
+station|sunas|sunas|noun|noun||From <i>su</i> (&quot;stand&quot;) + <i>-nas</i> (&quot;nominalizer&quot;)|||||
+train station|dukbrun sa sunas|dukbrun sa sunas|noun|noun||From <i>dukbrun</i> (&quot;train&quot;) + <i>sunas</i> (&quot;station&quot;)|||||
+bus|bas|bas|noun|noun||From <i>bus</i>|||||
+bus stop|bas sa sunas|bas sa sunas|noun|noun||From <i>bas</i> (&quot;bus&quot;) + <i>sunas</i> (&quot;station&quot;)|||||
+pole|pou|pou|noun|noun|||||||
+good|yorung|yoruq|adjective|ung adjective|||||||
+morning|alo|alo|noun|noun|||||||
+afternoon|laso|laso|||||||||
+night|kapi|kapi|||||||||
+good morning|biung alo|biuq alo|expression|expression||From <i>biung</i> (&quot;beautiful&quot;) + <i>sunas</i> (&quot;station&quot;)|||||
+good afternoon|biung laso|biuq laso|expression|expression|||||||
+good night|biung kapi|biuq kapi|expression|expression|||||||
+difficulty|mos||||||||||
+thank you|môsurun|mo^sorun|expression|expression||From mos nourun (&quot;I understand the difficulty&quot;)|||||
+sorry|||||||||||
+excuse me|||||||||||
+how are you|||||||||||
+grace|onen|onen|noun|noun||From Old Mampulan|||||
+congratulations|onenggirun|oneqgirun|expression|expression||From  (&quot;giving grace&quot;)|||||
