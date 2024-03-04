@@ -58,6 +58,7 @@ both|lin|lin|adjective|adjective||From Old Mampulan|||||
 amphibian|linbitan|linbitan|noun|noun||From <i>lin</i> (&quot;both&quot;) + <i>bitan</i> (&quot;life&quot;)|||||
 war|troun|troun|noun|noun||Foun Old Mampulan|||||
 antebellum|trounbin|trounbin|noun|noun||From <i>troun</i> (&quot;war&quot;) + <i>bin</i> (&quot;before&quot;)|||||
+study|garun|garun|verb|run verb||Foun Old Mampulan|||||
 school|gapein|gapein|noun|noun||From <i>ga</i> (&quot;study&quot;) + <i>pein</i> (&quot;place&quot;)|||||
 student|gawan|gawan|noun|noun||From <i>ga</i> (&quot;study&quot;) + <i>wan</i> (&quot;person&quot;)|||||
 say|sabun|sabun|verb|un verb||From Old Mampulan|||||
@@ -91,6 +92,7 @@ gray|oboklong|obokloq|adjective|g adjective||From <i>oboun-</i> (&quot;ash&quot;
 smoke|kuwer|kuwer|noun|noun||From <i>kurong-</i> (&quot;black&quot;) + <i>her</i> (&quot;air&quot;)|||||
 big|dang|daq|adjective|ng adjective||From Old Mampulan|||||
 small|sung|suq|adjective|ng adjective||From Old Mampulan|||||
+number|bil|bil|noun|noun||From Old Mampulan|||||
 one|i|i|noun|noun||From Old Mampulan|||||
 two|du|du|noun|noun||From Old Mampulan|||||
 three|ma|ma|noun|noun||From Old Mampulan|||||
@@ -163,8 +165,8 @@ how many|dankoun|dankoun|pronoun|pronoun||From <i>dan</i> (&quot;what&quot;) + <
 how much|dankoun|dankoun|pronoun|pronoun||From <i>dan</i> (&quot;what&quot;) + <i>koun</i> (&quot;count&quot;)|||||
 whose|dansa|dansa|pronoun|pronoun||From <i>duan</i> (&quot;who&quot;) + <i>sa</i> (&quot;shows possession&quot;)|||||
 which|dannur|dannur|pronoun|pronoun||From <i>dan</i> (&quot;who&quot;) + <i>nur</i> (&quot;part&quot;)|||||
-ant|ato|ato|||||||||
-anteater|atokain|atokain|||||||||
+ant|lanto|lanato|||||||||
+anteater|lantokain|lantokain|||||||||
 arctic fox |āktikung tuman|a-ktikuq tuman|||||||||
 bear|our|our|||||||||
 boa|nakana|nakana|||||||||
@@ -175,7 +177,7 @@ eagle|agala|agala|||||||||
 elephant|ela|ela|||||||||
 falcon |faloun|faloun|||||||||
 fennec fox |feneku|feneku|||||||||
-fly (insect)|ngau|qau|||||||||
+fly|ngau|qau|||(insect)||||||
 giraffe |gira|gira|||||||||
 goat |kamba|kamba|||||||||
 goose|gansa|gansa|||||||||
@@ -241,7 +243,7 @@ cheese|chīs|ci-s|noun|noun|||||||
 butter|||noun|noun|||||||
 soda|||noun|noun|||||||
 tea|||noun|noun|||||||
-wine|||noun|noun|||||||
+wine|wina|wina|noun|noun|||||||
 beer|||noun|noun|||||||
 cream|||noun|noun|||||||
 yogurt|||noun|noun|||||||
@@ -380,6 +382,7 @@ require|rekurun|rekurun|verb|run verb||From Old Mampulan|||||
 report|portun|portun|verb|un verb||From Old Mampulan|||||
 decide|keturun|keturun|verb|run verb||From Old Mampulan|||||
 pull|dukun|dukun|verb|run verb||From Old Mampulan|||||
+fly|fulun|fulun|verb|un verb||From Old Mampulan|||||
 push|trunun|trunun|verb|un verb||From Old Mampulan|||||
 teach|turun|turun|verb|un verb||From Old Mampulan|||||
 teacher|turwan|turwan|noun|noun||From <i>turun</i> (&quot;teach&quot;) + <i>wan</i> (&quot;person&quot;)|||||
@@ -476,6 +479,8 @@ previous|bubing|bubiq|adjective|ung adjective|formal||||||
 night|kapi|kapi|noun|noun|||||||
 neat|linung|linuq|adjective|ng adjective|||||||
 random|delin|delin|noun|noun||From <i>de</i> (&quot;not&quot;) + <i>lin</i> (&quot;neat&quot;)|||||
+close|serung|seruq|adjective|ung adjective|near||||near||
+most|sainak|sainak|adverb|adverb||From <i>sai</i> (&quot;most&quot;) + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
 fast|situng|situq|adjective|adjective||From Old Mampulan|||||
 slow|surong|suroq|adjective|adjective||From Old Mampulan|||||
 fast|sitnak|sitnak|adverb|adverb||From <i>situng</i> (&quot;fast&quot;)|||||
@@ -483,9 +488,9 @@ slowly|suronak|suronak|adverb|adverb||From <i>surong</i> (&quot;slow&quot;)|||||
 every|maing|maiq|adverb|adverb|||||||
 annually|maitiun|maitiun|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>tiuin</i> (&quot;year&quot;)|||||
 yearly|maitiun|maitiun|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>tiuin</i> (&quot;year&quot;)|||||
-daily|mairou|mairou|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>tiuin</i> (&quot;year&quot;)|||||
-monthly|maimor|maimor|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>tiuin</i> (&quot;year&quot;)|||||
-recently|saichika|saichika|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>tiuin</i> (&quot;year&quot;)|||||
+daily|mairou|mairou|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>rou</i> (&quot;day&quot;)|||||
+monthly|maimor|maimor|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>mor</i> (&quot;month&quot;)|||||
+recently|saiser|saiser|adverb|adverb||From <i>sai</i> (&quot;most&quot;) + <i>ser</i> (&quot;close, near&quot;)|||||
 tomorrow|bupusurou|bupusrou|adverb|adverb||From <i>bupus</i> (&quot;previous&quot;) + <i>rou</i> (&quotd;day&quot;)|||||
 weekly|maisat|maisat|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>tiuin</i> (&quot;year&quot;)|||||
 yesterday|bubinrou|bubinrou|adverb|adverb||From <i>bubin</i> (&quot;previous&quot;) + <i>tiuin</i> (&quotd;day&quot;)|||||
@@ -498,18 +503,52 @@ station|sunas|sunas|noun|noun||From <i>su</i> (&quot;stand&quot;) + <i>-nas</i> 
 train station|dukbrun sa sunas|dukbrun sa sunas|noun|noun||From <i>dukbrun</i> (&quot;train&quot;) + <i>sunas</i> (&quot;station&quot;)|||||
 bus|bas|bas|noun|noun||From <i>bus</i>|||||
 bus stop|bas sa sunas|bas sa sunas|noun|noun||From <i>bas</i> (&quot;bus&quot;) + <i>sunas</i> (&quot;station&quot;)|||||
-pole|pou|pou|noun|noun|||||||
-good|yorung|yoruq|adjective|ung adjective|||||||
-morning|alo|alo|noun|noun|||||||
-afternoon|laso|laso|||||||||
-night|kapi|kapi|||||||||
-good morning|biung alo|biuq alo|expression|expression||From <i>biung</i> (&quot;beautiful&quot;) + <i>sunas</i> (&quot;station&quot;)|||||
-good afternoon|biung laso|biuq laso|expression|expression|||||||
-good night|biung kapi|biuq kapi|expression|expression|||||||
-difficulty|mos||||||||||
-thank you|môsurun|mo^sorun|expression|expression||From mos nourun (&quot;I understand the difficulty&quot;)|||||
-sorry|||||||||||
-excuse me|||||||||||
-how are you|||||||||||
+pole|pou|pou|noun|noun||From Old Mampulan|||||
+disturb|damarun|damarun|verb|run verb||From Old Mampulan|||||
+sad|lungung|luquq|adjective|ng adjective||From Old Mampulan|||||
+good|yong|yoq|adjective|ung adjective||From Old Mampulan|||||
+morning|alo|alo|noun|noun||From Old Mampulan|||||
+afternoon|laso|laso|noun|noun||From Old Mampulan|||||
+night|kapi|kapi|noun|noun||From Old Mampulan|||||
 grace|onen|onen|noun|noun||From Old Mampulan|||||
-congratulations|onenggirun|oneqgirun|expression|expression||From  (&quot;giving grace&quot;)|||||
+difficulty|mos|mos|noun|noun||From Old Mampulan|||||
+good morning|biung alo|biuq alo|expression|expression||From <i>biung</i> (&quot;beautiful&quot;) + <i>alo</i> (&quot;morning&quot;)|||||
+good afternoon|biung laso|biuq laso|expression|expression||From <i>biung</i> (&quot;beautiful&quot;) + <i>laso</i> (&quot;afternoon&quot;)|||||
+good night|biung kapi|biuq kapi|expression|expression||From <i>biung</i> (&quot;beautiful&quot;) + <i>kapi</i> (&quot;night&quot;)|||||
+thank you|môsurun|mo^sorun|expression|expression||From <i>mos nourun</i> (&quot;I understand the difficulty&quot;)|||||
+sorry|papalungung|papalungung|expression|expression||Literally <i>It makes one sad.</i>|||I'm sorry||
+I'm sorry|papalungung|papalungung|expression|expression||Literally <i>It makes one sad.</i>|||sorry||
+excuse me|kodamarun|kodamarun|expression|expression||From <i>ko</i> (&quot;I&quot;) + <i>damarun</i> (&quot;disturb&quot;)|||||
+how are you|ro dron yaru|ro dron yaru|expression|expression||From <i>ro</i> (&quot;you&quot;) + <i>dron</i> (&quot;how&quot;) + <i>yaru</i> (&quot;do&quot;). Literally <i>How do you do?</i>|||||
+congratulations|onenggirun|oneqgirun|expression|expression||From <i>onen</i> (&quot;grace&quot;) + <i>girun</i> (&quot;give&quot;)|||||
+nice to meet you|yongarun|yongarun|expression|expression||From <i>good</i> (&quot;good&quot;) + <i>meet</i> (&quot;give&quot;)|||||
+welcome|yongrai|yongrai|expression|expression||From <i>good</i> (&quot;good&quot;) + <i>meet</i> (&quot;give&quot;)|||||
+this|atong|atong|adjective|ng adjective||From Old Mampulan|||||
+that|osang|osang|adjective|ng adjective||From Old Mampulan|||||
+these|yatong|yatong|adjective|ng adjective||From Old Mampulan|||||
+those|yosang|yosang|adjective|ng adjective||From Old Mampulan|||||
+this|ato|ato|pronoun|pronoun||From Old Mampulan|||||
+that|osa|osa|pronoun|pronoun||From Old Mampulan|||||
+these|yato|yato|pronoun|pronoun||From Old Mampulan|||||
+those|yosa|yosa|pronoun|pronoun||From Old Mampulan|||||
+here|atein|atein|pronoun|pronoun||From Old Mampulan|||||
+there|otein|otein|pronoun|pronoun||From Old Mampulan|||||
+bard|fenema|fenema|noun|noun||From Old Eagle Mampulan <i>fenema</i>|||||
+lodge|shuk|xuk|noun|noun|A building for recreational use such as a hunting lodge or a summer cabin.||||||
+inn|shukpein|xukpein|noun|noun|Any establishment where travellers can procure lodging, food, and drink.|From <i>shuk</i> (&quot;lodge&quot;) + <i>pein</i> (&quot;place&quot;)|||||
+store|baipein|baipein|noun|noun|A place where items may be purchased.|From <i>bairun</i> (&quot;buy&quot;) + <i>pein</i> (&quot;place&quot;)|||||
+shop|baipein|baipein|noun|noun|A place where items may be purchased.|From <i>bairun</i> (&quot;buy&quot;) + <i>pein</i> (&quot;place&quot;)|||||
+tavern|winashukpein|wino-sonpein|noun|noun|A building containing a bar licensed to sell alcoholic drinks, and offering sleeping accommodations for travelers. |wina + osonpein|||||
+almost|serlatnak|serlatnak|adverb|adverb|Very close to, but not quite.|From <i>ser</i> (&quot;near&quot;) + <i>lat</i> (&quot;all&quot;) + <i>nak</i> (&quot;adverb-forming suffix&quot;)|||||
+there are|merun|merun|verb|run verb|The specified thing exists, physically or abstractly.|Old Mampulan <i>meiroun</i>|||||
+there be|merun|merun|verb|run verb|The specified thing exists, physically or abstractly.|Old Mampulan <i>meiroun</i>|||||
+there is|merun|merun|verb|run verb|The specified thing exists, physically or abstractly.|Old Mampulan <i>meiroun</i>|||||
+course|ka|ka|noun|noun|course (of study), branch of study|Old Mampulan|||||
+science|kaga|kaga|noun|noun||From <i>ka</i> (&quot;department, section&quot;) + <i>ga</i> (&quot;study&quot;)|||||
+math|bilga|bilga|noun|noun|An abstract representational system studying numbers, shapes, structures, quantitative change and relationships between them. |From <i>bil</i> (&quot;number&quot;) + <i>ga</i> (&quot;study&quot;)|||||
+a lot|mitang|mitaq|adjective|ng adjective|a large number or amount of (things, people, etc.)|From Old Mampulan <i>meituan</i>|||many||
+many|mitang|mitaq|adjective|ng adjective|a large number or amount of (things, people, etc.)|From Old Mampulan <i>meituan</i>|||a lot||
+machine|ki|ki|noun|noun||From Old Mampulan|||||
+air temperature|her sa ondo|her sa ondo|noun|noun|(formal)|her (air) + ondo (temperature)|||||
+airplane|fulki|fulki|noun|noun||From <i>ful</i> (&quot;to fly&quot;) + <i>ki</i> (&quot;machine&quot;)|||||
+soar|esonun|esonun|verb|un verb|| |||||
