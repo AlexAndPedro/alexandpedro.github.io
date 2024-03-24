@@ -1,7 +1,7 @@
 ﻿english|mampulan|mampulan symbol|part of speech English|part of speech Mampula|definition|etymology|english example|mampulan example|see also||
 water|awon|awon|noun|noun|(uncountable) A substance (of molecular formula H2O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam.|From Old Mampulan <i>hawon</i>|Water is essential to life on Earth.||||
-earth|don|don|noun|noun||From Old Mampulan|||||
-fire|apo|apo|noun|noun||From Old Mampulan|||||
+earth|don|don|noun|noun|(uncountable) Soil|From Old Mampulan|||||
+fire|apo|apo|noun|noun|A chemical reaction involving the bonding of oxygen with carbon or other fuel, with the production of heat and the presence of flame or smouldering.|From Old Mampulan|||||
 air|her|her|noun|noun||From Old Mampulan|||||
 stone|bato|bato|noun|noun||From Old Mampulan|||||
 heart|pain|pain|noun|noun||From Old Mampulan|||||
@@ -10,11 +10,12 @@ birth|bitan|bitan|noun|noun||From Old Mampulan|||||
 death|mordon|mordon|noun|noun||From Old Mampulan|||||
 person|wan|wan|noun|noun||From Old Mampulan|||||
 thing|bu|bu|noun|noun||From Old Mampulan|||||
-place|pein|she|noun|noun||From Old Mampulan|||||
+place|pein|pein|noun|noun||From Old Mampulan|||||
 tree|denon|denon|noun|noun||From Old Mampulan|||||
 run|takun|takun|verb|un verb||From Old Mampulan|||||
+drink|irun|irun|verb|run verb||From Old Mampulan|||||
 eat|kainun|kainun|verb|un verb||From Old Mampulan|||||
-river|aunak|aunak|noun|noun||From Old Mampulan <i>awon</i> (&quot;water&quot;) + <i>takun</i> (&quot;to run&quot;)|||||
+river|antak|antak|noun|noun||From Old Mampulan <i>awon</i> (&quot;water&quot;) + <i>takun</i> (&quot;to run&quot;)|||||
 stream|awak|awak|noun|noun||From Old Mampulan <i>aunak</i> (&quot;river&quot;)|||||
 flow|fou|fou|noun|noun||From Old Mampulan|||||
 flow|fourun|fourun|verb|run verb||From Old Mampulan <i>fou</i> (&quot;flow&quot;)|||||
@@ -24,7 +25,7 @@ land|landon|landon|noun|noun||From Old Mampulan|||||
 ground|lupan|lupan|noun|noun||From Old Mampulan|||||
 soil|dommap|dommap|noun|noun||From Old Mampulan <i>don</i> (&quot;earth&quot;) + <i>mapa</i> from Eagle Language (&quot;earth&quot;)|||||
 world|yon|yon|noun|noun||From Raccoon Language|||||
-wolf|woun|woun|noun|noun||Possibly from sounds a wolf makes|||||
+wolf|woun|woun|noun|noun||Possibly from sounds a wolf makes.|||||
 dog|wano|wano|noun|noun||From <i>woun</i> (&quot;wolf&quot;)|||||
 howl|wounun|wounun|verb|un verb||From Old Mampulan <i>woun</i> (&quot;wolf&quot;)|||||
 dire|wounang|wounaq|adjective|ng adjective||From Old Mampulan <i>woun</i> (&quot;wolf&quot;)|||||
@@ -457,7 +458,7 @@ harbour|osanila|osanila|noun|noun||From <i>foun</i> (&quot;door of water&quot;)|
 port|osanila|osanila|noun|noun||From <i>foun</i> (&quot;door of water&quot;)|||harbor, harbour||
 beauty|biu|biu|noun|noun|||||||
 instinct|honlot|honlot|noun|noun||From <i>hon</i> (&quot;origin, fundamental&quot;) + <i>lot</i> (&quot;ability, skill&quot;)|||||
-little|komong|komoq|||||||||
+little|komong|komoq|adjective|ng adjective|||||||
 consent|samamain|roumain|noun|noun||From <i>sama</i> (&quot;together&quot;) + <i>main</i> (&quot;feeling&quot;)|||||
 a little bit|komobunak|komobunak|adverb|adverb||From <i>komo</i> (&quot;little&quot;) + <i>bu</i> (&quot;thing&quot;)|I am a little bit concerned.||||
 a lot|midang|midaq|adjective|ng adjective|a large number or amount of (things, people, etc.)|From Old Mampulan <i>meituan</i>|I eat a lot of apples.|Ko ni midaq mak kainu.|many||
@@ -544,3 +545,48 @@ important|hefigung|hefigung|adjective|ung adjective|Having relevant and crucial 
 dream|panan|panan|noun|noun||From Old Mampulan|||||
 nightmare|haitpanan|haitpanan|noun|noun||From <i>hait</i> (&quot;bad&quot;) + <i>panan</i> (&quot;dream&quot;)|||||
 story|dasata|dasata|noun|noun||From Old Mampulan daukun (read) + sata (word) to daksata|||||
+lean|taikarun|taikarun|verb|run verb|||||||
+tendency|taikurunnas|taikurunnas|noun|noun||From <i>taikurun</i> (&quot;to lean&quot;) + <i>nas</i> (&quot;nominalizing suffix&quot;)|||||
+frequency|prok|prok|noun|noun||From Old Mampulan|||||
+frequent|prokung|proknuq|adjective|ung adjective||From <i>prok</i> (&quot;frequency&quot;) + <i>-ung</i> (&quot;adjective-forming suffix&quot;)|||||
+frequently|proknak|proknak|adverb|adverb||From <i>prok</i> (&quot;frequency&quot;) + <i>-nak</i> (&quot;adverb-forming suffix&quot;)|||||
+inspection|pron|pron|noun|noun||From Old Mampulan|||||
+vehicle inspection|brunpron|brunpron|noun|noun||From <i>brun</i> (&quot;car&quot;) + <i>pron</i> (&quot;inspection&quot;)|||||
+visit|yaitun|yaitun|verb|un verb||From Old Mampulan|||||
+half|git|git|noun|noun||From Old Mampulan|||||
+island|ait|ait|noun|noun|||||||
+peninsula|gitait|gitait|noun|noun||From <i>git</i> (&quot;half&quot;) + <i>ait</i> (&quot;island&quot;)|||||
+sack|sako|sako|noun|noun|||||||
+safety|anlat|anlat|noun|noun|||||||
+saga|ruran|ruran|noun|noun||From Old Mampulan|||||
+salad|salade|salade|noun|noun||French salade|||||
+salami|salami|salami|noun|noun||salami|||||
+salmon|sāmon|sa-mon|noun|noun|||||||
+salty|attang|attaq|adjective|ng adjective||From <i>atta</i> (&quot;salt&quot;)|||||
+disease|kasin|kasin|noun|noun|||||||
+sick|kasing|kasiq|adjective|g adjective||From <i>kasin</i> (&quot;disease&quot;)|||||
+ship|pun|pun|noun|noun|||||||
+shoe|shū|xu-|noun|noun|||||||
+dragon|kragan|kragan|noun|noun|Dragons are mighty and great|From the character &quot;Karanagan&quot; on the Mampulan Epic &quot;karanagan&quot;|||thanks sjru||
+son|adon|adon|noun|noun|||||||
+daughter|isan|isan|noun|noun|||||||
+child|lopon|lopon|noun|noun||From Old Wolf Language|||||
+cape|mekain|mekain|noun|noun|(geography) A piece or point of land, extending beyond the adjacent coast into a sea or lake|From Old Mampulan|||||
+ball|bano|bano|noun|noun||From Rabbit Language|||||
+mountain|woren|woren|noun|noun||From <i>woun</i> (&quot;wolf&quot;) + <i>orena</i> (&quot;ear&quot;). Possibly named because of similarity of wolf ear to shape of mountains|||||
+bran|tuno|tuno|noun|noun||From Old Rabbit Language|||||
+conflagration|||||||||thanks to kit||
+target|kitan|kitan|noun|noun|||||||
+destination|dêskitan|de^skitan|noun|noun|the place at the end of a journey|From <i>woun</i> (&quot;wolf&quot;) + <i>orena</i> (&quot;ear&quot;). Possibly named because of similarity of wolf ear to shape of mountains|||||
+duck|saner|saner|noun|noun||From Old Turtle Mampulan|||||
+|||||||||||
+|||||||||||
+idea|nal|nal|noun|noun|||||||
+feminism|narannal|narannal|noun|noun||From <i>naran</i> (&quot;woman&quot;) + <i>nal</i> (&quot;idea&quot;)|||thanks to lilian||
+feminist|narannalwan|narannalwan|noun|noun||From <i>narannal</i> (&quot;feminism&quot;) + <i>wan</i> (&quot;person&quot;)|||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
+|||||||||||
