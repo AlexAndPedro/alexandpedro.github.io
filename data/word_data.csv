@@ -316,6 +316,7 @@ help|aitun|aitun|verb|un verb||From Old Mampulan|||||
 talk|birun|birun|verb|run verb||From Old Mampulan|||||
 turn|izun|izun|verb|un verb||From Old Mampulan|||||
 start|hiunun|hiunun|verb|un verb||From Old Mampulan|||||
+start|hiunun|hiunun|verb|un verb|(formal)|From Old Mampulan|||||
 show|kirun|kirun|verb|run verb||From Old Mampulan|||||
 hear|dinanun|dinanun|verb|un verb||From Old Mampulan|||||
 play|purun|purun|verb|un verb|(a game, a video, movie)|From Old Mampulan|||||
@@ -583,7 +584,7 @@ pronunciation|bakrat|bakrat|noun|noun||From <i>bak</i> (&quot;emission&quot;) + 
 pronounce|bakratun|bakratun|verb|un verb||From <i>bakrat</i> (&quot;pronunciation&quot;)|||||
 introduction|deskiroun|deskiroun|noun|noun||From <i>des kirounun</i> (&quot;lead into&quot;)|||||
 introduce|deskirounun|deskirounun|verb|un verb||From <i>deskirounun</i> (&quot;introduction&quot;)|||||
-perception|nouprut|nouprut|noun|noun|||||知覚||
+perception|nouprut|nouprut|noun|noun||From <i>nou</i> (&quot;know&quot;) + <i>prut</i> (&quot;perception&quot;)|||||
 rain|ral|ral|noun|noun|||||||
 drop|bren|bren|noun|noun|||||||
 raindrop|ralbren|ralbren|noun|noun||From <i>ral</i> (&quot;rain&quot;) + <i>bren</i> (&quot;drop&quot;)|||||
@@ -594,4 +595,18 @@ collaboration|mêihata|me^ihata|noun|noun||From <i>mei</i> (&quot;with&quot;) + 
 be raised|ikun|ikun|verb|un verb||From Old Mampulan|||be brought up, grow||
 be brought up|ikun|ikun|verb|un verb||From Old Mampulan|||be raised, grow||
 grow|ikun|ikun|verb|un verb|grow up|From Old Mampulan|||be raised, be brought up||
-education|turik|turik|noun|noun||From <i>tur</i> (&quot;teach&quot;) + <i>ik</i> (&quot;growing up&quot;)|||教育||
+education|turik|turik|noun|noun||From <i>tur</i> (&quot;teach&quot;) + <i>ik</i> (&quot;growing up&quot;)|||||
+cause|intin|intin|noun|noun||From Old Mampulan <i>hintein</i>|||||
+the|-|-|article|article|no equivalent in Mampulan||||||
+a|ing|ing||||From <i>i</i> (&quot;one&quot;)|||||
+not|di|di|adverb|adverb||From Old Mampulan|||||
+if|fi|fi|conjunction|conjunction||From Old Mampulan|||||
+then|zen|zen||||From Old Mampulan|||||
+border|wasa|wasa|noun|noun||From Old Mampulan|||||
+limit|shen|xen|noun|noun||From Old Mampulan|||||
+time limit|founshen|founshen|noun|noun||From <i>foun</i> (&quot;time&quot;) + <i>shen</i> (&quot;limit&quot;)|||||
+me|ko|ko|pronoun|pronoun|||||||
+because|montin|||||mo + intin|||||
+bay|bait|bait|noun|noun||From Old Mampulan|||||
+news|pir|||||From Old Mampulan|||||
+breaking news|sitpir|||||From <i>sit</i> (&quot;fast&quot;) + <i>pir</i> (&quot;news&quot;)|||||
