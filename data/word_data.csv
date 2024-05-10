@@ -11,7 +11,7 @@ death|mordon|mordon|noun|noun||From Old Mampulan|||||
 person|wan|wan|noun|noun||From Old Mampulan|||||
 thing|bu|bu|noun|noun||From Old Mampulan|||||
 place|pein|pein|noun|noun||From Old Mampulan|||||
-tree|denon|denon|noun|noun||From Old Mampulan|||||
+tree|pu|pu|noun|noun||From Old Mampulan|||||
 run|takun|takun|verb|un verb||From Old Mampulan|||||
 drink|irun|irun|verb|run verb||From Old Mampulan|||||
 eat|kainun|kainun|verb|un verb||From Old Mampulan|||||
@@ -157,55 +157,56 @@ way|roun|roun|noun|noun||From Old Mampulan|||||
 reason|dailan|dailan|noun|noun||From Old Mampulan|||||
 count|koun|koun|noun|noun||From Old Mampulan|||||
 what|dan|dan|pronoun|pronoun||From Old Mampulan|||||
-who|duan|duan|pronoun|pronoun||From <i>dan</i> (&quot;what&quot;) + <i>wan</i> (&quot;person&quot;)|||||
+who|duwan|duwan|pronoun|pronoun||From <i>dan</i> (&quot;what&quot;) + <i>wan</i> (&quot;person&quot;)|||||
 where|dein|dein|pronoun|pronoun||From <i>dan</i> (&quot;what&quot;) + <i>pein</i> (&quot;place&quot;)|||||
-when|doun|doun|pronoun|pronoun||From <i>dan</i> (&quot;what&quot;) + <i>foun</i> (&quot;time&quot;)|||||
+when|dofun|dofun|pronoun|pronoun||From <i>dan</i> (&quot;what&quot;) + <i>foun</i> (&quot;time&quot;)|||||
 why|danan|danan|pronoun|pronoun||From <i>dan</i> (&quot;what&quot;) + <i>dailan</i> (&quot;reason&quot;)|||||
 how|dron|dron|pronoun|pronoun||From <i>dan</i> (&quot;what&quot;) + <i>roun</i> (&quot;way&quot;)|||||
 how many|dankoun|dankoun|pronoun|pronoun||From <i>dan</i> (&quot;what&quot;) + <i>koun</i> (&quot;count&quot;)|||||
 how much|dankoun|dankoun|pronoun|pronoun||From <i>dan</i> (&quot;what&quot;) + <i>koun</i> (&quot;count&quot;)|||||
 whose|dansa|dansa|pronoun|pronoun||From <i>duan</i> (&quot;who&quot;) + <i>sa</i> (&quot;shows possession&quot;)|||||
 which|dannur|dannur|pronoun|pronoun||From <i>dan</i> (&quot;who&quot;) + <i>nur</i> (&quot;part&quot;)|||||
-ant|lanto|lanato|||||||||
-anteater|lantokain|lantokain|||||||||
-arctic fox |āktikung tuman|a-ktikuq tuman|||||||||
-bear|our|our|||||||||
-boa|nakana|nakana|||||||||
-calf|latir|latir|||||||||
-coyote|gasa|gasa|||||||||
-dragon |dago|dago|||||||||
-eagle|agala|agala|||||||||
-elephant|ela|ela|||||||||
-falcon |faloun|faloun|||||||||
-fennec fox |feneku|feneku|||||||||
-fly|ngau|qau|||(insect)||||||
-giraffe |gira|gira|||||||||
-goat |kamba|kamba|||||||||
-goose|gansa|gansa|||||||||
-hawk |houk|houk|||||||||
-horse |ama|ama|||||||||
-jaguar |jaguwar|jaguwar|||||||||
-kitten|lapusan|lapusan|||(baby cat)||||||
-Komodo dragon |komodo dago|komodo dago|||||||||
-lion|layon|layon|||||||||
-lizard |lagara|lagara|||||||||
-macaque|makaka|makaka|||||||||
-monkey |sar|sar|||||||||
-mouse|nos|nos|||(animal)||||||
-otter |atar|atar|||||||||
-ox |uza|uza|||||||||
-Pacific saury/ mackerel pike|samma|samma|||||||||
-panda |panda|panda|||||||||
-pigeon |touba|touba|||||||||
-puffer fish|fugu|fugu|||||||||
-puppy|lawano|lawano|||(baby dog)||||||
-rabbit |une|une|||||||||
-raccoon dog/tanuki|tanuki|tanuki|||||||||
-sardine |sandan|sandan|||||||||
-sheep|tupa|tupa|||||||||
-tiger |taigā|taiga-|||||||||
-turtle|ter|ter|||||||||
-viper |baipar|baipar|||||||||
+ant|lanto|lanato|noun|noun|||||||
+anteater|lantokain|lantokain|noun|noun|||||||
+arctic fox |āktikung tuman|a-ktikuq tuman|noun|noun|||||||
+bear|our|our|noun|noun|||||||
+boa|nakana|nakana|noun|noun|||||||
+calf|latir|latir|noun|noun|||||||
+coyote|gasa|gasa|noun|noun|||||||
+dragon |dago|dago|noun|noun|||||||
+eagle|agala|agala|noun|noun|||||||
+elephant|ela|ela|noun|noun|||||||
+falcon |faloun|faloun|noun|noun|||||||
+fennec fox |feneku|feneku|noun|noun|||||||
+fly|ngau|qau|noun|noun|(insect)||||||
+giraffe |gira|gira|noun|noun|||||||
+goat |kamba|kamba|noun|noun|||||||
+goose|gansa|gansa|noun|noun|||||||
+hawk |houk|houk|noun|noun|||||||
+horse |ama|ama|noun|noun|||||||
+jaguar |jaguwar|jaguwar|noun|noun|||||||
+kitten|lapusan|lapusan|noun|noun|(baby cat)||||||
+Komodo dragon |komodo dago|komodo dago|noun|noun|||||||
+lion|layon|layon|noun|noun|||||||
+lizard |lagara|lagara|noun|noun|||||||
+macaque|makaka|makaka|noun|noun|||||||
+monkey |sar|sar|noun|noun|||||||
+mouse|nos|nos|noun|noun|(animal)||||||
+otter |atar|atar|noun|noun|||||||
+ox |uza|uza|noun|noun|||||||
+mackerel pike|mansa|mansa|noun|noun|||||||
+Pacific saury/|mansa|mansa|noun|noun|||||||
+panda |panda|panda|noun|noun|||||||
+pigeon |touba|touba|noun|noun|||||||
+puffer fish|fugu|fugu|noun|noun|||||||
+puppy|lawano|lawano|noun|noun|(baby dog)||||||
+rabbit |une|une|noun|noun|||||||
+raccoon dog/tanuki|tanuki|tanuki|noun|noun|||||||
+sardine |sandan|sandan|noun|noun|||||||
+sheep|tupa|tupa|noun|noun|||||||
+tiger |taigā|taiga-|noun|noun|||||||
+turtle|ter|ter|noun|noun|||||||
+viper |baipar|baipar|noun|noun|||||||
 pig|lei|lei|noun|noun|||||||
 cow|tir|tir|noun|noun||From Old Mampulan|||||
 milk|miun|miun|noun|noun||From Old Mampulan|||||
@@ -236,16 +237,13 @@ carrot|tarok|tarok|noun|noun|||||||
 beef|tirflan|tirflan|noun|noun|||||||
 pork|leiflan|leiflan|noun|noun|||||||
 cereal|sirial|sirial|noun|noun|||||||
-oatmeal|||noun|noun|||||||
-dairy|||noun|noun|||||||
-grain|||noun|noun|||||||
-toast|||noun|noun|||||||
+dairy|miunpein|miunpein|noun|noun||From <i>miun</i> (&quot;milk&quot;) + <i>pein</i> (&quot;place&quot;)|||||
+grain|| |noun|noun|||||||
 cheese|chīs|ci-s|noun|noun|||||||
-butter|||noun|noun|||||||
-soda|||noun|noun|||||||
+oil|yos|yos|noun|noun|||||||
+butter|miunyos|miunyos|noun|noun||From <i>miun</i> (&quot;milk&quot;) + <i>yos</i> (&quot;oil&quot;)|||||
 tea|||noun|noun|||||||
 wine|wina|wina|noun|noun|||||||
-beer|||noun|noun|||||||
 cream|||noun|noun|||||||
 yogurt|||noun|noun|||||||
 pie|pai|pai|noun|noun|||||||
@@ -261,10 +259,7 @@ egg|oun|oun|noun|noun|||||||
 broccoli|brokus|brokus|noun|noun|||||||
 chicken|tikasa|tikasa|noun|noun|||||||
 pasta|pasta|pasta|noun|noun|||||||
-|||||||||||
-|||||||||||
-|||||||||||
-together|samaku|samaku|adverb|adverb|||||||
+together|samanak|samanak|adverb|adverb|||||||
 head|hor|hor|noun|noun||From Old Mampulan|||||
 arm|frat|frat|noun|noun||From Old Mampulan|||||
 leg|bintin|bintin|noun|noun||From Old Mampulan|||||
@@ -308,8 +303,9 @@ feel|mainun|mainun|verb|un verb||From Old Mampulan|||||
 become|nakun|nakun|verb|un verb||From Old Mampulan|||||
 leave|layun|layun|verb|un verb||From Old Mampulan|||||
 mean|sigun|sigun|verb|un verb||From Old Mampulan|||||
-keep|kardun|kardun|verb|un verb||From Old Mampulan|||||
-let|lerun|lerun|verb|run verb||From Old Mampulan|||||
+keep|kardun|kardun|verb|un verb|(formal) continue|From Old Mampulan|||||
+keep|konun|konun|verb|un verb|continue|From Old Mampulan|||continue||
+let|lerun|lerun|verb|run verb||From Old Mampulan|||continue||
 begin|hiunun|hiunun|verb|un verb||From Old Mampulan|||||
 seem|parun|parun|verb|run verb||From Old Mampulan|||||
 help|aitun|aitun|verb|un verb||From Old Mampulan|||||
@@ -383,6 +379,8 @@ decide|keturun|keturun|verb|run verb||From Old Mampulan|||||
 pull|dukun|dukun|verb|run verb||From Old Mampulan|||||
 fly|fulun|fulun|verb|un verb||From Old Mampulan|||||
 push|trunun|trunun|verb|un verb||From Old Mampulan|||||
+get lost|wikun|wikun|verb|un verb||From Old Mampulan|||||
+like|hirnak|hirnak|conjunction|conjunction|having the characteristics of : similar to|From Old Mampulan|||||
 teach|turun|turun|verb|un verb||From Old Mampulan|||||
 teacher|turwan|turwan|noun|noun||From <i>turun</i> (&quot;teach&quot;) + <i>wan</i> (&quot;person&quot;)|||||
 otter|atar|atar|noun|noun||From Old Mampulan|||||
@@ -495,7 +493,8 @@ bus|bas|bas|noun|noun||From <i>bus</i>|||||
 bus stop|bas sa sunas|bas sa sunas|noun|noun||From <i>bas</i> (&quot;bus&quot;) + <i>sunas</i> (&quot;station&quot;)|||||
 pole|pou|pou|noun|noun||From Old Mampulan|||||
 disturb|damarun|damarun|verb|run verb||From Old Mampulan|||||
-sad|lungung|luquq|adjective|ng adjective||From Old Mampulan|||||
+sad|luktung|luktung|adjective|ng adjective||From Old Mampulan|||||
+sadness|luktu|luktu|noun|noun||From Old Mampulan|||||
 good|yong|yoq|adjective|ung adjective||From Old Mampulan|||||
 morning|alo|alo|noun|noun||From Old Mampulan|||||
 afternoon|laso|laso|noun|noun||From Old Mampulan|||||
@@ -513,14 +512,14 @@ how are you|ro dron yaru|ro dron yaru|expression|expression||From <i>ro</i> (&qu
 congratulations|onenggirun|oneqgirun|expression|expression||From <i>onen</i> (&quot;grace&quot;) + <i>girun</i> (&quot;give&quot;)|||||
 nice to meet you|yongarun|yongarun|expression|expression||From <i>good</i> (&quot;good&quot;) + <i>meet</i> (&quot;give&quot;)|||||
 welcome|yongrai|yongrai|expression|expression||From <i>good</i> (&quot;good&quot;) + <i>meet</i> (&quot;give&quot;)|||||
-this|atong|atong|adjective|ng adjective||From Old Mampulan|||||
-that|osang|osang|adjective|ng adjective||From Old Mampulan|||||
-these|yatong|yatong|adjective|ng adjective||From Old Mampulan|||||
-those|yosang|yosang|adjective|ng adjective||From Old Mampulan|||||
+this|atong|atong|adjective|ng adjective|The (thing) here. Note in Mampulan, singular and plural form are the same (this and these)|From Old Mampulan|||||
+that|osang|osang|adjective|ng adjective|The (thing) there. Note in Mampulan, singular and plural form are the same (that and those)|From Old Mampulan|||||
+these|atong|yatong|adjective|ng adjective|The (thing) here. Note in Mampulan, singular and plural form are the same (this and these)|From Old Mampulan|||||
+those|osang|yosang|adjective|ng adjective|The (thing) there. Note in Mampulan, singular and plural form are the same (that and those)|From Old Mampulan|||||
 this|ato|ato|pronoun|pronoun||From Old Mampulan|||||
 that|osa|osa|pronoun|pronoun||From Old Mampulan|||||
-these|yato|yato|pronoun|pronoun||From Old Mampulan|||||
-those|yosa|yosa|pronoun|pronoun||From Old Mampulan|||||
+these|ato|yato|pronoun|pronoun||From Old Mampulan|||||
+those|osa|yosa|pronoun|pronoun||From Old Mampulan|||||
 here|atein|atein|pronoun|pronoun||From Old Mampulan|||||
 there|otein|otein|pronoun|pronoun||From Old Mampulan|||||
 bard|fenema|fenema|noun|noun||From Old Eagle Mampulan <i>fenema</i>|||||
@@ -573,7 +572,7 @@ mountain|woren|woren|noun|noun||From <i>woun</i> (&quot;wolf&quot;) + <i>orena</
 bran|tuno|tuno|noun|noun||From Old Rabbit Language|||||
 conflagration|||||||||thanks to kit||
 target|kitan|kitan|noun|noun|||||||
-destination|dêskitan|de^skitan|noun|noun|the place at the end of a journey|From <i>des</i> (&quot;to&quot;) + <i>kitan</i> (&quot;targer&quot;)|||||
+destination|dêskitan|de^skitan|noun|noun|the place at the end of a journey|From <i>des</i> (&quot;to&quot;) + <i>kitan</i> (&quot;target&quot;)|||||
 duck|saner|saner|noun|noun||From Old Turtle Mampulan|||||
 sing|naikun|naikun|verb|un verb||From Old Mampulan|||||
 song|naik|naikun|noun|noun||From Old Mampulan|||||
@@ -585,8 +584,9 @@ pronounce|bakratun|bakratun|verb|un verb||From <i>bakrat</i> (&quot;pronunciatio
 introduction|deskiroun|deskiroun|noun|noun||From <i>des kirounun</i> (&quot;lead into&quot;)|||||
 introduce|deskirounun|deskirounun|verb|un verb||From <i>deskirounun</i> (&quot;introduction&quot;)|||||
 perception|nouprut|nouprut|noun|noun||From <i>nou</i> (&quot;know&quot;) + <i>prut</i> (&quot;perception&quot;)|||||
-rain|ral|ral|noun|noun|||||||
-drop|bren|bren|noun|noun|||||||
+rain|ral|ral|noun|noun||From Old Mampulan|||||
+rain|ralun|ralun|verb|un verb||From noun <i>ral</i> (&quot;rain&quot;)|||||
+drop|bren|bren|noun|noun||From Old Mampulan|||||
 raindrop|ralbren|ralbren|noun|noun||From <i>ral</i> (&quot;rain&quot;) + <i>bren</i> (&quot;drop&quot;)|||||
 snow|naun|naun|noun|noun||From Old Bear Language|||||
 rudder|himo|himo|noun|noun||From Old Bear Language|||||
@@ -598,15 +598,1483 @@ grow|ikun|ikun|verb|un verb|grow up|From Old Mampulan|||be raised, be brought up
 education|turik|turik|noun|noun||From <i>tur</i> (&quot;teach&quot;) + <i>ik</i> (&quot;growing up&quot;)|||||
 cause|intin|intin|noun|noun||From Old Mampulan <i>hintein</i>|||||
 the|-|-|article|article|no equivalent in Mampulan||||||
-a|ing|ing||||From <i>i</i> (&quot;one&quot;)|||||
+a|ing|ing|article|article||From <i>i</i> (&quot;one&quot;)|||||
 not|di|di|adverb|adverb||From Old Mampulan|||||
 if|fi|fi|conjunction|conjunction||From Old Mampulan|||||
-then|zen|zen||||From Old Mampulan|||||
+then|zen|zen|adverb|adverb||From Old Mampulan|||||
 border|wasa|wasa|noun|noun||From Old Mampulan|||||
 limit|shen|xen|noun|noun||From Old Mampulan|||||
 time limit|founshen|founshen|noun|noun||From <i>foun</i> (&quot;time&quot;) + <i>shen</i> (&quot;limit&quot;)|||||
-me|ko|ko|pronoun|pronoun|||||||
-because|montin|||||mo + intin|||||
+me|ko|ko|pronoun|pronoun||From Old Mampulan|||||
+because|montin|montin|conjunction|conjunction||mo + intin|||||
 bay|bait|bait|noun|noun||From Old Mampulan|||||
-news|pir|||||From Old Mampulan|||||
-breaking news|sitpir|||||From <i>sit</i> (&quot;fast&quot;) + <i>pir</i> (&quot;news&quot;)|||||
+news|pir|pir|noun|noun||From Old Mampulan|||||
+breaking news|sitpir|sitpir|noun|noun||From <i>sit</i> (&quot;fast&quot;) + <i>pir</i> (&quot;news&quot;)|||||
+challenge|ros|ros|noun|noun||From Old Mampulan|||||
+challenge|rosun|rosun|verb|un verb||From noun <i>ros</i> (&quot;challenge&quot;)|||||
+provocation|rosbak|rosbak|noun|noun||From <i>ros</i> (&quot;challenge&quot;) + <i>bak</i> (&quot;emission, occurance&quot;)|||||
+rainbow|ralklon|ralklon|noun|noun||From <i>ral</i> (&quot;rain&quot;) + <i>klon</i> (&quot;color&quot;)|||||
+journey|teil|teil|noun|noun||From Old Turtule Mampulan|||||
+circumference|blainshurnas|blainshurnas|noun|noun||From <i>shur</i> (&quot;around&quot;) + <i>-nas</i> (&quot;nominalizing suffix&quot;)|||||
+perimeter|shurnas|shurmas|noun|noun||From <i>shur</i> (&quot;around&quot;) + <i>-nas</i> (&quot;nominalizing suffix&quot;)|||||
+return|nutun|nutun|verb|un verb||From Old Mampulan|||||
+act|us|us|noun|noun||From Old Mampulan|||||
+act|usun|usun|verb|un verb||From <i>us</i> (&quot;act&quot;)|||||
+action|usunnas|usunnas|noun|noun||From <i>usun</i> (&quot;act&quot;) + <i>-nas</i> (&quot;nominalizing suffix&quot;)|||||
+revenge|nutusunnas|nutusunnas|noun|noun||From <i>nut</i> (&quot;return&quot;) + <i>usunnas</i> (&quot;action&quot;)|||||
+center|dit|dit|noun|noun||From Old Mampulan <i>deit</i>|||||
+off-center|aldit|aldit|noun|noun||From <i>al</i> (&quot;off-&quot;) + <i>dit</i> (&quot;center&quot;)|||||
+forest|poun|poun|noun|noun||From Old Mampulan|||||
+home|bāy|ba-y|noun|noun||From Old Mampulan <i>bahi</i>|||||
+comic|komik|komik|noun|noun||From Human English Language <i>comic</i>|||||
+sample|laskun|laskun|noun|noun||From <i>las kun</i> (&quot;take out&quot;)|||||
+each|lut|lut|adjective|special adjective||From Old Mampulan|||||
+guitar|gitâr|gita^r|noun|noun||From Human English Language <i>comic</i>|||||
+-|ba|ba|-|particle|question marker|From Old Mampulan|||||
+people|wanson|wanson|noun|noun||plural of <i>wan</i> (&quot;person&quot;)|||||
+past|watfoun|watfoun|noun|noun|The period of time that has already happened.|From <i>watun</i> (&quot;pass&quot;) + <i>foun</i> (&quot;time&quot;)|||||
+story|kit|kit|noun|noun||From Old Mampulan|||||
+history|wafounkit|wafounkit|noun|noun|The aggregate of past events.|From Old Mampulan <i>watfounkit</i>, which came from <i>watfoun</i> (&quot;past&quot;) + <i>kit</i> (&quot;story&quot;). The <i>t</i> was dropped for ease of pronunciation.|||||
+art|brin|brin|noun|noun||From Old Mampulan|||||
+announce|horun|horun|verb|run verb||From Old Mampulan|||||
+information|maino|maino|noun|noun||From <i>main</i> (&quot;feel&quot;) + <i>ho</i> (&quot;announce&quot;).|||||
+side|sor|sor|noun|noun||From Old Mampulan|||||
+front|bin|bin|noun|noun||From Old Mampulan|||||
+back|pus|pus|noun|noun||From Old Mampulan|||||
+opposite|prit|prit|noun|noun||From Old Mampulan|||||
+between|duchudes|ducudes|preposition|preposition||From <i>du chu des</i> (&quot;in the middle of two&quot;)|||||
+below|doundes|doundes|preposition|preposition||From <i>doun</i> (&quot;down&quot;) + <i>des</i> (&quot;destination marker&quot;)|||||
+beside|sordes|sordes|preposition|preposition||From <i>sor</i> (&quot;side&quot;) + <i>des</i> (&quot;destination marker&quot;)|||||
+on|ses|ses|preposition|preposition||From <i>sa</i> (&quot;of&quot;) + <i>des</i> (&quot;destination marker&quot;)|||||
+over|shoundes|xoundes|preposition|preposition||From <i>shoun</i> (&quot;up&quot;) + <i>des</i> (&quot;destination marker&quot;)|||||
+in front of|bindes|bindes|preposition|preposition||From <i>bin</i> (&quot;front&quot;) + <i>des</i> (&quot;destination marker&quot;)|||||
+under|doundes|doundes|preposition|preposition||From <i>doun</i> (&quot;down&quot;) + <i>des</i> (&quot;destination marker&quot;)|||||
+behind|pusdes|pusdes|preposition|preposition||From <i>pus</i> (&quot;back&quot;) + <i>des</i> (&quot;destination marker&quot;)|||||
+opposite|pritdes|pritdes|preposition|preposition||From <i>prit</i> (&quot;opposite&quot;) + <i>des</i> (&quot;destination marker&quot;)|||||
+in|ditdes|ditdes|preposition|preposition||From <i>dit</i> (&quot;inside&quot;) + <i>des</i> (&quot;destination marker&quot;)|||||
+by|fiudes|fiudes|preposition|preposition||From <i>fiu</i> (&quot;next&quot;) + <i>des</i> (&quot;destination marker&quot;)|||||
+too|lar|lar|adverb|adverb|also|From Old Mampulan|||||
+too|hit|hit|adverb|adverb|excessively|From Old Mampulan|||||
+also|lar|lar|||too|From Old Mampulan|||||
+fit|tekun|tekun|verb|un verb||From Old Mampulan|||||
+so|re|re|conjunction|conjunction|With the result that; for that reason|From Old Mampulan|||||
+but|par|par|conjunction|conjunction||From Old Mampulan|||||
+everyone|zenwan|zenwan|pronoun|pronoun|||||||
+everything|zenbu|zenbu|pronoun|pronoun|||||||
+everywhere|zenpein|zenpein|pronoun|pronoun|||||||
+someone|bawan|bawan|pronoun|pronoun|||||||
+something|babu|babu|pronoun|pronoun|||||||
+somewhere|bapein|bapein|pronoun|pronoun|||||||
+anyone|binwan|binwan|pronoun|pronoun|||||||
+anything|binbu|binbu|pronoun|pronoun|||||||
+anywhere|binpein|binpein|pronoun|pronoun|||||||
+no one|dewan|dewan|pronoun|pronoun|||||||
+nothing|debu|debu|pronoun|pronoun|||||||
+nowhere|depein|depein|pronoun|pronoun|||||||
+everybody|zenwan|zenwan|pronoun|pronoun|||||||
+somebody|bawan|bawan|pronoun|pronoun|||||||
+anybody|binwan|binwan|pronoun|pronoun|||||||
+nobody|dewan|dewan|pronoun|pronoun|||||||
+can|katun|katun|verb|un verb|||||||
+paper|krit|krit|noun|noun|||||||
+map|krityon|krityon|noun|noun||From <i>krit</i> (&quot;paper&quot;) + <i>yon</i> (&quot;world&quot;)|||||
+tribe|tabi|tabi|noun|noun|||||||
+house|prot|prot|noun|noun|||||||
+family|prottabi|prottabi|noun|noun||From <i>prot</i> (&quot;house&quot;) + <i>tabi</i> (&quot;tribe&quot;)|||||
+investigate|lukounun|lukounun|verb|un verb||From <i>lukoun</i> (&quot;investigation&quot;)|||||
+inverstigation|lukoun|lukoun|noun|noun||From Old Mampulan|||||
+appraise|lukounsarun|lukounsarun|verb|un verb||From Old Mampulan|||||
+appraisal|lukounsar|lukounsar|noun|noun||From <i>lukoun</i> (&quot;investigation&quot;) + <i>sar</i> (&quot;fix&quot;)|||||
+leader|kirounwan|kirounwan|noun|noun|||||||
+govern|balonun|balonun|noun|noun|||||||
+government|balon|balon|noun|noun|||||||
+health|||||||||||
+system|||||||||||
+computer|||||||||||
+thanks|||||||||||
+music|||||||||||
+reading|||||||||||
+method|||||||||||
+data|||||||||||
+food|||||||||||
+understanding|||||||||||
+theory|||||||||||
+law|||||||||||
+bird|||||||||||
+literature|||||||||||
+problem|||||||||||
+software|||||||||||
+control|||||||||||
+knowledge|||||||||||
+power|||||||||||
+ability|||||||||||
+economics|||||||||||
+internet|||||||||||
+television|||||||||||
+library|||||||||||
+nature|||||||||||
+fact|||||||||||
+product|||||||||||
+temperature|||||||||||
+investment|||||||||||
+area|||||||||||
+society|||||||||||
+activity|||||||||||
+industry|||||||||||
+media|||||||||||
+oven|||||||||||
+community|||||||||||
+definition|||||||||||
+safety|||||||||||
+quality|||||||||||
+development|||||||||||
+language|||||||||||
+management|||||||||||
+player|||||||||||
+variety|||||||||||
+video|||||||||||
+week|||||||||||
+security|||||||||||
+country|||||||||||
+exam|||||||||||
+movie|||||||||||
+organization|||||||||||
+equipment|||||||||||
+physics|||||||||||
+analysis|||||||||||
+policy|||||||||||
+series|||||||||||
+thought|||||||||||
+basis|||||||||||
+boyfriend|||||||||||
+direction|||||||||||
+strategy|||||||||||
+technology|||||||||||
+army|||||||||||
+camera|||||||||||
+freedom|||||||||||
+environment|||||||||||
+child|||||||||||
+instance|||||||||||
+month|||||||||||
+truth|||||||||||
+marketing|||||||||||
+university|||||||||||
+writing|||||||||||
+article|||||||||||
+department|||||||||||
+difference|||||||||||
+goal|||||||||||
+news|||||||||||
+audience|||||||||||
+fishing|||||||||||
+growth|||||||||||
+income|||||||||||
+marriage|||||||||||
+user|||||||||||
+combination|||||||||||
+failure|||||||||||
+meaning|||||||||||
+medicine|||||||||||
+philosophy|||||||||||
+teacher|||||||||||
+communication|||||||||||
+night|||||||||||
+chemistry|||||||||||
+disease|||||||||||
+disk|||||||||||
+energy|||||||||||
+nation|||||||||||
+road|||||||||||
+role|||||||||||
+soup|||||||||||
+advertising|||||||||||
+location|||||||||||
+success|||||||||||
+addition|||||||||||
+apartment|||||||||||
+education|||||||||||
+math|||||||||||
+moment|||||||||||
+painting|||||||||||
+politics|||||||||||
+attention|||||||||||
+decision|||||||||||
+event|||||||||||
+property|||||||||||
+shopping|||||||||||
+student|||||||||||
+wood|||||||||||
+competition|||||||||||
+distribution|||||||||||
+entertainment|||||||||||
+office|||||||||||
+population|||||||||||
+president|||||||||||
+unit|||||||||||
+category|||||||||||
+cigarette|||||||||||
+context|||||||||||
+introduction|||||||||||
+opportunity|||||||||||
+performance|||||||||||
+driver|||||||||||
+flight|||||||||||
+length|||||||||||
+magazine|||||||||||
+newspaper|||||||||||
+relationship|||||||||||
+teaching|||||||||||
+cell|||||||||||
+dealer|||||||||||
+finding|||||||||||
+lake|||||||||||
+member|||||||||||
+message|||||||||||
+phone|||||||||||
+scene|||||||||||
+appearance|||||||||||
+association|||||||||||
+concept|||||||||||
+customer|||||||||||
+death|||||||||||
+discussion|||||||||||
+housing|||||||||||
+inflation|||||||||||
+insurance|||||||||||
+mood|||||||||||
+woman|||||||||||
+advice|||||||||||
+blood|||||||||||
+effort|||||||||||
+expression|||||||||||
+importance|||||||||||
+opinion|||||||||||
+payment|||||||||||
+reality|||||||||||
+responsibility|||||||||||
+situation|||||||||||
+skill|||||||||||
+statement|||||||||||
+wealth|||||||||||
+application|||||||||||
+city|||||||||||
+county|||||||||||
+depth|||||||||||
+estate|||||||||||
+foundation|||||||||||
+grandmother|||||||||||
+heart|||||||||||
+perspective|||||||||||
+photo|||||||||||
+recipe|||||||||||
+studio|||||||||||
+topic|||||||||||
+collection|||||||||||
+depression|||||||||||
+imagination|||||||||||
+passion|||||||||||
+percentage|||||||||||
+resource|||||||||||
+setting|||||||||||
+ad|||||||||||
+agency|||||||||||
+college|||||||||||
+connection|||||||||||
+criticism|||||||||||
+debt|||||||||||
+description|||||||||||
+memory|||||||||||
+patience|||||||||||
+secretary|||||||||||
+solution|||||||||||
+administration|||||||||||
+aspect|||||||||||
+attitude|||||||||||
+director|||||||||||
+personality|||||||||||
+psychology|||||||||||
+recommendation|||||||||||
+response|||||||||||
+selection|||||||||||
+storage|||||||||||
+version|||||||||||
+alcohol|||||||||||
+argument|||||||||||
+complaint|||||||||||
+contract|||||||||||
+emphasis|||||||||||
+highway|||||||||||
+loss|||||||||||
+membership|||||||||||
+possession|||||||||||
+preparation|||||||||||
+steak|||||||||||
+union|||||||||||
+agreement|||||||||||
+cancer|||||||||||
+currency|||||||||||
+employment|||||||||||
+engineering|||||||||||
+entry|||||||||||
+interaction|||||||||||
+mixture|||||||||||
+preference|||||||||||
+region|||||||||||
+republic|||||||||||
+tradition|||||||||||
+virus|||||||||||
+actor|||||||||||
+classroom|||||||||||
+delivery|||||||||||
+device|||||||||||
+difficulty|||||||||||
+drama|||||||||||
+election|||||||||||
+engine|||||||||||
+football|||||||||||
+guidance|||||||||||
+hotel|||||||||||
+owner|||||||||||
+priority|||||||||||
+protection|||||||||||
+suggestion|||||||||||
+tension|||||||||||
+variation|||||||||||
+anxiety|||||||||||
+atmosphere|||||||||||
+awareness|||||||||||
+bath|||||||||||
+bread|||||||||||
+candidate|||||||||||
+climate|||||||||||
+comparison|||||||||||
+confusion|||||||||||
+construction|||||||||||
+elevator|||||||||||
+emotion|||||||||||
+employee|||||||||||
+employer|||||||||||
+guest|||||||||||
+height|||||||||||
+leadership|||||||||||
+mall|||||||||||
+manager|||||||||||
+operation|||||||||||
+recording|||||||||||
+sample|||||||||||
+transportation|||||||||||
+charity|||||||||||
+cousin|||||||||||
+disaster|||||||||||
+editor|||||||||||
+efficiency|||||||||||
+excitement|||||||||||
+extent|||||||||||
+feedback|||||||||||
+guitar|||||||||||
+homework|||||||||||
+mom|||||||||||
+outcome|||||||||||
+permission|||||||||||
+presentation|||||||||||
+promotion|||||||||||
+reflection|||||||||||
+refrigerator|||||||||||
+resolution|||||||||||
+revenue|||||||||||
+session|||||||||||
+singer|||||||||||
+tennis|||||||||||
+basket|||||||||||
+bonus|||||||||||
+cabinet|||||||||||
+childhood|||||||||||
+church|||||||||||
+clothes|||||||||||
+dinner|||||||||||
+drawing|||||||||||
+hearing|||||||||||
+initiative|||||||||||
+judgment|||||||||||
+lab|||||||||||
+measurement|||||||||||
+mode|||||||||||
+mud|||||||||||
+poetry|||||||||||
+police|||||||||||
+possibility|||||||||||
+procedure|||||||||||
+queen|||||||||||
+ratio|||||||||||
+relation|||||||||||
+restaurant|||||||||||
+satisfaction|||||||||||
+sector|||||||||||
+signature|||||||||||
+significance|||||||||||
+town|||||||||||
+vehicle|||||||||||
+volume|||||||||||
+wife|||||||||||
+accident|||||||||||
+airport|||||||||||
+appointment|||||||||||
+arrival|||||||||||
+assumption|||||||||||
+baseball|||||||||||
+chapter|||||||||||
+committee|||||||||||
+conversation|||||||||||
+database|||||||||||
+enthusiasm|||||||||||
+error|||||||||||
+explanation|||||||||||
+farmer|||||||||||
+gate|||||||||||
+girl|||||||||||
+hall|||||||||||
+historian|||||||||||
+hospital|||||||||||
+injury|||||||||||
+instruction|||||||||||
+maintenance|||||||||||
+manufacturer|||||||||||
+meal|||||||||||
+poem|||||||||||
+presence|||||||||||
+proposal|||||||||||
+reception|||||||||||
+replacement|||||||||||
+revolution|||||||||||
+speech|||||||||||
+village|||||||||||
+warning|||||||||||
+winner|||||||||||
+worker|||||||||||
+assistance|||||||||||
+breath|||||||||||
+buyer|||||||||||
+conclusion|||||||||||
+contribution|||||||||||
+courage|||||||||||
+dad|||||||||||
+desk|||||||||||
+drawer|||||||||||
+establishment|||||||||||
+examination|||||||||||
+garbage|||||||||||
+grocery|||||||||||
+impression|||||||||||
+improvement|||||||||||
+independence|||||||||||
+insect|||||||||||
+inspector|||||||||||
+king|||||||||||
+ladder|||||||||||
+menu|||||||||||
+penalty|||||||||||
+piano|||||||||||
+profession|||||||||||
+professor|||||||||||
+quantity|sel|sel|noun|noun||Old Mampulan|||||
+reaction|||||||||||
+requirement|||||||||||
+salad|||||||||||
+sister|||||||||||
+supermarket|||||||||||
+weakness|||||||||||
+wedding|||||||||||
+affair|||||||||||
+ambition|||||||||||
+analyst|||||||||||
+assignment|||||||||||
+assistant|||||||||||
+bathroom|||||||||||
+bedroom|||||||||||
+birthday|||||||||||
+celebration|||||||||||
+championship|||||||||||
+cheek|||||||||||
+client|||||||||||
+consequence|||||||||||
+departure|||||||||||
+diamond|||||||||||
+dirt|||||||||||
+fortune|||||||||||
+friendship|||||||||||
+funeral|||||||||||
+gene|||||||||||
+girlfriend|||||||||||
+hat|||||||||||
+indication|||||||||||
+intention|||||||||||
+lady|||||||||||
+midnight|||||||||||
+negotiation|||||||||||
+obligation|||||||||||
+passenger|||||||||||
+platform|||||||||||
+poet|||||||||||
+pollution|||||||||||
+recognition|||||||||||
+reputation|||||||||||
+shirt|||||||||||
+sir|||||||||||
+speaker|||||||||||
+stranger|||||||||||
+surgery|||||||||||
+tale|||||||||||
+throat|||||||||||
+trainer|||||||||||
+uncle|||||||||||
+youth|||||||||||
+film|||||||||||
+money|||||||||||
+example|||||||||||
+while|||||||||||
+business|||||||||||
+game|||||||||||
+part|||||||||||
+field|||||||||||
+process|||||||||||
+heat|||||||||||
+experience|||||||||||
+job|rasat|rasat|noun|noun||From Raccoon Language rasat|||||
+end|||||||||||
+point|||||||||||
+type|||||||||||
+economy|||||||||||
+value|||||||||||
+market|||||||||||
+guide|||||||||||
+interest|||||||||||
+state|||||||||||
+radio|||||||||||
+company|||||||||||
+price|||||||||||
+size|||||||||||
+card|||||||||||
+list|||||||||||
+mind|||||||||||
+trade|||||||||||
+line|||||||||||
+care|||||||||||
+group|||||||||||
+risk|||||||||||
+fat|||||||||||
+force|||||||||||
+key|||||||||||
+light|||||||||||
+training|||||||||||
+top|||||||||||
+amount|||||||||||
+level|||||||||||
+order|||||||||||
+research|||||||||||
+sense|||||||||||
+service|||||||||||
+piece|||||||||||
+web|||||||||||
+boss|||||||||||
+sport|||||||||||
+fun|||||||||||
+page|||||||||||
+term|||||||||||
+test|||||||||||
+answer|||||||||||
+focus|||||||||||
+matter|||||||||||
+kind|||||||||||
+board|||||||||||
+picture|||||||||||
+access|||||||||||
+garden|||||||||||
+range|||||||||||
+rate|||||||||||
+future|||||||||||
+demand|||||||||||
+exercise|||||||||||
+image|||||||||||
+case|||||||||||
+coast|||||||||||
+action|||||||||||
+age|||||||||||
+boat|||||||||||
+record|||||||||||
+result|||||||||||
+section|||||||||||
+building|||||||||||
+cash|||||||||||
+class|||||||||||
+period|||||||||||
+plan|||||||||||
+tax|||||||||||
+subject|||||||||||
+space|||||||||||
+rule|||||||||||
+stock|||||||||||
+weather|||||||||||
+chance|||||||||||
+figure|||||||||||
+man|||||||||||
+model|||||||||||
+source|||||||||||
+beginning|||||||||||
+program|||||||||||
+design|||||||||||
+feature|||||||||||
+material|||||||||||
+purpose|||||||||||
+question|||||||||||
+rock|||||||||||
+salt|||||||||||
+act|||||||||||
+birth|||||||||||
+car|||||||||||
+dog|||||||||||
+object|||||||||||
+scale|||||||||||
+sun|||||||||||
+note|||||||||||
+profit|||||||||||
+rent|||||||||||
+speed|||||||||||
+style|||||||||||
+war|||||||||||
+bank|||||||||||
+craft|||||||||||
+half|||||||||||
+inside|||||||||||
+outside|||||||||||
+standard|||||||||||
+bus|||||||||||
+exchange|||||||||||
+eye|||||||||||
+fire|||||||||||
+position|||||||||||
+pressure|||||||||||
+stress|||||||||||
+advantage|||||||||||
+benefit|||||||||||
+box|||||||||||
+frame|||||||||||
+issue|||||||||||
+step|||||||||||
+cycle|||||||||||
+face|||||||||||
+item|||||||||||
+metal|||||||||||
+paint|||||||||||
+review|||||||||||
+room|||||||||||
+screen|||||||||||
+structure|||||||||||
+view|||||||||||
+account|||||||||||
+ball|||||||||||
+discipline|||||||||||
+medium|||||||||||
+share|||||||||||
+balance|||||||||||
+bit|||||||||||
+black|||||||||||
+bottom|||||||||||
+choice|||||||||||
+gift|||||||||||
+impact|||||||||||
+machine|||||||||||
+shape|||||||||||
+tool|||||||||||
+wind|||||||||||
+address|||||||||||
+average|||||||||||
+career|||||||||||
+culture|||||||||||
+morning|||||||||||
+pot|||||||||||
+sign|||||||||||
+table|||||||||||
+task|||||||||||
+condition|||||||||||
+contact|||||||||||
+credit|||||||||||
+egg|||||||||||
+hope|||||||||||
+ice|||||||||||
+network|||||||||||
+north|||||||||||
+square|||||||||||
+attempt|||||||||||
+date|||||||||||
+effect|||||||||||
+link|||||||||||
+post|||||||||||
+star|||||||||||
+voice|||||||||||
+capital|||||||||||
+challenge|||||||||||
+friend|||||||||||
+self|||||||||||
+shot|||||||||||
+brush|||||||||||
+couple|||||||||||
+debate|||||||||||
+exit|||||||||||
+function|||||||||||
+lack|||||||||||
+living|||||||||||
+plant|||||||||||
+plastic|||||||||||
+spot|||||||||||
+summer|||||||||||
+taste|||||||||||
+theme|||||||||||
+track|||||||||||
+wing|||||||||||
+brain|||||||||||
+button|||||||||||
+click|||||||||||
+desire|||||||||||
+foot|||||||||||
+gas|||||||||||
+influence|||||||||||
+notice|||||||||||
+rain|||||||||||
+wall|||||||||||
+base|||||||||||
+damage|||||||||||
+distance|||||||||||
+feeling|||||||||||
+pair|||||||||||
+savings|||||||||||
+staff|||||||||||
+sugar|||||||||||
+target|||||||||||
+text|||||||||||
+animal|||||||||||
+author|||||||||||
+budget|||||||||||
+discount|||||||||||
+file|||||||||||
+ground|||||||||||
+lesson|||||||||||
+minute|||||||||||
+officer|||||||||||
+phase|||||||||||
+reference|||||||||||
+register|||||||||||
+sky|||||||||||
+stage|||||||||||
+stick|||||||||||
+title|||||||||||
+trouble|||||||||||
+bowl|||||||||||
+bridge|||||||||||
+campaign|||||||||||
+character|||||||||||
+club|||||||||||
+edge|||||||||||
+evidence|||||||||||
+fan|||||||||||
+letter|||||||||||
+lock|||||||||||
+maximum|||||||||||
+novel|||||||||||
+option|||||||||||
+pack|||||||||||
+park|||||||||||
+plenty|||||||||||
+quarter|||||||||||
+skin|||||||||||
+sort|||||||||||
+weight|||||||||||
+baby|||||||||||
+background|||||||||||
+carry|||||||||||
+dish|||||||||||
+factor|||||||||||
+fruit|||||||||||
+glass|||||||||||
+joint|||||||||||
+master|||||||||||
+muscle|||||||||||
+red|||||||||||
+strength|||||||||||
+traffic|||||||||||
+trip|||||||||||
+vegetable|||||||||||
+appeal|||||||||||
+chart|||||||||||
+gear|||||||||||
+ideal|||||||||||
+kitchen|||||||||||
+land|||||||||||
+log|||||||||||
+mother|||||||||||
+net|||||||||||
+party|||||||||||
+principle|||||||||||
+relative|||||||||||
+sale|||||||||||
+season|||||||||||
+signal|||||||||||
+spirit|||||||||||
+street|||||||||||
+tree|||||||||||
+wave|||||||||||
+belt|||||||||||
+bench|||||||||||
+commission|||||||||||
+copy|||||||||||
+drop|||||||||||
+minimum|||||||||||
+path|||||||||||
+progress|||||||||||
+project|||||||||||
+sea|||||||||||
+south|||||||||||
+status|||||||||||
+stuff|||||||||||
+ticket|||||||||||
+tour|||||||||||
+angle|||||||||||
+breakfast|||||||||||
+confidence|||||||||||
+degree|||||||||||
+doctor|||||||||||
+dot|||||||||||
+dream|||||||||||
+duty|||||||||||
+essay|||||||||||
+father|||||||||||
+fee|||||||||||
+finance|||||||||||
+luck|||||||||||
+peace|||||||||||
+pipe|||||||||||
+seat|||||||||||
+stable|||||||||||
+storm|||||||||||
+team|||||||||||
+trick|||||||||||
+bat|||||||||||
+beach|||||||||||
+blank|||||||||||
+catch|||||||||||
+chain|||||||||||
+consideration|||||||||||
+crew|||||||||||
+detail|||||||||||
+gold|||||||||||
+interview|||||||||||
+kid|||||||||||
+mark|||||||||||
+match|||||||||||
+mission|||||||||||
+pain|||||||||||
+pleasure|||||||||||
+score|||||||||||
+screw|||||||||||
+sex|||||||||||
+shop|||||||||||
+shower|||||||||||
+suit|||||||||||
+tone|||||||||||
+window|||||||||||
+agent|||||||||||
+band|||||||||||
+block|||||||||||
+bone|||||||||||
+calendar|||||||||||
+cap|||||||||||
+coat|||||||||||
+contest|||||||||||
+corner|||||||||||
+court|||||||||||
+cup|||||||||||
+district|||||||||||
+door|||||||||||
+east|||||||||||
+finger|||||||||||
+garage|||||||||||
+guarantee|||||||||||
+hole|||||||||||
+hook|||||||||||
+implement|||||||||||
+layer|||||||||||
+lecture|||||||||||
+lie|||||||||||
+manner|||||||||||
+meeting|||||||||||
+nose|||||||||||
+parking|||||||||||
+partner|||||||||||
+profile|||||||||||
+respect|||||||||||
+rice|||||||||||
+routine|||||||||||
+schedule|||||||||||
+swimming|||||||||||
+telephone|||||||||||
+tip|||||||||||
+winter|||||||||||
+airline|||||||||||
+bag|||||||||||
+battle|||||||||||
+bed|paso||||||||||
+bill|||||||||||
+bother|||||||||||
+cake|||||||||||
+code|||||||||||
+curve|||||||||||
+designer|||||||||||
+dimension|||||||||||
+dress|||||||||||
+ease|||||||||||
+emergency|||||||||||
+evening|||||||||||
+extension|||||||||||
+farm|||||||||||
+fight|||||||||||
+gap|||||||||||
+grade|||||||||||
+holiday|||||||||||
+horror|||||||||||
+horse|||||||||||
+host|||||||||||
+husband|||||||||||
+loan|||||||||||
+mistake|||||||||||
+mountain|||||||||||
+nail|||||||||||
+noise|||||||||||
+occasion|||||||||||
+package|||||||||||
+patient|||||||||||
+pause|||||||||||
+phrase|||||||||||
+proof|||||||||||
+race|||||||||||
+relief|||||||||||
+sand|||||||||||
+sentence|||||||||||
+shoulder|||||||||||
+smoke|||||||||||
+stomach|||||||||||
+string|||||||||||
+tourist|||||||||||
+towel|||||||||||
+vacation|||||||||||
+west|||||||||||
+wheel|||||||||||
+wine|||||||||||
+arm|||||||||||
+aside|||||||||||
+associate|||||||||||
+bet|||||||||||
+blow|||||||||||
+border|||||||||||
+branch|||||||||||
+breast|||||||||||
+brother|||||||||||
+buddy|||||||||||
+bunch|||||||||||
+chip|||||||||||
+coach|||||||||||
+cross|||||||||||
+document|||||||||||
+draft|||||||||||
+dust|||||||||||
+expert|||||||||||
+floor|||||||||||
+god|||||||||||
+golf|||||||||||
+habit|||||||||||
+iron|||||||||||
+judge|||||||||||
+knife|||||||||||
+landscape|||||||||||
+league|||||||||||
+mail|||||||||||
+mess|||||||||||
+native|||||||||||
+opening|||||||||||
+parent|||||||||||
+pattern|||||||||||
+pin|||||||||||
+pool|||||||||||
+pound|||||||||||
+request|||||||||||
+salary|||||||||||
+shame|||||||||||
+shelter|||||||||||
+shoe|||||||||||
+silver|||||||||||
+tackle|||||||||||
+tank|||||||||||
+trust|||||||||||
+assist|||||||||||
+bake|||||||||||
+bar|||||||||||
+bell|||||||||||
+bike|||||||||||
+blame|||||||||||
+boy|||||||||||
+brick|||||||||||
+chair|||||||||||
+closet|||||||||||
+clue|||||||||||
+collar|||||||||||
+comment|||||||||||
+conference|||||||||||
+devil|||||||||||
+diet|||||||||||
+fear|||||||||||
+fuel|||||||||||
+glove|||||||||||
+jacket|||||||||||
+lunch|||||||||||
+monitor|||||||||||
+mortgage|||||||||||
+nurse|||||||||||
+pace|||||||||||
+panic|||||||||||
+peak|||||||||||
+plane|||||||||||
+reward|||||||||||
+row|||||||||||
+sandwich|||||||||||
+shock|||||||||||
+spite|||||||||||
+spray|||||||||||
+surprise|||||||||||
+till|||||||||||
+transition|||||||||||
+weekend|||||||||||
+welcome|||||||||||
+yard|||||||||||
+alarm|||||||||||
+bend|||||||||||
+bicycle|||||||||||
+bite|||||||||||
+blind|||||||||||
+bottle|||||||||||
+cable|||||||||||
+candle|||||||||||
+clerk|||||||||||
+cloud|||||||||||
+concert|||||||||||
+counter|||||||||||
+flower|||||||||||
+grandfather|||||||||||
+harm|||||||||||
+knee|||||||||||
+lawyer|||||||||||
+leather|||||||||||
+load|||||||||||
+mirror|||||||||||
+neck|||||||||||
+pension|||||||||||
+plate|||||||||||
+purple|||||||||||
+ruin|||||||||||
+ship|||||||||||
+skirt|||||||||||
+slice|||||||||||
+snow|||||||||||
+specialist|||||||||||
+stroke|||||||||||
+switch|||||||||||
+trash|||||||||||
+tune|||||||||||
+zone|||||||||||
+anger|||||||||||
+award|||||||||||
+bid|||||||||||
+bitter|||||||||||
+boot|||||||||||
+bug|||||||||||
+camp|||||||||||
+candy|||||||||||
+carpet|||||||||||
+cat|||||||||||
+champion|||||||||||
+channel|||||||||||
+clock|||||||||||
+comfort|||||||||||
+cow|||||||||||
+crack|||||||||||
+engineer|||||||||||
+entrance|||||||||||
+fault|||||||||||
+grass|||||||||||
+guy|kus|kus|noun|noun|||||||
+hell|||||||||||
+highlight|||||||||||
+incident|||||||||||
+island|||||||||||
+joke|||||||||||
+jury|||||||||||
+leg|||||||||||
+lip|||||||||||
+mate|||||||||||
+motor|||||||||||
+nerve|||||||||||
+passage|||||||||||
+pen|||||||||||
+pride|||||||||||
+priest|||||||||||
+prize|||||||||||
+promise|||||||||||
+resident|||||||||||
+resort|||||||||||
+ring|||||||||||
+roof|||||||||||
+rope|||||||||||
+sail|||||||||||
+scheme|||||||||||
+script|||||||||||
+sock|||||||||||
+toe|||||||||||
+tower|||||||||||
+truck|||||||||||
+witness|||||||||||
+will|||||||||||
+great|||||||||||
+being|||||||||||
+few|||||||||||
+might|||||||||||
+still|||||||||||
+public|||||||||||
+human|||||||||||
+local|||||||||||
+general|||||||||||
+specific|||||||||||
+long|||||||||||
+high|||||||||||
+common|||||||||||
+simple|||||||||||
+possible|||||||||||
+particular|||||||||||
+today|||||||||||
+major|||||||||||
+personal|||||||||||
+current|||||||||||
+national|||||||||||
+cut|||||||||||
+natural|||||||||||
+physical|||||||||||
+show|||||||||||
+try|||||||||||
+check|||||||||||
+second|||||||||||
+call|||||||||||
+move|||||||||||
+pay|||||||||||
+let|||||||||||
+increase|||||||||||
+single|||||||||||
+individual|||||||||||
+turn|||||||||||
+ask|||||||||||
+buy|||||||||||
+guard|||||||||||
+hold|||||||||||
+main|||||||||||
+offer|||||||||||
+potential|||||||||||
+professional|||||||||||
+international|||||||||||
+travel|||||||||||
+cook|||||||||||
+alternative|||||||||||
+following|||||||||||
+special|||||||||||
+working|||||||||||
+whole|||||||||||
+dance|||||||||||
+excuse|||||||||||
+cold|||||||||||
+commercial|||||||||||
+low|||||||||||
+purchase|||||||||||
+deal|||||||||||
+primary|||||||||||
+worth|||||||||||
+fall|||||||||||
+necessary|||||||||||
+positive|||||||||||
+produce|||||||||||
+search|||||||||||
+present|||||||||||
+creative|||||||||||
+tell|||||||||||
+cost|||||||||||
+drive|||||||||||
+green|||||||||||
+support|||||||||||
+glad|||||||||||
+remove|||||||||||
+return|||||||||||
+run|||||||||||
+complex|||||||||||
+due|||||||||||
+effective|||||||||||
+middle|||||||||||
+regular|||||||||||
+reserve|||||||||||
+independent|||||||||||
+leave|||||||||||
+original|||||||||||
+reach|||||||||||
+rest|||||||||||
+serve|||||||||||
+watch|||||||||||
+beautiful|||||||||||
+charge|||||||||||
+active|||||||||||
+break|||||||||||
+negative|||||||||||
+safe|||||||||||
+stay|||||||||||
+visit|||||||||||
+visual|||||||||||
+affect|||||||||||
+cover|||||||||||
+report|||||||||||
+rise|||||||||||
+walk|||||||||||
+white|||||||||||
+beyond|||||||||||
+junior|||||||||||
+pick|||||||||||
+unique|||||||||||
+anything|||||||||||
+classic|||||||||||
+final|||||||||||
+lift|||||||||||
+mix|||||||||||
+private|||||||||||
+stop|||||||||||
+teach|||||||||||
+western|||||||||||
+concern|||||||||||
+familiar|||||||||||
+fly|||||||||||
+official|||||||||||
+broad|||||||||||
+comfortable|||||||||||
+gain|||||||||||
+maybe|||||||||||
+rich|||||||||||
+save|||||||||||
+young|||||||||||
+fail|||||||||||
+heavy|||||||||||
+hello|||||||||||
+listen|||||||||||
+valuable|||||||||||
+worry|||||||||||
+handle|||||||||||
+leading|||||||||||
+release|||||||||||
+finish|||||||||||
+normal|||||||||||
+press|||||||||||
+ride|||||||||||
+secret|||||||||||
+spread|||||||||||
+spring|||||||||||
+tough|||||||||||
+wait|||||||||||
+brown|||||||||||
+deep|||||||||||
+display|||||||||||
+flow|||||||||||
+hit|||||||||||
+objective|||||||||||
+shoot|||||||||||
+touch|||||||||||
+cancel|||||||||||
+chemical|||||||||||
+cry|||||||||||
+dump|||||||||||
+extreme|||||||||||
+push|||||||||||
+conflict|||||||||||
+eat|||||||||||
+fill|||||||||||
+formal|||||||||||
+jump|||||||||||
+kick|||||||||||
+opposite|||||||||||
+pass|||||||||||
+pitch|||||||||||
+remote|||||||||||
+total|||||||||||
+treat|||||||||||
+vast|||||||||||
+abuse|||||||||||
+beat|||||||||||
+burn|||||||||||
+deposit|||||||||||
+print|||||||||||
+raise|||||||||||
+sleep|hikun|hikun|verb|un verb|||||||
+somewhere|||||||||||
+advance|||||||||||
+anywhere|||||||||||
+consist|||||||||||
+dark|||||||||||
+double|||||||||||
+draw|||||||||||
+equal|||||||||||
+fix|||||||||||
+hire|||||||||||
+internal|||||||||||
+join|||||||||||
+kill|||||||||||
+sensitive|||||||||||
+tap|||||||||||
+win|||||||||||
+attack|||||||||||
+claim|||||||||||
+constant|||||||||||
+drag|||||||||||
+drink|||||||||||
+guess|||||||||||
+minor|||||||||||
+pull|||||||||||
+raw|||||||||||
+soft|||||||||||
+solid|||||||||||
+wear|||||||||||
+weird|||||||||||
+wonder|||||||||||
+annual|||||||||||
+dead|||||||||||
+doubt|||||||||||
+feed|||||||||||
+forever|||||||||||
+impress|||||||||||
+nobody|||||||||||
+repeat|||||||||||
+round|||||||||||
+slide|||||||||||
+strip|||||||||||
+whereas|||||||||||
+wish|||||||||||
+combine|||||||||||
+command|||||||||||
+dig|||||||||||
+divide|||||||||||
+equivalent|||||||||||
+hang|||||||||||
+hunt|||||||||||
+initial|||||||||||
+march|||||||||||
+mention|||||||||||
+spiritual|||||||||||
+survey|||||||||||
+tie|||||||||||
+adult|||||||||||
+brief|||||||||||
+crazy|||||||||||
+escape|||||||||||
+gather|||||||||||
+hate|||||||||||
+prior|||||||||||
+repair|||||||||||
+rough|||||||||||
+scratch|||||||||||
+strike|||||||||||
+employ|||||||||||
+external|||||||||||
+hurt|||||||||||
+illegal|||||||||||
+laugh|||||||||||
+lay|||||||||||
+mobile|||||||||||
+nasty|||||||||||
+ordinary|||||||||||
+respond|||||||||||
+royal|||||||||||
+senior|||||||||||
+split|||||||||||
+strain|||||||||||
+struggle|||||||||||
+swim|||||||||||
+upper|||||||||||
+wash|||||||||||
+yellow|||||||||||
+convert|||||||||||
+crash|||||||||||
+dependent|||||||||||
+fold|||||||||||
+funny|||||||||||
+grab|||||||||||
+hide|||||||||||
+miss|||||||||||
+permit|||||||||||
+quote|||||||||||
+recover|||||||||||
+resolve|||||||||||
+roll|||||||||||
+sink|||||||||||
+slip|||||||||||
+spare|||||||||||
+suspect|||||||||||
+sweet|||||||||||
+swing|||||||||||
+twist|||||||||||
+upstairs|||||||||||
+usual|||||||||||
+abroad|||||||||||
+brave|||||||||||
+calm|||||||||||
+concentrate|||||||||||
+estimate|||||||||||
+grand|||||||||||
+male|||||||||||
+mine|||||||||||
+prompt|||||||||||
+quiet|||||||||||
+refuse|||||||||||
+regret|||||||||||
+reveal|||||||||||
+rush|||||||||||
+shift|||||||||||
+shine|||||||||||
+steal|||||||||||
+suck|||||||||||
+surround|||||||||||
+anybody|||||||||||
+brilliant|||||||||||
+dare|||||||||||
+dear|||||||||||
+delay|||||||||||
+drunk|||||||||||
+female|||||||||||
+hurry|||||||||||
+inevitable|||||||||||
+invite|||||||||||
+kiss|||||||||||
+pop|||||||||||
+punch|||||||||||
+quit|||||||||||
+reply|||||||||||
+representative|||||||||||
+resist|||||||||||
+rip|||||||||||
+rub|||||||||||
+silly|||||||||||
+smile|||||||||||
+spell|||||||||||
+stretch|||||||||||
+stupid|||||||||||
+tear|||||||||||
+temporary|||||||||||
+wake|||||||||||
+wrap|||||||||||
+for|||||||||||
