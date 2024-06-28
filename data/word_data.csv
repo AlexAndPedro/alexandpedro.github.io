@@ -391,7 +391,8 @@ teach|turun|turun|verb|un verb||From Old Mampulan|||||
 teacher|turwan|turwan|noun|noun||From <i>turun</i> (&quot;teach&quot;) + <i>wan</i> (&quot;person&quot;)|||||
 otter|atar|atar|noun|noun||From Old Mampulan|||||
 writer|sulwan|sulwan|noun|noun||From <i>sulun</i> (&quot;write&quot;) + <i>wan</i> (&quot;person&quot;)|||||
-shake|kuinun|kuinun|verb|un verb||From Old Mampulan|||||
+shake|kuin|kuin|noun|noun||From Old Mampulan|||||
+shake|kuinun|kuinun|verb|un verb||From <i>kuin</i>|||||
 earthquake|donkuin|donkuin|noun|noun||From <i>don</i> (&quot;earth&quot;) + <i>kuin</i> (&quot;shake&quot;)|||||
 urge|urtun|urtun|verb|un verb||From Old Mampulan|||||
 urgent|urtung|urtuq|adjective|ng adjective||From <i>urtun</i> (&quot;urge&quot;)|||||
@@ -527,7 +528,7 @@ difficulty|mos|mos|noun|noun||From Old Mampulan|||||
 good morning|biung alo|biuq alo|expression|expression||From <i>biung</i> (&quot;beautiful&quot;) + <i>alo</i> (&quot;morning&quot;)|||||
 good afternoon|biung laso|biuq laso|expression|expression||From <i>biung</i> (&quot;beautiful&quot;) + <i>laso</i> (&quot;afternoon&quot;)|||||
 good night|biung kapi|biuq kapi|expression|expression||From <i>biung</i> (&quot;beautiful&quot;) + <i>kapi</i> (&quot;night&quot;)|||||
-thank you|môsurun|mo^sorun|expression|expression||From <i>mos nourun</i> (&quot;I understand the difficulty&quot;)|||||
+thank you|môsurun|mo^sorun|expression|expression||From <i>mos nourun</i> (&quot;I understand the difficulty&quot;)|||thanks||
 sorry|papalungung|papalungung|expression|expression||Literally <i>It makes one sad.</i>|||I'm sorry||
 I'm sorry|papalungung|papalungung|expression|expression||Literally <i>It makes one sad.</i>|||sorry||
 excuse me|kodamarun|kodamarun|expression|expression||From <i>ko</i> (&quot;I&quot;) + <i>damarun</i> (&quot;disturb&quot;)|||||
@@ -683,27 +684,27 @@ also|lar|lar|adverb|adverb|too|From Old Mampulan|||||
 fit|tekun|tekun|verb|un verb||From Old Mampulan|||||
 so|re|re|conjunction|conjunction|With the result that; for that reason|From Old Mampulan|||||
 but|par|par|conjunction|conjunction||From Old Mampulan|||||
-everyone|latwan|latwan|pronoun|pronoun||From <i>lat</i> (&quot;all&quot;)|||||
-everything|latbu|latbu|pronoun|pronoun||From <i>lat</i> (&quot;all&quot;)|||||
-everywhere|latpein|latpein|pronoun|pronoun||From <i>lat</i> (&quot;all&quot;)|||||
-someone|bawan|bawan|pronoun|pronoun||From <i>ba</i> (&quot;some&quot;)|||||
-something|babu|babu|pronoun|pronoun||From <i>ba</i> (&quot;some&quot;)|||||
-somewhere|bapein|bapein|pronoun|pronoun||From <i>ba</i> (&quot;some&quot;)|||||
-anyone|binwan|binwan|pronoun|pronoun||From <i>bin</i> (&quot;next&quot;) + <i></i> (&quot;&quot;)|||||
-anything|binbu|binbu|pronoun|pronoun||From <i>bin</i> (&quot;next&quot;) + <i></i> (&quot;&quot;)|||||
-anywhere|binpein|binpein|pronoun|pronoun||From <i>bin</i> (&quot;next&quot;) + <i></i> (&quot;&quot;)|||||
-no one|dewan|dewan|pronoun|pronoun|||||||
-nothing|debu|debu|pronoun|pronoun|||||||
-nowhere|depein|depein|pronoun|pronoun|||||||
-everybody|latwan|latwan|pronoun|pronoun|||||||
-somebody|bawan|bawan|pronoun|pronoun|||||||
-anybody|binwan|binwan|pronoun|pronoun|||||||
-nobody|dewan|dewan|pronoun|pronoun|||||||
-can|katun|katun|verb|un verb|||||||
-paper|krit|krit|noun|noun|||||||
+everyone|latwan|latwan|pronoun|pronoun||From <i>lat</i> (&quot;all&quot;) + <i>wan</i> (&quot;person&quot;)|||||
+everything|latbu|latbu|pronoun|pronoun||From <i>lat</i> (&quot;all&quot;) + <i>bu</i> (&quot;thing&quot;)|||||
+everywhere|latpein|latpein|pronoun|pronoun||From <i>lat</i> (&quot;all&quot;) + <i>pein</i> (&quot;place&quot;)|||||
+someone|bawan|bawan|pronoun|pronoun||From <i>ba</i> (&quot;some&quot;) + <i>wan</i> (&quot;person&quot;)|||||
+something|babu|babu|pronoun|pronoun||From <i>ba</i> (&quot;some&quot;) + <i>bu</i> (&quot;thing&quot;)|||||
+somewhere|bapein|bapein|pronoun|pronoun||From <i>ba</i> (&quot;some&quot;) + <i>pein</i> (&quot;place&quot;)|||||
+anyone|binwan|binwan|pronoun|pronoun||From <i>bin</i> (&quot;next&quot;) + <i>wan</i> (&quot;person&quot;)|||||
+anything|binbu|binbu|pronoun|pronoun||From <i>bin</i> (&quot;next&quot;) + <i>bu</i> (&quot;thing&quot;)|||||
+anywhere|binpein|binpein|pronoun|pronoun||From <i>bin</i> (&quot;next&quot;) + <i>pein</i> (&quot;place&quot;)|||||
+no one|dewan|dewan|pronoun|pronoun||From <i>de</i> (&quot;no&quot;) + <i>wan</i> (&quot;person&quot;)|||||
+nothing|debu|debu|pronoun|pronoun||From <i>de</i> (&quot;no&quot;) + <i>bu</i> (&quot;thing&quot;)|||||
+nowhere|depein|depein|pronoun|pronoun||From <i>de</i> (&quot;no&quot;) + <i>pein</i> (&quot;place&quot;)|||||
+everybody|latwan|latwan|pronoun|pronoun||From <i>lat</i> (&quot;all&quot;) + <i>wan</i> (&quot;person&quot;)|||||
+somebody|bawan|bawan|pronoun|pronoun||From <i>ba</i> (&quot;some&quot;) + <i>wan</i> (&quot;person&quot;)|||||
+anybody|binwan|binwan|pronoun|pronoun||From <i>bin</i> (&quot;next&quot;) + <i>wan</i> (&quot;person&quot;)|||||
+nobody|dewan|dewan|pronoun|pronoun||From <i>de</i> (&quot;no&quot;) + <i>wan</i> (&quot;person&quot;)|||||
+can|katun|katun|verb|un verb||From Old Mampulan|||||
+paper|krit|krit|noun|noun||From Old Mampulan|||||
 map|krityon|krityon|noun|noun||From <i>krit</i> (&quot;paper&quot;) + <i>yon</i> (&quot;world&quot;)|||||
-tribe|tabi|tabi|noun|noun|||||||
-house|prot|prot|noun|noun|||||||
+tribe|tabi|tabi|noun|noun||From Old Mampulan|||||
+house|prot|prot|noun|noun||From Old Mampulan|||||
 family|prottabi|prottabi|noun|noun||From <i>prot</i> (&quot;house&quot;) + <i>tabi</i> (&quot;tribe&quot;)|||||
 investigate|lukounun|lukounun|verb|un verb||From <i>lukoun</i> (&quot;investigation&quot;)|||||
 inverstigation|lukoun|lukoun|noun|noun||From Old Mampulan|||||
@@ -711,7 +712,7 @@ appraise|lukounsarun|lukounsarun|verb|un verb||From Old Mampulan|||||
 appraisal|lukounsar|lukounsar|noun|noun||From <i>lukoun</i> (&quot;investigation&quot;) + <i>sar</i> (&quot;fix&quot;)|||||
 leader|kirounwan|kirounwan|noun|noun||From <i>kiroun</i> (&quot;to lead&quot;) + <i>wan</i> (&quot;person&quot;)|||||
 govern|balonun|balonun|noun|noun||From <i>balon</i> (&quot;government&quot;)|||||
-government|balon|balon|noun|noun|||||||
+government|balon|balon|noun|noun||From Old Mampulan|||||
 health|heltras|heltras|noun|noun||From <i>helutairas</i>, which is from <i>helu</i> (&quot;to save&quot;) + <i>tai</i> (&quot;body&quot;) + <i>ras</i> (&quot;nominalizing suffix&quot;).|||||
 truth|tail|tailnamo|noun|noun||From Old Mampulan <i>tahil</i>|||||
 look up to|namorun|namorun|verb|run verb||From Old Mampulan|||||
@@ -720,29 +721,44 @@ latitude|râtido|ra^tido|noun|noun||From <i>rati</i> (&quot;&quot;) + <i>do</i> 
 longitude|ardo|ardo|noun|noun||From <i>ar</i> (&quot;&quot;) + <i>do</i> (&quot;degree&quot;)|||||
 alone|lating|lating|adjective|ng adjective||From <i>lat</i> (&quot;all&quot;) + <i>i</i> (&quot;one&quot;)|||||
 touch|sasun|sasun|verb|un verb||From Old Mampulan|||||
-fur|fos|fos|noun|noun|||||||
-seed|mot|mot|noun|noun|||||||
-system|||||||||||
-computer|||||||||||
-thanks|||||||||||
-music|||||||||||
-reading|||||||||||
-method|||||||||||
-data|||||||||||
-food|||||||||||
-understanding|||||||||||
-theory|||||||||||
-law|||||||||||
-bird|||||||||||
-literature|||||||||||
-problem|||||||||||
+fur|fos|fos|noun|noun||From Old Mampulan|||||
+seed|mot|mot|noun|noun||From Old Mampulan|||||
+confirmation|inobis|inobis|noun|noun||From <i>ino</i> (&quot;&quot;) + <i>bis</i> (&quot;&quot;)|||||
+confirm|inobisun|inobisun|verb|un verb||From <i>inobisun</i> (&quot;&quot;) |||||
+hit|dat|dat|noun|noun||From Old Mampulan|||||
+hit|datun|datun|verb|un verb|||||||
+direct|chokung|cokuq|adjective|ung adjective|||||||
+direct hit|chokdat|cokdat|noun|noun||From <i>chok</i> (&quot;direct&quot;) + <i>dat</i> (&quot;hit&quot;)|||||
+system|sanan|sanan|noun|noun||From Old Mampulan|||||
+subsidence|deidoun|deidoun|noun|noun||From <i>dei</i> (&quot;&quot;) + <i>doun</i> (&quot;&quot;)|||||
+computer|kompiuter|kompiuter|noun|noun|||||||
+thanks|môsurun|mo^sorun|expression|expression||From <i>mos nourun</i> (&quot;I understand the difficulty&quot;)|||||
+music|ratgot|ratgot|noun|noun|||||||
+rule|regut|regut|noun|noun|||||||
+method|rôunregut|ro^unregut|noun|noun||From <i>roun</i> (&quot;way&quot;) + <i>regut</i> (&quot;rule&quot;)|||||
+data|deita|deita|noun|noun|||||||
+order|chesmou|chesmou|noun|noun|(1) ordering food|From <i>ches</i> (&quot;&quot;) + <i>mou</i> (&quot;&quot;)|||||
+food|kainbu|kainbu|noun|noun||From <i>roun</i> (&quot;way&quot;) + <i>regut</i> (&quot;rule&quot;)|||||
+understanding|urpiu|urpiu|noun|noun||From <i>ur</i> (&quot;logic&quot;) + <i>piu</i> (&quot;explanation&quot;)|||||
+arrival|gargai|gargai|noun|noun|(formal)|From <i>gar</i> (&quot;arrival&quot;) + <i>gai</i> (&quot;reach&quot;)|||||
+vigilant|luroteng|luroteng|adjective|ng adjective||From <i>lur</i> (&quot;being on guard, alarm&quot;) + <i>to warn; to caution; to admonish</i> (&quot;ote&quot;)|||wary, alert, be alert, be wary, be vigilant||
+step on|pitun|pitun|verb|un verb||From <i>pit</i> (&quot;stepping on&quot;)|||||
+prediction|yorin|yorin|noun|noun||予想|||||
+welfare|yôneltras|yo^neltras|noun|noun|(formal)|From <i>yong</i> (&quot;good&quot;) + <i>heltras</i> (&quot;health&quot;)|||||
+theory|urtaut|urtaut|noun|noun||From <i>ur</i> (&quot;logic&quot;) + <i>taut</i> (&quot;arguement&quot;)|||||
+law|lis|lis|noun|noun||From Old Mampulan <i>lihisa</i> to <i>līs</i>|||||
+rod|saun|saun|noun|noun||From Old Mampulan <i>sahôn</i> to <i>sawon</i>|||||
+bird|lir|lir|noun|noun||From Old Mampulan|||||
+underground|dounlupan|dounlupan|noun|noun||From <i>doun</i> (&quot;under&quot;) + <i>lupan</i> (&quot;health&quot;)|||||
+literature|mouga|mouga|noun|noun||From <i>mou</i> (&quot;&quot;) + <i>ga</i> (&quot;&quot;)|||||
+problem|montopi|mpntopi|noun|noun||From <i>mon</i> (&quot;&quot;) + <i>topi</i> (&quot;&quot;)|||||
 software|||||||||||
 control|||||||||||
 knowledge|||||||||||
 power|||||||||||
 ability|||||||||||
 economics|||||||||||
-internet|||||||||||
+internet|înternet|i^nternet|noun|noun||From Human Language <i>Internet</i> (&quot;&quot;)|||||
 television|||||||||||
 library|||||||||||
 nature|||||||||||
@@ -787,7 +803,6 @@ camera|||||||||||
 freedom|||||||||||
 environment|||||||||||
 instance|||||||||||
-truth|||||||||||
 marketing|||||||||||
 university|||||||||||
 writing|||||||||||
@@ -837,7 +852,6 @@ unit|||||||||||
 category|||||||||||
 cigarette|||||||||||
 context|||||||||||
-introduction|||||||||||
 opportunity|||||||||||
 performance|||||||||||
 driver|||||||||||
@@ -859,7 +873,6 @@ appearance|||||||||||
 association|||||||||||
 concept|||||||||||
 customer|||||||||||
-death|||||||||||
 discussion|||||||||||
 housing|||||||||||
 inflation|||||||||||
@@ -867,7 +880,6 @@ insurance|||||||||||
 mood|||||||||||
 woman|||||||||||
 advice|||||||||||
-blood|||||||||||
 effort|||||||||||
 expression|||||||||||
 importance|||||||||||
@@ -875,7 +887,6 @@ opinion|||||||||||
 payment|||||||||||
 reality|||||||||||
 responsibility|||||||||||
-situation|||||||||||
 skill|||||||||||
 statement|||||||||||
 wealth|||||||||||
@@ -886,7 +897,6 @@ depth|||||||||||
 estate|||||||||||
 foundation|||||||||||
 grandmother|||||||||||
-heart|||||||||||
 perspective|||||||||||
 photo|||||||||||
 recipe|||||||||||
@@ -1042,7 +1052,6 @@ wife|||||||||||
 accident|||||||||||
 airport|||||||||||
 appointment|||||||||||
-arrival|||||||||||
 assumption|||||||||||
 baseball|||||||||||
 chapter|||||||||||
@@ -1192,7 +1201,7 @@ training|||||||||||
 top|||||||||||
 amount|||||||||||
 level|||||||||||
-order|||||||||||
+|||||||||||
 research|||||||||||
 sense|||||||||||
 service|||||||||||
@@ -1234,7 +1243,6 @@ plan|||||||||||
 tax|||||||||||
 subject|||||||||||
 space|||||||||||
-rule|||||||||||
 stock|||||||||||
 weather|||||||||||
 chance|||||||||||
@@ -1783,24 +1791,12 @@ national|||||||||||
 cut|||||||||||
 natural|||||||||||
 physical|||||||||||
-show|||||||||||
-try|||||||||||
 check|||||||||||
-second|||||||||||
-call|||||||||||
-move|||||||||||
-pay|||||||||||
-let|||||||||||
 increase|||||||||||
 single|||||||||||
 individual|||||||||||
-turn|||||||||||
-ask|||||||||||
-buy|||||||||||
 guard|||||||||||
-hold|||||||||||
 main|||||||||||
-offer|||||||||||
 potential|||||||||||
 professional|||||||||||
 international|||||||||||
@@ -1873,12 +1869,9 @@ final|||||||||||
 lift|||||||||||
 mix|||||||||||
 private|||||||||||
-stop|||||||||||
-teach|||||||||||
 western|||||||||||
 concern|||||||||||
 familiar|||||||||||
-fly|||||||||||
 official|||||||||||
 broad|||||||||||
 comfortable|||||||||||
@@ -1903,12 +1896,9 @@ secret|||||||||||
 spread|||||||||||
 spring|||||||||||
 tough|||||||||||
-wait|||||||||||
 brown|||||||||||
 deep|||||||||||
 display|||||||||||
-flow|||||||||||
-hit|||||||||||
 objective|||||||||||
 shoot|||||||||||
 touch|||||||||||
