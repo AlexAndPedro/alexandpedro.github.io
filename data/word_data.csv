@@ -10,6 +10,7 @@ birth|bitan|bitan|noun|noun||From Old Mampulan|||||
 death|mordon|mordon|noun|noun||From Old Mampulan|||||
 person|wan|wan|noun|noun||From Old Mampulan|||||
 thing|bu|bu|noun|noun||From Old Mampulan|||||
+thing|tin|tin|noun|noun|matter|From Old Mampulan|||||
 place|pein|pein|noun|noun||From Old Mampulan|||||
 tree|pu|pu|noun|noun||From Old Mampulan|||||
 run|takun|takun|verb|un verb||From Old Mampulan|||||
@@ -752,186 +753,38 @@ bird|lir|lir|noun|noun||From Old Mampulan|||||
 underground|dounlupan|dounlupan|noun|noun||From <i>doun</i> (&quot;under&quot;) + <i>lupan</i> (&quot;health&quot;)|||||
 literature|mouga|mouga|noun|noun||From <i>mou</i> (&quot;&quot;) + <i>ga</i> (&quot;&quot;)|||||
 problem|montopi|mpntopi|noun|noun||From <i>mon</i> (&quot;&quot;) + <i>topi</i> (&quot;&quot;)|||||
-software|||||||||||
-control|||||||||||
-knowledge|||||||||||
-power|||||||||||
-ability|||||||||||
-economics|||||||||||
+heat|gis|gis|noun|noun||From Old Mampulan|||||
+wave|wei|wei|noun|noun||From Old Mampulan|||||
+heat wave|giswei|giswei|noun|noun||From <i>gis</i> (&quot;heat&quot;) + <i>wei</i> (&quot;wave&quot;)|||||
+slide|kagarun|kagarun|verb|run verb||From Old Mampulan|||||
+increase|igarun|igarun|verb|run verb|(informal)|From Old Mampulan|||||
+increase|igajarun|igajarun|verb|run verb|(formal)|From <i>iga</i> (&quot;increase&quot;) + <i>ja</i> (&quot;add&quot;)|||||
+decrease|kigorun|kigorun|verb|run verb|(informal)|From Old Mampulan|||||
+decrease|kigoplunun|kigoplunun|verb|un verb|(formal)|From <i>kigo</i> (&quot;decrease&quot;) + <i>plun</i> (&quot;small&quot;)|||||
+rail|kaut|kaut|noun|noun||From unknown origin|||||
+swim|natanun|natanun|verb|un verb||From Old Mampulan|||||
 internet|înternet|i^nternet|noun|noun||From Human Language <i>Internet</i> (&quot;&quot;)|||||
-television|||||||||||
-library|||||||||||
-nature|||||||||||
-fact|||||||||||
-product|||||||||||
-temperature|||||||||||
-investment|||||||||||
-area|||||||||||
-society|||||||||||
-activity|||||||||||
-industry|||||||||||
-media|||||||||||
-oven|||||||||||
-community|||||||||||
-definition|||||||||||
-safety|||||||||||
-quality|||||||||||
-development|||||||||||
-language|||||||||||
-management|||||||||||
-player|||||||||||
-variety|||||||||||
-video|||||||||||
-security|||||||||||
-country|||||||||||
-exam|||||||||||
-movie|||||||||||
-organization|||||||||||
-equipment|||||||||||
-physics|||||||||||
-analysis|||||||||||
-policy|||||||||||
-series|||||||||||
-thought|||||||||||
-basis|||||||||||
-boyfriend|||||||||||
-direction|||||||||||
-strategy|||||||||||
-technology|||||||||||
-army|||||||||||
-camera|||||||||||
-freedom|||||||||||
-environment|||||||||||
-instance|||||||||||
-marketing|||||||||||
-university|||||||||||
-writing|||||||||||
-article|||||||||||
-department|||||||||||
-difference|||||||||||
-goal|||||||||||
-news|||||||||||
-audience|||||||||||
-fishing|||||||||||
-growth|||||||||||
-income|||||||||||
-marriage|||||||||||
-user|||||||||||
-combination|||||||||||
-failure|||||||||||
-medicine|||||||||||
-philosophy|||||||||||
-communication|||||||||||
-chemistry|||||||||||
-disk|||||||||||
-energy|||||||||||
-nation|||||||||||
-road|||||||||||
-role|||||||||||
-advertising|||||||||||
-location|||||||||||
-success|||||||||||
-addition|||||||||||
-apartment|||||||||||
-moment|||||||||||
-painting|||||||||||
-politics|||||||||||
-attention|||||||||||
-decision|||||||||||
-event|||||||||||
-property|||||||||||
-shopping|||||||||||
-wood|||||||||||
-competition|||||||||||
-distribution|||||||||||
-entertainment|||||||||||
-office|||||||||||
-population|||||||||||
-president|||||||||||
-unit|||||||||||
-category|||||||||||
-cigarette|||||||||||
-context|||||||||||
-opportunity|||||||||||
-performance|||||||||||
-driver|||||||||||
-flight|||||||||||
-length|||||||||||
-magazine|||||||||||
-newspaper|||||||||||
-relationship|||||||||||
-teaching|||||||||||
-cell|||||||||||
-dealer|||||||||||
-finding|||||||||||
-lake|||||||||||
-member|||||||||||
-message|||||||||||
-phone|||||||||||
-scene|||||||||||
-appearance|||||||||||
-association|||||||||||
-concept|||||||||||
-customer|||||||||||
-discussion|||||||||||
-housing|||||||||||
-inflation|||||||||||
-insurance|||||||||||
-mood|||||||||||
-woman|||||||||||
-advice|||||||||||
-effort|||||||||||
-expression|||||||||||
-importance|||||||||||
-opinion|||||||||||
-payment|||||||||||
-reality|||||||||||
-responsibility|||||||||||
-skill|||||||||||
-statement|||||||||||
-wealth|||||||||||
-application|||||||||||
-city|||||||||||
-county|||||||||||
-depth|||||||||||
-estate|||||||||||
-foundation|||||||||||
-grandmother|||||||||||
-perspective|||||||||||
-photo|||||||||||
-recipe|||||||||||
-studio|||||||||||
-topic|||||||||||
-collection|||||||||||
-depression|||||||||||
-imagination|||||||||||
-passion|||||||||||
-percentage|||||||||||
-resource|||||||||||
-setting|||||||||||
-ad|||||||||||
-agency|||||||||||
-college|||||||||||
-connection|||||||||||
-criticism|||||||||||
-debt|||||||||||
-description|||||||||||
-memory|||||||||||
-patience|||||||||||
-secretary|||||||||||
-solution|||||||||||
-administration|||||||||||
-aspect|||||||||||
-attitude|||||||||||
-director|||||||||||
-personality|||||||||||
-psychology|||||||||||
-recommendation|||||||||||
-response|gounlus|gounlus|gounlus|||From <i>goun</i> (&quot;&quot;) + <i>lus</i> (&quot;&quot;)|||||
-selection|||||||||||
+ability|lotfortan|lotfortan|noun|noun||From <i>lot</i> (&quot;&quot;) + <i>fortan</i> (&quot;strength&quot;)|||||
+ability|katnas|katnas|noun|noun||From <i>kat</i> (&quot;can&quot;) + <i>-nas</i> (&quot;nominalizing suffix&quot;)|||||
+road|roun|roun|noun|noun||From Old Mampulan|||||
+iron|ain|ain|noun|noun||From Old Mampulan|||||
+railroad|ainroun|ainroun|noun|noun||From <i>ain</i> (&quot;iron&quot;) + <i>roun</i> (&quot;road&quot;)|||||
+breed|fandêhirun|fande^hirun|verb|run verb||From <i>fan</i> (&quot;&quot;) + <i>dehi</i> (&quot;&quot;)|||||
+sleeve|kande|kande|noun|noun||From Old Mampulan|||||
+document|shokise|xokise|noun|noun||From <i>sho</i> (&quot;&quot;) + <i>kise</i> (&quot;&quot;)|||||
+danger|dega|dega|noun|noun||From Old Mampulan|||||
+dangerous|degang|degaq|adjective|ng adjective||From <i>dega</i> (&quot;danger&quot;)|||||
+library|akapein|akapein|noun|noun||From <i>aka</i> (&quot;book&quot;) + <i>pein</i> (&quot;place&quot;)|||||
+nature|ertan|ertan|noun|noun||From Old Mampulan|||||
+fact|tintail|tintail|noun|noun||From <i>tin</i> (&quot;thing&quot;) + <i>tail</i> (&quot;truth&quot;)|||||
+warm|retung|retuq|adjective|ung adjective||From Old Mampulan|||||
+temperature|retdo|retdo|noun|noun||From <i>ret</i> (&quot;warm&quot;) + <i>do</i> (&quot;degree&quot;)|||||
+recommendation|rekon|rekon|noun|noun||From Old Mampulan|||||
+response|gounlus|gounlus|noun|noun||From <i>goun</i> (&quot;&quot;) + <i>lus</i> (&quot;&quot;)|||||
+selection|pili|pili|noun|noun||From Old Mampulan|||||
+select|pilirun|pilirun|verb|run verb||From <i>pili</i> (&quot;selection&quot;)|||||
 storage|||||||||||
-version|||||||||||
-alcohol|||||||||||
+version|sapan|sapan|noun|noun||From Old Bear Mampulan|||||
 argument|||||||||||
 complaint|||||||||||
 contract|||||||||||
@@ -943,7 +796,6 @@ possession|||||||||||
 preparation|||||||||||
 steak|||||||||||
 union|||||||||||
-agreement|||||||||||
 cancer|||||||||||
 currency|||||||||||
 employment|||||||||||
@@ -1169,7 +1021,6 @@ game|||||||||||
 part|||||||||||
 field|||||||||||
 process|||||||||||
-heat|||||||||||
 experience|||||||||||
 job|rasat|rasat|noun|noun||From Raccoon Language rasat|||||
 end|||||||||||
@@ -1439,7 +1290,6 @@ chart|||||||||||
 gear|||||||||||
 ideal|||||||||||
 kitchen|||||||||||
-land|||||||||||
 log|||||||||||
 mother|||||||||||
 net|||||||||||
@@ -1451,13 +1301,10 @@ season|||||||||||
 signal|||||||||||
 spirit|||||||||||
 street|||||||||||
-tree|||||||||||
-wave|||||||||||
 belt|||||||||||
 bench|||||||||||
 commission|||||||||||
 copy|||||||||||
-drop|||||||||||
 minimum|||||||||||
 path|||||||||||
 progress|||||||||||
@@ -1620,7 +1467,6 @@ floor|||||||||||
 god|||||||||||
 golf|||||||||||
 habit|||||||||||
-iron|||||||||||
 judge|||||||||||
 knife|||||||||||
 landscape|||||||||||
@@ -1792,7 +1638,6 @@ cut|||||||||||
 natural|||||||||||
 physical|||||||||||
 check|||||||||||
-increase|||||||||||
 single|||||||||||
 individual|||||||||||
 guard|||||||||||
@@ -1967,7 +1812,6 @@ impress|||||||||||
 nobody|||||||||||
 repeat|||||||||||
 round|||||||||||
-slide|||||||||||
 strip|||||||||||
 whereas|||||||||||
 wish|||||||||||
