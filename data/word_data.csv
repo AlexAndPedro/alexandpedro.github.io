@@ -45,12 +45,14 @@ benevolence|tumanili|tumanili|noun|noun||From <i>tuman</i> (&quot;fox&quot;) + <
 powder|prin|prin|noun|noun||From Old Mampulan|||||
 phosphorus|tumanprin|tumanprin|noun|noun||From <i>tuman</i> (&quot;fox&quot;) + <i>prin</i> (&quot;powder&quot;)|||||
 muzzle|nuslo|nuslo|noun|noun||From <i>Nuslo</i>, the Fox Legend of Mampulan|||||
+blow|fusun|fusun|noun|noun|blow (wind, whistle, horn)|From Old Mampulan|||||
 raccoon|rouson|rouson|noun|noun||From Old Mampulan|||||
 deception|rosonnas|rosonnas|noun|noun||From <i>rouson</i> (&quot;raccoon&quot;) + <i>-nas</i> (&quot;the state/quality/measure&quot;)|||||
 sinister|padrousong|padrousoq|adjective|g adjective||From <i>padang rouson</i> (&quot;bad raccoon&quot;)|||||
 write|sulun|sulun|verb|run verb||From Old Mampulan|||||
 manuscript|rôusonsho|ro^usonsho|noun|noun||From <i>rouson</i> (&quot;raccoon&quot;) + <i>sho</i> (&quot;to write&quot;)|||||
 mask|taspan|taspan|noun|noun||From <i>Taspan</i>, the Raccoon Legend of Mampulan|||||
+whistle|rousonfus|rousonfus|noun|noun||From <i>rouson</i> (&quot;raccoon&quot;) + <i>fus</i> (&quot;blow&quot;)|||||
 ear|orena|orena|noun|noun||From <i>Orena</i>, the Rabbit Legend of Mampulan|||||
 shell|martan|martan|noun|noun||From <i>Martan</i>, the Turtle Legend of Mampulan|||||
 muscle|fortorun|fortorun|noun|noun||From <i>Fortorun</i>, the Bear Legend of Mampulan|||||
@@ -551,6 +553,8 @@ bard|fenema|fenema|noun|noun||From Old Eagle Mampulan <i>fenema</i>|||||
 lodge|shuk|xuk|noun|noun|A building for recreational use such as a hunting lodge or a summer cabin.||||||
 inn|shukpein|xukpein|noun|noun|Any establishment where travellers can procure lodging, food, and drink.|From <i>shuk</i> (&quot;lodge&quot;) + <i>pein</i> (&quot;place&quot;)|||||
 store|baipein|baipein|noun|noun|A place where items may be purchased.|From <i>bairun</i> (&quot;buy&quot;) + <i>pein</i> (&quot;place&quot;)|||||
+away|lasdes|lasdes|noun|noun||From <i>las</i> (&quot;out&quot;) + <i>des</i> (&quot;to&quot;)|||||
+store|lasdêsorun|lasd^esorun|verb|run verb||From <i>lasdes</i> (&quot;&quot;) + <i>orun</i> (&quot;put&quot;)|||||
 shop|baipein|baipein|noun|noun|A place where items may be purchased.|From <i>bairun</i> (&quot;buy&quot;) + <i>pein</i> (&quot;place&quot;)|||||
 tavern|winashukpein|wino-sonpein|noun|noun|A building containing a bar licensed to sell alcoholic drinks, and offering sleeping accommodations for travelers. |wina + osonpein|||||
 almost|serlatnak|serlatnak|adverb|adverb|Very close to, but not quite.|From <i>ser</i> (&quot;near&quot;) + <i>lat</i> (&quot;all&quot;) + <i>nak</i> (&quot;adverb-forming suffix&quot;)|||||
@@ -783,14 +787,32 @@ recommendation|rekon|rekon|noun|noun||From Old Mampulan|||||
 response|gounlus|gounlus|noun|noun||From <i>goun</i> (&quot;&quot;) + <i>lus</i> (&quot;&quot;)|||||
 selection|pili|pili|noun|noun||From Old Mampulan|||||
 select|pilirun|pilirun|verb|run verb||From <i>pili</i> (&quot;selection&quot;)|||||
-storage|||||||||||
+brain|ati|ati|noun|noun||From Old Mampulan|||||
+memory|atimaino|atimaino|noun|noun||From <i>ati</i> (&quot;brain&quot;) + <i>maino</i> (&quot;information&quot;)|||||
+storage|lasdeso|lasdeso|noun|noun||From <i>lasdêsorun</i> (&quot;to store&quot;)|||||
 version|sapan|sapan|noun|noun||From Old Bear Mampulan|||||
-argument|||||||||||
-complaint|||||||||||
-contract|||||||||||
-emphasis|||||||||||
-highway|||||||||||
-loss|||||||||||
+humid|aunung|aunuq|adjective|ung adjective||From Old Mampulan|||||
+humidity|aundo|aundo|noun|noun||From <i>aun</i> (&quot;humid&quot;) + <i>do</i> (&quot;degree&quot;)|||||
+language|hionsaltas|hionsaltas|noun|noun||From <i>hion</i> (&quot;tongue&quot;) + <i>saltun</i> (&quot;speak&quot;) + <i>-as</i> (&quot;nominalizing suffix&quot;)|||||
+grammar|hionsaltalis|hionsaltalis|noun|noun||From <i>hionsaltas</i> (&quot;language&quot;) + <i>lis</i> (&quot;law&quot;). Last letter 's' removed for ease of pronunciation.|||||
+list|tet|tet|noun|noun||From Old Turtle Mampulan|||||
+vocabulary|satatet|satatet|noun|noun||From <i>sata</i> (&quot;word&quot;) + <i>tet</i> (&quot;list&quot;)|||||
+brace|pretun|pretun|verb|verb||From Old Mampulan|||||
+carry|butun|butun|verb|verb||From Old Mampulan|||||
+support|dondesbut|dondesbut|noun|noun||From <i>doundes</i> (&quot;under&quot;) + <i>butun</i> (&quot;carry&quot;)|||||
+support|dondesbutun|dondesbutun|verb|un verb||From <i>doundesbut</i> (&quot;support&quot;)|||||
+statement|wot|wot|noun|noun||From Old Mampulan|||||
+state|wotun|wotun|verb|verb|to state something|From <i>wot</i> (&quot;statement&quot;)|||||
+argument|dondesbutwot|dondesbutwot|noun|noun||From <i>dondesbut</i> (&quot;support&quot;) + <i>wot</i> (&quot;statement&quot;)|||||
+argue|dondesbutwotun|dondesbutwotun|verb|un verb||From <i>dondesbutwot</i> (&quot;argument&quot;)|||||
+contract|mulyak|mulyak|noun|noun||From <i>mul</i> (&quot;&quot;) + <i>yak</i> (&quot;&quot;)|||||
+emphasis|tuyosira|tuyosira|noun|noun||From <i>tuyo</i> (&quot;&quot;) + <i>sira</i> (&quot;&quot;)|||||
+speed|sitdo|sitdo|noun|noun||From <i>sit</i> (&quot;speed&quot;) + <i>do</i> (&quot;degree&quot;)|||||
+high-speed|teisit|teisit|noun|noun||From <i>tei</i> (&quot;high&quot;) + <i>sit</i> (&quot;speed&quot;)|||||
+highway|teisitroun|teisitroun|noun|noun||From <i>teisit</i> (&quot;high-speed&quot;) + <i>roun</i> (&quot;road&quot;)|||||
+source|mina|mina|noun|noun|rson, place or thing from which something (information, goods, etc.) comes or is acquired.|From Old Mampulan|||||
+etymology|satamînaga|satami^naga|noun|noun||From <i></i> (&quot;word&quot;) + <i></i> (&quot;source&quot;) + <i>ga</i> (&quot;study&quot;)|||||
+horn|noron|noron|noun|noun||From Old Mampulan|||||
 membership|||||||||||
 possession|||||||||||
 preparation|||||||||||
@@ -960,7 +982,7 @@ penalty|||||||||||
 piano|||||||||||
 profession|||||||||||
 professor|||||||||||
-quantity|sel|sel|noun|noun||Old Mampulan|||||
+quantity|sel|sel|noun|noun||From Old Mampulan|||||
 reaction|||||||||||
 requirement|||||||||||
 salad|||||||||||
@@ -1031,13 +1053,11 @@ value|||||||||||
 market|||||||||||
 guide|||||||||||
 interest|||||||||||
-state|||||||||||
 radio|||||||||||
 company|||||||||||
 price|||||||||||
 size|||||||||||
 card|||||||||||
-list|||||||||||
 mind|||||||||||
 trade|||||||||||
 line|||||||||||
@@ -1100,7 +1120,6 @@ chance|||||||||||
 figure|||||||||||
 man|||||||||||
 model|||||||||||
-source|||||||||||
 beginning|||||||||||
 program|||||||||||
 design|||||||||||
@@ -1109,23 +1128,15 @@ material|||||||||||
 purpose|||||||||||
 question|||||||||||
 rock|||||||||||
-salt|||||||||||
 act|||||||||||
-birth|||||||||||
-car|||||||||||
-dog|||||||||||
 object|||||||||||
 scale|||||||||||
-sun|||||||||||
 note|||||||||||
 profit|||||||||||
 rent|||||||||||
-speed|||||||||||
 style|||||||||||
-war|||||||||||
 bank|||||||||||
 craft|||||||||||
-half|||||||||||
 inside|||||||||||
 outside|||||||||||
 standard|||||||||||
@@ -1175,12 +1186,10 @@ culture|||||||||||
 morning|||||||||||
 pot|||||||||||
 sign|||||||||||
-table|||||||||||
 task|||||||||||
 condition|||||||||||
 contact|||||||||||
 credit|||||||||||
-egg|||||||||||
 hope|||||||||||
 ice|||||||||||
 network|||||||||||
@@ -1188,13 +1197,11 @@ north|||||||||||
 square|||||||||||
 attempt|||||||||||
 date|||||||||||
-effect|||||||||||
 link|||||||||||
 post|||||||||||
-star|||||||||||
-voice|||||||||||
+star|tuin|tuin|noun|noun||From Old Mampulan|||||
+voice|bo|bo|noun|noun||From Old Mampulan|||||
 capital|||||||||||
-challenge|||||||||||
 friend|||||||||||
 self|||||||||||
 shot|||||||||||
@@ -1202,7 +1209,6 @@ brush|||||||||||
 couple|||||||||||
 debate|||||||||||
 exit|||||||||||
-function|||||||||||
 lack|||||||||||
 living|||||||||||
 plant|||||||||||
@@ -1272,19 +1278,13 @@ sort|||||||||||
 weight|||||||||||
 baby|||||||||||
 background|||||||||||
-carry|||||||||||
 dish|||||||||||
 factor|||||||||||
-fruit|||||||||||
 glass|||||||||||
 joint|||||||||||
 master|||||||||||
-muscle|||||||||||
-red|||||||||||
-strength|||||||||||
 traffic|||||||||||
 trip|||||||||||
-vegetable|||||||||||
 appeal|||||||||||
 chart|||||||||||
 gear|||||||||||
@@ -1422,8 +1422,6 @@ host|||||||||||
 husband|||||||||||
 loan|||||||||||
 mistake|||||||||||
-mountain|||||||||||
-nail|||||||||||
 noise|||||||||||
 occasion|||||||||||
 package|||||||||||
@@ -1435,8 +1433,6 @@ race|||||||||||
 relief|||||||||||
 sand|||||||||||
 sentence|||||||||||
-shoulder|||||||||||
-smoke|||||||||||
 stomach|||||||||||
 string|||||||||||
 tourist|||||||||||
@@ -1444,13 +1440,9 @@ towel|||||||||||
 vacation|||||||||||
 west|||||||||||
 wheel|||||||||||
-wine|||||||||||
-arm|||||||||||
 aside|||||||||||
 associate|||||||||||
 bet|||||||||||
-blow|||||||||||
-border|||||||||||
 branch|||||||||||
 breast|||||||||||
 brother|||||||||||
@@ -1660,18 +1652,14 @@ purchase|||||||||||
 deal|||||||||||
 primary|||||||||||
 worth|||||||||||
-fall|||||||||||
 necessary|||||||||||
 positive|||||||||||
 produce|||||||||||
 search|||||||||||
 present|||||||||||
 creative|||||||||||
-tell|||||||||||
 cost|||||||||||
 drive|||||||||||
-green|||||||||||
-support|||||||||||
 glad|||||||||||
 remove|||||||||||
 return|||||||||||
