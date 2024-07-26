@@ -293,7 +293,7 @@ go|sorun|sorun|verb|run verb||From Old Mampulan|||||
 get|urun|urun|verb|run verb||From Old Mampulan|||||
 make|asun|asun|verb|un verb||From Old Mampulan|||||
 think|rinun|rirun|verb|un verb||From Old Mampulan|||||
-take|ku-nun||verb|un verb||From Old Mampulan|||||
+take|kūnun|ku-nun|verb|un verb||From Old Mampulan|||||
 see|lurun|lurun|verb|run verb||From Old Mampulan|||||
 come|rairun|rairun|verb|run verb||From Old Mampulan|||||
 want|gusun|gusun|verb|un verb||From Old Mampulan|||||
@@ -476,7 +476,7 @@ short|shong|xoq|adjective|g adjective||From Old Mampulan|||||
 cheap|bilikung|bilikuq|adjective|ung adjective||From Old Mampulan|||||
 expensive|toyang|toyaq|adjective|ng adjective||From Old Mampulan|||||
 instinct|honlot|honlot|noun|noun||From <i>hon</i> (&quot;origin, fundamental&quot;) + <i>lot</i> (&quot;ability, skill&quot;)|||||
-little|komong|komoq|adjective|ng adjective|||||||
+little|plung|pluq|adjective|ng adjective|||||||
 consent|samamain|roumain|noun|noun||From <i>sama</i> (&quot;together&quot;) + <i>main</i> (&quot;feeling&quot;)|||||
 a little bit|komobunak|komobunak|adverb|adverb||From <i>komo</i> (&quot;little&quot;) + <i>bu</i> (&quot;thing&quot;)|I am a little bit concerned.||||
 a lot|midang|midaq|adjective|ng adjective|a large number or amount of (things, people, etc.)|From Old Mampulan <i>meituan</i>|I eat a lot of apples.|Ko ni midaq mak kainu.|many||
@@ -488,20 +488,20 @@ neat|linung|linuq|adjective|ng adjective|||||||
 random|delin|delin|noun|noun||From <i>de</i> (&quot;not&quot;) + <i>lin</i> (&quot;neat&quot;)|||||
 close|serung|seruq|adjective|ung adjective|near||||near||
 most|benak|benak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
-least|beplunnak|beplunnak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>less</i> (&quot;little&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
-best|beyonak|beyonak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>yo</i> (&quot;good&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
-worst|behaitnak|behaitnak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>hait</i> (&quot;bad&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
-newest|be'ananak|beananak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i></i> (&quot;&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
-oldest|be'olnak|beolnak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i></i> (&quot;&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
-lowest|belounak|belounak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i></i> (&quot;&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
-highest|beteinak|beteinak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i></i> (&quot;&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
-longest|belennak|belennak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i></i> (&quot;&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
-shortest|beshonnak|beshonnak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i></i> (&quot;&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
+least|beplunnak|beplunnak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>plung</i> (&quot;little&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
+best|beyonak|beyonak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>yong</i> (&quot;good&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
+worst|behaitnak|behaitnak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>haitung</i> (&quot;bad&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
+newest|be'ananak|be'ananak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>anag</i> (&quot;new&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
+oldest|be'olnak|be'olnak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>olung</i> (&quot;old&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
+lowest|belounak|belounak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>loung</i> (&quot;low&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
+highest|beteinak|beteinak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>teing</i> (&quot;high&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
+longest|belennak|belennak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>leng</i> (&quot;long&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
+shortest|beshonnak|beshonnak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>shong</i> (&quot;short&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
 fast|situng|situq|adjective|adjective||From Old Mampulan|||||
 slow|surong|suroq|adjective|adjective||From Old Mampulan|||||
 fast|sitnak|sitnak|adverb|adverb||From <i>situng</i> (&quot;fast&quot;)|||||
 slowly|suronak|suronak|adverb|adverb||From <i>surong</i> (&quot;slow&quot;)|||||
-every|maing|maiq|adverb|adverb|||||||
+every|maing|maiq|adverb|adverb||From Old Mampulan|||||
 annually|maitiun|maitiun|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>tiuin</i> (&quot;year&quot;)|||||
 yearly|maitiun|maitiun|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>tiuin</i> (&quot;year&quot;)|||||
 daily|mairou|mairou|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>rou</i> (&quot;day&quot;)|||||
@@ -520,7 +520,7 @@ bus|bas|bas|noun|noun||From <i>bus</i>|||||
 bus stop|bas sa sunas|bas sa sunas|noun|noun||From <i>bas</i> (&quot;bus&quot;) + <i>sunas</i> (&quot;station&quot;)|||||
 pole|pou|pou|noun|noun||From Old Mampulan|||||
 disturb|damarun|damarun|verb|run verb||From Old Mampulan|||||
-sad|luktung|luktung|adjective|ng adjective||From Old Mampulan|||||
+sad|luktung|luktuq|adjective|ng adjective||From Old Mampulan|||||
 sadness|luktu|luktu|noun|noun||From Old Mampulan|||||
 good|yong|yoq|adjective|ng adjective||From Old Mampulan|||||
 morning|alo|alo|noun|noun||From Old Mampulan|||||
@@ -599,8 +599,7 @@ cape|mekain|mekain|noun|noun|(geography) A piece or point of land, extending bey
 ball|bano|bano|noun|noun||From Rabbit Language|||||
 mountain|woren|woren|noun|noun||From <i>woun</i> (&quot;wolf&quot;) + <i>orena</i> (&quot;ear&quot;). Possibly named because of similarity of wolf ear to shape of mountains|||||
 bran|tuno|tuno|noun|noun||From Old Rabbit Language|||||
-conflagration|||||||||thanks to kit||
-target|kitan|kitan|noun|noun|||||||
+target|kitan|kitan|noun|noun||From Old Mampulan|||||
 destination|dêskitan|de^skitan|noun|noun|the place at the end of a journey|From <i>des</i> (&quot;to&quot;) + <i>kitan</i> (&quot;target&quot;)|||||
 duck|saner|saner|noun|noun||From Old Turtle Mampulan|||||
 sing|naikun|naikun|verb|un verb||From Old Mampulan|||||
@@ -629,7 +628,7 @@ cause|intin|intin|noun|noun||From Old Mampulan <i>hintein</i>|||||
 the|-|-|article|article|no equivalent in Mampulan||||||
 a|ing|ing|article|article||From <i>i</i> (&quot;one&quot;)|||||
 not|di|di|adverb|adverb||From Old Mampulan|||||
-if|fi|fi|conjunction|conjunction||From Old Mampulan|||||
+if|pag|pag|conjunction|conjunction||From Old Mampulan|||||
 then|zen|zen|adverb|adverb||From Old Mampulan|||||
 border|wasa|wasa|noun|noun||From Old Mampulan|||||
 limit|shen|xen|noun|noun||From Old Mampulan|||||
@@ -645,8 +644,8 @@ provocation|rosbak|rosbak|noun|noun||From <i>ros</i> (&quot;challenge&quot;) + <
 bow|bogan|bogan|noun|noun|||||||
 rainbow|ralklon|ralklon|noun|noun||From <i>ral</i> (&quot;rain&quot;) + <i>klon</i> (&quot;color&quot;)|||||
 journey|teil|teil|noun|noun||From Old Turtule Mampulan|||||
-circumference|blainshurnas|blainshurnas|noun|noun||From <i>shur</i> (&quot;around&quot;) + <i>-nas</i> (&quot;nominalizing suffix&quot;)|||||
 perimeter|shurnas|shurmas|noun|noun||From <i>shur</i> (&quot;around&quot;) + <i>-nas</i> (&quot;nominalizing suffix&quot;)|||||
+circumference|blainshurnas|blainshurnas|noun|noun||From <i>blain</i> (&quot;circle&quot;) + <i>shurnas</i> (&quot;perimeter&quot;)|||||
 return|nutun|nutun|verb|un verb||From Old Mampulan|||||
 act|us|us|noun|noun||From Old Mampulan|||||
 act|usun|usun|verb|un verb||From <i>us</i> (&quot;act&quot;)|||||
@@ -711,17 +710,17 @@ map|krityon|krityon|noun|noun||From <i>krit</i> (&quot;paper&quot;) + <i>yon</i>
 tribe|tabi|tabi|noun|noun||From Old Mampulan|||||
 house|prot|prot|noun|noun||From Old Mampulan|||||
 family|prottabi|prottabi|noun|noun||From <i>prot</i> (&quot;house&quot;) + <i>tabi</i> (&quot;tribe&quot;)|||||
-investigate|lukounun|lukounun|verb|un verb||From <i>lukoun</i> (&quot;investigation&quot;)|||||
-inverstigation|lukoun|lukoun|noun|noun||From Old Mampulan|||||
-appraise|lukounsarun|lukounsarun|verb|un verb||From Old Mampulan|||||
-appraisal|lukounsar|lukounsar|noun|noun||From <i>lukoun</i> (&quot;investigation&quot;) + <i>sar</i> (&quot;fix&quot;)|||||
+investigate|delun|delun|verb|un verb||From <i>del</i> (&quot;investigation&quot;)|||||
+inverstigation|del|del|noun|noun||From Old Mampulan|||||
+appraisal|delsar|delsar|noun|noun||From <i>del</i> (&quot;investigation&quot;) + <i>sar</i> (&quot;fix&quot;)|||||
+appraise|delsarun|delsarun|verb|un verb||From <i>delsar</i> (&quot;appraisal&quot;)|||||
 leader|kirounwan|kirounwan|noun|noun||From <i>kiroun</i> (&quot;to lead&quot;) + <i>wan</i> (&quot;person&quot;)|||||
 govern|balonun|balonun|noun|noun||From <i>balon</i> (&quot;government&quot;)|||||
 government|balon|balon|noun|noun||From Old Mampulan|||||
 health|heltras|heltras|noun|noun||From <i>helutairas</i>, which is from <i>helu</i> (&quot;to save&quot;) + <i>tai</i> (&quot;body&quot;) + <i>ras</i> (&quot;nominalizing suffix&quot;).|||||
 truth|tail|tailnamo|noun|noun||From Old Mampulan <i>tahil</i>|||||
 look up to|namorun|namorun|verb|run verb||From Old Mampulan|||||
-faith|tailnamo|tailnamo|noun|noun||From <i>rein</i> (&quot;&quot;) + <i>reinnamo</i> (&quot;&quot;)|||||
+faith|tailnamo|tailnamo|noun|noun||From <i>tail</i> (&quot;&quot;) + <i>namo</i> (&quot;&quot;)|||||
 latitude|râtido|ra^tido|noun|noun||From <i>rati</i> (&quot;&quot;) + <i>do</i> (&quot;degree&quot;)|||||
 longitude|ardo|ardo|noun|noun||From <i>ar</i> (&quot;&quot;) + <i>do</i> (&quot;degree&quot;)|||||
 alone|lating|lating|adjective|ng adjective||From <i>lat</i> (&quot;all&quot;) + <i>i</i> (&quot;one&quot;)|||||
@@ -799,30 +798,40 @@ list|tet|tet|noun|noun||From Old Turtle Mampulan|||||
 vocabulary|satatet|satatet|noun|noun||From <i>sata</i> (&quot;word&quot;) + <i>tet</i> (&quot;list&quot;)|||||
 brace|pretun|pretun|verb|verb||From Old Mampulan|||||
 carry|butun|butun|verb|verb||From Old Mampulan|||||
-support|dondesbut|dondesbut|noun|noun||From <i>doundes</i> (&quot;under&quot;) + <i>butun</i> (&quot;carry&quot;)|||||
-support|dondesbutun|dondesbutun|verb|un verb||From <i>doundesbut</i> (&quot;support&quot;)|||||
+support|donbut|donbut|noun|noun||From <i>doun</i> (&quot;down&quot;) + <i>butun</i> (&quot;carry&quot;)|||||
+support|donbutun|donbutun|verb|un verb||From <i>dounbut</i> (&quot;support&quot;)|||||
 statement|wot|wot|noun|noun||From Old Mampulan|||||
 state|wotun|wotun|verb|verb|to state something|From <i>wot</i> (&quot;statement&quot;)|||||
-argument|dondesbutwot|dondesbutwot|noun|noun||From <i>dondesbut</i> (&quot;support&quot;) + <i>wot</i> (&quot;statement&quot;)|||||
-argue|dondesbutwotun|dondesbutwotun|verb|un verb||From <i>dondesbutwot</i> (&quot;argument&quot;)|||||
+argument|donbutwot|donbutwot|noun|noun||From <i>donbut</i> (&quot;support&quot;) + <i>wot</i> (&quot;statement&quot;)|||||
+argue|donbutwotun|donbutwotun|verb|un verb||From <i>donbutwot</i> (&quot;argument&quot;)|||||
 contract|mulyak|mulyak|noun|noun||From <i>mul</i> (&quot;&quot;) + <i>yak</i> (&quot;&quot;)|||||
 emphasis|tuyosira|tuyosira|noun|noun||From <i>tuyo</i> (&quot;&quot;) + <i>sira</i> (&quot;&quot;)|||||
 speed|sitdo|sitdo|noun|noun||From <i>sit</i> (&quot;speed&quot;) + <i>do</i> (&quot;degree&quot;)|||||
 high-speed|teisit|teisit|noun|noun||From <i>tei</i> (&quot;high&quot;) + <i>sit</i> (&quot;speed&quot;)|||||
 highway|teisitroun|teisitroun|noun|noun||From <i>teisit</i> (&quot;high-speed&quot;) + <i>roun</i> (&quot;road&quot;)|||||
 source|mina|mina|noun|noun|rson, place or thing from which something (information, goods, etc.) comes or is acquired.|From Old Mampulan|||||
-etymology|satamînaga|satami^naga|noun|noun||From <i></i> (&quot;word&quot;) + <i></i> (&quot;source&quot;) + <i>ga</i> (&quot;study&quot;)|||||
+etymology|satamînaga|satami^naga|noun|noun||From <i>sata</i> (&quot;word&quot;) + <i>mina</i> (&quot;source&quot;) + <i>ga</i> (&quot;study&quot;)|||||
 horn|noron|noron|noun|noun||From Old Mampulan|||||
-membership|||||||||||
-possession|||||||||||
-preparation|||||||||||
-steak|||||||||||
-union|||||||||||
-cancer|||||||||||
+village|barâng|bara^q|noun|noun||From Old Mampulan|||||
+hill|romo|romo|noun|noun||From Old Mampulan|||||
+valley|bali|bali|noun|noun||From Old Mampulan|||||
+sweat|pawa|pawa|noun|noun||From Old Mampulan|||||
+shadow|mus|mus|noun|noun||From Old Mampulan|||||
+clap|tranun|tranun|verb|un verb||From Old Mampulan|||||
+happiness|sail|sail|noun|noun||From Old Mampulan|||||
+happy|sailung|sailuq|adjective|ung adjective||From <i>sail</i> (&quot;happiness&quot;)|||||
+possession|kūnmai|ku-nmai|noun|noun||From <i>ku-nun</i> (&quot;take&quot;) + <i>mairun</i> (&quot;have&quot;)|||||
+possess|kūnmairun|ku-nmairun|verb|run verb||From <i>kūnmai</i> (&quot;possession&quot;)|||||
+record|sirurun|sirurun|verb|run verb||From Old Mampulan|||||
+entrance|haibi|haibi|noun|noun||From <i>hairun</i> (&quot;enter&quot;) + <i>bi</i> (&quot;mouth&quot;)|||entry||
+entry|haipein|haipein|noun|noun|entry (into a place)|From <i>hairun</i> (&quot;enter&quot;) + <i>bi</i> (&quot;place&quot;)|||||
+entry|siruhai|siruhai|noun|noun|entry (in a form)|From <i>siru</i> (&quot;record&quot;) + <i>hai</i> (&quot;enter&quot;)|||||
+entry|patija|patija|noun|noun|entry (into a club or organization) (participation)|From <i>pati</i> (&quot;&quot;) + <i>ja</i> (&quot;add&quot;)|||||
+entry|haibi|haibi|noun|noun||From <i>hairun</i> (&quot;enter&quot;) + <i>bi</i> (&quot;mouth&quot;)|||entrance||
+steak|steik|steik|noun|noun||From Human Language <i>steak</i>|||||
 currency|||||||||||
 employment|||||||||||
 engineering|||||||||||
-entry|||||||||||
 interaction|||||||||||
 mixture|||||||||||
 preference|||||||||||
@@ -834,7 +843,6 @@ actor|||||||||||
 classroom|||||||||||
 delivery|||||||||||
 device|||||||||||
-difficulty|||||||||||
 drama|||||||||||
 election|||||||||||
 engine|||||||||||
@@ -851,7 +859,6 @@ anxiety|||||||||||
 atmosphere|||||||||||
 awareness|||||||||||
 bath|||||||||||
-bread|||||||||||
 candidate|||||||||||
 climate|||||||||||
 comparison|||||||||||
@@ -868,7 +875,6 @@ mall|||||||||||
 manager|||||||||||
 operation|||||||||||
 recording|||||||||||
-sample|||||||||||
 transportation|||||||||||
 charity|||||||||||
 cousin|||||||||||
@@ -878,7 +884,6 @@ efficiency|||||||||||
 excitement|||||||||||
 extent|||||||||||
 feedback|||||||||||
-guitar|||||||||||
 homework|||||||||||
 mom|||||||||||
 outcome|||||||||||
@@ -953,7 +958,6 @@ reception|||||||||||
 replacement|||||||||||
 revolution|||||||||||
 speech|||||||||||
-village|||||||||||
 warning|||||||||||
 winner|||||||||||
 worker|||||||||||
@@ -1103,7 +1107,6 @@ coast|||||||||||
 action|||||||||||
 age|||||||||||
 boat|||||||||||
-record|||||||||||
 result|||||||||||
 section|||||||||||
 building|||||||||||
@@ -1140,10 +1143,7 @@ craft|||||||||||
 inside|||||||||||
 outside|||||||||||
 standard|||||||||||
-bus|||||||||||
 exchange|||||||||||
-eye|||||||||||
-fire|||||||||||
 position|||||||||||
 pressure|||||||||||
 stress|||||||||||
@@ -1154,7 +1154,6 @@ frame|||||||||||
 issue|||||||||||
 step|||||||||||
 cycle|||||||||||
-face|||||||||||
 item|||||||||||
 metal|||||||||||
 paint|||||||||||
@@ -1164,7 +1163,6 @@ screen|||||||||||
 structure|||||||||||
 view|||||||||||
 account|||||||||||
-ball|||||||||||
 discipline|||||||||||
 medium|||||||||||
 share|||||||||||
@@ -1572,7 +1570,6 @@ comfort|||||||||||
 cow|||||||||||
 crack|||||||||||
 engineer|||||||||||
-entrance|||||||||||
 fault|||||||||||
 grass|||||||||||
 guy|kus|kus|noun|noun|||||||
