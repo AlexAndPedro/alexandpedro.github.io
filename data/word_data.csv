@@ -22,7 +22,7 @@ flow|fou|fou|noun|noun||From Old Mampulan|||||
 flow|fourun|fourun|verb|run verb||From Old Mampulan <i>fou</i> (&quot;flow&quot;)|||||
 current|nagan|nagan|noun|noun||From Eagle Language <i>nagan</i> (&quot;flow&quot;)|||||
 liquid|pal|pal|noun|noun||From Old Mampulan|||||
-land|landon|landon|noun|noun||From Old Mampulan|||||
+land|lan|lan|noun|noun||From Old Mampulan|||||
 ground|alt|alt|noun|noun||From Old Mampulan|||||
 soil|dommap|dommap|noun|noun||From Old Mampulan <i>don</i> (&quot;earth&quot;) + <i>mapa</i> from Eagle Language (&quot;earth&quot;)|||||
 world|yon|yon|noun|noun||From Raccoon Language|||||
@@ -830,7 +830,7 @@ etymology|satamînaga|satami^naga|noun|noun||From <i>sata</i> (&quot;word&quot;)
 horn|noron|noron|noun|noun||From Old Mampulan|||||
 village|barâng|bara^q|noun|noun||From Old Mampulan|||||
 hill|romo|romo|noun|noun||From Old Mampulan|||||
-valley|bali|bali|noun|noun||From Old Mampulan|||||
+valley|nitan|nitan|noun|noun||From Old Mampulan|||||
 sweat|pawa|pawa|noun|noun||From Old Mampulan|||||
 shadow|mus|mus|noun|noun||From Old Mampulan|||||
 clap|tranun|tranun|verb|un verb||From Old Mampulan|||||
@@ -924,16 +924,31 @@ confuse|miktairun|miktairun|verb|un verb||From <i>miktair</i> (&quot;confusion&q
 construction|samatia|samatia|noun|noun||From <i>samanak tiarun</i> (&quot;build together&quot;)|||||
 construct|samatiarun|samatiarun|verb|run verb||From <i>samatiarun</i> (&quot;construction&quot;)|||||
 elevator|elebeitor|elebeitor|noun|noun||From Human Language <i>elevator</i> (&quot;elevator&quot;)|||feeling||
-emotion|main|main|noun|noun|||||||
+emotion|main|main|noun|noun||From Old Mampulan|||||
 battlefield|trounpein|trounpein|noun|noun||From <i>troun</i> (&quot;war&quot;) + <i>pein</i> (&quot;place&quot;)|||||
 employee|yodorawan|yodorawan|noun|noun|||||||
 employer|yodowan|yodowan|noun|noun|||||||
-guest|kian|kian|noun|noun|||||||
+guest|kian|kian|noun|noun||From Old Mampulan|||||
 height|teinas|teinas|noun|noun||From <i>tei</i> (&quot;tall&quot;) + <i>-nas</i> (&quot;the state/quality/measure&quot;)|||||
 leadership|daltwanshin|daltwanxin|noun|noun||From <i>daltwan</i> (&quot;leader&quot;) + <i>shin</i> (&quot;state of&quot;)|||||
 mall|mōl|mo-l|noun|noun||From Human Language <i>mall</i> (&quot;mall&quot;)|||||
 manage|shaindaltun|shaindaltun|verb|un verb||From <i>hand</i> (&quot;hand&quot;) + <i>lead</i> (&quot;lead&quot;)|||||
 manager|shaindaltwan|shaindaltwan|noun|noun|||||||
+connection|bint|bint|noun|noun||From Old Mampulan|||||
+connect|bintun|bintun|verb|un verb||From <i>bint</i> (&quot;connection&quot;)|||||
+angle|lok|lok|noun|noun||From Old Mampulan|||||
+corner|hair|hair|noun|noun|||||||
+triangle|malok|malok|noun|noun||From <i>ma</i> (&quot;three&quot;) + <i>lok</i> (&quot;angle&quot;)|||||
+delta|antakmalok|antakmalok|noun|noun|of a river|From <i>antak</i> (&quot;river&quot;) + <i>malok</i> (&quot;triangle&quot;)|||||
+north|hila|hila|noun|noun||From Old Mampulan|||||
+south|timo|timo|noun|noun||From Old Mampulan|||||
+east|daga|daga|noun|noun||From Old Mampulan|||||
+west|raso|raso|noun|noun||From Old Mampulan|||||
+territory|faitlan|faitlan|noun|noun|||||||
+coast|tikai|tikai|noun|noun|||||||
+middle|kitna|kitna|noun|noun|||||||
+desert|kuban|kuban|noun|noun|||||||
+peak|paitin|paitin|noun|noun|of a mountain||||||
 recording|||||||||||
 transportation|||||||||||
 charity|||||||||||
@@ -1689,7 +1704,7 @@ remove|||||||||||
 return|||||||||||
 complex|||||||||||
 due|||||||||||
-middle|||||||||||
+|||||||||||
 regular|||||||||||
 reserve|||||||||||
 independent|||||||||||
