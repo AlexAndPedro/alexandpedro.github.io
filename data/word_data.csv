@@ -182,7 +182,7 @@ which|dannur|dannur|pronoun|pronoun||From <i>dan</i> (&quot;who&quot;) + <i>nur<
 ant|lanto|lanato|noun|noun|||||||
 anteater|lantokain|lantokain|noun|noun|||||||
 arctic fox |āktikung tuman|a-ktikuq tuman|noun|noun|||||||
-bear|our|our|noun|noun|||||||
+bear|our|our|noun|noun|animal||||||
 boa|nakana|nakana|noun|noun|||||||
 calf|latir|latir|noun|noun|||||||
 coyote|gasa|gasa|noun|noun|||||||
@@ -502,7 +502,7 @@ neat|linung|linuq|adjective|ng adjective|||||||
 random|delin|delin|noun|noun||From <i>de</i> (&quot;not&quot;) + <i>lin</i> (&quot;neat&quot;)|||near||
 close|serung|seruq|adjective|ung adjective|near||||||
 most|benak|benak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
-least|beplunnak|beplunnak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>plung</i> (&quot;little&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
+least|beplunnak|beplunnak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>plung</i> (&quot;little&quot;) + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
 best|beyonak|beyonak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>yong</i> (&quot;good&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
 worst|behaitnak|behaitnak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>haitung</i> (&quot;bad&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
 newest|be'ananak|be'ananak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>anag</i> (&quot;new&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
@@ -521,9 +521,9 @@ yearly|maitiun|maitiun|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>t
 daily|mairou|mairou|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>rou</i> (&quot;day&quot;)|||||
 monthly|maimor|maimor|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>mor</i> (&quot;month&quot;)|||||
 recently|beser|beser|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>ser</i> (&quot;close, near&quot;)|||||
-tomorrow|bupusurou|bupusrou|adverb|adverb||From <i>bupus</i> (&quot;previous&quot;) + <i>rou</i> (&quotd;day&quot;)|||||
+tomorrow|bupusrou|bupusrou|adverb|adverb||From <i>bupus</i> (&quot;next&quot;) + <i>rou</i> (&quot;day&quot;)|||||
 weekly|maisat|maisat|adverb|adverb||From <i>mai</i> (&quot;every&quot;) + <i>tiuin</i> (&quot;year&quot;)|||||
-yesterday|bubinrou|bubinrou|adverb|adverb||From <i>bubin</i> (&quot;previous&quot;) + <i>tiuin</i> (&quotd;day&quot;)|||||
+yesterday|bubinrou|bubinrou|adverb|adverb||From <i>bubin</i> (&quot;previous&quot;) + <i>tiuin</i> (&quot;day&quot;)|||||
 today|nga|qa|adverb|adverb||From Old Mampulan <i>meituan</i>|||||
 tonight|ngakapi|qakapi|adverb|adverb||From <i>nga</i> (&quot;today&quot;) + <i>kapi</i> (&quot;night&quot;)|A dictionary is a type of book which explains the meanings of words.|sata-ka |||
 dictionary|satāka|sata-ka|noun|noun||From <i>sata</i> (&quot;word&quot;) + <i>aka</i> (&quot;book&quot;)|||||
@@ -581,7 +581,6 @@ math|bilga|bilga|noun|noun|An abstract representational system studying numbers,
 a lot|mitang|mitaq|adjective|ng adjective|a large number or amount of (things, people, etc.)|From Old Mampulan <i>meituan</i>|||a lot||
 many|mitang|mitaq|adjective|ng adjective|a large number or amount of (things, people, etc.)|From Old Mampulan <i>meituan</i>|||||
 machine|ki|ki|noun|noun||From Old Mampulan|||||
-air temperature|her sa ondo|her sa ondo|noun|noun|(formal)|her (air) + ondo (temperature)|||||
 airplane|fulki|fulki|noun|noun||From <i>ful</i> (&quot;to fly&quot;) + <i>ki</i> (&quot;machine&quot;)|||||
 soar|neinun|neinun|verb|un verb||From Old Mampulan|||||
 importance|hefig|hefig|noun|noun|Having relevant and crucial value.|From Old Fox Mampulan <i>hefih</i>|||||
@@ -709,6 +708,7 @@ also|lar|lar|adverb|adverb|too|From Old Mampulan|||||
 fit|tekun|tekun|verb|un verb||From Old Mampulan|||||
 so|re|re|conjunction|conjunction|With the result that; for that reason|From Old Mampulan|||||
 but|par|par|conjunction|conjunction||From Old Mampulan|||||
+some|ba|ba|pronoun|pronoun||From Old Mampulan|||||
 everyone|latwan|latwan|pronoun|pronoun||From <i>lat</i> (&quot;all&quot;) + <i>wan</i> (&quot;person&quot;)|||||
 everything|latbu|latbu|pronoun|pronoun||From <i>lat</i> (&quot;all&quot;) + <i>bu</i> (&quot;thing&quot;)|||||
 everywhere|latpein|latpein|pronoun|pronoun||From <i>lat</i> (&quot;all&quot;) + <i>pein</i> (&quot;place&quot;)|||||
@@ -804,6 +804,7 @@ nature|ertan|ertan|noun|noun||From Old Mampulan|||||
 fact|tintail|tintail|noun|noun||From <i>tin</i> (&quot;thing&quot;) + <i>tail</i> (&quot;truth&quot;)|||||
 warm|retung|retuq|adjective|ung adjective||From Old Mampulan|||||
 temperature|retdo|retdo|noun|noun||From <i>ret</i> (&quot;warm&quot;) + <i>do</i> (&quot;degree&quot;)|||||
+air temperature|her sa retdo|her sa retdo|noun|noun|(formal)|her (air) + ondo (temperature)|||||
 recommendation|rekon|rekon|noun|noun||From Old Mampulan|||||
 response|gounlus|gounlus|noun|noun||From <i>goun</i> (&quot;&quot;) + <i>lus</i> (&quot;&quot;)|||||
 selection|mart|mart|noun|noun||From Old Mampulan|||||
@@ -1009,17 +1010,35 @@ to go to church|pangibalgirun|pangibalgirun|noun|noun||From <i>pangi</i> (&quot;
 church|pangibalgipein|pangibalgipein|noun|noun||From <i>pangibalgirun</i> (&quot;to go to church&quot;) + <i>pein</i> (&quot;place&quot;)|||||
 clothes|tamin|tamin|noun|noun||From Old Mampulan|||||
 meal|kainfoun|kainfoun|noun|noun||From <i>kainun</i> (&quot;eat&quot;) + <i>foun</i> (&quot;time&quot;)|||||
-breakfast|alokain||noun|noun||From <i>alo</i> (&quot;morning&quot;) + <i>kainun</i> (&quot;eat&quot;)|||||
-lunch|hirtkain||noun|noun||From <i>hirt</i> (&quot;afternoon&quot;) + <i>kainun</i> (&quot;eat&quot;)|||||
-dinner|kapikain||noun|noun||From <i>kapi</i> (&quot;night&quot;) + <i>kainun</i> (&quot;eat&quot;)|||||
-drawing|||noun|noun|||||||
-hearing|||noun|noun|||||||
-initiative|||||||||||
+breakfast|alokain|alokain|noun|noun||From <i>alo</i> (&quot;morning&quot;) + <i>kainun</i> (&quot;eat&quot;)|||||
+lunch|hirtkain|hirtkain|noun|noun||From <i>hirt</i> (&quot;afternoon&quot;) + <i>kainun</i> (&quot;eat&quot;)|||||
+dinner|kapikain|kapikain|noun|noun||From <i>kapi</i> (&quot;night&quot;) + <i>kainun</i> (&quot;eat&quot;)|||||
+picture|dran|dran|noun|noun||From Old Mampulan|||||
+draw|dransulun|dransulun|verb|un verb||From <i>dran</i> (&quot;picture&quot;) + <i>sulun</i> (&quot;write&quot;)|||||
+drawing|dransul|dransul|noun|noun||From <i>dransulun</i> (&quot;draw&quot;)|||||
+step|lam|lam|noun|noun||From Fox Language|||||
+initiative|hiunlam|hiunlam|noun|noun||From <i>hiunun</i> (&quot;begin&quot;) + <i>lam</i> (&quot;step&quot;)|||||
+rare|chinung|cinuq|adjective|ung adjective||From Old Mampulan|||||
 judgment|||||||||||
 lab|||||||||||
 measurement|||||||||||
 mode|||||||||||
 mud|domin|domin|noun|noun|||||||
+always|latfoun|latfoun|adverb|adverb||From <i>lat</i> (&quot;all&quot;) + <i>foun</i> (&quot;time&quot;)|||||
+often|befoun|befoun|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>foun</i> (&quot;time&quot;)|||||
+sometimes|bafoun|bafoun|adverb|adverb||From <i>ba</i> (&quot;some&quot;) + <i>foun</i> (&quot;time&quot;)|||||
+seldom|chinnak|cinnak|adverb|adverb||From <i>chinung</i> (&quot;rare&quot;) + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||
+never|nar|nar|adverb|adverb||From Old Mampulan|||||
+everytime|maifoun|maifoun|adverb|adverb||From <i>lat</i> (&quot;all&quot;) + <i>wan</i> (&quot;person&quot;)|||every time||
+every time|maifoun|maifoun|adverb|adverb||From <i>lat</i> (&quot;all&quot;) + <i>wan</i> (&quot;person&quot;)|||everytime||
+far|yung|yuq|adjective|ng adjective||From Wolf Language|||igelung||
+far|igelung|igeluq|adjective|ung adjective||From Eagle Language|||yung||
+earth|donbano|donbano|noun|noun|The planet|From <i>don</i> (&quot;earth&quot;) + <i>bano</i> (&quot;ball&quot;)|||||
+bear|gibitanun|gibitanun|verb|un verb|to give birth|From <i>lat</i> (&quot;give&quot;) + <i>foun</i> (&quot;birth&quot;)|||||
+born|gibittan|gibittan|verb|un verb|passive past of bear. |From <i>gibiranun</i> (&quot;bear&quot;)|I was born yesterday.||||
+sea|tiu|tiu|noun|noun||From Fox Language|||||
+thought|rin|rin|noun|noun|||||||
+bridge|plon|plon|noun|noun|||||||
 poetry|||||||||||
 police|||||||||||
 possibility|||||||||||
