@@ -412,7 +412,7 @@ buy|bairun|bairun|verb|run verb||From Old Mampulan|||||||||||||||||||
 wait|alarun|alarun|verb|run verb||From Old Mampulan|||||||||||||||||||
 serve|sābun|sābun|verb|un verb||From Old Mampulan|||||||||||||||||||
 die|dairun|dairun|verb|run verb||From Old Mampulan|||||||||||||||||||
-send|inpoyun|inpoyun|verb|un verb||From Old Mampulan|||||||||||||||||||
+send|sōrun|so-run|verb|run verb||From Old Mampulan|||||||||||||||||||
 expect|yorinun|yorinun|verb|un verb||From Old Mampulan|||||||||||||||||||
 build|tiarun|tiarun|verb|run verb||From Old Mampulan|||||||||||||||||||
 stay|josun|josun|verb|un verb||From Old Mampulan|||||||||||||||||||
@@ -791,7 +791,7 @@ in front of|bindes|bindes|preposition|preposition||From <i>bin</i> (&quot;front&
 under|doundes|doundes|preposition|preposition||From <i>doun</i> (&quot;down&quot;) + <i>des</i> (&quot;destination marker&quot;)|||||||||||||||||||
 behind|pusdes|pusdes|preposition|preposition||From <i>pus</i> (&quot;back&quot;) + <i>des</i> (&quot;destination marker&quot;)|||||||||||||||||||
 opposite|pritdes|pritdes|preposition|preposition||From <i>prit</i> (&quot;opposite&quot;) + <i>des</i> (&quot;destination marker&quot;)|||||||||||||||||||
-in|ditdes|ditdes|preposition|preposition||From <i>dit</i> (&quot;inside&quot;) + <i>des</i> (&quot;destination marker&quot;)|||||||||||||||||||
+in|ditdes|ditdes|preposition|preposition|inside in|From <i>dit</i> (&quot;inside&quot;) + <i>des</i> (&quot;destination marker&quot;)|||||||||||||||||||
 by|fiudes|fiudes|preposition|preposition||From <i>fiu</i> (&quot;next&quot;) + <i>des</i> (&quot;destination marker&quot;)|||||||||||||||||||
 across|tesdes|tesdes|preposition|preposition||From <i>tes</i> (&quot;other&quot;) + <i>des</i> (&quot;destination marker&quot;)|||||||||||||||||||
 too|lor|lar|adverb|adverb|also|From Old Mampulan|||||||||||||||||||
@@ -810,13 +810,13 @@ somewhere|bapein|bapein|pronoun|pronoun||From <i>ba</i> (&quot;some&quot;) + <i>
 anyone|binwan|binwan|pronoun|pronoun||From <i>bin</i> (&quot;next&quot;) + <i>wan</i> (&quot;person&quot;)|||||||||||||||||||
 anything|binbu|binbu|pronoun|pronoun||From <i>bin</i> (&quot;next&quot;) + <i>bu</i> (&quot;thing&quot;)|||||||||||||||||||
 anywhere|binpein|binpein|pronoun|pronoun||From <i>bin</i> (&quot;next&quot;) + <i>pein</i> (&quot;place&quot;)|||||||||||||||||||
-no one|dewan|dewan|pronoun|pronoun||From <i>de</i> (&quot;no&quot;) + <i>wan</i> (&quot;person&quot;)|||||||||||||||||||
-nothing|debu|debu|pronoun|pronoun||From <i>de</i> (&quot;no&quot;) + <i>bu</i> (&quot;thing&quot;)|||||||||||||||||||
-nowhere|depein|depein|pronoun|pronoun||From <i>de</i> (&quot;no&quot;) + <i>pein</i> (&quot;place&quot;)|||||||||||||||||||
+no one|mawan|mawan|pronoun|pronoun||From <i>ma</i> (&quot;absence of&quot;) + <i>wan</i> (&quot;person&quot;)|||||||||||||||||||
+nothing|mabu|mabu|pronoun|pronoun||From <i>ma</i> (&quot;absence of&quot;) + <i>bu</i> (&quot;thing&quot;)|||||||||||||||||||
+nowhere|mapein|mapein|pronoun|pronoun||From <i>ma</i> (&quot;absence of&quot;) + <i>pein</i> (&quot;place&quot;)|||||||||||||||||||
 everybody|latwan|latwan|pronoun|pronoun||From <i>lat</i> (&quot;all&quot;) + <i>wan</i> (&quot;person&quot;)|||||||||||||||||||
 somebody|bawan|bawan|pronoun|pronoun||From <i>ba</i> (&quot;some&quot;) + <i>wan</i> (&quot;person&quot;)|||||||||||||||||||
 anybody|binwan|binwan|pronoun|pronoun||From <i>bin</i> (&quot;next&quot;) + <i>wan</i> (&quot;person&quot;)|||||||||||||||||||
-nobody|dewan|dewan|pronoun|pronoun||From <i>de</i> (&quot;no&quot;) + <i>wan</i> (&quot;person&quot;)|||||||||||||||||||
+nobody|mawan|mawan|pronoun|pronoun||From <i>ma</i> (&quot;absence of&quot;) + <i>wan</i> (&quot;person&quot;)|||||||||||||||||||
 can|katun|katun|verb|un verb||From Old Mampulan|||||||||||||||||||
 paper|krit|krit|noun|noun||From Old Mampulan|||||||||||||||||||
 map|krityon|krityon|noun|noun||From <i>krit</i> (&quot;paper&quot;) + <i>yon</i> (&quot;world&quot;)|||||||||||||||||||
@@ -1152,7 +1152,9 @@ hope|perân|pera^n|noun|noun||From Old Mampulan|||||||||||||||||||
 joy|mer|mer|noun|noun||From Old Mampulan|||||||||||||||||||
 sorrow|sain|sain|noun|noun||From Old Mampulan|||||||||||||||||||
 steal|nusun|nusun|verb|un verb||From Old Mampulan|||||||||||||||||||
-free|debair|debair|noun|noun|no charge|de + bair|||||||||||||||||||
+fee|bair|bair|noun|noun||From Old Mampulan|||||||||||||||||||
+free|mabairung|mabairuq|adjective|ung adjective|(formal) no charge|From <i>ma</i> (&quot;absence of&quot;) + <i>bair</i> (&quot;fee&quot;)|||||||||||||||||||
+free|gratung|gratuq|adjective|ung adjective|no charge||||||||||||||||||||
 be accustomed|biusorun|biusorun|verb|run verb||biuso|||||||||||||||||||
 thief|nuswan|nuswan|noun|noun||nus + wan|||||||||||||||||||
 bitter|baitung|baituq|adjective|ung adjective|||||||||||||||||||||
@@ -1173,11 +1175,25 @@ destiny|diunfor|dounfor|noun|noun||diun + for|||||||||||||||||||
 warrior|trounwan|trounwan|noun|noun||From <i>troun</i> (&quot;war&quot;) + <i>wan</i> (&quot;person&quot;)|||||||||||||||||||
 now|nga|nga|adverb|adverb|||||||||||||||||||||
 ready|berung|berung|adjective|ung adjective|||||||||||||||||||||
-departure|oubak|oubak|noun|noun||出発|||||||||||||||||||
+departure|oubak|oubak|noun|noun||From <i>ou</i> (&quot;exit&quot;) + <i>bak</i> (&quot;departure, discharge, emit&quot;)|||||||||||||||||||
 depart|oubakun|oubakun|verb|un verb|||||||||||||||||||||
-feast|||||||||||||||||||||||||
-police|||||||||||||||||||||||||
-possibility|||||||||||||||||||||||||
+star|tuin|tuin|noun|noun||From Old Mampulan|||||||||||||||||||
+voice|bon|bon|noun|noun||From Old Mampulan|||||||||||||||||||
+town|tro|tro|noun|noun|||||||||||||||||||||
+rub|franun|franun|verb|un verb|||||||||||||||||||||
+police|lisprowan|lisprowan|noun|noun||From <i>lis</i> (&quot;law&quot;) + <i>pro</i> (&quot;protect&quot;) + <i>wan</i> (&quot;person&quot;)|||||||||||||||||||
+possible|katung|katuq|adjective|ung adjective|||||||||||||||||||||
+possibility|katshin|katxin|noun|noun|||||||||||||||||||||
+transmission|shoundessōrunnas|xoundesso-runnas|noun|noun||From <i>shoundes sōrun</i> (&quot;send over&quot;) + <i>-nas</i> (&quot;the state/quality/measure&quot;)|||||||||||||||||||
+transmission|lakgai|lakgai|noun|noun|(formal)|From <i>lak</i> (&quot;&quot;) + <i>gai</i> (&quot;&quot;)|||||||||||||||||||
+interruption|ditlon|ditlon|noun|noun||From <i>dit</i> (&quot;center&quot;) + <i>lon</i> (&quot;&quot;)|||||||||||||||||||
+signal|tailgo|tailgo|noun|noun||From <i>tail</i> (&quot;&quot;) + <i>go</i> (&quot;&quot;)|||||||||||||||||||
+identification|ites'hirnas|iteshirnas|noun|noun||From <i>i</i> (&quot;one&quot;) + <i>tes</i> (&quot;other&quot;) + <i>hir</i> (&quot;same&quot;) +  + <i>-nas</i> (&quot;the state/quality/measure&quot;)|||||||||||||||||||
+identification|shikdour|shikdour|noun|noun|||||||||||||||||||||
+trace|roupun|roupun|verb|un verb|||||||||||||||||||||
+finish|artun|artun|verb|un verb|||||||||||||||||||||
+accomplish|yo'artun|yo'artun|verb|un verb||From <i>yo</i> (&quot;good&quot;) + <i>art</i> (&quot;finish&quot;)|||||||||||||||||||
+designation|fingsar|fingsar|noun|noun||fing + sar|||||||||||||||||||
 procedure|||||||||||||||||||||||||
 queen|||||||||||||||||||||||||
 ratio|||||||||||||||||||||||||
@@ -1187,7 +1203,6 @@ satisfaction|||||||||||||||||||||||||
 sector|||||||||||||||||||||||||
 signature|||||||||||||||||||||||||
 significance|||||||||||||||||||||||||
-town|tro|tro|noun|noun|||||||||||||||||||||
 vehicle|||||||||||||||||||||||||
 volume|||||||||||||||||||||||||
 wife|||||||||||||||||||||||||
@@ -1201,7 +1216,7 @@ committee|||||||||||||||||||||||||
 conversation|||||||||||||||||||||||||
 database|||||||||||||||||||||||||
 enthusiasm|||||||||||||||||||||||||
-error|ei||||||||||||||||||||||||
+error|||||||||||||||||||||||||
 farmer|||||||||||||||||||||||||
 gate|||||||||||||||||||||||||
 girl|||||||||||||||||||||||||
@@ -1431,8 +1446,6 @@ attempt|||||||||||||||||||||||||
 date|||||||||||||||||||||||||
 link|||||||||||||||||||||||||
 post|||||||||||||||||||||||||
-star|tuin|tuin|noun|noun||From Old Mampulan|||||||||||||||||||
-voice|bon|bon|noun|noun||From Old Mampulan|||||||||||||||||||
 capital|||||||||||||||||||||||||
 friend|||||||||||||||||||||||||
 self|||||||||||||||||||||||||
@@ -1528,23 +1541,17 @@ minimum|||||||||||||||||||||||||
 path|kamîn|kami^n|noun|noun|||||||||||||||||||||
 progress|||||||||||||||||||||||||
 project|||||||||||||||||||||||||
-sea|||||||||||||||||||||||||
-south|||||||||||||||||||||||||
 status|||||||||||||||||||||||||
 stuff|||||||||||||||||||||||||
 ticket|||||||||||||||||||||||||
 tour|||||||||||||||||||||||||
-angle|||||||||||||||||||||||||
-breakfast|||||||||||||||||||||||||
 confidence|||||||||||||||||||||||||
 degree|||||||||||||||||||||||||
 doctor|||||||||||||||||||||||||
 dot|||||||||||||||||||||||||
-dream|||||||||||||||||||||||||
 duty|||||||||||||||||||||||||
 essay|||||||||||||||||||||||||
 father|||||||||||||||||||||||||
-fee|||||||||||||||||||||||||
 finance|||||||||||||||||||||||||
 luck|||||||||||||||||||||||||
 peace|||||||||||||||||||||||||
@@ -1829,14 +1836,10 @@ general|||||||||||||||||||||||||
 specific|||||||||||||||||||||||||
 common|||||||||||||||||||||||||
 simple|||||||||||||||||||||||||
-possible|||||||||||||||||||||||||
 particular|||||||||||||||||||||||||
-today|||||||||||||||||||||||||
 major|||||||||||||||||||||||||
 personal|||||||||||||||||||||||||
-current|||||||||||||||||||||||||
 national|||||||||||||||||||||||||
-cut|||||||||||||||||||||||||
 natural|||||||||||||||||||||||||
 physical|||||||||||||||||||||||||
 check|||||||||||||||||||||||||
@@ -1915,7 +1918,6 @@ worry|||||||||||||||||||||||||
 handle|||||||||||||||||||||||||
 leading|||||||||||||||||||||||||
 release|||||||||||||||||||||||||
-finish|||||||||||||||||||||||||
 normal|||||||||||||||||||||||||
 press|||||||||||||||||||||||||
 ride|||||||||||||||||||||||||
@@ -2090,7 +2092,6 @@ reply|||||||||||||||||||||||||
 representative|||||||||||||||||||||||||
 resist|||||||||||||||||||||||||
 rip|||||||||||||||||||||||||
-rub|franun|franun|verb|un verb|||||||||||||||||||||
 silly|||||||||||||||||||||||||
 smile|||||||||||||||||||||||||
 spell|||||||||||||||||||||||||
