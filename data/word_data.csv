@@ -644,10 +644,10 @@ how are you|ro dron yaru|ro dron yaru|expression|expression||From <i>ro</i> (&qu
 congratulations|onenggirun|oneqgirun|expression|expression||From <i>onen</i> (&quot;grace&quot;) + <i>girun</i> (&quot;give&quot;)|||||||||||||||||||
 nice to meet you|yongarun|yongarun|expression|expression||From <i>good</i> (&quot;good&quot;) + <i>meet</i> (&quot;give&quot;)|||||||||||||||||||
 welcome|yongrai|yongrai|expression|expression||From <i>good</i> (&quot;good&quot;) + <i>meet</i> (&quot;give&quot;)|||||||||||||||||||
-this|atong|atong|adjective|ng adjective|The (thing) here. Note in Mampulan, singular and plural form are the same (this and these)|From Old Mampulan|||||||||||||||||||
-that|osang|osang|adjective|ng adjective|The (thing) there. Note in Mampulan, singular and plural form are the same (that and those)|From Old Mampulan|||||||||||||||||||
-these|atong|yatong|adjective|ng adjective|The (thing) here. Note in Mampulan, singular and plural form are the same (this and these)|From Old Mampulan|||||||||||||||||||
-those|osang|yosang|adjective|ng adjective|The (thing) there. Note in Mampulan, singular and plural form are the same (that and those)|From Old Mampulan|||||||||||||||||||
+this|atong|atoq|adjective|ng adjective|The (thing) here. Note in Mampulan, singular and plural form are the same (this and these)|From Old Mampulan|||||||||||||||||||
+that|osang|osaq|adjective|ng adjective|The (thing) there. Note in Mampulan, singular and plural form are the same (that and those)|From Old Mampulan|||||||||||||||||||
+these|atong|yatoq|adjective|ng adjective|The (thing) here. Note in Mampulan, singular and plural form are the same (this and these)|From Old Mampulan|||||||||||||||||||
+those|osang|yosaq|adjective|ng adjective|The (thing) there. Note in Mampulan, singular and plural form are the same (that and those)|From Old Mampulan|||||||||||||||||||
 this|ato|ato|pronoun|pronoun||From Old Mampulan|||||||||||||||||||
 that|osa|osa|pronoun|pronoun||From Old Mampulan|||||||||||||||||||
 these|ato|yato|pronoun|pronoun||From Old Mampulan|||||||||||||||||||
@@ -1220,10 +1220,12 @@ charter|konsukaiki|konsukaiki|noun|noun|||||||||||||||||||||
 airspace|her'akon|her'akon|noun|noun|||||||||||||||||||||
 captain|dalt|dalt|noun|noun|||||||||||||||||||||
 sea captain|pundalt|pundalt|noun|noun|||||||||||||||||||||
-decision|ketusar|ketusar|noun|noun||決定|||||||||||||||||||
-regiment|rendui|rendui|noun|noun||連隊|||||||||||||||||||
-battalion|dadui|dadui|noun|noun||大隊|||||||||||||||||||
-surface|||||||||||||||||||||||||
+decision|ketsar|ketsar|noun|noun||<i>ket</i> (&quot;decide&quot;) + <i>sar</i> (&quot;determine&quot;)|||||||||||||||||||
+regiment|rendui|rendui|noun|noun||<i>ren</i> (&quot;connect&quot;) + <i>dui</i> (&quot;team&quot;)|||||||||||||||||||
+battalion|dadui|dadui|noun|noun||From <i>da</i> (&quot;big&quot;) + <i>dui</i> (&quot;team&quot;)|||||||||||||||||||
+magic|naifait|naifait|noun|noun||Ultimately from <i>naik</i> (&quot;song&quot;) + <i>fait</i> (&quot;rule&quot;)|||||||||||||||||||
+surface|men|men|noun|noun|||||||||||||||||||||
+lick|dilun|dilun|verb|un verb|||||||||||||||||||||
 procedure|||||||||||||||||||||||||
 link|||||||||||||||||||||||||
 ratio|||||||||||||||||||||||||
