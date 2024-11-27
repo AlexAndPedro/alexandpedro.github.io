@@ -1061,7 +1061,7 @@ north|hila|hila|noun|noun||From Old Mampulan|||||||||||||||||||
 south|timo|timo|noun|noun||From Old Mampulan|||||||||||||||||||
 east|daga|daga|noun|noun||From Old Mampulan|||||||||||||||||||
 west|raso|raso|noun|noun||From Old Mampulan|||||||||||||||||||
-territory|faitlan|faitlan|noun|noun||From Old Mampulan|||||||||||||||||||
+territory|faitlan|faitlan|noun|noun||From <i>fait</i> (&quot;rule&quot;) + <i>lan</i> (&quot;land&quot;)|||||||||||||||||||
 coast|tikai|tikai|noun|noun||From Old Mampulan|||||||||||||||||||
 middle|kitna|kitna|noun|noun||From Old Mampulan|||||||||||||||||||
 desert|kuban|kuban|noun|noun||From Old Mampulan|||||||||||||||||||
@@ -1103,7 +1103,7 @@ distant|akonselung|akonseluq|adjective|ung adjective||From <i>akonsel</i> (&quot
 cold|migung|miguq|adjective|ung adjective||From Old Mampulan|||||||||||||||||||
 refrigerate|mignaltun|mignaltun|verb|un verb||From <i>mignaltun</i> (&quot;become cold&quot;)|||||||||||||||||||
 refrigeration|mignaltnas|mignaltnas|noun|noun||From <i>mignaltun</i> (&quot;refrigerate&quot;) + <i>-nas</i> (&quot;nominalizing suffix&quot;)|||||||||||||||||||
-refrigerator|mignaltunnaski|mignaltunnaski|noun|noun||From <i>mignaltunnas</i> (&quot;refrigeration&quot;) + <i>ki</i> (&quot;machine&quot;)|||||||||||||||||||
+refrigerator|mignaltnaski|mignaltnaski|noun|noun||From <i>mignaltnas</i> (&quot;refrigeration&quot;) + <i>ki</i> (&quot;machine&quot;)|||||||||||||||||||
 revenue|reditnas|reditnas|noun|noun||From Eagle Language <i>redit</i> (&quot;return&quot;) + <i>-nas</i> (&quot;nominalizing suffix&quot;)|||||||||||||||||||
 session|zanas|zanas|noun|noun||From <i>zarun</i> (&quot;sit&quot;) + <i>-nas</i> (&quot;nominalizing suffix&quot;)|||||||||||||||||||
 singer|naikwan|naikwan|noun|noun||From <i>naikun</i> (&quot;sing&quot;) + <i>wan</i> (&quot;person&quot;)|||||||||||||||||||
@@ -1113,10 +1113,10 @@ bonus|jabu|jabu|noun|noun||From <i>jarun</i> (&quot;add&quot;) + <i>bu</i> (&quo
 room|past|past|noun|noun||From Old Mampulan|||||||||||||||||||
 cabinet|lasdesopast|lasdesopast|noun|noun||From <i>lasdesorun</i> (&quot;store&quot;) + <i>past</i> (&quot;room&quot;)|||||||||||||||||||
 childhood|loponshin|loponxin|noun|noun||From <i>lopon</i> (&quot;child&quot;) + <i>shin</i> (&quot;state&quot;)|||||||||||||||||||
-value|bal|bal|noun|noun||From <i></i> (&quot;&quot;) + <i></i> (&quot;&quot;)|||||||||||||||||||
-praise|balgirun|balgirun|verb|run verb||From <i></i> (&quot;&quot;) + <i></i> (&quot;&quot;)|||||||||||||||||||
+value|bal|bal|noun|noun||From Old Mampulan|||||||||||||||||||
+praise|balgirun|balgirun|verb|run verb||From <i>bal</i> (&quot;value&quot;) + <i>girun</i> (&quot;give&quot;)|||||||||||||||||||
 god|pangi|paqi|noun|noun||From Pangil the Wolf Legend. Pangil is the first legend of Mampulan and early animals and humans treated him like a god.|||||||||||||||||||
-to go to church|pangibalgirun|pangibalgirun|noun|noun||From <i>pangi</i> (&quot;god&quot;) + <i>balgirun</i> (&quot;priase&quot;)|||||||||||||||||||
+to go to church|pangibalgirun|pangibalgirun|noun|noun||From <i>pangi</i> (&quot;god&quot;) + <i>balgirun</i> (&quot;praise&quot;)|||||||||||||||||||
 church|pangibalgipein|pangibalgipein|noun|noun||From <i>pangibalgirun</i> (&quot;to go to church&quot;) + <i>pein</i> (&quot;place&quot;)|||||||||||||||||||
 clothes|tamin|tamin|noun|noun||From Old Mampulan|||||||||||||||||||
 meal|kainfoun|kainfoun|noun|noun||From <i>kainun</i> (&quot;eat&quot;) + <i>foun</i> (&quot;time&quot;)|||||||||||||||||||
@@ -1353,7 +1353,9 @@ conclusion|dounparnas|dounparnas|noun|noun||From <i>doun + parun</i> (&quot;nail
 befriend|fennaltun|fennaltun|verb|un verb||From <i>fen</i> (&quot;friend&quot;) + <i>naltun</i> (&quot;become&quot;)|||||||||||||||||||
 contribution||||||From Old Mampulan|||||||||||||||||||
 courage|alnan|alnan|noun|noun||From Old Mampulan|||||||||||||||||||
-dad||||||From Old Mampulan|||||||||||||||||||
+retaliation|frounnutnas|frounnutnas|noun|noun||From <i>return + fight</i> (&quot;froun nutnas&quot;)|||||||||||||||||||
+retaliate|frounnutun|frounnutun|verb|un verb||From <i>frounnutnas</i> (&quot;retaliation&quot;)|||||||||||||||||||
+retaliatory|frounnutung|frounnutuq|adjective|ung adjective||From <i>frounnutnas</i> (&quot;retaliation&quot;)|||||||||||||||||||
 desk||||||From Old Mampulan|||||||||||||||||||
 drawer||||||From Old Mampulan|||||||||||||||||||
 examination||||||From Old Mampulan|||||||||||||||||||
@@ -1366,12 +1368,12 @@ insect||||||From Old Mampulan|||||||||||||||||||
 inspector||||||From Old Mampulan|||||||||||||||||||
 ladder||||||From Old Mampulan|||||||||||||||||||
 menu||||||From Old Mampulan|||||||||||||||||||
-penalty||||||From Old Mampulan|||||||||||||||||||
+penalty|kē|ke-|noun|noun||From Old Mampulan|||||||||||||||||||
 profession||||||From Old Mampulan|||||||||||||||||||
 professor||||||From Old Mampulan|||||||||||||||||||
-reaction||||||From Old Mampulan|||||||||||||||||||
+reaction|fegoun|fegoun|noun|noun||From Old Mampulan|||||||||||||||||||
 requirement||||||From Old Mampulan|||||||||||||||||||
-salad||||||From Old Mampulan|||||||||||||||||||
+salad|salata|salata|noun|noun||From Human Language <i>salata</i>|||||||||||||||||||
 sister||||||From Old Mampulan|||||||||||||||||||
 supermarket||||||From Old Mampulan|||||||||||||||||||
 weakness||||||From Old Mampulan|||||||||||||||||||
