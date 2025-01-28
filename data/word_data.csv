@@ -1,4 +1,4 @@
-﻿english|mampulan|mampulan symbol|part of speech English|part of speech Mampula|definition|etymology|english example|mampulan example|see also||||||||||||||||
+﻿english|mampulan|mampulan symbol|part of speech English|part of speech Mampula|definition|etymology|english example|mampulan example|see also|Inspiration|||||||||||||||
 water|awon|awon|noun|noun|(uncountable) A substance (of molecular formula H2O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam.|From Old Mampulan <i>hawon</i>|Water is essential to life on Earth.|Awon ni bitan des donbano kan teq.|||||||||||||||||
 earth|don|don|noun|noun|(uncountable) Soil|From Old Mampulan|We need earth to grow plants.|koi ni pula is gorun tun don is kailun.|mapa||||||||||||||||
 fire|hus|hus|noun|noun|A chemical reaction involving the bonding of oxygen with carbon or other fuel, with the production of heat and the presence of flame or smouldering.|From Old Mampulan|That fire is hot!|Osang hus ni gisung te!|fog||||||||||||||||
@@ -89,7 +89,7 @@ school|gapein|gapein|noun|noun||From <i>ga</i> (&quot;study&quot;) + <i>pein</i>
 school|galokon|gapein|noun|noun||From Eagle Language <i>ga</i> (&quot;study&quot;) + <i>lokon</i> (&quot;place&quot;)|||||||||||||||||||
 student|gawan|gawan|noun|noun||From <i>ga</i> (&quot;study&quot;) + <i>wan</i> (&quot;person&quot;)|||||||||||||||||||
 say|sabun|sabun|verb|un verb||From Old Mampulan|||||||||||||||||||
-against|fede|fede|preposition|preposition||From <i>fe</i> (&quot;against&quot;) + <i>de</i> (&quot;tp&quot;)|||||||||||||||||||
+against|fede|fede|preposition|preposition||From <i>fe</i> (&quot;against&quot;) + <i>de</i> (&quot;to&quot;)|||||||||||||||||||
 contradict|fesabun|fesabun|verb|un verb||From <i>fe-</i> (&quot;against&quot;) + <i>sabun</i> (&quot;say&quot;)|||||||||||||||||||
 postbellum|trounpus|trounpus|noun|noun||From <i>troun</i> (&quot;war&quot;) + <i>pus</i> (&quot;after&quot;)|||||||||||||||||||
 post-war|trounpus|trounpus|noun|noun||From <i>troun</i> (&quot;war&quot;) + <i>pus</i> (&quot;after&quot;)|||||||||||||||||||
@@ -142,12 +142,13 @@ and|to|to|conjunction|conjunction||From Old Mampulan|||||||||||||||||||
 or|et|et|conjunction|conjunction||From Old Mampulan|||||||||||||||||||
 each other|ittes|ittes|pronoun|pronoun|To one another; one to the other; signifies that a verb applies to two or more entities both as subjects and as direct objects:|From <i>I to tes</i> (&quot;one and other&quot;)|||one another||||||||||||||||
 one another|ittes|ittes|pronoun|pronoun|To one another; one to the other; signifies that a verb applies to two or more entities both as subjects and as direct objects:|From <i>I to tes</i> (&quot;one and other&quot;)|||each other||||||||||||||||
-ex-|las-|las-|prefix|prefix||From <i>las</i> (&quot;out&quot;)|||||||||||||||||||
-exsanguination|lasduko|lasduko|noun|noun||From <i>las</i> (&quot;out&quot;) + <i>duko</i> (&quot;blood&quot;)|||||||||||||||||||
+ex-|air-|air-|prefix|prefix||From <i>air</i> (&quot;out&quot;)|||||||||||||||||||
+exsanguination|airduko|airduko|noun|noun||From <i>air</i> (&quot;out&quot;) + <i>duko</i> (&quot;blood&quot;)|||||||||||||||||||
 exsanguination|essanuisnas|essanuisnas|noun|noun||From Eagle Language <i>es-</i> (&quot;out&quot;) + <i>sanuis</i> (&quot;blood&quot;)  + <i>nas</i> (&quot;nominalizing suffix&quot;)|||||||||||||||||||
 effect|ost|ost|noun|noun||From Old Mampulan|||||||||||||||||||
 circle|blain|blain|noun|noun||From Old Mampulan|||||||||||||||||||
-around|blainnak|blainnak|preposition|preposition||From <i>blain</i> (&quot;circle&quot;)|||||||||||||||||||
+around|blainnak|blainnak|adverb|adverb||From <i>blain</i> (&quot;circle&quot;)|||||||||||||||||||
+around|blainnde|blainde|preposition|preposition||From <i>blain</i> (&quot;circle&quot;)|||||||||||||||||||
 influence|bisablain|bisain|noun|noun||From <i>bisa</i> (&quot;effect&quot;) + <i>blain</i> (&quot;circle&quot;)|||||||||||||||||||
 nourish|rukun|rukun|verb|un verb||From Old Mampulan|||||||||||||||||||
 nourished|ruktung|ruktuq|adjective|g adjective||From <i>rukun</i> (&quot;to nourish&quot;) + <i>-tun</i> (&quot;present passive form&quot;)|||||||||||||||||||
@@ -175,7 +176,7 @@ malodor|morsanwer|morsanwer|noun|noun||From Eagle Language <i>mor-</i> (&quot;ba
 malnourished|morruktung|morruktung|adjective|g adjective||From Eagle Language <i>mor-</i> (&quot;bad&quot;) + <i>ruktung</i> (&quot;nourished&quot;)|||haitruktung||||||||||||||||
 malfunction|morkinō|morkino-|noun|noun||From Eagle Language <i>mor-</i> (&quot;bad&quot;) + <i>kinō</i> (&quot;function&quot;)|||haitkinō||||||||||||||||
 malform|morlet|morlet|noun|noun||From Eagle Language <i>mor-</i> (&quot;bad&quot;) + <i>let</i> (&quot;form&quot;)|||haitlet||||||||||||||||
-malignant|morshing|morshing|adjective|g adjective||From Eagle Language <i>mor-</i> (&quot;bad&quot;) + <i>shin</i> (&quot;state of&quot;)|||haitshing||||||||||||||||
+malignant|morshing|morxing|adjective|g adjective||From Eagle Language <i>mor-</i> (&quot;bad&quot;) + <i>shin</i> (&quot;state of&quot;)|||haitshing||||||||||||||||
 malpractice|morsanain|morsanain|noun|noun||From Eagle Language <i>mor-</i> (&quot;bad&quot;) + <i>sanain</i> (&quot;practice&quot;)|||haitsanain||||||||||||||||
 malefactor|moror|moror|noun|noun||From Eagle Language <i>mor-</i> (&quot;bad&quot;) + <i>or</i> (&quot;person&quot;)|||haitwan||||||||||||||||
 maleficent|moryang|moryang|adjective|ng adjective||From Eagle Language <i>mor-</i> (&quot;bad&quot;) + <i>yarun</i> (&quot;to do&quot;)|||haityang||||||||||||||||
@@ -192,7 +193,7 @@ all|lat|lat|adjective|irregular adjective||From Old Mampulan|||||||||||||||||||
 omniscient|latnoung|latnouq|adjective|ng adjective||From <i>lat-</i> (&quot;all, omni-&quot;) + <i>nourun</i> (&quot;to know&quot;)|||||||||||||||||||
 omnipotent|latfortanong|latfortanoq|adjective|ng adjective||From <i>lat-</i> (&quot;all, omni-&quot;) + <i>fortanong</i> (&quot;Old Mampulan for strong&quot;)|||||||||||||||||||
 omnipresent|latbeng|latbeq|adjective|adjective||From <i>lat-</i> (&quot;all, omni-&quot;) + <i>be</i> (&quot;Old Mampulan for strong&quot;)|||||||||||||||||||
-omnipotence|latkatung|latkat-q|adjective|ung adjective||From <i>lat-</i> (&quot;all, omni-&quot;) + <i>kat</i> (&quot;can, able to do&quot;)|||||||||||||||||||
+omnipotence|latsang|latsaq|adjective|ng adjective||From <i>lat-</i> (&quot;all, omni-&quot;) + <i>san</i> (&quot;can, able to do&quot;)|||||||||||||||||||
 omnivore|latkain tounbu|latkain tounbu|noun|noun||From <i>lat-</i> (&quot;all, omni-&quot;) + <i>kainun</i> (&quot;to eat&quot;) + <i>tounbu</i> (&quot;animal&quot;)|||||||||||||||||||
 cat|flis|flis|noun|noun||From Old Mampulan|||||||||||||||||||
 sit|zarun|zarun|verb|run verb||From Old Mampulan|||||||||||||||||||
@@ -219,48 +220,48 @@ how many|dankoun|dankoun|pronoun|pronoun||From <i>dan</i> (&quot;what&quot;) + <
 how much|dankoun|dankoun|pronoun|pronoun||From <i>dan</i> (&quot;what&quot;) + <i>koun</i> (&quot;count&quot;)|||||||||||||||||||
 whose|dansa|dansa|pronoun|pronoun||From <i>duan</i> (&quot;who&quot;) + <i>sa</i> (&quot;shows possession&quot;)|||||||||||||||||||
 which|dannur|dannur|pronoun|pronoun||From <i>dan</i> (&quot;who&quot;) + <i>nur</i> (&quot;part&quot;)|||||||||||||||||||
-ant|lanto|lanato|noun|noun|||||||||||||||||||||
-anteater|lantokain|lantokain|noun|noun|||||||||||||||||||||
-arctic fox |āktikung tuman|a-ktikuq tuman|noun|noun|||||||||||||||||||||
-bear|our|our|noun|noun|animal||||||||||||||||||||
-boa|nakana|nakana|noun|noun|||||||||||||||||||||
-calf|latir|latir|noun|noun|||||||||||||||||||||
-coyote|gasa|gasa|noun|noun|||||||||||||||||||||
-dragon |dago|dago|noun|noun|||||||||||||||||||||
-eagle|agala|agala|noun|noun|||||||||||||||||||||
-elephant|ela|ela|noun|noun|||||||||||||||||||||
-falcon |faloun|faloun|noun|noun|||||||||||||||||||||
-fennec fox |feneku|feneku|noun|noun|||||||||||||||||||||
-fly|ngau|qau|noun|noun|(insect)||||||||||||||||||||
-giraffe |gira|gira|noun|noun|||||||||||||||||||||
-goat |kamba|kamba|noun|noun|||||||||||||||||||||
-goose|gansa|gansa|noun|noun|||||||||||||||||||||
-hawk |houk|houk|noun|noun|||||||||||||||||||||
-horse |ama|ama|noun|noun|||||||||||||||||||||
-jaguar |jaguwar|jaguwar|noun|noun|||||||||||||||||||||
-kitten|lapusan|lapusan|noun|noun|(baby cat)||||||||||||||||||||
-Komodo dragon |komodo dago|komodo dago|noun|noun|||||||||||||||||||||
-lion|layon|layon|noun|noun|||||||||||||||||||||
-lizard |lagara|lagara|noun|noun|||||||||||||||||||||
-macaque|makaka|makaka|noun|noun|||||||||||||||||||||
-monkey |sarkan|sarkan|noun|noun|||||||||||||||||||||
-mouse|nos|nos|noun|noun|(animal)||||||||||||||||||||
-otter |atar|atar|noun|noun|||||||||||||||||||||
-ox |uza|uza|noun|noun|||||||||||||||||||||
-mackerel pike|mansa|mansa|noun|noun|||||||||||||||||||||
-Pacific saury/|mansa|mansa|noun|noun|||||||||||||||||||||
-panda |panda|panda|noun|noun|||||||||||||||||||||
-pigeon |touba|touba|noun|noun|||||||||||||||||||||
-puffer fish|fugu|fugu|noun|noun|||||||||||||||||||||
-puppy|lawano|lawano|noun|noun|(baby dog)||||||||||||||||||||
-rabbit |une|une|noun|noun|||||||||||||||||||||
-raccoon dog/tanuki|tanuki|tanuki|noun|noun|||||||||||||||||||||
-sardine |sandan|sandan|noun|noun|||||||||||||||||||||
-sheep|tupa|tupa|noun|noun|||||||||||||||||||||
-tiger |taigā|taiga-|noun|noun|||||||||||||||||||||
-turtle|ter|ter|noun|noun|||||||||||||||||||||
-viper |baipar|baipar|noun|noun|||||||||||||||||||||
-pig|lei|lei|noun|noun|||||||||||||||||||||
+ant|lanto|lanato|noun|noun||From Old Mampulan|||||||||||||||||||
+anteater|lantokain|lantokain|noun|noun||From Old Mampulan|||||||||||||||||||
+arctic fox |āktikung tuman|a-ktikuq tuman|noun|noun||From Old Mampulan|||||||||||||||||||
+bear|our|our|noun|noun|animal|From Old Mampulan|||||||||||||||||||
+boa|nakana|nakana|noun|noun||From Old Mampulan|||||||||||||||||||
+calf|latir|latir|noun|noun||From Old Mampulan|||||||||||||||||||
+coyote|gasa|gasa|noun|noun||From Old Mampulan|||||||||||||||||||
+dragon |dago|dago|noun|noun||From Old Mampulan|||||||||||||||||||
+eagle|agala|agala|noun|noun||From Old Mampulan|||||||||||||||||||
+elephant|ela|ela|noun|noun||From Old Mampulan|||||||||||||||||||
+falcon |faloun|faloun|noun|noun||From Old Mampulan|||||||||||||||||||
+fennec fox |feneku|feneku|noun|noun||From Old Mampulan|||||||||||||||||||
+fly|ngau|qau|noun|noun|(insect)|From Old Mampulan|||||||||||||||||||
+giraffe |gira|gira|noun|noun||From Old Mampulan|||||||||||||||||||
+goat |kamba|kamba|noun|noun||From Old Mampulan|||||||||||||||||||
+goose|gansa|gansa|noun|noun||From Old Mampulan|||||||||||||||||||
+hawk |houk|houk|noun|noun||From Old Mampulan|||||||||||||||||||
+horse |ama|ama|noun|noun||From Old Mampulan|||||||||||||||||||
+jaguar |jaguwar|jaguwar|noun|noun||From Old Mampulan|||||||||||||||||||
+kitten|lapusan|lapusan|noun|noun|(baby cat)|From Old Mampulan|||||||||||||||||||
+Komodo dragon |komodo dago|komodo dago|noun|noun||From Old Mampulan|||||||||||||||||||
+lion|layon|layon|noun|noun||From Old Mampulan|||||||||||||||||||
+lizard |lagara|lagara|noun|noun||From Old Mampulan|||||||||||||||||||
+macaque|makaka|makaka|noun|noun||From Old Mampulan|||||||||||||||||||
+monkey |sarkan|sarkan|noun|noun||From Old Mampulan|||||||||||||||||||
+mouse|nos|nos|noun|noun|(animal)|From Old Mampulan|||||||||||||||||||
+otter |atar|atar|noun|noun||From Old Mampulan|||||||||||||||||||
+ox |uza|uza|noun|noun||From Old Mampulan|||||||||||||||||||
+mackerel pike|mansa|mansa|noun|noun||From Old Mampulan|||||||||||||||||||
+Pacific saury/|mansa|mansa|noun|noun||From Old Mampulan|||||||||||||||||||
+panda |panda|panda|noun|noun||From Old Mampulan|||||||||||||||||||
+pigeon |touba|touba|noun|noun||From Old Mampulan|||||||||||||||||||
+puffer fish|fugu|fugu|noun|noun||From Old Mampulan|||||||||||||||||||
+puppy|lawano|lawano|noun|noun|(baby dog)|From Old Mampulan|||||||||||||||||||
+rabbit |une|une|noun|noun||From Old Mampulan|||||||||||||||||||
+raccoon dog/tanuki|tanuki|tanuki|noun|noun||From Old Mampulan|||||||||||||||||||
+sardine |sandan|sandan|noun|noun||From Old Mampulan|||||||||||||||||||
+sheep|tupa|tupa|noun|noun||From Old Mampulan|||||||||||||||||||
+tiger |taigā|taiga-|noun|noun||From Old Mampulan|||||||||||||||||||
+turtle|ter|ter|noun|noun||From Old Mampulan|||||||||||||||||||
+viper |baipar|baipar|noun|noun||From Old Mampulan|||||||||||||||||||
+pig|lei|lei|noun|noun||From Old Mampulan|||||||||||||||||||
 cow|tir|tir|noun|noun||From Old Mampulan|||||||||||||||||||
 milk|miun|miun|noun|noun||From Old Mampulan|||||||||||||||||||
 rice|gai|gai|noun|noun||From Old Mampulan|||||||||||||||||||
@@ -589,17 +590,17 @@ short|shong|xoq|adjective|g adjective||From Old Mampulan|||||||||||||||||||
 cheap|bilikung|bilikuq|adjective|ung adjective||From Old Mampulan|||||||||||||||||||
 expensive|toyang|toyaq|adjective|ng adjective||From Old Mampulan|||||||||||||||||||
 instinct|honlot|honlot|noun|noun||From <i>hon</i> (&quot;origin, fundamental&quot;) + <i>lot</i> (&quot;ability, skill&quot;)|||||||||||||||||||
-little|plung|pluq|adjective|ng adjective|||||||||||||||||||||
+little|plung|pluq|adjective|ng adjective||From Old Mampulan|||||||||||||||||||
 consent|samamain|roumain|noun|noun||From <i>sama</i> (&quot;together&quot;) + <i>main</i> (&quot;feeling&quot;)|||||||||||||||||||
 a little bit|komobunak|komobunak|adverb|adverb||From <i>komo</i> (&quot;little&quot;) + <i>bu</i> (&quot;thing&quot;)|I am a little bit concerned.||||||||||||||||||
 a lot|midang|midaq|adjective|ng adjective|a large number or amount of (things, people, etc.)|From Old Mampulan <i>meituan</i>|I eat a lot of apples.|Ko ni midaq mak kainu.|many||||||||||||||||
-next|fiung|fiuq|adjective|ng adjective|||||||||||||||||||||
-next|bupusung|bupusuq|adjective|ung adjective|formal|From <i>thing</i> (&quot;bu&quot;) + <i>-post (after) </i> (&quot;pus&quot;)|||||||||||||||||||
-previous|bubing|bubiq|adjective|ung adjective|formal||||||||||||||||||||
-night|kapi|kapi|noun|noun|||||||||||||||||||||
-neat|linung|linuq|adjective|ng adjective|||||||||||||||||||||
-random|delin|delin|noun|noun||From <i>de</i> (&quot;not&quot;) + <i>lin</i> (&quot;neat&quot;)|||||||||||||||||||
-close|serung|seruq|adjective|ung adjective|near||||near||||||||||||||||
+next|fiung|fiuq|adjective|ng adjective||From Old Mampulan|||||||||||||||||||
+next|bupusung|bupusuq|adjective|ung adjective|formal|From <i>bu</i> (&quot;thing&quot;) + <i>pus</i> (&quot;front&quot;)|||||||||||||||||||
+previous|bubing|bubiq|adjective|g adjective|formal|From <i>bu</i> (&quot;thing&quot;) + <i>bin</i> (&quot;back&quot;)|||||||||||||||||||
+night|kapi|kapi|noun|noun||From Old Mampulan|||||||||||||||||||
+neat|linung|linuq|adjective|ng adjective||From Old Mampulan|||||||||||||||||||
+random|antlin|delin|noun|noun||From <i>ant</i> (&quot;not&quot;) + <i>lin</i> (&quot;neat&quot;)|||||||||||||||||||
+close|serung|seruq|adjective|ung adjective|near|From Old Mampulan|||near||||||||||||||||
 most|benak|benak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||||||||||||||||
 least|beplunnak|beplunnak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>plung</i> (&quot;little&quot;) + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||||||||||||||||
 best|beyonak|beyonak|adverb|adverb||From <i>be</i> (&quot;most&quot;) + <i>yong</i> (&quot;good&quot;)  + <i>-nak</i> (&quot;adverb forming suffix&quot;)|||||||||||||||||||
@@ -672,8 +673,8 @@ bard|fenema|fenema|noun|noun||From Old Eagle Mampulan <i>fenema</i>|||||||||||||
 lodge|shuk|xuk|noun|noun|A building for recreational use such as a hunting lodge or a summer cabin.||||||||||||||||||||
 inn|shukpein|xukpein|noun|noun|Any establishment where travellers can procure lodging, food, and drink.|From <i>shuk</i> (&quot;lodge&quot;) + <i>pein</i> (&quot;place&quot;)|||||||||||||||||||
 store|baipein|baipein|noun|noun|A place where items may be purchased.|From <i>bairun</i> (&quot;buy&quot;) + <i>pein</i> (&quot;place&quot;)|||||||||||||||||||
-away|lasdenak|lasdenak|adverb|adverb||From <i>las</i> (&quot;out&quot;) + <i>de</i> (&quot;to&quot;) + <i>nak</i> (&quot;adverb-forming suffix&quot;)|||||||||||||||||||
-store|lasdê'orun|lasde^'orun|verb|run verb||From <i>lasde</i> (&quot;away&quot;) + <i>orun</i> (&quot;put&quot;)|||||||||||||||||||
+away|airdenak|airdenak|adverb|adverb||From <i>air</i> (&quot;out&quot;) + <i>de</i> (&quot;to&quot;) + <i>nak</i> (&quot;adverb-forming suffix&quot;)|||||||||||||||||||
+store|airdê'orun|airde^'orun|verb|run verb||From <i>airde</i> (&quot;away&quot;) + <i>orun</i> (&quot;put&quot;)|||||||||||||||||||
 shop|baipein|baipein|noun|noun|A place where items may be purchased.|From <i>bairun</i> (&quot;buy&quot;) + <i>pein</i> (&quot;place&quot;)|||||||||||||||||||
 tavern|winabaipein|winabaipein|noun|noun|A building containing a bar licensed to sell alcoholic drinks, and offering sleeping accommodations for travelers. |wina + baipein|||||||||||||||||||
 almost|serlatnak|serlatnak|adverb|adverb|Very close to, but not quite.|From <i>ser</i> (&quot;near&quot;) + <i>lat</i> (&quot;all&quot;) + <i>nak</i> (&quot;adverb-forming suffix&quot;)|||||||||||||||||||
@@ -745,7 +746,7 @@ be brought up|ikun|ikun|verb|un verb||From Old Mampulan|||be raised, grow|||||||
 grow|ikun|ikun|verb|un verb|grow up|From Old Mampulan|||be raised, be brought up||||||||||||||||
 education|turik|turik|noun|noun||From <i>tur</i> (&quot;teach&quot;) + <i>ik</i> (&quot;growing up&quot;)|||||||||||||||||||
 cause|intin|intin|noun|noun||From Old Mampulan <i>hintein</i>|||||||||||||||||||
-the|-|-|article|article|no equivalent in Mampulan||||||||||||||||||||
+the|on|on|article|article||From Old Mampulan|||||||||||||||||||
 a|ing|ing|article|article||From <i>i</i> (&quot;one&quot;)|||||||||||||||||||
 not|ant|ant|adverb|adverb||From Old Mampulan|||||||||||||||||||
 if|pag|pag|conjunction|conjunction||From Old Mampulan|||||||||||||||||||
@@ -776,7 +777,7 @@ off-center|aldit|aldit|noun|noun||From <i>al</i> (&quot;off-&quot;) + <i>dit</i>
 forest|poun|poun|noun|noun||From Old Mampulan|||||||||||||||||||
 home|bāy|ba-y|noun|noun||From Old Mampulan <i>bahi</i>|||||||||||||||||||
 comic|komik|komik|noun|noun||From Human English Language <i>comic</i>|||||||||||||||||||
-sample|laskun|laskun|noun|noun||From <i>las kun</i> (&quot;take out&quot;)|||||||||||||||||||
+sample|airkun|airkun|noun|noun||From <i>air kun</i> (&quot;take out&quot;)|||||||||||||||||||
 each|lut|lut|adjective|special adjective||From Old Mampulan|||||||||||||||||||
 guitar|gitâr|gita^r|noun|noun||From Human English Language <i>comic</i>|||||||||||||||||||
 -|ba|ba|-|particle|question marker|From Old Mampulan|||||||||||||||||||
@@ -790,12 +791,12 @@ art|brin|brin|noun|noun||From Old Mampulan|||||||||||||||||||
 artist|brinwan|brinwan|noun|noun||From <i>brin</i> (&quot;art&quot;) + <i>wan</i> (&quot;person&quot;).|||||||||||||||||||
 announce|horun|horun|verb|run verb||From Old Mampulan|||||||||||||||||||
 information|maino|maino|noun|noun||From <i>main</i> (&quot;feel&quot;) + <i>ho</i> (&quot;announce&quot;).|||||||||||||||||||
-inform|mainorun|mainorun|verb|run verb|||||||||||||||||||||
- |sor|sor|noun|noun||From Old Mampulan|||||||||||||||||||
-front|bin|bin|noun|noun||From Old Mampulan|||||||||||||||||||
-back|pus|pus|noun|noun||From Old Mampulan|||||||||||||||||||
+inform|mainorun|mainorun|verb|run verb||From <i>maino</i> (&quot;information&quot;)|||||||||||||||||||
+side|sor|sor|noun|noun||From Old Mampulan|||||||||||||||||||
+front|pus|pus|noun|noun||From Old Mampulan|||||||||||||||||||
+back|bin|bin|noun|noun||From Old Mampulan|||||||||||||||||||
 opposite|prit|prit|noun|noun||From Old Mampulan|||||||||||||||||||
-up|shoun|shoun|noun|noun||From Old Mampulan|||inter-||||||||||||||||
+up|shoun|xoun|noun|noun||From Old Mampulan|||inter-||||||||||||||||
 down|doun|doun|noun|noun||From Old Mampulan|||||||||||||||||||
 left|dar|dar|noun|noun||From Old Mampulan|||||||||||||||||||
 right|gain|gain|noun|noun||From Old Mampulan|||||||||||||||||||
@@ -813,8 +814,9 @@ opposite|pritde|pritde|preposition|preposition||From <i>prit</i> (&quot;opposite
 into|ditde|ditde|preposition|preposition|inside in|From <i>dit</i> (&quot;inside&quot;) + <i>de</i> (&quot;destination marker&quot;)|||||||||||||||||||
 by|fiude|fiude|preposition|preposition||From <i>fiu</i> (&quot;next&quot;) + <i>de</i> (&quot;destination marker&quot;)|||||||||||||||||||
 across|tesde|tesde|preposition|preposition||From <i>tes</i> (&quot;other&quot;) + <i>de</i> (&quot;destination marker&quot;)|||||||||||||||||||
-before|ant|ant|preposition|preposition||From Old Mampulan|||||||||||||||||||
-after|gran|gran|preposition|preposition||From Old Mampulan|||||||||||||||||||
+before|bifode|bifode|preposition|preposition||From <i>bin</i> (&quot;front&quot;) + <i>foun</i> (&quot;time&quot;) + <i>de</i> (&quot;destination marker&quot;)|||||||||||||||||||
+after|pufode|pufode|preposition|preposition||From <i>pus</i> (&quot;back&quot;) + <i>foun</i> (&quot;time&quot;) + <i>de</i> (&quot;destination marker&quot;)|||||||||||||||||||
+next to|fiude|fiude|preposition|preposition||From <i>fiu</i> (&quot;next&quot;) + <i>de</i> (&quot;destination marker&quot;)|||||||||||||||||||
 cross|lodun|lodun|verb|un verb|cross (over or across something)|From Old Mampulan|||||||||||||||||||
 too|lor|lar|adverb|adverb|also|From Old Mampulan|||||||||||||||||||
 too|hit|hit|adverb|adverb|excessively|From Old Mampulan|||||||||||||||||||
@@ -839,7 +841,7 @@ everybody|latwan|latwan|pronoun|pronoun||From <i>lat</i> (&quot;all&quot;) + <i>
 somebody|bawan|bawan|pronoun|pronoun||From <i>ba</i> (&quot;some&quot;) + <i>wan</i> (&quot;person&quot;)|||||||||||||||||||
 anybody|binwan|binwan|pronoun|pronoun||From <i>bin</i> (&quot;next&quot;) + <i>wan</i> (&quot;person&quot;)|||||||||||||||||||
 nobody|mawan|mawan|pronoun|pronoun||From <i>ma</i> (&quot;absence of&quot;) + <i>wan</i> (&quot;person&quot;)|||||||||||||||||||
-can|katun|katun|verb|un verb||From Old Mampulan|||||||||||||||||||
+can|sanun|sanun|verb|un verb||From Old Mampulan|||||||||||||||||||
 paper|krit|krit|noun|noun||From Old Mampulan|||||||||||||||||||
 map|krityon|krityon|noun|noun||From <i>krit</i> (&quot;paper&quot;) + <i>yon</i> (&quot;world&quot;)|||||||||||||||||||
 tribe|tabi|tabi|noun|noun||From Old Mampulan|||||||||||||||||||
@@ -853,7 +855,7 @@ leader|daltwan|kirounwan|noun|noun||From <i>kiroun</i> (&quot;to lead&quot;) + <
 govern|balonun|balonun|noun|noun||From <i>balon</i> (&quot;government&quot;)|||||||||||||||||||
 government|balon|balon|noun|noun||From Old Mampulan|||||||||||||||||||
 health|heltras|heltras|noun|noun||From <i>helutairas</i>, which is from <i>helu</i> (&quot;to save&quot;) + <i>tai</i> (&quot;body&quot;) + <i>ras</i> (&quot;nominalizing suffix&quot;).|||||||||||||||||||
-truth|tail|tailnamo|noun|noun||From Old Mampulan <i>tahil</i>|||||||||||||||||||
+truth|tiran|tiran|noun|noun||From Old Mampulan <i>tirahan</i>|||||||||||||||||||
 look up to|namorun|namorun|verb|run verb||From Old Mampulan|||||||||||||||||||
 faith|tailnamo|tailnamo|noun|noun||From <i>tail</i> (&quot;&quot;) + <i>namo</i> (&quot;&quot;)|||||||||||||||||||
 latitude|râtido|ra^tido|noun|noun||From <i>rati</i> (&quot;&quot;) + <i>do</i> (&quot;degree&quot;)|||||||||||||||||||
@@ -906,7 +908,7 @@ rail|kaut|kaut|noun|noun||From unknown origin|||||||||||||||||||
 swim|natanun|natanun|verb|un verb||From Old Mampulan|||||||||||||||||||
 internet|înternet|i^nternet|noun|noun||From Human Language <i>Internet</i> (&quot;&quot;)|||||||||||||||||||
 ability|lotfortan|lotfortan|noun|noun||From <i>lot</i> (&quot;&quot;) + <i>fortan</i> (&quot;strength&quot;)|||||||||||||||||||
-ability|katnas|katnas|noun|noun||From <i>kat</i> (&quot;can&quot;) + <i>-nas</i> (&quot;nominalizing suffix&quot;)|||||||||||||||||||
+ability|sannas|kannas|noun|noun||From <i>san</i> (&quot;can&quot;) + <i>-nas</i> (&quot;nominalizing suffix&quot;)|||||||||||||||||||
 road|roun|roun|noun|noun||From Old Mampulan|||||||||||||||||||
 iron|ain|ain|noun|noun||From Old Mampulan|||||||||||||||||||
 railroad|ainroun|ainroun|noun|noun||From <i>ain</i> (&quot;iron&quot;) + <i>roun</i> (&quot;road&quot;)|||||||||||||||||||
@@ -928,7 +930,7 @@ selection|mart|mart|noun|noun||From Old Mampulan|||||||||||||||||||
 select|martun|martun|verb|un verb||From <i>mart</i> (&quot;selection&quot;)|||||||||||||||||||
 brain|tair|tair|noun|noun||From Old Mampulan|||||||||||||||||||
 memory|tairmaino|tairmaino|noun|noun||From <i>tair</i> (&quot;brain&quot;) + <i>maino</i> (&quot;information&quot;)|||||||||||||||||||
-storage|lasdeso|lasdeso|noun|noun||From <i>lasdê'orun</i> (&quot;to store&quot;)|||||||||||||||||||
+storage|airdeso|airdeso|noun|noun||From <i>airdê'orun</i> (&quot;to store&quot;)|||||||||||||||||||
 version|sapan|sapan|noun|noun||From Old Bear Mampulan|||||||||||||||||||
 humid|aunung|aunuq|adjective|ung adjective||From Old Mampulan|||||||||||||||||||
 humidity|aundo|aundo|noun|noun||From <i>aun</i> (&quot;humid&quot;) + <i>do</i> (&quot;degree&quot;)|||||||||||||||||||
@@ -1056,8 +1058,8 @@ guest|kian|kian|noun|noun||From Old Mampulan|||||||||||||||||||
 height|teinas|teinas|noun|noun||From <i>tei</i> (&quot;tall&quot;) + <i>nas</i> (&quot;nominalizing suffix&quot;)|||||||||||||||||||
 leadership|daltwanshin|daltwanxin|noun|noun||From <i>daltwan</i> (&quot;leader&quot;) + <i>shin</i> (&quot;state of&quot;)|||||||||||||||||||
 mall|mōl|mo-l|noun|noun||From Human Language <i>mall</i> (&quot;mall&quot;)|||||||||||||||||||
-manage|shaindaltun|shaindaltun|verb|un verb||From <i>hand</i> (&quot;hand&quot;) + <i>lead</i> (&quot;lead&quot;)|||||||||||||||||||
-manager|shaindaltwan|shaindaltwan|noun|noun||From <i>shaindaltun</i> (&quot;manage&quot;)|||||||||||||||||||
+manage|shaindaltun|xaindaltun|verb|un verb||From <i>hand</i> (&quot;hand&quot;) + <i>lead</i> (&quot;lead&quot;)|||||||||||||||||||
+manager|shaindaltwan|xaindaltwan|noun|noun||From <i>shaindaltun</i> (&quot;manage&quot;)|||||||||||||||||||
 connection|bint|bint|noun|noun||From Old Mampulan|||||||||||||||||||
 connect|bintun|bintun|verb|un verb||From <i>bint</i> (&quot;connection&quot;)|||||||||||||||||||
 angle|lok|lok|noun|noun||From Old Mampulan|||||||||||||||||||
@@ -1118,7 +1120,7 @@ tennis|tenis|tenis|noun|noun||From Human English Language <i>tennis</i>|||||||||
 basket|gakoun|gakoun|noun|noun||From Raccoon Language|||||||||||||||||||
 bonus|jabu|jabu|noun|noun||From <i>jarun</i> (&quot;add&quot;) + <i>bu</i> (&quot;thing&quot;)|||||||||||||||||||
 room|past|past|noun|noun||From Old Mampulan|||||||||||||||||||
-cabinet|lasdesopast|lasdesopast|noun|noun||From <i>lasdesorun</i> (&quot;store&quot;) + <i>past</i> (&quot;room&quot;)|||||||||||||||||||
+cabinet|airdesopast|airdesopast|noun|noun||From <i>airdesorun</i> (&quot;store&quot;) + <i>past</i> (&quot;room&quot;)|||||||||||||||||||
 childhood|loponshin|loponxin|noun|noun||From <i>lopon</i> (&quot;child&quot;) + <i>shin</i> (&quot;state&quot;)|||||||||||||||||||
 value|bal|bal|noun|noun||From Old Mampulan|||||||||||||||||||
 praise|balgirun|balgirun|verb|run verb||From <i>bal</i> (&quot;value&quot;) + <i>girun</i> (&quot;give&quot;)|||||||||||||||||||
@@ -1206,14 +1208,13 @@ voice|bon|bon|noun|noun||From Old Mampulan|||||||||||||||||||
 town|tro|tro|noun|noun|||||||||||||||||||||
 rub|franun|franun|verb|un verb|||||||||||||||||||||
 police|lisprowan|lisprowan|noun|noun||From <i>lis</i> (&quot;law&quot;) + <i>pro</i> (&quot;protect&quot;) + <i>wan</i> (&quot;person&quot;)|||||||||||||||||||
-possible|katung|katuq|adjective|ung adjective|||||||||||||||||||||
-possibility|katshin|katxin|noun|noun|||||||||||||||||||||
+possible|kang|kaq|adjective|ung adjective|||||||||||||||||||||
+possibility|kanshin|kanxin|noun|noun|||||||||||||||||||||
 transmission|shoundessōrnas|xoundesso-rnas|noun|noun||From <i>shoundes sōrun</i> (&quot;send over&quot;) + <i>-nas</i> (&quot;nominalizing suffix&quot;)|||||||||||||||||||
 transmission|lakgai|lakgai|noun|noun|(formal)|From <i>lak</i> (&quot;&quot;) + <i>gai</i> (&quot;&quot;)|||||||||||||||||||
 interruption|ditlon|ditlon|noun|noun||From <i>dit</i> (&quot;center&quot;) + <i>lon</i> (&quot;&quot;)|||||||||||||||||||
 signal|tailgo|tailgo|noun|noun||From <i>tail</i> (&quot;&quot;) + <i>go</i> (&quot;&quot;)|||||||||||||||||||
 identification|ites'hirnas|iteshirnas|noun|noun||From <i>i</i> (&quot;one&quot;) + <i>tes</i> (&quot;other&quot;) + <i>hir</i> (&quot;same&quot;) + <i>-nas</i> (&quot;nominalizing suffix&quot;)|||||||||||||||||||
-identification|shikdour|shikdour|noun|noun|||||||||||||||||||||
 trace|roupun|roupun|verb|un verb|||||||||||||||||||||
 finish|artun|artun|verb|un verb|||||||||||||||||||||
 accomplish|yo'artun|yo'artun|verb|un verb||From <i>yo</i> (&quot;good&quot;) + <i>art</i> (&quot;finish&quot;)|||||||||||||||||||
@@ -1227,7 +1228,7 @@ laugh|lapun|lapun|verb|un verb||From Old Mampulan|||||||||||||||||||
 smile|sulapun|sulapun|verb|un verb||From <i>sung</i> (&quot;small&quot;) + <i>lapun</i> (&quot;&quot;)|||||||||||||||||||
 section|taist|taist|noun|noun||From Old Mampulan|||||||||||||||||||
 friend|fen|fen|noun|noun||From Old Mampulan|||||||||||||||||||
-friendship|fenshin|fenshin|noun|noun||fen + shin|||||||||||||||||||
+friendship|fenshin|fenxin|noun|noun||fen + shin|||||||||||||||||||
 weather|imelti|imelti|noun|noun||From <i>imel</i> (&quot;sky&quot;) + <i>ti</i> (&quot;air, mood&quot;)|||||||||||||||||||
 fence|soun|soun|noun|noun||soun|||||||||||||||||||
 tale|aist|aist|noun|noun|||||||||||||||||||||
@@ -1285,7 +1286,7 @@ ordinal number|beisbil|beisbil|noun|noun||From Old Mampulan|||||||||||||||||||
 cardinal number|jinbil|jinbil|noun|noun||From <i>jin</i> (&quot;order (sorting)&quot;) + <i>bil</i> (&quot;number&quot;)|||||||||||||||||||
 deliberate|meiring|meiriq|adjective|g adjective||From <i>mei + ring</i> (&quot;with thought&quot;)|||||||||||||||||||
 several|mitabilung|mitabiluq|adjective|ung adjective||From <i>mita</i> (&quot;many&quot;) + <i>bil</i> (&quot;number&quot;)|||||||||||||||||||
-deposit|lasdê'orun|lasde^'orun|verb|run verb||From <i>lasdes</i> (&quot;away&quot;) + <i>orun</i> (&quot;put&quot;)|||||||||||||||||||
+deposit|airdê'orun|airde^'orun|verb|run verb||From <i>airdes</i> (&quot;away&quot;) + <i>orun</i> (&quot;put&quot;)|||||||||||||||||||
 relation|wigtien|wigtien|noun|noun||From <i>wig</i> (&quot;&quot;) + <i>tien</i> (&quot;&quot;)|||||||||||||||||||
 restaurant|rêstoran|re^storan|noun|noun||From Human Language <i>restaurant</i>|||||||||||||||||||
 enough|kanalkung|kanalkuq|adjective|ung adjective||From <i>kan + alkun</i> (&quot;at reach&quot;)|||||||||||||||||||
@@ -1331,6 +1332,7 @@ hospital|kâsinpran|ka^sinpran|noun|noun||From <i>kasin</i> (&quot;disease&quot;
 injury|laun|laun|noun|noun||From Old Mampulan|||||||||||||||||||
 instruction|gēsunou|ge-sunou|noun|noun||guide order|||||||||||||||||||
 maintenance|kardir|kardir|noun|noun||From <i>kardun</i> (&quot;continue&quot;) + <i>hirung</i> (&quot;same&quot;). H was dropped|||||||||||||||||||
+maintain|kardirun|kardirun|verb|un verb|note that this is an un verb because the word comes from <i>kardir</i>||||||||||||||||||||
 waterproof|yaiawon|yaiawon|noun|noun||From <i>yai</i> (&quot;proof, resistant&quot;) + <i>awon</i> (&quot;water&quot;) |||||||||||||||||||
 soundproof|yairat|yairat|noun|noun||From <i>yai</i> (&quot;proof, resistant&quot;) + <i>rat</i> (&quot;sound&quot;)|||||||||||||||||||
 fireproof|yaihus|yaihus|noun|noun||From <i>yai</i> (&quot;proof, resistant&quot;) + |||||||||||||||||||
@@ -1424,7 +1426,7 @@ hate|sadranun|sadranun|verb|un verb||From Old Mampulan|||||||||||||||||||
 chain|hist|hist|noun|noun||From Old Mampulan|||||||||||||||||||
 level|bril|bril|noun|noun||From Old Mampulan|||||||||||||||||||
 path|kamîn|kami^n|noun|noun||From Old Mampulan|||||||||||||||||||
-through|tū|tu-|preposition|preposition||From Old Mampulan|||||||||||||||||||
+through|foude|foude|preposition|preposition||From <i>fou</i> (&quot;flow&quot;) + <i>de</i> (&quot;to&quot;)|||||||||||||||||||
 vessel|baskulon|baskulon|noun|noun||From Old Mampulan|||||||||||||||||||
 switch|dipun|dipun|verb|un verb||From Old Mampulan|||||||||||||||||||
 motion|tounnas|tounnas|noun|noun||From <i>tounun</i> (&quot;move&quot;) + <i>-nas</i> (&quot;nominalizing suffix&quot;)|||||||||||||||||||
@@ -1494,8 +1496,58 @@ tower|tab|tab|noun|noun||From Old Mampulan|||||||||||||||||||
 altitude|teido|teido|noun|noun|||||||||||||||||||||
 true|mar|mar|||||||||||||||||||||||
 true name|marnot|marnot|noun|noun|The unique name of an entity, which can be used to control or manipulate that entity.||||||||||||||||||||
-more|||||||||||||||||||||||||
-less|||||||||||||||||||||||||
+maintain|kardir|||||From <i>kardun</i> (&quot;keep&quot;) + <i>hirung</i> (&quot;same&quot;)|||||||||||||||||||
+about|wide|wide|preposition|preposition||wig + de|||||||||||||||||||
+worry|sousun|sousun|verb|un verb|||||||||||||||||||||
+without|ante|ante|preposition|preposition||ant + me|||||||||||||||||||
+doubt|tesrin|tesrin|noun|noun|||||||||||||||||||||
+mortal|mordong|mordonkanuq|adjective|ung adjective|||||||||||||||||||||
+immortal|antmordonkang|antmordonkaq|adjective|ung adjective|||||||||||||||||||||
+away|airdenak|airdenak|adverb|adverb||From <i>air</i> (&quot;&quot;) + <i>nak</i> (&quot;&quot;)|||||||||||||||||||
+trust|tailun|tailun|verb|un verb||From Old Mampulan|||||||||||||||||||
+comfort|frobor|frobor|noun|noun||From Old Mampulan||||Old English frofor|||||||||||||||
+comfortable|froborung|froboruq|adjective|ung adjective||From Old Mampulan|||||||||||||||||||
+secret|diltan|diltan|noun|noun||From Old Mampulan|||||||||||||||||||
+share|maisun|maisun|verb|un verb||From Old Mampulan|||||||||||||||||||
+enemy|opoun|opoun|noun|noun||From Old Mampulan|||||||||||||||||||
+defeat|talun|talun|verb|un verb||From Old Mampulan|||||||||||||||||||
+whether|pag|pag|conjunction|conjunction|||||||||||||||||||||
+yes|os|os|adverb|adverb|||||||||||||||||||||
+no|an|an|adverb|adverb||From de|||||||||||||||||||
+scary|pertung|pertuq|adjective|ung adjective|||||||||||||||||||||
+beast|bast|bast|noun|noun|||||||||||||||||||||
+monster|sounbast|sounbast|noun|noun||soun + bast|||||||||||||||||||
+point|pon|pon|noun|noun|||||||||||||||||||||
+pointy|pong|poq|adjective|g adjective|||||||||||||||||||||
+shave|shīrun|xi-run|verb|un verb|||||||||||||||||||||
+knife|sak|sak|noun|noun||||||Old English seax|||||||||||||||
+razor|shīrsak|xi-rsak|noun|noun||From <i>shīrun</i> (&quot;dhave&quot;) + <i>sak</i> (&quot;knife&quot;)||||Old English scieran|||||||||||||||
+sharp|titang|titaq|adjective|g adjective|||||||||||||||||||||
+occasionally|ragannak|ragannak|adverb|adverb||||||偶|||||||||||||||
+wear|chakurun|cakurun|verb|run verb|||||||||||||||||||||
+live|sumun|sumun|verb|un verb|live in a place||||||||||||||||||||
+associate|rengōrun|rengo-run|verb|run verb|||||||||||||||||||||
+associate|rengōwan|rengo-wan|noun|noun|||||||||||||||||||||
+association|rengō|rengo-|noun|noun|||||||||||||||||||||
+length|lennas|lennas|noun|noun|||||||||||||||||||||
+width|lukonas|lukonas|noun|noun|||||||||||||||||||||
+depth|dīnas|di-nas|noun|noun|||||||||||||||||||||
+crime|tumi|tumi|noun|noun|||||||||||||||||||||
+criminal|tuming|tumiq|adjective|ng adjective|||||||||||||||||||||
+criminal|tumiwan|tumiwan|noun|noun|||||||||||||||||||||
+more|igît|igi^t|adverb|adverb|||||||||||||||||||||
+less|kul|kul|adverb|adverb|||||||||||||||||||||
+process|gēairbu|ge-airbu|noun|noun||<i>gērun</i> (&quot;guide&quot;) + <i>airbu</i> (&quot;event&quot;)|||||||||||||||||||
+activity|kanusnas|kanusnas|noun|noun||kan + usnas|||||||||||||||||||
+proclaim|nunun|nunun|verb|un verb||<i>nun</i> (&quot;proclaim&quot;)|||||||||||||||||||
+vow|proitun|proitun|verb|un verb|||||||||||||||||||||
+oath|nunproit|nunproit|noun|noun||<i>nun</i> (&quot;proclaim&quot;) + <i>proit</i> (&quot;vow&quot;)|||||||||||||||||||
+chestnut|fesnan|fesnan|noun|noun||From Old Mampulan|||||||||||||||||||
+chestnut tree|fesnan sa pu|fesnan sa pu|noun|noun||From Old Mampulan|||||||||||||||||||
+bypass|blainfou|blainfou|noun|noun||<i>blain</i> (&quot;circle&quot;) + <i>fourun</i> (&quot;flow&quot;)|||||||||||||||||||
+bypass|blainfourun|blainfourun|verb|run verb||<i>blain</i> (&quot;circle&quot;) + <i>fourun</i> (&quot;flow&quot;)|||||||||||||||||||
+firm|īrung|i-ruq|adjective|ung adjective|||||||||||||||||||||
+insist||||||From Old Mampulan|||||||||||||||||||
 weakness||||||From Old Mampulan|||||||||||||||||||
 wedding||||||From Old Mampulan|||||||||||||||||||
 affair||||||From Old Mampulan|||||||||||||||||||
@@ -1938,7 +1990,6 @@ carpet||||||From Old Mampulan|||||||||||||||||||
 champion||||||From Old Mampulan|||||||||||||||||||
 channel||||||From Old Mampulan|||||||||||||||||||
 clock||||||From Old Mampulan|||||||||||||||||||
-comfort||||||From Old Mampulan|||||||||||||||||||
 crack||||||From Old Mampulan|||||||||||||||||||
 fault||||||From Old Mampulan|||||||||||||||||||
 grass||||||From Old Mampulan|||||||||||||||||||
@@ -2032,7 +2083,6 @@ rise||||||From Old Mampulan|||||||||||||||||||
 beyond||||||From Old Mampulan|||||||||||||||||||
 junior||||||From Old Mampulan|||||||||||||||||||
 pick||||||From Old Mampulan|||||||||||||||||||
-unique||||||From Old Mampulan|||||||||||||||||||
 classic||||||From Old Mampulan|||||||||||||||||||
 final||||||From Old Mampulan|||||||||||||||||||
 lift||||||From Old Mampulan|||||||||||||||||||
@@ -2042,7 +2092,6 @@ concern||||||From Old Mampulan|||||||||||||||||||
 familiar||||||From Old Mampulan|||||||||||||||||||
 official||||||From Old Mampulan|||||||||||||||||||
 broad||||||From Old Mampulan|||||||||||||||||||
-comfortable||||||From Old Mampulan|||||||||||||||||||
 gain||||||From Old Mampulan|||||||||||||||||||
 maybe||||||From Old Mampulan|||||||||||||||||||
 rich||||||From Old Mampulan|||||||||||||||||||
@@ -2050,13 +2099,11 @@ young||||||From Old Mampulan|||||||||||||||||||
 fail||||||From Old Mampulan|||||||||||||||||||
 hello||||||From Old Mampulan|||||||||||||||||||
 valuable||||||From Old Mampulan|||||||||||||||||||
-worry||||||From Old Mampulan|||||||||||||||||||
 handle||||||From Old Mampulan|||||||||||||||||||
 leading||||||From Old Mampulan|||||||||||||||||||
 release||||||From Old Mampulan|||||||||||||||||||
 normal||||||From Old Mampulan|||||||||||||||||||
 press||||||From Old Mampulan|||||||||||||||||||
-secret||||||From Old Mampulan|||||||||||||||||||
 spread||||||From Old Mampulan|||||||||||||||||||
 spring||||||From Old Mampulan|||||||||||||||||||
 tough||||||From Old Mampulan|||||||||||||||||||
@@ -2095,7 +2142,6 @@ wear||||||From Old Mampulan|||||||||||||||||||
 weird||||||From Old Mampulan|||||||||||||||||||
 annual||||||From Old Mampulan|||||||||||||||||||
 dead||||||From Old Mampulan|||||||||||||||||||
-doubt||||||From Old Mampulan|||||||||||||||||||
 feed||||||From Old Mampulan|||||||||||||||||||
 forever||||||From Old Mampulan|||||||||||||||||||
 impress||||||From Old Mampulan|||||||||||||||||||
