@@ -20,7 +20,7 @@ function randomFunFact(){
 		"Pangil is a wolf.",
 		"Ertle is a box turtle.",
 		"Pangil has an arm tumor called Ertle.",
-		"Pangil's name came from the fact that he is a wolf.",
+		"Pangil's name comes from the Mampulan word <i>Pangil</i> meaning &quot;fang&quot;.",
 		"Pangil gnaw the bones of his enemies.",
 		"Alex and Pangil are more than friends.[citation needed]",
 		"Pangil only used 0.575 J of work.",
@@ -28,7 +28,8 @@ function randomFunFact(){
 		"Alex loves McChicken burgers and McChicken texts.",
 		"Pangilan is a province located west of the main landmass called Mampulan.",
 		"Alex's last name is Paws.",
-		"Milochitas Swiff is one of the best fast delivery mailcheetah in the job."
+		"Milochitas Swiff is one of the best fast delivery mailcheetah on the job.",
+		"Pangil's realname is only known by a handful of animals."
 		];
 	
 		//number multiplied must be 1 more than number in array index.
