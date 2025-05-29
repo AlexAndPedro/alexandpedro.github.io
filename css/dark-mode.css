@@ -2,7 +2,28 @@
 	background-color: #010c13;
 	color: white;
   }
-  .gradient.dark-mode {
-	background-color: #003546;
+.gradient.dark-mode {
+	background-color: #003264;
 	color: white;
-  }
+}
+.gradient.dark-mode {
+	background-color: #003264;
+	color: white;
+}
+
+.ComicTitle.dark-mode {
+	color: white;
+}
+
+.ComicNavigation.dark-mode {
+	border: 2px solid white;
+}
+
+.PageContent.dark-mode a:link,
+.PageContent.dark-mode a:visited,
+.PageBanner.dark-mode a:link,
+.PageBanner.dark-mode a:visited {
+	color: white;
+	
+
+}

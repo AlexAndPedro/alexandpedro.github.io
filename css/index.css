@@ -39,7 +39,6 @@ body {
 	/* when browser resizes, everything in width changes*/
 	min-height: 100%;
 	position: relative;
-	box-shadow: 0px 0px 24px black;
 }
 
 /* For mobile devices, etc. */
@@ -90,7 +89,7 @@ ul {
 	background-size: 100%;
 	background-position: 0 85%;
 	border-style: solid;
-	border-color: #042c41;
+	border-color: #003264;
 }
 
 .PageBody {
@@ -123,7 +122,7 @@ ul {
 	height: auto;
 	clear: both;
 	margin: 1rem 0 0 0;
-	background-color: #0e4b68;
+	background-color: #0055AA;
 	text-align: center;
 	overflow: hidden;
 	font-size: 1em;
@@ -141,7 +140,7 @@ ul {
 	height: auto;
 	padding: 10px 1%;
 	display: inline-block;
-	background-color: #0e4b68;
+	background-color: #0055AA;
 	font-size: 1.2rem;
 	text-align: center;
 }
@@ -221,7 +220,7 @@ div.MainMenu ul li:active {
 
 .ComicNavigation {
 	font-weight: bold;
-	border: 3px solid #0b7cb1;
+	border: 3px solid #003264;
 	border-radius: 20px;
 	margin: auto;
 	width: 90%;
@@ -235,6 +234,7 @@ div.MainMenu ul li:active {
 .nav-Random,
 .nav-Next,
 .nav-Latest {
+	color: #003264;
 	width: auto;
 	display: inline-block;
 	font-weight: inherit;
@@ -251,7 +251,7 @@ div.MainMenu ul li:active {
 	margin: 5px;
 	font-size: 150%;
 	font-weight: bold;
-	color: #0B2161;
+	color: #0055AA;
 }
 
 .ComicDescription,
@@ -275,13 +275,13 @@ div.MainMenu ul li:active {
 	padding: 5px 15px;
 	border-top: 3px solid black;
 	border-radius: 0 0 0.3em 0.3em;
-	background-color: #0e4b68;
+	background-color: #0055AA;
 }
 
 .BlueContainer,
 .infobox {
-	background-color: #0e4b68;
-	border: 2px solid #042c41;
+	background-color: #0055AA;
+	border: 2px solid #003264;
 	color: white;
 	min-height: 80px;
 	padding: 5px;
@@ -293,13 +293,13 @@ div.MainMenu ul li:active {
 
 
 .BlueContainer.GalleryInfo {
-	background-color: #0b7cb1;
 	border: 2px solid #042c41;
 	color: white;
 	padding: 10px;
 	display: inline-block;
 	min-height: auto;
 	width: auto;
+	transition: all 2s;
 }
 
 .AandPSites {
@@ -325,7 +325,7 @@ div.MainMenu ul li:active {
 .PageContent a:visited,
 .PageBanner a:link,
 .PageBanner a:visited {
-	color: #0b7cb1;
+	color: #003264;
 }
 
 .infobox {
@@ -341,21 +341,28 @@ div.MainMenu ul li:active {
 
 .button {
 	border: 0;
-	background: #006597;
+	background: inherit;
+	border: 2px solid white;
 	border-radius: 4px;
-	box-shadow: 0 3px 0 #003e5e;
 	color: #fff;
 	cursor: pointer;
 	font: inherit;
 	margin: 5px;
 	outline: 0;
 	padding: 2px 5px;
+
+}
+
+button:hover {
+	color: #0055AA;
+	background-color: white;
 	transition: all .1s linear;
 }
 
 button:active {
-	box-shadow: 0 1px 0 #003e5e;
-	transform: translateY(1px);
+	background-color: #99CCFF;
+	border: 2px solid #99CCFF;
+	transition: none;
 }
 
 .PageArticle {
@@ -433,7 +440,7 @@ footer {
 	bottom: 5px;
 	right: 10px;
 	width: auto;
-	background-color: #003e5e;
+	background-color: #0055AA;
 	color: white;
 	text-align: center;
 }
@@ -453,7 +460,7 @@ footer {
     flex-wrap: wrap;
     display: flex;
     justify-content: center;
-    color: #262626;
+    color: #003264;
 }
 
 .DogWrap .Dog.left{
@@ -477,8 +484,8 @@ footer {
     text-align: center;
     padding: 10px;
     transform: rotate(-3deg);
-    background: #f0f0f0;
-    border: 1.5px solid #cdcdcd;
+    background: white;
+    border: 5px solid #003264;
     font-variant-ligatures: none;
 	box-shadow: 0px 0px 12px black;
 }

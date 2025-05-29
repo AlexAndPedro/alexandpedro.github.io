@@ -1,1 +1,0 @@
-ErrorDocument 404 alexandpedro.github.io/404.html
