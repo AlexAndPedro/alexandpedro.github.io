@@ -50,8 +50,3 @@ function showHide() {
 		InfoButton.innerHTML = "Show Info";
 	}
 }
-
-function ToggleDarkMode() {
-	var element = document.getElementsByClassName("PageBody")[0].classList;
-	element.toggle("dark-mode");
- }

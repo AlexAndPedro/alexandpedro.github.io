@@ -19,7 +19,7 @@ html {
 }
 
 .gradient {
-	background-image: linear-gradient(#01a9db, #99CCFF);
+	background-color: #99CCFF;
 }
 
 body {
@@ -95,14 +95,10 @@ ul {
 
 .PageBody {
 	background-color: white;
+	color: black;
 	overflow: auto;
 	min-height: 800px;
 }
-
-.dark-mode {
-	background-color: #010c13;
-	color: white;
-  }
 
 .PageLogo {
 	overflow: auto;
@@ -182,8 +178,13 @@ ul {
 
 div.MainMenu ul li:hover {
 	color: #533912;
-	font-weight: bold;
 	background-color: #eba843;
+}
+
+div.MainMenu ul li:active {
+	color: #533912;
+	font-weight: bold;
+	background-color: #F2C582;
 }
 
 #TagCloud {
