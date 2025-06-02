@@ -30,7 +30,9 @@ All images must have no hyphens.-->
 		<script>
 					$(document).ready(function(){
 			   
-			   $('.Header').load("../html/header.html");
+				$('.Header').load("../html/header.html");
+			   	$('.SideBars').load("/html/sideBar.html");
+	        	$('Footer').load("/html/footer.html");
 			});
 		
 		
@@ -60,6 +62,22 @@ All images must have no hyphens.-->
 				<h1>
 					2013
 				</h1>
+
+									<div class = "Navigation">
+						<!-- Since nav-First refers to first comic, don't change nav-First.-->
+					
+						<div class = "nav-Previous">
+							<a href = "2012.html">
+								< 2012
+							</a>
+						</div>
+						
+						<div class = "nav-Next">
+							<a href = "2014.html">
+								2014 >
+							</a>
+						</div>						
+					</div>
 
 				<button class="button" onclick="showHide()" type="button" id = "ArtGalleryInfoButton">Show Info</button>
 				<br>
@@ -94,7 +112,8 @@ All images must have no hyphens.-->
 			
 			</body>
 		
-		
+		<footer>
+		</footer>
 		</div>
 	</body>
 </html>	

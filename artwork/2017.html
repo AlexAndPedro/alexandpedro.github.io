@@ -31,6 +31,8 @@ All images must have no hyphens.-->
 					$(document).ready(function(){
 			   
 			   $('.Header').load("../html/header.html");
+			   			   	$('.SideBars').load("/html/sideBar.html");
+	        	$('Footer').load("/html/footer.html");
 			});
 		
 		
@@ -62,6 +64,22 @@ All images must have no hyphens.-->
 				<h1>
 					2017
 				</h1>
+
+									<div class = "Navigation">
+						<!-- Since nav-First refers to first comic, don't change nav-First.-->
+					
+						<div class = "nav-Previous">
+							<a href = "2016.html">
+								< 2016
+							</a>
+						</div>
+						
+						<div class = "nav-Next">
+							<a href = "2018.html">
+								2018 >
+							</a>
+						</div>						
+					</div>
 
 				<button class="button" onclick="showHide()" type="button" id = "ArtGalleryInfoButton">Show Info</button>
 				<div class = "BlueContainer" id = "ArtGalleryInfo" style = "display: none;">

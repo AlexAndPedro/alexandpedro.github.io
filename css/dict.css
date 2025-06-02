@@ -62,6 +62,11 @@ h1 {
     margin-left: 1rem;
 }
 
+::placeholder {
+  color: #003264;
+  opacity: 1; /* Firefox */
+}
+
 input.form__input {
     position: relative;
     height: 100%;
@@ -73,7 +78,7 @@ input.form__input {
     font-family: inherit;
     color: black;
     border-radius: 2px;
-    background-color: rgba(255,255,255,.8);
+    background-color:white;
     border: none;
     padding: 0.2rem 0 0 1rem;
     border-bottom: 3px solid transparent;

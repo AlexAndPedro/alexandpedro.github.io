@@ -15,7 +15,7 @@
 	color: white;
 }
 
-.ComicNavigation.dark-mode {
+.Navigation.dark-mode {
 	border: 2px solid white;
 }
 
@@ -24,6 +24,4 @@
 .PageBanner.dark-mode a:link,
 .PageBanner.dark-mode a:visited {
 	color: white;
-	
-
 }

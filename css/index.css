@@ -15,7 +15,7 @@
 /*Gradient of the background*/
 
 html {
-	font-size: 150%;
+	font-size: 120%;
 }
 
 .gradient {
@@ -69,8 +69,12 @@ in the CSS definition in order to be effective.
 
 a:link,
 a:visited {
-	color: white;
+	color: black;
 	text-decoration: none;
+}
+
+.Navigation a:link, .Navigation a:visited, .BlueContainer a:link, .BlueContainer a:visited , footer a:link, footer a:visited {
+	color: white;
 }
 
 /* mouse over link */
@@ -218,9 +222,11 @@ div.MainMenu ul li:active {
 	margin: 2px;
 }
 
-.ComicNavigation {
+.Navigation {
 	font-weight: bold;
-	border: 3px solid #003264;
+	background-color: #0055AA;
+	color: white;
+	border: 2px solid #003264;
 	border-radius: 20px;
 	margin: auto;
 	width: 90%;
@@ -234,7 +240,6 @@ div.MainMenu ul li:active {
 .nav-Random,
 .nav-Next,
 .nav-Latest {
-	color: #003264;
 	width: auto;
 	display: inline-block;
 	font-weight: inherit;
@@ -290,8 +295,6 @@ div.MainMenu ul li:active {
 	overflow: auto;
 }
 
-
-
 .BlueContainer.GalleryInfo {
 	border: 2px solid #042c41;
 	color: white;
@@ -319,13 +322,6 @@ div.MainMenu ul li:active {
 .PageContent {
 	overflow: auto;
 	padding: 0.5rem;
-}
-
-.PageContent a:link,
-.PageContent a:visited,
-.PageBanner a:link,
-.PageBanner a:visited {
-	color: #003264;
 }
 
 .infobox {
@@ -360,6 +356,7 @@ button:hover {
 }
 
 button:active {
+	color: #0055AA;
 	background-color: #99CCFF;
 	border: 2px solid #99CCFF;
 	transition: none;
@@ -407,7 +404,7 @@ button:active {
 
 .comicarchiveframe {
 	background: #fff;
-	border: 1px solid #000;
+	border: 2px solid #000;
 	filter: alpha(opacity=99);
 	opacity: 0.99;
 	padding: 5px;
@@ -436,11 +433,10 @@ button:active {
 }
 
 footer {
-	left: 10px;
-	bottom: 5px;
-	right: 10px;
+	padding: 1em;
 	width: auto;
 	background-color: #0055AA;
+	border-radius: 0 0 0.5em 0.5em;
 	color: white;
 	text-align: center;
 }
