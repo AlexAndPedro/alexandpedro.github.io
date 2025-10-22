@@ -1,0 +1,36 @@
+[
+    {
+        "location": "/comic/0001 - Pedro's Phone.png",
+        "name": "Pedro's Phone",
+        "date": "2020-03-25",
+        "tag" : ["alex","pedro","phone"]
+    }
+    ,
+    {
+        "location": "\\comic\\0002 - Isn't It Weird.png",
+        "name": "Isn't It Weird?",
+        "date": "2020-03-27",
+        "tag" : ["alex","pedro"]
+    }
+    ,
+    {
+        "location": "\\comic\\0003 - Alex Got Pranked.png",
+        "name": "Alex Got Pranked",
+        "date": "2020-03-30",
+        "tag" : ["alex","pedro","treat"]
+    }
+    ,
+    {
+        "location": "\\comic\\0004 - Intellectual Superiority.png",
+        "name": "Intellectual Superiority",
+        "date": "2020-04-27",
+        "tag" : ["alex","pedro","book"]
+    }
+    ,
+    {
+        "location": "0005 - Mail.png",
+        "name": "Mail",
+        "date": "2020-04-27",
+        "tag" : ["alex","mail"]
+    }
+]
