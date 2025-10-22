@@ -1,64 +1,63 @@
 @font-face {
-	font-family: 'AnP';
-	src: url("/fonts/AlexAndPedro-Regular.ttf");
+  font-family: "AnP";
+  src: url("/fonts/AlexAndPedro-Regular.ttf");
 }
 
 @font-face {
-	font-family: 'MampulanFont';
-	src: url("/fonts/MampulanLanguage-Regular.ttf");
+  font-family: "MampulanFont";
+  src: url("/fonts/MampulanLanguage-Regular.ttf");
 }
 
 * {
-	box-sizing: border-box;
-  }
+  box-sizing: border-box;
+}
 
 /*Gradient of the background*/
 
 html {
-	font-size: 120%;
+  font-size: 120%;
 }
 
 .gradient {
-	background-color: #99CCFF;
+  background-color: #99ccff;
 }
 
 body {
-	margin: 0;
-	padding: 0.5%;
-	/*must be in percentage*/
-	background-attachment: fixed;
-	/*if the background will move while scrolling or not*/
-	font-family: AnP;
-	
+  margin: 0;
+  padding: 0.5%;
+  /*must be in percentage*/
+  background-attachment: fixed;
+  /*if the background will move while scrolling or not*/
+  font-family: AnP;
 }
 
 .Page {
-	width: 70%;
-	/* as much as possible, absolute not relative because			*/
-	margin: 0 auto;
-	/* when browser resizes, everything in width changes*/
-	min-height: 100%;
-	position: relative;
+  width: 70%;
+  /* as much as possible, absolute not relative because			*/
+  margin: 0 auto;
+  /* when browser resizes, everything in width changes*/
+  min-height: 100%;
+  position: relative;
 }
 
 /* For mobile devices, etc. */
 
-@media(max-width:1100px) {
-	.Page {
-		width: 100%;
-	}
+@media (max-width: 1100px) {
+  .Page {
+    width: 100%;
+  }
 }
 
 /** Texts that are titles of articles */
 
 h1 {
-	margin: 1rem;
-	font-size: 1.1rem;
+  margin: 1rem;
+  font-size: 1.1rem;
 }
 
 img {
-	max-width: 100%;
-	height: auto;
+  max-width: 100%;
+  height: auto;
 }
 
 /**Note: a:hover MUST come after a:link and a:visited
@@ -69,170 +68,164 @@ in the CSS definition in order to be effective.
 
 a:link,
 a:visited {
-	color: black;
-	text-decoration: none;
+  color: black;
+  text-decoration: none;
 }
 
-.Navigation a:link, .Navigation a:visited, .BlueContainer a:link, .BlueContainer a:visited , footer a:link, footer a:visited {
-	color: white;
+.Navigation a:link,
+.Navigation a:visited,
+.BlueContainer a:link,
+.BlueContainer a:visited,
+footer a:link,
+footer a:visited {
+  color: white;
 }
 
 /* mouse over link */
 
 a:hover {
-	text-decoration: underline;
+  text-decoration: underline;
 }
 
 ul {
-	padding-left: 1rem;
+  padding-left: 1rem;
 }
 
 .PageBanner {
-	overflow: hidden;
-	background-image: url('/images/assets/page_banner_low_res.png');
-	background-size: 100%;
-	background-position: 0 85%;
-	border-style: solid;
-	border-color: #003264;
+  overflow: hidden;
+  background-image: url("/images/assets/page_banner_low_res.png");
+  background-size: 100%;
+  background-position: 0 85%;
+  border-style: solid;
+  border-color: #003264;
+  border-radius: 1em;
 }
 
 .PageBody {
-	background-color: white;
-	color: black;
-	overflow: auto;
-	min-height: 800px;
+  background-color: white;
+  color: black;
+  overflow: auto;
+  min-height: 800px;
 }
 
 .PageLogo {
-	overflow: auto;
-	width: 50%;
-	margin-left: 3rem;
+  overflow: auto;
+  width: 50%;
+  margin-left: 3rem;
 }
 
 .PageDescription {
-	float: right;
-	min-width: 5%;
-	max-width: 30%;
-	color: #fff;
+  float: right;
+  min-width: 5%;
+  max-width: 30%;
+  color: #fff;
 }
 
 .PageHeaderSub {
-	float: left;
-	width: 100%;
-	clear: both;
+  float: left;
+  width: 100%;
+  clear: both;
 }
 
 .MainMenu {
-	height: auto;
-	clear: both;
-	margin: 1rem 0 0 0;
-	background-color: #0055AA;
-	text-align: center;
-	overflow: hidden;
-	font-size: 1em;
+  height: auto;
+  clear: both;
+  margin: 1rem 0 0 0;
+  background-color: #0055aa;
+  text-align: center;
+  overflow: hidden;
+  font-size: 1em;
+  border-radius: 1em 1em 0 0;
 }
 
 .MainMenu ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	height: auto;
-	background-color: #0e4b6800;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  height: auto;
+  background-color: #0e4b6800;
 }
 
 .MainMenu li {
-	height: auto;
-	padding: 10px 1%;
-	display: inline-block;
-	background-color: #0055AA;
-	font-size: 1.2rem;
-	text-align: center;
+  height: auto;
+  padding: 10px 1%;
+  display: inline-block;
+  background-color: #0055aa;
+  font-size: 1.2rem;
+  text-align: center;
 }
 
 .MainMenu a {
-	color: #fff;
-	text-align: center;
-	text-decoration: none;
-	padding: 0px auto;
-	/* variable width */
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  padding: 0px auto;
+  /* variable width */
 }
 
 .AnP_Link {
-	width: 660px;
-	height: 337px;
-	background: url('/images/Alex_And_Pedro_Banner_Fade.png') no-repeat;
+  width: 660px;
+  height: 337px;
+  background: url("/images/Alex_And_Pedro_Banner_Fade.png") no-repeat;
 }
 
 .AnP_Link:hover {
-	background: url('/images/Alex_And_Pedro_Banner.png') no-repeat;
+  background: url("/images/Alex_And_Pedro_Banner.png") no-repeat;
 }
 
 .Statics_Link {
-	width: 660px;
-	height: 371px;
-	background: url('/images/Statics_Banner_Fade.png') no-repeat;
+  width: 660px;
+  height: 371px;
+  background: url("/images/Statics_Banner_Fade.png") no-repeat;
 }
 
 .Statics_Link:hover {
-	background: url('/images/Statics_Banner.png') no-repeat;
+  background: url("/images/Statics_Banner.png") no-repeat;
 }
 
 /*When you hover the main menu*/
 
 div.MainMenu ul li:hover {
-	color: #533912;
-	background-color: #eba843;
+  color: #533912;
+  background-color: #eba843;
 }
 
 div.MainMenu ul li:active {
-	color: #533912;
-	font-weight: bold;
-	background-color: #F2C582;
+  color: #533912;
+  font-weight: bold;
+  background-color: #f2c582;
 }
 
 #TagCloud {
-	overflow: auto;
+  overflow: auto;
 }
 
 .TagGroup1,
 .TagGroup2,
 .TagGroup3,
 .TagGroup4 {
-	float: left;
-	height: 18px;
+  float: left;
+  height: 18px;
 }
 
 .TagGroup1 {
-	font-size: 130%;
-	margin: 2px;
+  font-size: 130%;
+  margin: 2px;
 }
 
 .TagGroup2 {
-	font-size: 110%;
-	margin: 2px;
+  font-size: 110%;
+  margin: 2px;
 }
 
 .TagGroup3 {
-	font-size: 90%;
-	margin: 2px;
+  font-size: 90%;
+  margin: 2px;
 }
 
 .TagGroup4 {
-	font-size: 80%;
-	margin: 2px;
-}
-
-.Navigation {
-	font-weight: bold;
-	background-color: #0055AA;
-	color: white;
-	border: 2px solid #003264;
-	border-radius: 20px;
-	margin: auto;
-	width: 90%;
-	overflow: auto;
-	padding: 0.25rem;
-	text-align: center;
+  font-size: 80%;
+  margin: 2px;
 }
 
 .nav-First,
@@ -240,248 +233,249 @@ div.MainMenu ul li:active {
 .nav-Random,
 .nav-Next,
 .nav-Latest {
-	width: auto;
-	display: inline-block;
-	font-weight: inherit;
-	font-size: 1.2rem;
-	margin: auto 1.1em;
+  width: auto;
+  display: inline-block;
+  font-weight: inherit;
+  font-size: 1.2rem;
+  margin: auto 1.1em;
 }
 
 .center {
-	width: 49.5%;
-  }
+  width: 49.5%;
+}
 
 .ComicTitle {
-	clear: both;
-	margin: 5px;
-	font-size: 150%;
-	font-weight: bold;
-	color: #0055AA;
+  clear: both;
+  margin: 5px;
+  font-size: 150%;
+  font-weight: bold;
+  color: #0055aa;
 }
 
 .ComicDescription,
 .PageArticle {
-	clear: both;
-	margin: 10px;
+  clear: both;
+  margin: 0.5rem;
+  padding: 0.5rem;
 }
 
 .ComicTags {
-	font-size: 80%;
-	clear: both;
-	margin: 5px 5px 10px 5px;
+  font-size: 80%;
+  clear: both;
+  margin: 5px 5px 10px 5px;
 }
 
 .PageSection {
-	font-size: 1.2rem;
-	color: white;
-	font-weight: bold;
-	clear: both;
-	margin: 5px;
-	padding: 5px 15px;
-	border-top: 3px solid black;
-	border-radius: 0 0 0.3em 0.3em;
-	background-color: #0055AA;
+  font-size: 1.2rem;
+  color: white;
+  font-weight: bold;
+  clear: both;
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  border-top: 3px solid #003264;
+  border-radius: 0.5em 0.5em 0 0;
+  background-color: #0055aa;
 }
 
 .BlueContainer,
-.infobox {
-	background-color: #0055AA;
-	border: 2px solid #003264;
-	color: white;
-	min-height: 80px;
-	padding: 5px;
-	margin: 5px;
-	font-size: 1rem;
-	overflow: auto;
+.infobox,
+.Navigation {
+  background-color: #0055aa;
+  border: 3px solid #003264;
+  color: white;
+  min-height: 80px;
+  padding: 0.25rem;
+  margin: 0.5rem;
+  font-size: 1rem;
+  overflow: auto;
+  border-radius: 0.5em;
+}
+
+.Navigation {
+  font-weight: bold;
+  border-radius: 1em;
+  margin: auto;
+  width: 90%;
+  text-align: center;
+  min-height: 0;
 }
 
 .BlueContainer.GalleryInfo {
-	border: 2px solid #042c41;
-	color: white;
-	padding: 10px;
-	display: inline-block;
-	min-height: auto;
-	width: auto;
-	transition: all 2s;
+  border: 2px solid #042c41;
+  color: white;
+  padding: 10px;
+  display: inline-block;
+  min-height: auto;
+  width: auto;
+  transition: all 2s;
 }
 
 .AandPSites {
-	clear: both;
+  clear: both;
 }
 
 .followAnP {
-	display: inline-block;
-	margin: 0.2rem;
+  display: inline-block;
+  margin: 0.2rem;
 }
 
 .RightSideBar {
-	float: right;
-	width: 20%;
+  float: right;
+  width: 20%;
 }
 
 .PageContent {
-	overflow: auto;
-	padding: 0.5rem;
-}
-
-.infobox {
-	padding: 5px;
+  overflow: auto;
+  padding: 0.5rem;
 }
 
 #FunFactStatement {
-	padding: 5px;
-	min-height: 100px;
-	margin-bottom: 5px;
-	text-align: center;
+  padding: 5px;
+  min-height: 100px;
+  margin-bottom: 5px;
+  text-align: center;
 }
 
 .button {
-	border: 0;
-	background: inherit;
-	border: 2px solid white;
-	border-radius: 4px;
-	color: #fff;
-	cursor: pointer;
-	font: inherit;
-	margin: 5px;
-	outline: 0;
-	padding: 2px 5px;
-
+  border: 0;
+  background: inherit;
+  border: 2px solid white;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+  font: inherit;
+  margin: 5px;
+  outline: 0;
+  padding: 2px 5px;
 }
 
 button:hover {
-	color: #0055AA;
-	background-color: white;
-	transition: all .1s linear;
+  color: #0055aa;
+  background-color: white;
+  transition: all 0.1s linear;
 }
 
 button:active {
-	color: #0055AA;
-	background-color: #99CCFF;
-	border: 2px solid #99CCFF;
-	transition: none;
-}
-
-.PageArticle {
-	clear: both;
-	margin: 0.5rem;
-	padding: 0.5rem;
+  color: #0055aa;
+  background-color: #99ccff;
+  border: 2px solid #99ccff;
+  transition: none;
 }
 
 .ArticleAuthor {
-	font-size: 80%;
+  font-size: 80%;
 }
 
 /*For Images in cast.html*/
 
 .castImage {
-	width: 8rem;
-	height: auto;
-	float: right;
-	margin: 1rem;
+  width: 8rem;
+  height: auto;
+  float: right;
+  margin: 1rem;
 }
 
 /*FOR archive.html*/
 
 .archive-date {
-	text-align: right;
-	padding: 0 5px 0 0;
-	font-size: 0.8rem;
-	white-space: nowrap;
+  text-align: right;
+  padding: 0 5px 0 0;
+  font-size: 0.8rem;
+  white-space: nowrap;
 }
 
 .archive-title {
-	padding: 2px 5px;
-	border-left: 1px dashed #aaaaaa;
+  padding: 2px 5px;
+  border-left: 1px dashed #aaaaaa;
 }
 
 .PageEnd {
-	clear: both;
-	padding-bottom: 60px;
+  clear: both;
+  padding-bottom: 60px;
 }
 
 /* d */
 
 .comicarchiveframe {
-	background: #fff;
-	border: 2px solid #000;
-	filter: alpha(opacity=99);
-	opacity: 0.99;
-	padding: 5px;
+  background: #fff;
+  border: 2px solid #000;
+  filter: alpha(opacity=99);
+  opacity: 0.99;
+  padding: 5px;
 }
 
 .gallery {
-	text-align:center;
+  text-align: center;
 }
 
 .gallery img {
-	transition: 0.5s;
-	padding: 0.1em;
-	overflow: hidden;
-	display: inline-block;
-	margin-left: auto;
-	margin-right: auto;
+  transition: 0.5s;
+  padding: 0.1em;
+  overflow: hidden;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .gallery img:hover {
-	transform: scale(1.02);
+  transform: scale(1.02);
 }
 
 .gallery img.animated-gif {
-	height: 200px;
-	width: auto;
+  height: 200px;
+  width: auto;
 }
 
 footer {
-	padding: 1em;
-	width: auto;
-	background-color: #0055AA;
-	border-radius: 0 0 0.5em 0.5em;
-	color: white;
-	text-align: center;
+  padding: 1em;
+  width: auto;
+  background-color: #0055aa;
+  border-radius: 0 0 1em 1em;
+  color: white;
+  text-align: center;
 }
 
 #ArtGalleryInfo {
-	margin: 0.5em;
-	display: none;
+  margin: 0.5em;
+  display: none;
 }
 
 /* Dog Wrapper */
 
-.DogWrap{
-	position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    width: 180px;
-    flex-wrap: wrap;
-    display: flex;
-    justify-content: center;
-    color: #003264;
+.DogWrap {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 180px;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+  color: #003264;
 }
 
-.DogWrap .Dog.left{
-	background-image: url('/images/dog_guide/thinking_dog.png');
-	background-repeat:no-repeat;
-	background-size:contain;
+.DogWrap .Dog.left {
+  background-image: url("/images/dog_guide/thinking_dog.png");
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
-.DogWrap.left{
-	left: -200px;
+.DogWrap.left {
+  left: -200px;
 }
 
-.Dog{
-	height: 200px;
-	width: 200px;
+.Dog {
+  height: 200px;
+  width: 200px;
 }
 
-.DogWrap .DogText{
-	font-size: 20px;
-    line-height: 18px;
-    text-align: center;
-    padding: 10px;
-    transform: rotate(-3deg);
-    background: white;
-    border: 5px solid #003264;
-    font-variant-ligatures: none;
-	box-shadow: 0px 0px 12px black;
+.DogWrap .DogText {
+  font-size: 20px;
+  line-height: 18px;
+  text-align: center;
+  padding: 10px;
+  transform: rotate(-3deg);
+  background: white;
+  border: 5px solid #003264;
+  font-variant-ligatures: none;
+  box-shadow: 0px 0px 12px black;
 }
