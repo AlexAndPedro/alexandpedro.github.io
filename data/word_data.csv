@@ -27,6 +27,7 @@ place|lokon|lokon|noun|noun||From Eagle Language|||pein||5|25|||||||||||||
 tree|arpon|arpon|noun|noun||From Eagle Language|||pu||5|26|||||||||||||
 run|takun|takun|verb|un verb||From Old Mampulan|||||5|27|||||||||||||
 drink|irun|irun|verb|run verb||From Old Mampulan|You are not allowed to drink in the library.|Ro ni akapein kan ant paigtun irun.|||4|28|||||||||||||
+drink|ibus|ibus|noun|noun|||||||4||||||||||||||
 eat|kainun|kainun|verb|un verb||From Old Mampulan|You are not allowed to eat in the library.|Ro ni akapein kan ant paigtun kainun.|||6|29|||||||||||||
 eat and drink|kain'irun|kain'irun|verb|run verb||From <i>kain</i> (&quot;to eat&quot;) + <i>i</i> (&quot;to drink&quot;)|You are not allowed to eat and drink in the library.|Ro ni akapein kan ant paigtun kain’irun.|||9|30|||||||||||||
 river|antak|antak|noun|noun||From Old Mampulan <i>awon</i> (&quot;water&quot;) + <i>takun</i> (&quot;to run&quot;)|||||5|31|||||||||||||
@@ -197,7 +198,8 @@ will be|ti|ti|verb|irregular verb||Future tense of <i>ten</i> (&quot;be&quot;)||
 move|tounun|tounun|verb|un verb||From Old Mampulan|||||6|195|||||||||||||
 child|la|la|noun|noun||From Old Mampulan|||||2|196|||||||||||||
 child|lopon|lopon|noun|noun||From Old Wolf Language|||||5|197|||||||||||||
-animal|tounbus|tounbus|noun|noun||From <i>toun-</i> (&quot;move&quot;) + <i>bus</i> (&quot;thing&quot;)|||||7|198|||||||||||||
+animal|tounbus|tounbus|noun|noun||From <i>toun-</i> (&quot;move&quot;) + <i>bus</i> (&quot;thing&quot;)|||dil||7|198|||||||||||||
+animal|dil|dil|noun|noun||From Old Mampulan|||tounbus||3||||||||||||||
 all|lat|lat|adjective|irregular adjective||From Old Mampulan|||||3|199|||||||||||||
 omniscient|latnoung|latnouq|adjective|ng adjective||From <i>lat-</i> (&quot;all, omni-&quot;) + <i>nourun</i> (&quot;to know&quot;)|||||7|200|||||||||||||
 omnipotent|latfortung|latfortuq|adjective|ung adjective||From <i>lat-</i> (&quot;all, omni-&quot;) + <i>fortanong</i> (&quot;Old Mampulan for strong&quot;)|||||9|201|||||||||||||
@@ -272,6 +274,7 @@ turtle|tert|tert|noun|noun||From Old Mampulan|||||4|269|||||||||||||
 viper |baipar|baipar|noun|noun||From Old Mampulan|||||6|270|||||||||||||
 pig|lei|lei|noun|noun||From Old Mampulan|||||3|271|||||||||||||
 cow|tir|tir|noun|noun||From Old Mampulan|||||3|272|||||||||||||
+deer|lain|lain|noun|noun||From Old Mampulan|||||4||||||||||||||
 milk|miun|miun|noun|noun||From Old Mampulan|||||4|273|||||||||||||
 rice|gai|gai|noun|noun||From Old Mampulan|||||3|274|||||||||||||
 meat|flan|flan|noun|noun||From Old Mampulan|||||4|275|||||||||||||
@@ -2177,7 +2180,7 @@ pace|istên|iste^n|noun|noun||From Bear Language|||||6|2174|||||||||||||
 cable|keibel|keibel|noun|noun||From Human Language <i>cable</i> (&quot;cable&quot;)|||||6|2175|||||||||||||
 salary|manī|mani-|noun|noun||From Human Language <i>money</i>|||||5|2176|||||||||||||
 panic|fomin|fomin|noun|noun||From Old Mampulan|||||5|2177|||||||||||||
-reward|fona|fona|noun|noun||From Old Mampulan|||||4|2178|||||||||||||
+reward|fa|fa|noun|noun||From Old Mampulan|||||2|2178|||||||||||||
 cloud|gumo|gumo|noun|noun||From Old Mampulan||||雲|4|2179|||||||||||||
 zone|geb|geb|noun|noun||From Old Mampulan|||||3|2180|||||||||||||
 slice|inis|inis|noun|noun||From Old Mampulan|||||4|2181|||||||||||||
@@ -2283,7 +2286,7 @@ sandwich|sanwich|sanwic|noun|noun||From Human Language <i>sandwich</i> (&quot;sa
 transition|lankasonin|lankasonin|noun|noun||From Old Mampulan||||遷移|10|2281|||||||||||||
 weekend|satart|satart|noun|noun||From <i>sat</i> (&quot;week&quot;) + <i>art</i> (&quot;end&quot;)|||||6|2282|||||||||||||
 harm|launun|launun|verb|un verb||From injury|||||6|2283|||||||||||||
-joke|tawa|tawa|noun|noun||From Old Mampulan|||||4|2284|||||||||||||
+joke|ti|ti|noun|noun||From Old Mampulan|||||2|2284|||||||||||||
 passage|tūroun|tu-roun|noun|noun||From <i>tū</i> (&quot;to pass though&quot;) + <i>roun</i> (&quot;road&quot;)||||通路|7|2285|||||||||||||
 spray|pusun|pusun|verb|un verb||From Old Mampulan|||||5|2286|||||||||||||
 trash|basra|basra|noun|noun||From Old Mampulan|||garbage||5|2287|||||||||||||
@@ -2328,15 +2331,15 @@ tune|tūn|tu-n|noun|noun||From Human Language <i>tune</i> (&quot;tune&quot;).|||
 champion|kando|kando|noun|noun||From Old Mampulan|||||5|2326|||||||||||||
 channel|kanja|kanja|noun|noun||From Old Mampulan|||||5|2327|||||||||||||
 crack|kanjon|kanjon|noun|noun||From Old Mampulan|||||6|2328|||||||||||||
-alarm|foso|foso||||From Old Mampulan||||警報|4|2329|||||||||||||
-bicycle|foya|foya||||From Old Mampulan|||||4|2330|||||||||||||
-blind|fuba|fuba||||From Old Mampulan|||||4|2331|||||||||||||
-counter|fugi|fugi||||From Old Mampulan|||||4|2332|||||||||||||
-grandfather|iba|iba||||From Old Mampulan|||||3|2333|||||||||||||
-skirt|ina|ina||||From Old Mampulan|||||3|2334|||||||||||||
-stroke|ipi|ipi||||From Old Mampulan|||||3|2335|||||||||||||
-bid|iso|iso||||From Old Mampulan|||||3|2336|||||||||||||
-boot|ita|ita||||From Old Mampulan|||||3|2337|||||||||||||
+alarm|foso|foso|noun|noun||From Old Mampulan||||警報|4|2329|||||||||||||
+bicycle|foya|foya|noun|noun||From Old Mampulan|||||4|2330|||||||||||||
+blind|fuba|fuba|noun|noun||From Old Mampulan|||||4|2331|||||||||||||
+counter|fugi|fugi|noun|noun||From Old Mampulan|||||4|2332|||||||||||||
+grandfather|iba|iba|noun|noun||From Old Mampulan|||||3|2333|||||||||||||
+skirt|ina|ina|noun|noun||From Old Mampulan|||||3|2334|||||||||||||
+stroke|ipi|ipi|noun|noun||From Old Mampulan|||||3|2335|||||||||||||
+bid|iso|iso|noun|noun||From Old Mampulan|||||3|2336|||||||||||||
+boot|ita|ita|noun|noun||From Old Mampulan|||||3|2337|||||||||||||
 bug|musi|musi|noun|noun|insect|From Old Mampulan|||||4|2338|||||||||||||
 bug|bag|bag|noun|noun|computer bug|From Human Language <i>bug</i> (&quot;bug&quot;).|||||3|2339|||||||||||||
 beyond|yude|yude|preposition|preposition||From Old Mampulan|||||4|2340|||||||||||||
@@ -2394,12 +2397,38 @@ exact|tamainong|tamainoq|adjective|ng adjective||tama + ino||||正確|8|||||||||
 might|danlin|danlin|noun|noun||From Old Mampulan|||||6|2385|||||||||||||
 single|fing|fing|adjective|ng adjective||From Old Mampulan|||||4|2390|||||||||||||
 particular|tamainofing|tamainofiq|adjective|ng adjective||exact + single|||||10|2386|||||||||||||
-natural|danta|danta||||From Old Mampulan|||||5|2388|||||||||||||
-check|danto|danto||||From Old Mampulan|||||5|2389|||||||||||||
-individual|danwin|danwin||||From Old Mampulan|||||6|2391|||||||||||||
+natural|jaitenung|jaitenuq|adjective|ung adjective||self + to be|||||8|2388|||||||||||||
+check|surirun|surirun|verb|run verb||From Old Mampulan|||||7|2389|||||||||||||
+item|buin|buin|noun|noun|||||||4||||||||||||||
+individual|buinwan|kowan|noun|noun||buin + wan||||個人|5|2391|||||||||||||
 guard|danwo|danwo||||From Old Mampulan|||||5|2392|||||||||||||
 international|kindi|kindi||||From Old Mampulan||||国際|5|2393|||||||||||||
-cook|kindo|kindo||||From Old Mampulan|||||5|2394|||||||||||||
+cook|isun|isun|verb|un verb||From Old Mampulan|||||4|2394|||||||||||||
+northern part|hilabon|hilabon|noun|noun||||||北部|||||||||||||||
+southern part|timobon|timobon|noun|noun||||||南部|||||||||||||||
+western part|rasobon|rasobon|noun|noun||||||西部|||||||||||||||
+eastern part|dagabon|dagabon|noun|noun||||||東部|||||||||||||||
+audit|obdel|obdel|noun|noun||||||監査|||||||||||||||
+macaron|makaron|makaron|noun|noun|||||||||||||||||||||
+official|einreg|einreg|noun|noun||ein+reg||||公+source|6|2419|||||||||||||
+golden|gong|gong|adjective|g adjective||gon|||||4||||||||||||||
+myself|sair|sair|pronoun|pronoun|||||||||||||||||||||
+yourself|sair|sair|pronoun|pronoun|||||||||||||||||||||
+himself|sair|sair|pronoun|pronoun|||||||||||||||||||||
+herself|sair|sair|pronoun|pronoun|||||||||||||||||||||
+itself|sair|sair|pronoun|pronoun|||||||||||||||||||||
+themselves|sair|sair|pronoun|pronoun|||||||||||||||||||||
+themselves|sair|sair|pronoun|pronoun|||||||||||||||||||||
+ourselves|sair|sair|pronoun|pronoun|||||||||||||||||||||
+oneself|sair|sair|pronoun|pronoun|||||||||||||||||||||
+thread|ita|ita|noun|noun|||||||||||||||||||||
+needle|kau|kau|noun|noun|||||||||||||||||||||
+tea|cha|cha|noun|noun|||||||||||||||||||||
+jam|jam|jam|noun|noun|(food)||||||||||||||||||||
+doe|malain|lamain|noun|noun|||||||||||||||||||||
+ferocious|mōng|mo-q|adjective|ng adjective||||||猛|||||||||||||||
+first of all|bini|bini|adverb|adverb||||||front + one|||||||||||||||
+wrath|ir|ir|noun|noun||||||ire (latin)|||||||||||||||
 following|kinka|kinka||||From Old Mampulan|||||5|2395|||||||||||||
 whole|kinko|kinko||||From Old Mampulan|||||5|2396|||||||||||||
 purchase|kinlo|kinlo||||From Old Mampulan|||||5|2397|||||||||||||
@@ -2423,7 +2452,6 @@ classic|kansor|kansor||||From Old Mampulan|||||6|2415|||||||||||||
 lift|kantir|kantir||||From Old Mampulan|||||6|2416|||||||||||||
 private|kantor|kantor||||From Old Mampulan|||||6|2417|||||||||||||
 familiar|kanwir|kanwir||||From Old Mampulan|||||6|2418|||||||||||||
-official|kanwor|kanwor||||From ||||公式|6|2419|||||||||||||
 broad|tansa|tansa||||From Old Mampulan|||||5|2420|||||||||||||
 maybe|saron|saron||||From Old Mampulan|||||5|2421|||||||||||||
 fail|sandon|sandon||||From Old Mampulan|||||6|2422|||||||||||||
@@ -2512,7 +2540,7 @@ surround|luri|luri||||From Old Mampulan|||||4|2507|||||||||||||
 brilliant|luro|luro||||From Old Mampulan|||||4|2508|||||||||||||
 dear|mabi|mabi||||From Old Mampulan|||||4|2509|||||||||||||
 drunk|mada|mada||||From Old Mampulan|||||4|2510|||||||||||||
-female|madi|madi||||From Old Mampulan|||||4|2511|||||||||||||
+female|mar|mar|noun|noun||From Old Mampulan||||女|3|2511|||||||||||||
 pop|maka|maka||||From Old Mampulan|||||4|2512|||||||||||||
 district|noko|noko||||From Old Mampulan|||||4|2513|||||||||||||
 lawyer|tobi|tobi||||From Old Mampulan|||||4|2514|||||||||||||
@@ -2520,7 +2548,6 @@ pension|todo|todo||||From Old Mampulan|||||4|2515|||||||||||||
 purple|toga|toga||||From Old Mampulan|||||4|2516|||||||||||||
 commission|treit|treit||||From Old Mampulan|||||5|2517|||||||||||||
 progress|trem|trem||||From Old Mampulan|||||4|2518|||||||||||||
-|||||||||||||||||||||||||
 |bung||||||||||||||||||||||||
 |cang||||||||||||||||||||||||
 |deng||||||||||||||||||||||||
