@@ -283,11 +283,11 @@ div.MainMenu ul li:active {
   background-color: #0055aa;
   border: 3px solid #003264;
   color: white;
-  min-height: 80px;
+  min-height: auto;
   padding: 0.25rem;
   margin: 0.5rem;
   font-size: 1rem;
-  overflow: auto;
+  overflow: hidden;
   border-radius: 0.5em;
 }
 
@@ -305,7 +305,7 @@ div.MainMenu ul li:active {
   color: white;
   padding: 10px;
   display: inline-block;
-  min-height: auto;
+  
   width: auto;
   transition: all 2s;
 }

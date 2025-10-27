@@ -1,36 +1,251 @@
 [
     {
-        "location": "/comic/0001 - Pedro's Phone.png",
+        "comic_number": 1,
+        "title": "[0001] Pedro's Phone",
+        "description": "Oh no!",
+        "image": "/comic/0001 - Pedro's Phone.png",
         "name": "Pedro's Phone",
         "date": "2020-03-25",
         "tag" : ["alex","pedro","phone"]
     }
     ,
     {
-        "location": "\\comic\\0002 - Isn't It Weird.png",
+        "comic_number": 2,
+        "title": "[0002] Isn't It Weird?",
+        "description": "",
+        "image": "\\comic\\0002 - Isn't It Weird.png",
         "name": "Isn't It Weird?",
         "date": "2020-03-27",
         "tag" : ["alex","pedro"]
     }
     ,
     {
-        "location": "\\comic\\0003 - Alex Got Pranked.png",
+        "comic_number": 3,
+        "title": "[0003] Alex Got Pranked",
+        "description": "",
+        "image": "\\comic\\0003 - Alex Got Pranked.png",
         "name": "Alex Got Pranked",
         "date": "2020-03-30",
         "tag" : ["alex","pedro","treat"]
     }
     ,
     {
-        "location": "\\comic\\0004 - Intellectual Superiority.png",
+        "comic_number": 4,
+        "title": "[0004] Intellectual Superiority",
+        "description": "",
+        "image": "\\comic\\0004 - Intellectual Superiority.png",
         "name": "Intellectual Superiority",
         "date": "2020-04-27",
         "tag" : ["alex","pedro","book"]
     }
     ,
     {
-        "location": "0005 - Mail.png",
+        "comic_number": 5,
+        "title": "[0005] Mail",
+        "description": "",
+        "image": "\\comic\\0005 - Mail.png",
         "name": "Mail",
         "date": "2020-04-27",
         "tag" : ["alex","mail"]
+    }
+    ,
+    {
+        "comic_number": 6,
+        "title": "[0006] Break-In",
+        "description": "",
+        "image": "\\comic\\0006 - Break-In.png",
+        "name": "",
+        "date": "",
+        "tag" : ["alex","pedro"]
+    }
+    ,
+    {
+        "comic_number": 7,
+        "title": "[0007] Chaos in the Trash",
+        "description": "",
+        "image": "\\comic\\0007 - Chaos in the Trash.png",
+        "name": "",
+        "date": "",
+        "tag" : ["alex","pedro"]
+    }
+    ,
+    {
+        "comic_number": 8,
+        "title": "[0008] Finally, Alex!",
+        "description": "",
+        "image": "\\comic\\0008 - Finally, Alex.png",
+        "name": "",
+        "date": "",
+        "tag" : ["alex","pedro"]
+    }
+    ,
+    {
+        "comic_number": 9,
+        "title": "[0009] A Lesson Learned",
+        "description": "",
+        "image": "\\comic\\0009 - A Lesson Learned.png",
+        "name": "",
+        "date": "",
+        "tag" : ["alex","pedro"]
+    }
+    ,
+    {
+        "comic_number": 10,
+        "title": "[0010] Adventure Begins",
+        "description": "",
+        "image": "\\comic\\0010 - Adventure Begins.png",
+        "name": "",
+        "date": "",
+        "tag" : ["alex","pedro"]
+    }
+    ,
+    {
+        "comic_number": 11,
+        "title": "[0011] Leaving the City",
+        "description": "",
+        "image": "\\comic\\0011 - Leaving the City.png",
+        "name": "",
+        "date": "",
+        "tag" : ["alex","dog","nature"]
+    }
+    ,
+    {
+        "comic_number": 12,
+        "title": "[0012] Finding Friends",
+        "description": "",
+        "image": "\\comic\\0012 - Finding Friends.png",
+        "name": "",
+        "date": "",
+        "tag" : ["alex","pangil","ertle"]
+    }
+    ,
+    {
+        "comic_number": 13,
+        "title": "[0013] Introductions",
+        "description": "",
+        "image": "\\comic\\0013 - Introductions.png",
+        "name": "",
+        "date": "",
+        "tag" : ["alex","pangil","ertle"]
+    }
+    ,
+    {
+        "comic_number": 14,
+        "title": "[0014] Wolf-Related Things",
+        "description": "",
+        "image": "\\comic\\0014 - Wolf-Related Things.png",
+        "name": "",
+        "date": "",
+        "tag" : ["alex","pangil"]
+    }
+    ,
+    {
+        "comic_number": 15,
+        "title": "[0015] Giving Ideas",
+        "description": "",
+        "image": "\\comic\\0015 - Giving Ideas.png",
+        "name": "",
+        "date": "",
+        "tag" : ["alex","pangil","ertle"]
+    }
+    ,
+    {
+        "comic_number": 16,
+        "title": "[0016] Calcium Intake",
+        "description": "",
+        "image": "\\comic\\0016 - Calcium Intake.png",
+        "name": "",
+        "date": "",
+        "tag" : ["alex","pangil"]
+    }
+    ,
+    {
+        "comic_number": 17,
+        "title": "[0017] Enemies",
+        "description": "",
+        "image": "\\comic\\0017 - Enemies.png",
+        "name": "",
+        "date": "",
+        "tag" : ["alex","pangil","ertle","pawesome"]
+    }
+    ,
+    {
+        "comic_number": 18,
+        "title": "[0018] City Needs Help",
+        "description": "",
+        "image": "\\comic\\0018 - City Needs Help.png",
+        "name": "",
+        "date": "",
+        "tag" : ["mysterious figure","dog","rabbit"]
+    }
+    ,
+    {
+        "comic_number": 19,
+        "title": "[0019] Meteor Shower",
+        "description": "",
+        "image": "\\comic\\0019 - Meteor Shower.png",
+        "name": "",
+        "date": "",
+        "tag" : ["alex","pangil","ertle"]
+    }
+    ,
+    {
+        "comic_number": 20,
+        "title": "[0020] An Eroded Path",
+        "description": "",
+        "image": "\\comic\\0020 - An Eroded Path.png",
+        "name": "",
+        "date": "",
+        "tag" : ["alex","pangil","ertle"]
+    }
+    ,
+    {
+        "comic_number": 21,
+        "title": "[0021] Where's Pawesome?",
+        "description": "",
+        "image": "\\comic\\0021 - Where's Pawesome.png",
+        "name": "",
+        "date": "",
+        "tag" : ["pawesome"]
+    }
+    ,
+    {
+        "comic_number": 22,
+        "title": "[0022] One-Liners",
+        "description": "",
+        "image": "\\comic\\0022 - One-Liners.png",
+        "name": "",
+        "date": "",
+        "tag" : ["pawesome","meteor"]
+    }
+    ,
+    {
+        "comic_number": 23,
+        "title": "[0023] Here Goes Nothing",
+        "description": "Whack!",
+        "image": "\\comic\\0023 - Here Goes Nothing.png",
+        "name": "",
+        "date": "",
+        "tag" : ["pawesome","meteor"]
+    }
+    ,
+    {
+        "comic_number": 24,
+        "title": "[0024] Job's Done!",
+        "description": "",
+        "image": "\\comic\\0024 - Job's Done.png",
+        "name": "",
+        "date": "",
+        "tag" :  ["pawesome","meteor"]
+    }
+    ,
+    {
+        "comic_number": 25,
+        "title": "[[0025] Downstream",
+        "description": "",
+        "image": "\\comic\\0025 - Downstream.png",
+        "name": "",
+        "date": "",
+        "tag" : ["pangil"]
     }
 ]
