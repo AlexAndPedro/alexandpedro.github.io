@@ -8,11 +8,13 @@ class Word{
         this.mampulan_symbol = WordInfo[2];
         this.pos_english = WordInfo[3];
         this.pos_mampulan = WordInfo[4];
-        this.definition = WordInfo[5];
-        this.etymology = WordInfo[6];
-        this.example_eng = WordInfo[7];
-        this.example_mam = WordInfo[8];
-        this.see_also = WordInfo[9];
+        this.pos_mam_lang = WordInfo[5];
+        this.definition = WordInfo[6];
+        this.definition_mampulan = WordInfo[7];
+        this.etymology = WordInfo[8];
+        this.example_eng = WordInfo[9];
+        this.example_mam = WordInfo[10];
+        this.see_also = WordInfo[11];
     }
 }
 
@@ -91,7 +93,9 @@ function callback(dictionary) {
             let mampulanSymbol = new Array();
             let partOfSpeechEng = new Array();
             let partOfSpeechMam = new Array();
+            let partOfSpeechMamLang = new Array();
             let definition = new Array();
+            let mampulanDefinition = new Array();
             let etymology = new Array();
             let englishExample = new Array();
             let mampulanExample = new Array();
@@ -114,7 +118,9 @@ function callback(dictionary) {
                     mampulanSymbol.push(dictionaryOutput[i].mampulan_symbol);
                     partOfSpeechEng.push(dictionaryOutput[i].pos_english);
                     partOfSpeechMam.push(dictionaryOutput[i].pos_mampulan);
+                    partOfSpeechMamLang.push(dictionaryOutput[i].pos_mam_lang);
                     definition.push(dictionaryOutput[i].definition);
+                    mampulanDefinition.push(dictionaryOutput[i].definition_mampulan);
                     etymology.push(dictionaryOutput[i].etymology);
                     englishExample.push(dictionaryOutput[i].example_eng);
                     mampulanExample.push(dictionaryOutput[i].example_mam);
@@ -141,13 +147,15 @@ function callback(dictionary) {
                         // Note that this is only one entry.
                         DictionaryDisplayElementE[0] = `<h1 class="word">${englishWord[i]}</h1>`;
                         DictionaryDisplayElementE[1] = `<h1>${partOfSpeechEng[i]}</h1>`;
-                        DictionaryDisplayElementE[2] = `<h2 class="translation" style="font-family:MampulanFont">${mampulanSymbol[i]}</h2>`;
-                        DictionaryDisplayElementE[3] = `<h3 class="transliteration">${mampulanWord[i]}</h2>`;
-                        DictionaryDisplayElementE[4] = `<h3 class="definition">${definition[i]}</h2>`;
-                        DictionaryDisplayElementE[5] = `Example:<h3 class="mampulanExample">${mampulanExample[i]}</h2>`;
-                        DictionaryDisplayElementE[6] = `<h3 class="englishExample">${englishExample[i]}</h2>`;
-                        DictionaryDisplayElementE[7] = `Etymology:<h3 class="etymology">${etymology[i]}</h2>`;
-                        DictionaryDisplayElementE[8] = `See Also:<h3 class="seeAlso">${seeAlso[i]}</h2><hr>`;
+                        DictionaryDisplayElementM[2] = `<h1>${partOfSpeechMamLang[i]}</h1>`;
+                        DictionaryDisplayElementE[3] = `<h2 class="translation" style="font-family:MampulanFont">${mampulanSymbol[i]}</h2>`;
+                        DictionaryDisplayElementE[4] = `<h3 class="transliteration">${mampulanWord[i]}</h2>`;
+                        DictionaryDisplayElementE[5] = `<h3 class="definition">${definition[i]}</h2>`;
+                        DictionaryDisplayElementE[6] = `<h3 class="definition" style="font-family:MampulanFont">${mampulanDefinition[i]}</h2>`;
+                        DictionaryDisplayElementE[7] = `Example:<h3 class="mampulanExample">${mampulanExample[i]}</h2>`;
+                        DictionaryDisplayElementE[8] = `<h3 class="englishExample">${englishExample[i]}</h2>`;
+                        DictionaryDisplayElementE[9] = `Etymology:<h3 class="etymology">${etymology[i]}</h2>`;
+                        DictionaryDisplayElementE[10] = `See Also:<h3 class="seeAlso">${seeAlso[i]}</h2><hr>`;
 
 
                         DictionaryDisplayEng[i] = DictionaryDisplayElementE.join('');
@@ -163,12 +171,14 @@ function callback(dictionary) {
                         DictionaryDisplayElementM[0] = `<h1 class="word" style="font-family:MampulanFont">${mampulanSymbol[i]}</h1>`;
                         DictionaryDisplayElementM[1] = `<h3 class="transliteration">${mampulanWord[i]}</h2>`;
                         DictionaryDisplayElementM[2] = `<h1>${partOfSpeechMam[i]}</h1>`;
-                        DictionaryDisplayElementM[3] = `<h2 class="translation">${englishWord[i]}</h2>`;
-                        DictionaryDisplayElementM[4] = `<h3 class="definition">${definition[i]}</h2>`;
-                        DictionaryDisplayElementM[5] = `Example:<h3 class="mampulanExample">${mampulanExample[i]}</h2>`;
-                        DictionaryDisplayElementM[6] = `<h3 class="englishExample">${englishExample[i]}</h2>`;
-                        DictionaryDisplayElementM[7] = `Etymology:<h3 class="etymology">${etymology[i]}</h2>`;
-                        DictionaryDisplayElementM[8] = `See Also:<h3 class="seeAlso">${seeAlso[i]}</h2><hr>`;
+                        DictionaryDisplayElementM[3] = `<h1 style="font-family:MampulanFont">${partOfSpeechMamLang[i]}</h1>`;
+                        DictionaryDisplayElementM[4] = `<h2 class="translation">${englishWord[i]}</h2>`;
+                        DictionaryDisplayElementM[5] = `<h3 class="definition" style="font-family:MampulanFont">${mampulanDefinition[i]}</h2>`;
+                        DictionaryDisplayElementM[6] = `<h3 class="definition">${definition[i]}</h2>`;
+                        DictionaryDisplayElementM[7] = `Example:<h3 class="mampulanExample">${mampulanExample[i]}</h2>`;
+                        DictionaryDisplayElementM[8] = `<h3 class="englishExample">${englishExample[i]}</h2>`;
+                        DictionaryDisplayElementM[9] = `Etymology:<h3 class="etymology">${etymology[i]}</h2>`;
+                        DictionaryDisplayElementM[10] = `See Also:<h3 class="seeAlso">${seeAlso[i]}</h2><hr>`;
 
 
                        DictionaryDisplayMam[i] = DictionaryDisplayElementM.join('');
