@@ -1,6 +1,5 @@
-let path = "/data/word_data.csv"; //change to "/data/word_data.csv" when done
+let path = "/data/word_data.csv";
 let delimiter = "|";
-
 class Word{
     constructor(WordInfo) {
         this.english = WordInfo[0];
