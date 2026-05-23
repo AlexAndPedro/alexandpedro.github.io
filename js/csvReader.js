@@ -10,10 +10,11 @@ class Word{
         this.pos_mam_lang = WordInfo[5];
         this.definition = WordInfo[6];
         this.definition_mampulan = WordInfo[7];
-        this.etymology = WordInfo[8];
-        this.example_eng = WordInfo[9];
-        this.example_mam = WordInfo[10];
-        this.see_also = WordInfo[11];
+        this.etymology_eng = WordInfo[8];
+        this.etymology_mam = WordInfo[9];
+        this.example_eng = WordInfo[10];
+        this.example_mam = WordInfo[11];
+        this.see_also = WordInfo[12];
     }
 }
 
@@ -95,7 +96,8 @@ function callback(dictionary) {
             let partOfSpeechMamLang = new Array();
             let definition = new Array();
             let mampulanDefinition = new Array();
-            let etymology = new Array();
+            let etymology_eng = new Array();
+            let etymology_mam = new Array();
             let englishExample = new Array();
             let mampulanExample = new Array();
             let seeAlso = new Array();
@@ -120,7 +122,8 @@ function callback(dictionary) {
                     partOfSpeechMamLang.push(dictionaryOutput[i].pos_mam_lang);
                     definition.push(dictionaryOutput[i].definition);
                     mampulanDefinition.push(dictionaryOutput[i].definition_mampulan);
-                    etymology.push(dictionaryOutput[i].etymology);
+                    etymology_eng.push(dictionaryOutput[i].etymology_eng);
+                    etymology_mam.push(dictionaryOutput[i].etymology_mam);
                     englishExample.push(dictionaryOutput[i].example_eng);
                     mampulanExample.push(dictionaryOutput[i].example_mam);
                     seeAlso.push(dictionaryOutput[i].see_also);
@@ -153,8 +156,9 @@ function callback(dictionary) {
                         DictionaryDisplayElementE[6] = `<h3 class="definition" style="font-family:MampulanFont">${mampulanDefinition[i]}</h2>`;
                         DictionaryDisplayElementE[7] = `Example:<h3 class="mampulanExample">${mampulanExample[i]}</h2>`;
                         DictionaryDisplayElementE[8] = `<h3 class="englishExample">${englishExample[i]}</h2>`;
-                        DictionaryDisplayElementE[9] = `Etymology:<h3 class="etymology">${etymology[i]}</h2>`;
-                        DictionaryDisplayElementE[10] = `See Also:<h3 class="seeAlso">${seeAlso[i]}</h2><hr>`;
+                        DictionaryDisplayElementE[9] = `Etymology:<h3 class="etymology_eng">${etymology_eng[i]}</h2>`;
+                        DictionaryDisplayElementE[10] = `<h3 class="etymology_mam" style="font-family:MampulanFont">${etymology_mam[i]}</h2>`;
+                        DictionaryDisplayElementE[11] = `See Also:<h3 class="seeAlso">${seeAlso[i]}</h2><hr>`;
 
 
                         DictionaryDisplayEng[i] = DictionaryDisplayElementE.join('');
@@ -176,8 +180,9 @@ function callback(dictionary) {
                         DictionaryDisplayElementM[6] = `<h3 class="definition">${definition[i]}</h2>`;
                         DictionaryDisplayElementM[7] = `Example:<h3 class="mampulanExample">${mampulanExample[i]}</h2>`;
                         DictionaryDisplayElementM[8] = `<h3 class="englishExample">${englishExample[i]}</h2>`;
-                        DictionaryDisplayElementM[9] = `Etymology:<h3 class="etymology">${etymology[i]}</h2>`;
-                        DictionaryDisplayElementM[10] = `See Also:<h3 class="seeAlso">${seeAlso[i]}</h2><hr>`;
+                        DictionaryDisplayElementM[9] = `Etymology:<h3 class="etymology_mam" style="font-family:MampulanFont">${etymology_mam[i]}</h2>`;
+                        DictionaryDisplayElementM[10] = `<h3 class="etymology_eng">${etymology_eng[i]}</h2>`;
+                        DictionaryDisplayElementM[11] = `See Also:<h3 class="seeAlso">${seeAlso[i]}</h2><hr>`;
 
 
                        DictionaryDisplayMam[i] = DictionaryDisplayElementM.join('');
