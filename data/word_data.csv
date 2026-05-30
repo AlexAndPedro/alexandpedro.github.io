@@ -112,7 +112,7 @@ odor|sanwer|sanwer|noun|noun|notbat|||From <i>sano</i> (&quot;nose&quot;) + <i>a
 odorless|antesânwerung|antesa^nweruq|adjective|ung adjective|uq-sulaikibat|||From <i>ante-</i> (&quot;without&quot;) + <i>sano</i> (&quot;nose&quot;) + <i>air</i> (&quot;her&quot;)||||||13|110|||||||||||||
 colorless|anteklông|anteklo^nq|adjective|ung adjective|uq-sulaikibat|||From <i>ante-</i> (&quot;without&quot;) + <i>klor</i> (&quot;color&quot;)||||||10|111|||||||||||||
 heartless|antepâing|antepa^iq|adjective|ng adjective|q-sulaikibat|||From <i>ante-</i> (&quot;without&quot;) + <i>pain</i> (&quot;heart&quot;)||||||9|112|||||||||||||
-red|kung|kung|adjective|ng adjective|q-sulaikibat|||From Old Mampulan||||||4|113|||||||||||||
+red|kung|kuq|adjective|ng adjective|q-sulaikibat|||From Old Mampulan||||||3|113|||||||||||||
 orange|ekang|ekaq|adjective|ng adjective|q-sulaikibat|||From Old Mampulan||||||4|114|||||||||||||
 yellow|alang|alaq|adjective|ng adjective|q-sulaikibat|||From Old Mampulan||||||4|115|||||||||||||
 green|luntung|luntuq|adjective|ng adjective|q-sulaikibat|||From Old Mampulan||||||6|116|||||||||||||
@@ -430,7 +430,7 @@ add|jarun|jarun|verb|run verb|run-usbat|||From Old Mampulan||||||5|427||||||||||
 spend|supun|supun|verb|un verb|un-usbat|||From Old Mampulan||||||5|428|||||||||||||
 grow|gorun|gorun|verb|run verb|run-usbat|||From Old Mampulan||We need earth to grow plants.|Koi'n pula is gorun as don is kailu.|||5|429|||||||||||||
 open|dosun|dosun|verb|un verb|un-usbat|||From Old Mampulan||||||5|430|||||||||||||
-close|shimun|shimun|verb|un verb|un-usbat|||From Old Mampulan||||||6|431|||||||||||||
+close|shimun|ximun|verb|un verb|un-usbat|||From Old Mampulan||||||5|431|||||||||||||
 walk|tiurun|tiurun|verb|run verb|run-usbat|||From Old Mampulan||||||6|432|||||||||||||
 win|wenun|wenun|verb|un verb|un-usbat|||From Old Mampulan||||||5|433|||||||||||||
 offer|rusanun|rusanun|verb|un verb|un-usbat|||From Old Mampulan||||||7|434|||||||||||||
@@ -604,7 +604,7 @@ their|yois|yois|pronoun|pronoun|sunotbat|||From Old Mampulan||||||4|601|||||||||
 theirs|yois|yois|pronoun|pronoun|sunotbat|||From Old Mampulan||||||4|602|||||||||||||
 car|brun|brun|noun|noun|notbat|||Probably from car onomatopoeia when a car starts or drives vroom||||||4|603|||||||||||||
 wall|pade|pade|noun|noun|notbat|||From Old Mampulan||||||4|604|||||||||||||
-window|chima|chima|noun|noun|notbat|||From Old Mampulan||||||5|605|||||||||||||
+window|chima|cima|noun|noun|notbat|||From Old Mampulan||||||4|605|||||||||||||
 door|nila|nila|noun|noun|notbat|||From Old Mampulan||||||4|606|||||||||||||
 warehouse|nost|nost|noun|noun|notbat|||From Old Mampulan||||||4|607|||||||||||||
 garage|brunnot|brunnot|noun|noun|notbat|||From <i>brun</i> (&quot;car&quot;) + <i>not</i> (&quot;warehouse&quot;)||||||7|608|||||||||||||
@@ -941,7 +941,7 @@ music|ranan|ranan|noun|noun|notbat|||From Old Mampulan||||||5|938|||||||||||||
 rule|fait|fait|noun|noun|notbat|||||||||4|939|||||||||||||
 method|rounfait|rounfait|noun|noun|notbat|||From <i>roun</i> (&quot;way&quot;) + <i>fait</i> (&quot;rule&quot;)||||||8|940|||||||||||||
 data|deita|deita|noun|noun|notbat|||From Human Language <i>data</i>||||||5|941|||||||||||||
-order|chesmou|chesmou|noun|noun|notbat|(1) ordering food||From <i>ches</i> (&quot;&quot;) + <i>mou</i> (&quot;&quot;)||||||7|942|||||||||||||
+order|chesmou|cesmou|noun|noun|notbat|(1) ordering food||From <i>ches</i> (&quot;&quot;) + <i>mou</i> (&quot;&quot;)||||||6|942|||||||||||||
 order|jin|jin|noun|noun|notbat|(2) the arrangement or sequence of objects||From Old Mampulan||||||3|943|||||||||||||
 food|kainbus|kainbus|noun|noun|notbat|||From <i>kainun</i> (&quot;eat&quot;) + <i>bus</i> (&quot;thing&quot;)||||||7|944|||||||||||||
 understanding|urpiu|urpiu|noun|noun|notbat|||From <i>ur</i> (&quot;logic&quot;) + <i>piu</i> (&quot;explanation&quot;)||||||5|945|||||||||||||
@@ -1080,9 +1080,9 @@ near|serde|serde|preposition|postposition|pusobat|||From Old Mampulan||||||5|107
 close by|serde|serde|preposition|postposition|pusobat|||From Old Mampulan||||||5|1078|||||||||||||
 nearby|serde|serde|preposition|postposition|pusobat|||From Old Mampulan||||||5|1079|||||||||||||
 local|serpeing|serpeiq|adjective|g adjective|g-sulaikibat|||From <i>serung</i> (&quot;near&quot;) +  <i>pein</i> (&quot;place&quot;)||||||7|1080|||||||||||||
-must|dratun|dratun|verb|un verb|un-usbat|||From Old Mampulan||||should, have to||6|1081|||||||||||||
-should|dratun|dratun|verb|un verb|un-usbat|||From Old Mampulan||||must, have to||6|1082|||||||||||||
-have to|dratun|dratun|verb|un verb|un-usbat|||From Old Mampulan||||should, must||6|1083|||||||||||||
+must|drun|drun|verb|un verb|un-usbat|||From Old Mampulan||||should, have to||4|1081|||||||||||||
+should|drun|drun|verb|un verb|un-usbat|||From Old Mampulan||||must, have to||4|1082|||||||||||||
+have to|drun|drun|verb|un verb|un-usbat|||From Old Mampulan||||should, must||4|1083|||||||||||||
 example|kelt|kelt|noun|noun|notbat|||From Old Mampulan||||give an example||4|1084|||||||||||||
 give an example|keltun|keltun|verb|un verb|un-usbat|||From <i>kelt</i> (&quot;example&quot;)||||example||6|1085|||||||||||||
 silence|sailt|sailt|noun|noun|notbat|||From Old Mampulan||||silent, be silent||5|1086|||||||||||||
@@ -1394,7 +1394,7 @@ chapter|kaptan|kaptan|noun|noun|notbat|||From Old Mampulan||||||6|1391||||||||||
 conversation|samabinas|samabinas|noun|noun|notbat|||From <i>samanak</i> (&quot;together&quot;) + <i>birun</i> (&quot;talk&quot;)||||||9|1392|||||||||||||
 converse|samabirun|samabirun|verb|run verb|run-usbat|||From <i>samabinas</i> (&quot;conversation&quot;)||||||9|1393|||||||||||||
 enthusiasm|kansailmain|kansailmain|noun|noun|notbat|||From <i>kan + sailung + main</i> (&quot;in + happy + feeling&quot;)||||||11|1394|||||||||||||
-error||||||||From Old Mampulan||||||0|1395|||||||||||||
+error|dail|dail|noun|noun|notbat|||From Old Mampulan|||||誤|4|1395|||||||||||||
 farm|agupein|agupein|noun|noun|notbat|||From <i>agu</i> (&quot;farm-related&quot;) + <i>pein</i> (&quot;place&quot;)||||||7|1396|||||||||||||
 farm|agurun|agurun|verb|run verb|run-usbat|||From <i>agu</i> (&quot;farm-related&quot;)||||||6|1397|||||||||||||
 farmer|aguwan|aguwan|noun|noun|notbat|||From <i>agu</i> (&quot;farm-related&quot;) + <i>wan</i> (&quot;person&quot;)||||||6|1398|||||||||||||
@@ -1483,7 +1483,7 @@ clarify|prainaltun|prainaltun|verb|un verb|un-usbat|||From <i>prai + nalt</i> (&
 cabin|punpast|punpast|noun|noun|notbat|||From <i>prai + nalt</i> (&quot;to become clear&quot;)||||||7|1481|||||||||||||
 member|in|in|noun|noun|notbat|||From Old Mampulan||||||2|1482|||||||||||||
 structure|tia|tia|noun|noun|notbat|||From <i>tiarun</i> (&quot;build&quot;)||||||3|1483|||||||||||||
-building|shimtia|shimtia|noun|noun|notbat|||From <i>shimun</i> (&quot;close&quot;) + <i>tia</i> (&quot;structure&quot;)||||||7|1484|||||||||||||
+building|shimtia|ximtia|noun|noun|notbat|||From <i>shimun</i> (&quot;close&quot;) + <i>tia</i> (&quot;structure&quot;)||||||6|1484|||||||||||||
 infrastructure|dountia|dountia|noun|noun|notbat|||From <i>doun + tia</i> (&quot;down + structure&quot;)||||||7|1485|||||||||||||
 civil engineering|dountia kuga|dountia kuga|noun|noun|notbat|||From <i>dountia</i> (&quot;infrastructure&quot;) + <i>kuga</i> (&quot;engineering&quot;)||||||12|1486|||||||||||||
 civil engineer|dountia kugawan|dountia kugawan|noun|noun|notbat|||From <i>dountia</i> (&quot;infrastructure&quot;) + <i>kugawan</i> (&quot;engineer&quot;)||||||15|1487|||||||||||||
@@ -1608,8 +1608,8 @@ occasionally|raganak|raganak|adverb|adverb|qanusbat||||||||偶|7|1605|||||||||||
 wear|chakurun|cakurun|verb|run verb|run-usbat|||||||||7|1606|||||||||||||
 live|sumun|sumun|verb|un verb|un-usbat|live in a place||From Old Mampulan||||||5|1607|||||||||||||
 relive|saisumun|saisumun|verb|un verb|un-usbat|to live or experience something again||From <i>sai-</i> (&quot;again&quot;) + <i>sumun</i> (&quot;live&quot;)||I want to relive my experience in the beach.||||8|1608|||||||||||||
-associate|rengōrun|rengo-run|verb|run verb|run-usbat|||||||||9|1609|||||||||||||
-associate|rengōwan|rengo-wan|noun|noun|notbat|||||||||9|1610|||||||||||||
+associate|ren'gōrun|rengo-run|verb|run verb|run-usbat|||||||||9|1609|||||||||||||
+associate|ren'gōwan|rengo-wan|noun|noun|notbat|||||||||9|1610|||||||||||||
 association|rengō|rengo-|noun|noun|notbat|||||||||6|1611|||||||||||||
 length|lenas|lenas|noun|noun|notbat|||From <i>len</i> (&quot;length, long&quot;) + <i>-as</i> (&quot;nominalizing suffix&quot;)||||||5|1612|||||||||||||
 width|lukonas|lukonas|noun|noun|notbat|||||||||7|1613|||||||||||||
@@ -1958,7 +1958,7 @@ bat|pani|pani|noun|noun|notbat|||From Old Mampulan||||||4|1955|||||||||||||
 brick|maton|maton|noun|noun|notbat|||From Old Mampulan|||||matonne from Italian|5|1956|||||||||||||
 foreign|frem|frem|noun|noun|notbat|||From Old Mampulan|||||Old English fremde|4|1957|||||||||||||
 intense|risung|risuq|adjective|ung adjective|uq-sulaikibat|||From Old Mampulan|||||激|5|1958|||||||||||||
-intensify|risung|rischenun|verb|un verb|un-usbat|||From <i>ris</i> (&quot;intense&quot;) + <i>chen</i> (&quot;-ify&quot;)|||||激化|9|1959|||||||||||||
+intensify|rischenun|riscenun|verb|un verb|un-usbat|||From <i>ris</i> (&quot;intense&quot;) + <i>chen</i> (&quot;-ify&quot;)|||||激化|8|1959|||||||||||||
 point|songanun|soqanun|verb|un verb|un-usbat|point at someone||From <i>songan</i> (&quot;finger&quot;)||||||7|1960|||||||||||||
 attachment|jonas|jonas|noun|noun|notbat|||From <i>jonun</i> (&quot;attach&quot;) + <i>-as</i> (&quot;the state/quality/measure&quot;)||||||5|1961|||||||||||||
 wheel|gulon|gulon|noun|noun|notbat|||From Old Mampulan|||||Tagalog gulong|5|1962|||||||||||||
@@ -2128,7 +2128,7 @@ roof|kanwo|kanwo|noun|noun|notbat|||From Old Mampulan||||||5|2125|||||||||||||
 sail|danda|danda|noun|noun|notbat|||From Old Mampulan||||||5|2126|||||||||||||
 scheme|dandin|dandin|noun|noun|notbat|||From Old Mampulan||||||6|2127|||||||||||||
 excuse|kinla|kinla|noun|noun|notbat|||From Old Mampulan||||||5|2128|||||||||||||
-tough|sanring|sanring|adjective|g adjective|g-sulaikibat|||From Old Mampulan||||||7|2129|||||||||||||
+tough|sanring|sanriq|adjective|g adjective|g-sulaikibat|||From Old Mampulan||||||6|2129|||||||||||||
 brown|sanronung|sanronuq|adjective|ung adjective|uq-sulaikibat|||From Old Mampulan||||||8|2130|||||||||||||
 display|sansan|sansan|noun|noun|notbat|||From Old Mampulan||||||6|2131|||||||||||||
 code|tanrin|tanrin|noun|noun|notbat|||From Old Mampulan||||||6|2132|||||||||||||
@@ -2206,7 +2206,7 @@ dare|tārun|ta-run|verb|run verb|run-usbat|||From Old Mampulan||||||6|2203||||||
 prolong|yenun|yenun|verb|un verb|un-usbat|||From Old Mampulan|||||延|5|2204|||||||||||||
 delay|raityen|raityen|noun|noun|notbat|||From Old Mampulan|||||遅延|7|2205|||||||||||||
 delay|raityenun|raityenun|verb|un verb|un-usbat|||From Old Mampulan|||||遅延|9|2206|||||||||||||
-survey|shoundelu|shoundelu|noun|noun|notbat|||From <i>shounde</i> (&quot;over&quot;) + <i>lurun</i> (&quot;look&quot;)|||||look + over|9|2207|||||||||||||
+survey|shoundelu|xoundelu|noun|noun|notbat|||From <i>shounde</i> (&quot;over&quot;) + <i>lurun</i> (&quot;look&quot;)|||||look + over|8|2207|||||||||||||
 battle|sutroun|sutroun|noun|noun|notbat|formal||From Old Mampulan|||||small + 戦|7|2208|||||||||||||
 evening|kapi|kapi|noun|noun|notbat|||From Old Mampulan|||||晩|4|2209|||||||||||||
 holiday|resrau|resrau|noun|noun|notbat|||From Old Mampulan|||||休日|6|2210|||||||||||||
@@ -2249,7 +2249,7 @@ sword|tud|tud|noun|noun|notbat|||From Old Mampulan||||||3|2246|||||||||||||
 parent|bumon|bumon|noun|noun|notbat|||From Old Mampulan||||||5|2247|||||||||||||
 diet|mando|mando|noun|noun|notbat|||From Eagle Language <i>mando</i> (&quot;food&quot;)|||||food|5|2248|||||||||||||
 jacket|jaket|jaket|noun|noun|notbat|||From Human English||||||5|2249|||||||||||||
-closet|shimpast|shimpast|noun|noun|notbat|||From <i>shim</i> (&quot;close&quot;) + <i>past</i> (&quot;room&quot;)|||||closed + room|8|2250|||||||||||||
+closet|shimpast|ximpast|noun|noun|notbat|||From <i>shim</i> (&quot;close&quot;) + <i>past</i> (&quot;room&quot;)|||||closed + room|7|2250|||||||||||||
 collar|kanon|kanon|noun|noun|notbat|||From Old Mampulan||||||5|2251|||||||||||||
 candy|kendi|kendi|noun|noun|notbat|||From Human English||||||5|2252|||||||||||||
 loyalty|loi|loi|noun|noun|notbat|||From Old Mampulan||||||3|2253|||||||||||||
@@ -2351,7 +2351,7 @@ trash|basra|basra|noun|noun|notbat|||From Old Mampulan||||garbage||5|2348|||||||
 garbage|basra|basra|noun|noun|notbat|||From Old Mampulan||||trash||5|2349|||||||||||||
 bend|manirun|manirun|verb|run verb|run-usbat|||From Old Mampulan||||||7|2350|||||||||||||
 hurt|ararun|ararun|verb|run verb|run-usbat|||From Old Mampulan|||||痛|6|2351|||||||||||||
-hurt|ararang|ararang|adjective|ng adjective|q-sulaikibat|||From Old Mampulan|||||痛|7|2352|||||||||||||
+hurt|ararang|araraq|adjective|ng adjective|q-sulaikibat|||From Old Mampulan|||||痛|6|2352|||||||||||||
 illegal|chaklisung|caklisuq|adjective|ung adjective|uq-sulaikibat|||From Old Mampulan|||||違法|8|2353|||||||||||||
 scratch|kratun|kratun|verb|un verb|un-usbat|||From Old Mampulan|||||掻|6|2354|||||||||||||
 hide|jisun|jisun|verb|un verb|un-usbat|||From Old Mampulan|||||隠|5|2355|||||||||||||
@@ -2408,7 +2408,7 @@ essay|trest|trest|noun|noun|notbat|||From Old Mampulan||||||5|2405|||||||||||||
 remove|blipun|blipun|verb|un verb|un-usbat|||From Old Mampulan|||||Tanggal|6|2406|||||||||||||
 worth|ent|ent|noun|noun|notbat|||From Old Mampulan||||||3|2407|||||||||||||
 drag|lata|lata|noun|noun|notbat|||From Old Mampulan||||||4|2408|||||||||||||
-raw|gorung|gorung|adjective|ng adjective|q-sulaikibat|||From Old Mampulan||||||6|2409|||||||||||||
+raw|gorung|goruq|adjective|ng adjective|q-sulaikibat|||From Old Mampulan||||||5|2409|||||||||||||
 soft|lamung|lamuq|adjective|ung adjective|uq-sulaikibat|||From Old Mampulan||||||5|2410|||||||||||||
 solid|kontai|kontai|noun|noun|notbat|||From Old Mampulan|||||固体|6|2411|||||||||||||
 ring|loun|loun|noun|noun|notbat|||From Old Mampulan||||||4|2412|||||||||||||
@@ -2422,7 +2422,7 @@ incident|kanla|kanla|noun|noun|notbat|||From Old Mampulan|||||happen|5|2419|||||
 jury|kanlo|kanlo|noun|noun|notbat|||From Old Mampulan||||||5|2420|||||||||||||
 motor|motor|motor|noun|noun|notbat|||From Old Mampulan||||||5|2421|||||||||||||
 resident|sumwan|sumwan|noun|noun|notbat|||From <i>sumun</i> (&quot;to live in a place&quot;) + <i>wan</i> (&quot;person&quot;)|||||住民|6|2422|||||||||||||
-grand|bang|bang|adjective|ng adjective|q-sulaikibat|||From Old Mampulan||||||4|2423|||||||||||||
+grand|bang|baq|adjective|ng adjective|q-sulaikibat|||From Old Mampulan||||||3|2423|||||||||||||
 depend|ralairun|ralairun|verb|run verb|run-usbat|||From Old Mampulan||||||8|2424|||||||||||||
 dependent|ralaing|ralaiq|adjective|ng adjective|q-sulaikibat|||From Old Mampulan|||||rely|6|2425|||||||||||||
 independent|anralaing|anralaiq|adjective|ng adjective|q-sulaikibat|||From <i>an-</i> (&quot;not&quot;) + <i>ralaing</i> (&quot;depedent&quot;)||||||8|2426|||||||||||||
@@ -2454,7 +2454,7 @@ cost|tainun|tainun|verb|un verb|un-usbat|||From Old Mampulan||||||6|2451||||||||
 exact|teininong|teininoq|adjective|ng adjective|q-sulaikibat|||tein + ino|||||正確|8|2452|||||||||||||
 might|torgon|torgon|noun|noun|notbat|the power, authority, or resources wielded||From Old Mampulan||||||6|2453|||||||||||||
 mighty|torgong|torgoq|adjective|g adjective|g-sulaikibat|the power, authority, or resources wielded||||||||6|2454|||||||||||||
-single|fing|fing|adjective|ng adjective|q-sulaikibat|||From Old Mampulan||||||4|2455|||||||||||||
+single|fing|fiq|adjective|ng adjective|q-sulaikibat|||From Old Mampulan||||||3|2455|||||||||||||
 particular|teininofing|teininofiq|adjective|ng adjective|q-sulaikibat|||exact + single||||||10|2456|||||||||||||
 natural|jaiteng|jaiteq|adjective|g adjective|g-sulaikibat|||self + to be||||||6|2457|||||||||||||
 check|surirun|surirun|verb|run verb|run-usbat|||From Old Mampulan||||||7|2458|||||||||||||
@@ -2470,7 +2470,7 @@ eastern part|kalabon|kalabon|noun|noun|notbat||| |||||東部|7|2467|||||||||||||
 audit|obdel|obdel|noun|noun|notbat|||From ob + del|||||監査|5|2468|||||||||||||
 macaron|makaron|makaron|noun|noun|notbat|||From Human language macaron||||||7|2469|||||||||||||
 official|einreg|einreg|noun|noun|notbat|||ein+reg|||||公+source|6|2470|||||||||||||
-golden|gong|gong|adjective|g adjective|g-sulaikibat|||gon||||||4|2471|||||||||||||
+golden|gong|goq|adjective|g adjective|g-sulaikibat|||gon||||||3|2471|||||||||||||
 myself|sair|sair|pronoun|pronoun|sunotbat|||From Old Mampulan||||||4|2472|||||||||||||
 yourself|sair|sair|pronoun|pronoun|sunotbat|||From Old Mampulan||||||4|2473|||||||||||||
 himself|sair|sair|pronoun|pronoun|sunotbat|||From Old Mampulan||||||4|2474|||||||||||||
@@ -2482,7 +2482,7 @@ ourselves|sair|sair|pronoun|pronoun|sunotbat|||From Old Mampulan||||||4|2479||||
 oneself|sair|sair|pronoun|pronoun|sunotbat|||From Old Mampulan||||||4|2480|||||||||||||
 thread|ita|ita|noun|noun|notbat|||From Old Mampulan||||||3|2481|||||||||||||
 needle|kau|kau|noun|noun|notbat|||From Old Mampulan||||||3|2482|||||||||||||
-tea|cha|cha|noun|noun|notbat|||From Old Mampulan||||||3|2483|||||||||||||
+tea|cha|ca|noun|noun|notbat|||From Old Mampulan||||||2|2483|||||||||||||
 jam|jam|jam|noun|noun|notbat|(food)||From Old Mampulan||||||3|2484|||||||||||||
 doe|malain|lamain|noun|noun|notbat|||From Old Mampulan||||||6|2485|||||||||||||
 ferocious|mōng|mo-q|adjective|ng adjective|q-sulaikibat|||From Old Mampulan|||||猛|4|2486|||||||||||||
@@ -2499,11 +2499,11 @@ supervisor|shoundeluwan|xoundeluwan|noun|noun|notbat||||||||over seer|11|2496|||
 payment|pakas|pakas|noun|noun|notbat|||pak +  <i>-as</i> (&quot;the state/quality/measure&quot;)||||||5|2497|||||||||||||
 pension|tiunpakas|tiunpakas|noun|noun|notbat|||From Old Mampulan|||||year + payment|9|2498|||||||||||||
 roll|tianun|tianun|verb|un verb|un-usbat|||From Old Mampulan||||||6|2499|||||||||||||
-mention|widsei|widsei|noun|noun|notbat|||wide + sei|||||言及|6|2500|||||||||||||
-mention|widseirun|widseirun|verb|run verb|run-usbat|||wide + sei|||||言及|9|2501|||||||||||||
+mention|widsab|widsab|noun|noun|notbat|||wide + sab|||||言及|6|2500|||||||||||||
+mention|widsabun|widsabun|verb|un verb|un-usbat|||wide + sab|||||言及|8|2501|||||||||||||
 brief|bung|buq|adjective|g adjective|g-sulaikibat|||From Old Mampulan||||||3|2502|||||||||||||
 release|hosun|hosun|verb|un verb|un-usbat|||From Old Mampulan||||||5|2503|||||||||||||
-brave|kārung|ka-ruq|adjective|ung adjective|uq-sulaikibat|||From Old Mampulan||||||6|2504|||||||||||||
+brave|alnanung|alnanuq|adjective|ung adjective|uq-sulaikibat|||From Old Mampulan|||||勇|7|2504|||||||||||||
 whole|latung|latuq|adjective|ung adjective|uq-sulaikibat|||From Old Mampulan|||||全|5|2505|||||||||||||
 charge|pesun|pesun|verb|un verb|un-usbat|to charge into someone||From Old Mampulan||||||5|2506|||||||||||||
 tap|tipun|tipun|verb|un verb|un-usbat|to strike lightly||From Old Mampulan||||||5|2507|||||||||||||
@@ -2528,8 +2528,8 @@ dear|tesung|tesuq|adjective|ung adjective|uq-sulaikibat|||teing + sairun reduced
 lawyer|liswan|liswan|noun|noun|notbat|||From Old Mampulan|||||law + person|6|2526|||||||||||||
 crazy|morkang|morkaq|adjective|ng adjective|q-sulaikibat|||From Old Mampulan||||||6|2527|||||||||||||
 hire|gihatarun|gihatarun|verb|run verb|run-usbat|||give + work||||||9|2528|||||||||||||
-valuable|yo'entung|yo'entung|adjective|ung adjective|uq-sulaikibat|||<i>yong</i> (&quot;good&quot;) + <i>ent</i> (&quot;worth&quot;)||||||9|2529|||||||||||||
-creative|nannalung|nannalung|adjective|ung adjective|uq-sulaikibat|||<i>nant</i> (&quot;mind&quot;) + <i>nal</i> (&quot;idea&quot;). The t sound dropped for easier pronunciation||||||9|2530|||||||||||||
+valuable|yo'entung|yo'entuq|adjective|ung adjective|uq-sulaikibat|||<i>yong</i> (&quot;good&quot;) + <i>ent</i> (&quot;worth&quot;)||||||8|2529|||||||||||||
+creative|nannalung|nannaluq|adjective|ung adjective|uq-sulaikibat|||<i>nant</i> (&quot;mind&quot;) + <i>nal</i> (&quot;idea&quot;). The t sound dropped for easier pronunciation||||||8|2530|||||||||||||
 district|das|das|noun|noun|notbat|||From Raccoon Language||||||3|2531|||||||||||||
 pop|pap|pap|noun|noun|notbat|||Onomatopoetic||||||3|2532|||||||||||||
 pros and cons|brofe|brofe|noun|noun|notbat|||bro + fe|||||賛否|5|2533|||||||||||||
@@ -2628,7 +2628,7 @@ backward|puspritung|pusprituq|adjective|ung adjective|uq-sulaikibat|||back + <i>
 sideward|sorpritung|sorprituq|adjective|ung adjective|uq-sulaikibat|||side + <i>prit</i> (&quot;direction&quot;)||||||9|2626|||||||||||||
 toward|depritung|deprituq|adjective|ung adjective|uq-sulaikibat|||to + <i>prit</i> (&quot;direction&quot;)||||||8|2627|||||||||||||
 downward|dounpritung|dounprituq|adjective|ung adjective|uq-sulaikibat|||down + <i>prit</i> (&quot;direction&quot;)||||||10|2628|||||||||||||
-upward|shounpritung|shounprituq|adjective|ung adjective|uq-sulaikibat|||up + <i>prit</i> (&quot;direction&quot;)||||||11|2629|||||||||||||
+upward|shounpritung|xounprituq|adjective|ung adjective|uq-sulaikibat|||up + <i>prit</i> (&quot;direction&quot;)||||||10|2629|||||||||||||
 onward|rounpritung|rounprituq|adjective|ung adjective|uq-sulaikibat|||road + <i>prit</i> (&quot;direction&quot;)||||||10|2630|||||||||||||
 windward|panitpritung|panitprituq|adjective|ung adjective|uq-sulaikibat|||wind + <i>prit</i> (&quot;direction&quot;)||||||11|2631|||||||||||||
 leeward|yartpritung|yartprituq|adjective|ung adjective|uq-sulaikibat|||lee + <i>prit</i> (&quot;direction&quot;)||||||10|2632|||||||||||||
@@ -2637,7 +2637,7 @@ backward|puspritak|puspritak|adverb|adverb|qanusbat|||back + <i>prit</i> (&quot;
 sideward|sorpritak|sorpritak|adverb|adverb|qanusbat|||side + <i>prit</i> (&quot;direction&quot;)||||||9|2635|||||||||||||
 toward|depritak|depritak|adverb|adverb|qanusbat|||to + <i>prit</i> (&quot;direction&quot;)||||||8|2636|||||||||||||
 downward|dounpritak|dounpritak|adverb|adverb|qanusbat|||down + <i>prit</i> (&quot;direction&quot;)||||||10|2637|||||||||||||
-upward|shounpritak|shounpritak|adverb|adverb|qanusbat|||up + <i>prit</i> (&quot;direction&quot;)||||||11|2638|||||||||||||
+upward|shounpritak|xounpritak|adverb|adverb|qanusbat|||up + <i>prit</i> (&quot;direction&quot;)||||||10|2638|||||||||||||
 onward|rounpritak|rounpritak|adverb|adverb|qanusbat|||road + <i>prit</i> (&quot;direction&quot;)||||||10|2639|||||||||||||
 windward|panitpritak|panitpritak|adverb|adverb|qanusbat|||wind + <i>prit</i> (&quot;direction&quot;)||||||11|2640|||||||||||||
 leeward|yartpritak|yartpritak|adverb|adverb|qanusbat|||lee + <i>prit</i> (&quot;direction&quot;)||||||10|2641|||||||||||||
@@ -2667,7 +2667,7 @@ technical|abinwigung|abinwiguq|adjective|ung adjective|uq-sulaikibat|||skill rel
 technically|abinwigak|abinwigak|adverb|adverb|qanusbat|||abinwigung||||||9|2665|||||||||||||
 theater|gaunpein|gaunpein|noun|noun|notbat|||gaun + pein|||||劇場|8|2666|||||||||||||
 theatre|gaunpein|gaunpein|noun|noun|notbat|||gaun + pein|||||劇場|8|2667|||||||||||||
-comedy|jaingaun|jaingaun|noun|noun|notbat|||jain + gaun|||||喜劇|8|2668|||||||||||||
+comedy|jain'gaun|jaingaun|noun|noun|notbat|||jain + gaun|||||喜劇|8|2668|||||||||||||
 find out|finbosun|finbosun|verb|un verb|un-usbat|||find + learn||||discover||8|2669|||||||||||||
 discover|finbosun|finbosun|verb|un verb|un-usbat|||find + learn||||find out||8|2670|||||||||||||
 expertise|foinabin|foinabin|noun|noun|notbat|||field skill||||||8|2671|||||||||||||
@@ -2704,9 +2704,9 @@ triple|mabeing|mabeiq|adjective|ng adjective|q-sulaikibat|||From <i>ma</i> (&quo
 light|||noun|noun|notbat|||From Old Mampulan||||||0|2702|||||||||||||
 body temperature|tai sa retdo|tai sa retdo|noun|noun|notbat|(formal) temperature of a body of an animal or person|wan sa tai sa retdo|tai (body) + retdo (temperature)||||||12|2703|||||||||||||
 body temperature|tairet|tairet|noun|noun|notbat|temperature of a body of an animal or person|wan sa tai sa retdo|tai (body) + ret (temperature)||||||6|2704|||||||||||||
-low temperature|loung retdo|loung retdo|noun|noun|notbat|||loung (low) + ret (temperature)||||||11|2705|||||||||||||
+low temperature|loung retdo|louq retdo|noun|noun|notbat|||loung (low) + ret (temperature)||||||10|2705|||||||||||||
 low temperature|louret|louret|noun|noun|notbat|||loung (low) + ret (temperature)|||||低温|6|2706|||||||||||||
-high temperature|teing retdo|teing retdo|noun|noun|notbat|||teing (high) + ret (temperature)||||||11|2707|||||||||||||
+high temperature|teing retdo|teiq retdo|noun|noun|notbat|||teing (high) + ret (temperature)||||||10|2707|||||||||||||
 high temperature|teiret|teiret|noun|noun|notbat|||teing (high) + ret (temperature)|||||高温|6|2708|||||||||||||
 acceleration|jasit|jasit|noun|noun|notbat|||From <i>ja</i> (&quot;add&quot;) + <i>sit</i> (&quot;speed&quot;)|||||加速|5|2709|||||||||||||
 accelerate|jasitun|jasitun|verb|un verb|un-usbat|||From <i>ja</i> (&quot;add&quot;) + <i>sit</i> (&quot;speed&quot;)|||||加速|7|2710|||||||||||||
@@ -2765,7 +2765,7 @@ economics|akko|akko|noun|noun|notbat|||||||||4|2762|||||||||||||
 television|bent|bent|noun|noun|notbat|||||||||4|2763|||||||||||||
 product|bont|bont|noun|noun|notbat|||||||||4|2764|||||||||||||
 energy|bunt|bunt|noun|noun|notbat|||||||||4|2765|||||||||||||
-society|chant|chant|noun|noun|notbat|||||||||5|2766|||||||||||||
+society|chant|cant|noun|noun|notbat|||||||||4|2766|||||||||||||
 diligence|flais|flais|noun|noun|notbat|||From Old Mampulan|||||Fleiß|5|2767|||||||||||||
 diligent|flaisung|flaisuq|adjective|ung adjective|uq-sulaikibat|||||||||7|2768|||||||||||||
 industry|bour|bour|noun|noun|notbat|Businesses of the same type, considered as a whole; trade. ||||||||4|2769|||||||||||||
@@ -2903,119 +2903,211 @@ reporter|sirwan|sirwan|noun|noun|notbat||||||||記者|||||||||||||||
 clothes|pos|pos|noun|noun|notbat|||||||||||||||||||||||
 proposal|sagand|sagand|noun|noun|notbat|||sag + and|||||提案|||||||||||||||
 propose|sagandun|sagandun|verb|un verb|un-usbat|||sag + and|||||提案|||||||||||||||
-growth|kant|kant|noun|noun|notbat|||||||||4|2892|||||||||||||
-marriage|kent|kent|noun|noun|notbat|||||||||4|2893|||||||||||||
-medicine|kont|kont|noun|noun|notbat|||||||||4|2894|||||||||||||
-communication|lant|lant|noun|noun|notbat|||||||||4|2895|||||||||||||
-disk|lint|lint|noun|noun|notbat|||||||||4|2896|||||||||||||
-investment|lunt|lunt|noun|noun|notbat|||||||||4|2897|||||||||||||
-addition|mant|mant|noun|noun|notbat|||||||||4|2898|||||||||||||
-apartment|ment|ment|noun|noun|notbat|||||||||4|2899|||||||||||||
-painting|mint|mint|noun|noun|notbat|||||||||4|2900|||||||||||||
-politics|mont|mont|noun|noun|notbat|||||||||4|2901|||||||||||||
-shopping|nint|nint|noun|noun|notbat|||||||||4|2902|||||||||||||
-wood|nont|nont|noun|noun|notbat|||||||||4|2903|||||||||||||
-competition|nunt|nunt|noun|noun|notbat|||||||||4|2904|||||||||||||
-distribution|pant|pant|noun|noun|notbat|||||||||4|2905|||||||||||||
-entertainment|pent|pent|noun|noun|notbat|||||||||4|2906|||||||||||||
-office|pint|pint|noun|noun|notbat|||||||||4|2907|||||||||||||
-population|pont|pont|noun|noun|notbat|||||||||4|2908|||||||||||||
-president|punt|punt|noun|noun|notbat|||||||||4|2909|||||||||||||
-unit|rent|rent|noun|noun|notbat|||||||||4|2910|||||||||||||
-category|rint|rint|noun|noun|notbat|||||||||4|2911|||||||||||||
-cigarette|runt|runt|noun|noun|notbat|||||||||4|2912|||||||||||||
-context|sant|sant|noun|noun|notbat|||||||||4|2913|||||||||||||
-opportunity|sent|sent|noun|noun|notbat|||||||||4|2914|||||||||||||
-performance|sont|sont|noun|noun|notbat|||||||||4|2915|||||||||||||
-flight|sunt|sunt|noun|noun|notbat|||||||||4|2916|||||||||||||
-magazine|tant|tant|noun|noun|notbat|||||||||4|2917|||||||||||||
-newspaper|tent|tent|noun|noun|notbat|||||||||4|2918|||||||||||||
-relationship|tint|tint|noun|noun|notbat|||||||||4|2919|||||||||||||
-teaching|tont|tont|noun|noun|notbat|||||||||4|2920|||||||||||||
-cell|tunt|tunt|noun|noun|notbat|||||||||4|2921|||||||||||||
-dealer|unt|unt|noun|noun|notbat|||||||||3|2922|||||||||||||
-finding|want|want|noun|noun|notbat|||||||||4|2923|||||||||||||
-message|went|went|noun|noun|notbat|||||||||4|2924|||||||||||||
-phone|wint|wint|noun|noun|notbat|||||||||4|2925|||||||||||||
-scene|wont|wont|noun|noun|notbat|||||||||4|2926|||||||||||||
-appearance|wunt|wunt|noun|noun|notbat|||||||||4|2927|||||||||||||
-concept|yant|yant|noun|noun|notbat|||||||||4|2928|||||||||||||
-customer|yent|yent|noun|noun|notbat|||||||||4|2929|||||||||||||
-housing|yint|yint|noun|noun|notbat|||||||||4|2930|||||||||||||
-inflation|yont|yont|noun|noun|notbat|||||||||4|2931|||||||||||||
-insurance|yunt|yunt|noun|noun|notbat|||||||||4|2932|||||||||||||
+trial and error|rontdail|rontdail|||||||||||試 + 誤|||||||||||||||
+hurry up|kiurun|kiurun|verb|||||||Hurry up! We have to go!|kiure^! Dru sorun!||急|||||||||||||||
+school|choun|coun|noun|noun|notbat|school (building)|||||||校|||||||||||||||
+school song|chounnaik|counnaik|noun|noun|notbat|school song|gapein sa naik|choun + naik|||||校|||||||||||||||
+addition|janas|janas|noun|noun|notbat|the process of adding||jarun + nas||||||5|2898|||||||||||||
+growth|gonas|gonas|noun|noun|notbat|||||||||5|2892|||||||||||||
+overflow|buforun|buforun||||||||||||||||||||||||||
 mood|so|so|noun|noun|notbat|||||||||2|2933|||||||||||||
-advice|zent|zent|noun|noun|notbat|||||||||4|2934|||||||||||||
-effort|zint|zint|noun|noun|notbat|||||||||4|2935|||||||||||||
-expression|zont|zont|noun|noun|notbat|||||||||4|2936|||||||||||||
-opinion|zunt|zunt|noun|noun|notbat|||||||||4|2937|||||||||||||
-reality|ast|ast|noun|noun|notbat|||||||||3|2938|||||||||||||
-responsibility|best|best|noun|noun|notbat|||||||||4|2939|||||||||||||
-wealth|bist|bist|noun|noun|notbat|||||||||4|2940|||||||||||||
-application|bost|bost|noun|noun|notbat|||||||||4|2941|||||||||||||
-county|bust|bust|noun|noun|notbat|||||||||4|2942|||||||||||||
-estate|chast|chast|noun|noun|notbat|||||||||5|2943|||||||||||||
-foundation|chest|chest|noun|noun|notbat|||||||||5|2944|||||||||||||
-grandmother|chist|chist|noun|noun|notbat|||||||||5|2945|||||||||||||
-perspective|chost|chost|noun|noun|notbat|||||||||5|2946|||||||||||||
-photo|chust|chust|noun|noun|notbat|||||||||5|2947|||||||||||||
-recipe|dest|dest|noun|noun|notbat|||||||||4|2948|||||||||||||
-studio|dist|dist|noun|noun|notbat|||||||||4|2949|||||||||||||
-depression|dost|dost|noun|noun|notbat|||||||||4|2950|||||||||||||
-imagination|dust|dust|noun|noun|notbat|||||||||4|2951|||||||||||||
-passion|est|est|noun|noun|notbat|||||||||3|2952|||||||||||||
-percentage|fast|fast|noun|noun|notbat|||||||||4|2953|||||||||||||
-resource|fest|fest|noun|noun|notbat|||||||||4|2954|||||||||||||
-setting|fist|fist|noun|noun|notbat|||||||||4|2955|||||||||||||
-ad|fust|fust|noun|noun|notbat|||||||||4|2956|||||||||||||
-agency|fost|fost|noun|noun|notbat|||||||||4|2957|||||||||||||
-college|gast|gast|noun|noun|notbat|||||||||4|2958|||||||||||||
-criticism|gest|gest|noun|noun|notbat|||||||||4|2959|||||||||||||
-debt|gist|gist|noun|noun|notbat|||||||||4|2960|||||||||||||
-secretary|hast|hast|noun|noun|notbat|||||||||4|2961|||||||||||||
-solution|hest|hest|noun|noun|notbat|||||||||4|2962|||||||||||||
-administration|host|host|noun|noun|notbat|||||||||4|2963|||||||||||||
-aspect|hust|hust|noun|noun|notbat|||||||||4|2964|||||||||||||
-attitude|ist|ist|noun|noun|notbat|||||||||3|2965|||||||||||||
-director|||noun|noun|notbat|||||||||0|2966|||||||||||||
-psychology|jest|jest|noun|noun|notbat|||||||||4|2967|||||||||||||
-alcohol|jist|jist|noun|noun|notbat|||||||||4|2968|||||||||||||
-complaint|jost|jost|noun|noun|notbat|||||||||4|2969|||||||||||||
-membership|just|just|noun|noun|notbat|||||||||4|2970|||||||||||||
-preparation|kast|kast|noun|noun|notbat|||||||||4|2971|||||||||||||
-union|kest|kest|noun|noun|notbat|||||||||4|2972|||||||||||||
-cancer|kist|kist|noun|noun|notbat|||||||||4|2973|||||||||||||
-currency|kost|kost|noun|noun|notbat|||||||||4|2974|||||||||||||
-republic|kust|kust|noun|noun|notbat|||||||||4|2975|||||||||||||
-classroom|last|last|noun|noun|notbat|||||||||4|2976|||||||||||||
-football|lest|lest|noun|noun|notbat|||||||||4|2977|||||||||||||
-awareness|lost|lost|noun|noun|notbat|||||||||4|2978|||||||||||||
-recording|lust|lust|noun|noun|notbat|||||||||4|2979|||||||||||||
-feedback|mast|mast|noun|noun|notbat|||||||||4|2980|||||||||||||
-homework|mest|mest|noun|noun|notbat|||||||||4|2981|||||||||||||
-hearing|most|most|noun|noun|notbat|||||||||4|2982|||||||||||||
-lab|must|must|noun|noun|notbat|||||||||4|2983|||||||||||||
-committee|nast|nast|noun|noun|notbat|||||||||4|2984|||||||||||||
-database|nest|nest|noun|noun|notbat|||||||||4|2985|||||||||||||
-dad|nist|nist|noun|noun|notbat|||||||||4|2986|||||||||||||
-drawer|nust|nust|noun|noun|notbat|||||||||4|2987|||||||||||||
-bathroom|ost|ost|noun|noun|notbat|||||||||3|2988|||||||||||||
-bedroom|pest|pest|noun|noun|notbat|||||||||4|2989|||||||||||||
-beer|post|post|noun|noun|notbat|||||||||4|2990|||||||||||||
-gene|pust|pust|noun|noun|notbat|||||||||4|2991|||||||||||||
-girlfriend|rast|rast|noun|noun|notbat|||||||||4|2992|||||||||||||
-lady|rest|rest|noun|noun|notbat|||||||||4|2993|||||||||||||
-shirt|rist|rist|noun|noun|notbat|||||||||4|2994|||||||||||||
-sir|rost|rost|noun|noun|notbat|||||||||4|2995|||||||||||||
-trainer|sast|sast|noun|noun|notbat|||||||||4|2996|||||||||||||
-man|sest|sest|noun|noun|notbat|||||||||4|2997|||||||||||||
-living|sist|sist|noun|noun|notbat|||||||||4|2998|||||||||||||
-campaign|sost|sost|noun|noun|notbat|||||||||4|2999|||||||||||||
-character|sust|sust|noun|noun|notbat|||||||||4|3000|||||||||||||
-club|test|test|noun|noun|notbat|||||||||4|3001|||||||||||||
-fan|tost|tost|noun|noun|notbat|||||||||4|3002|||||||||||||
-lock|tust|tust|noun|noun|notbat|||||||||4|3003|||||||||||||
-novel|ust|ust|noun|noun|notbat|||||||||3|3004|||||||||||||
-sex|wast|wast|noun|noun|notbat|||||||||4|3005|||||||||||||
-band|west|west|noun|noun|notbat|||||||||4|3006|||||||||||||
+marriage|ridon|ridon|noun|noun|notbat||||||||婚|5|2893|||||||||||||
+medicine|ganan|ganan|noun|noun|notbat||||||||薬|5|2894|||||||||||||
+communication|lant|lant|noun|noun|notbat||||||||コミュニケーション|4|2895|||||||||||||
+disk|lint|lint|noun|noun|notbat||||||||ディスク|4|2896|||||||||||||
+investment|metsur|metsur|noun|noun|notbat||||||||投資|6|2897|||||||||||||
+apartment|ment|ment|noun|noun|notbat||||||||アパート|4|2899|||||||||||||
+painting|dran'gei|drangei|noun|noun|notbat||||||||絵画|7|2900|||||||||||||
+politics|sētuan|sētuan|noun|noun|notbat||||||||政治|6|2901|||||||||||||
+shopping|nint|nint|noun|noun|notbat||||||||買い物|4|2902|||||||||||||
+wood|puwate|puwate|noun|noun|notbat||||||||木材|6|2903|||||||||||||
+competition|nunt|nunt|noun|noun|notbat||||||||競争|4|2904|||||||||||||
+distribution|pant|pant|noun|noun|notbat||||||||配布 / 流通|4|2905|||||||||||||
+entertainment|pent|pent|noun|noun|notbat||||||||娯楽|4|2906|||||||||||||
+office|pint|pint|noun|noun|notbat||||||||事務所|4|2907|||||||||||||
+population|wanbil|wanbil|noun|noun|notbat|||wan + bil|wan + bil||||人＋口|6|2908|||||||||||||
+president|punt|punt|noun|noun|notbat||||||||大統領 / 社長|4|2909|||||||||||||
+unit|rent|rent|noun|noun|notbat||||||||単位|4|2910|||||||||||||
+category|rint|rint|noun|noun|notbat||||||||カテゴリー|4|2911|||||||||||||
+cigarette|runt|runt|noun|noun|notbat||||||||たばこ|4|2912|||||||||||||
+context|moumasa|moumasa|noun|noun|notbat||||||||文脈|7|2913|||||||||||||
+opportunity|kikai|kikai|noun|noun|notbat||||||||機会|5|2914|||||||||||||
+performance|sont|sont|noun|noun|notbat||||||||性能 / パフォーマンス|4|2915|||||||||||||
+flight|sunt|sunt|noun|noun|notbat||||||||飛行 / フライト|4|2916|||||||||||||
+magazine|zatchoke|zatcoke|noun|noun|notbat||||||||雑誌|7|2917|||||||||||||
+newspaper|anakin|anakin|noun|noun|notbat||||||||新聞|6|2918|||||||||||||
+relationship|wigtien|wigtien|noun|noun|notbat|||wig + tien|wig + tien||||関係|7|2919|||||||||||||
+teaching|turik|turik|noun|noun|notbat|||tur + ik|tur + ik||||教育|5|2920|||||||||||||
+cell|nisbō|nisbo-|noun|noun|notbat|||nis + bō|nis + bo-||||細胞|6|2921|||||||||||||
+dealer|bourwan|bourwan|noun|noun|notbat|||bour + wan|bour + wan||||業者|7|2922|||||||||||||
+finding|baklu|baklu|noun|noun|notbat||||||||発見|5|2923|||||||||||||
+message|went|went|noun|noun|notbat||||||||メッセージ|4|2924|||||||||||||
+phone|denshei|denxei|noun|noun|notbat|||den + shei|den + shei||||電話|6|2925|||||||||||||
+scene|peinmen|peinmen|noun|noun|notbat|||pein + men|pein + men||||場面|7|2926|||||||||||||
+appearance|nullu|nullu|noun|noun|notbat||||||||外見|5|2927|||||||||||||
+concept|bousnen|bousnen|noun|noun|notbat|||bous + nen|bous + nen||||概念|7|2928|||||||||||||
+customer|gapokian|gapokian|noun|noun|notbat|||gapo + kian|gapo + kian||||顧客|8|2929|||||||||||||
+housing|sumchecho|sumceco|noun|noun|notbat|||sum + checho|sum + checho||||住宅|7|2930|||||||||||||
+inflation|yont|yont|noun|noun|notbat||||||||インフレーション / 物価上昇|4|2931|||||||||||||
+insurance|sidkius|sidkius|noun|noun|notbat|||sid + kius|sid + kius||||保険|7|2932|||||||||||||
+advice|helusab|helusab|noun|noun|notbat||||||||助言|7|2934|||||||||||||
+effort|dabofortan|dabofortan|noun|noun|notbat||||||||努力|6|2935|||||||||||||
+expression|diugen|diugen|noun|noun|notbat||||||||表現|4|2936|||||||||||||
+opinion|ngilu|qilu|noun|noun|notbat||||||||意見|7|2937|||||||||||||
+reality|gentail|gentail|noun|noun|notbat||||||||現実|7|2938|||||||||||||
+responsibility|sekmaka|sekmaka|noun|noun|notbat|||sek + maka|sek + maka||||責任|#REF!|2939|||||||||||||
+wealth|biuge|biuge|noun|noun|notbat|||biuge|biuge||||富|7|2940|||||||||||||
+application|gounngei|gounqei|noun|noun|notbat|||goun + ngei|goun + ngei||||申請|10|2941|||||||||||||
+application|momorigeko|momorigeko|noun|noun|notbat|||momori + geko|momori + geko||||応用|||||||||||||||
+county|landib|landib|noun|noun|notbat||||||||郡|6|2942|||||||||||||
+estate|chast|cast|noun|noun|notbat||||||||不動産 / 財産|4|2943|||||||||||||
+foundation|man'gene|man'gene|noun|noun|notbat|||man + gene|man + gene||||基礎 / 財団|8|2944|||||||||||||
+|chaikrin|caikrin||||||chai + krin|chai + krin|||||||||||||||||||
+grandmother|soamâ|soama^|noun|noun|notbat|||so + amâ|so + ama^||||祖母|6|2945|||||||||||||
+perspective|chikupon|cikupon|noun|noun|notbat|||chiku + pon|chiku + pon||||視点|7|2946|||||||||||||
+photo|utumar|utumar|noun|noun|notbat|||utu + mar|utu + mar||||写真|6|2947|||||||||||||
+recipe|dest|dest|noun|noun|notbat||||||||レシピ|4|2948|||||||||||||
+studio|dist|dist|noun|noun|notbat||||||||スタジオ|4|2949|||||||||||||
+depression|dost|dost|noun|noun|notbat||||||||うつ病 / 不況|4|2950|||||||||||||
+imagination|rinzōfortan|rinzo-fortan|noun|noun|notbat|||rin + zō + fortan|rin + zo- + fortan||||想像力|12|2951|||||||||||||
+setting|setsar|setsar|noun|noun|notbat|||set + sar|set + sar||||設定|6|2955|||||||||||||
+ad|gontdun|gontdun|noun|noun|notbat|||gont + dun|gont + dun||||広告|7|2956|||||||||||||
+agency|yourtion|yourtion|noun|noun|notbat|||yo + ur + tion|yo + ur + tion||||代理店|8|2957|||||||||||||
+college|daga|daga|noun|noun|notbat|||da + ga|da + ga||||大学|4|2958|||||||||||||
+criticism|chegopan|cegopan|noun|noun|notbat|||chego + pan|chego + pan||||批判|7|2959|||||||||||||
+debt|autgon|xagugon|noun|noun|notbat|||aut + gon|aut + gon||||借金|7|2960|||||||||||||
+secretary|simusho|simuxo|noun|noun|notbat|||simu + sho|simu + sho||||秘書|6|2961|||||||||||||
+solution|piuketkanu|piuketkanu|noun|noun|notbat|||piu + ket + kanu|piu + ket + kanu||||解決策|10|2962|||||||||||||
+administration|rōrur|ro-rur|noun|noun|notbat|||rōr + ur|ro-r + ur||||管理|6|2963|||||||||||||
+administration|sosē|sose-|noun|noun|notbat|||so + sē|so + se-||||行政|||||||||||||||
+aspect|beimen|beimen|noun|noun|notbat|||bei + men|bei + men||||側面|6|2964|||||||||||||
+attitude|panodo|panodo|noun|noun|notbat|||pano + do|pano + do||||態度|6|2965|||||||||||||
+director|obtok|obtok|noun|noun|notbat|||ob + tok|ob + tok||||監督|5|2966|||||||||||||
+psychology|painurga|painurga|noun|noun|notbat|||pain + ur + ga|pain + ur + ga||||心理学|8|2967|||||||||||||
+alcohol|jist|jist|noun|noun|notbat||||||||アルコール|4|2968|||||||||||||
+complaint|paitmain|paitmain|noun|noun|notbat|||pait + main|pait + main||||苦情|8|2969|||||||||||||
+membership|kaiinsurkak|kaiinsurkak|noun|noun|notbat|||kai + in + sur + kak|kai + in + sur + kak||||会員資格|11|2970|||||||||||||
+preparation|junbe|junbe|noun|noun|notbat|||jun + be|jun + be||||準備|5|2971|||||||||||||
+union|kun'gō|kungo-|noun|noun|notbat|||kun + gō|kun + go-||||組合|6|2972|||||||||||||
+cancer|mote|mote|noun|noun|notbat|||mote|mote||||癌|4|2973|||||||||||||
+currency|tūrubu|tu-rubu|noun|noun|notbat|||tū + rubu|tu- + rubu||||通貨|7|2974|||||||||||||
+republic|tanakusaban|tanakusaban|noun|noun|notbat|||tana + ku + saban|tana + ku + saban||||共和国|11|2975|||||||||||||
+classroom|turpast|turpast|noun|noun|notbat|||tur + past|tur + past||||教室|7|2976|||||||||||||
+football|ust|ust|noun|noun|notbat||||||||サッカー / フットボール|3|2977|||||||||||||
+awareness|bisshik|bisxik|noun|noun|notbat|||bis + shik|bis + shik||||認識|6|2978|||||||||||||
+recording|rekorat|rekorat|noun|noun|notbat|||reko + rat|reko + rat||||録音|7|2979|||||||||||||
+feedback|wast|wast|noun|noun|notbat||||||||フィードバック|4|2980|||||||||||||
+homework|shukgald|xukgald|noun|noun|notbat|||shuk + gald|shuk + gald||||宿題|7|2981|||||||||||||
+hearing|kinprut|kinprut|noun|noun|notbat|||kin + prut|kin + prut||||聴覚 / 公聴会|7|2982|||||||||||||
+hearing|einkinkai|einkinkai|noun|noun|notbat|||ein + kin + kai|ein + kin + kai|||||||||||||||||||
+lab|kekeūkopast|kekeu-kopast|noun|noun|notbat|||keke + ūko + past|keke + u-ko + past||||研究室|12|2983|||||||||||||
+committee|baboinkai|baboinkai|noun|noun|notbat|||babo + in + kai|babo + in + kai||||委員会|9|2984|||||||||||||
+database|west|west|noun|noun|notbat||||||||データベース|4|2985|||||||||||||
+dad|apâi|apa^i|noun|noun|notbat||||||||お父さん|5|2986|||||||||||||
+drawer|dukou|dukou|noun|noun|notbat||||||||引き出し|5|2987|||||||||||||
+bathroom|kutopast|kutopast|noun|noun|notbat||||||||浴室 / トイレ|8|2988|||||||||||||
+bedroom|tulopast|tulopast|noun|noun|notbat||||||||寝室|8|2989|||||||||||||
+beer|sant|sant|noun|noun|notbat||||||||ビール|4|2990|||||||||||||
+gene|ruslakla|ruslakla|noun|noun|notbat|||rus + lak + la|rus + lak + la||||遺伝子|8|2991|||||||||||||
+girlfriend|naranfen|naranfen|noun|noun|notbat|||naran + fen|naran + fen||||女 + 友|8|2992|||||||||||||
+lady|naranshin|naranxin|noun|noun|notbat|||naran + shin|naran + shin||||女性|8|2993|||||||||||||
+shirt|sent|sent|noun|noun|notbat||||||||シャツ|4|2994|||||||||||||
+sir|tant|tant|noun|noun|notbat||||||||～さん / 紳士|4|2995|||||||||||||
+trainer|tent|tent|noun|noun|notbat||||||||トレーナー|4|2996|||||||||||||
+man|lalashin|lalaxin|noun|noun|notbat|||lala + shin|lala + shin||||男性|7|2997|||||||||||||
+living|bitwas|bitwas|noun|noun|notbat|||bit + was|bit + was||||生活|6|2998|||||||||||||
+campaign|tint|tint|noun|noun|notbat||||||||キャンペーン|4|2999|||||||||||||
+character|tont|tont|noun|noun|notbat||||||||性格 / キャラクター|4|3000|||||||||||||
+club|tunt|tunt|noun|noun|notbat||||||||クラブ|4|3001|||||||||||||
+fan|unt|unt|noun|noun|notbat||||||||ファン|3|3002|||||||||||||
+lock|kusin|kusin|noun|noun|notbat||||||||鍵|5|3003|||||||||||||
+novel|suzei|suzei|noun|noun|notbat|||su + zei|su + zei||||小説|5|3004|||||||||||||
+sex|shinbour|xinbour|noun|noun|notbat||||||||性別 / 性行為|7|3005|||||||||||||
+band|band|band|noun|noun|notbat||||||||バンド|4|3006|||||||||||||
 ray||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||
+|want|||||||||||||||||||||||||||
+|wint|||||||||||||||||||||||||||
+|wont|||||||||||||||||||||||||||
+|wunt|||||||||||||||||||||||||||
+|yant|||||||||||||||||||||||||||
+|yent|||||||||||||||||||||||||||
+|yint|||||||||||||||||||||||||||
+|yunt|||||||||||||||||||||||||||
+|zent|||||||||||||||||||||||||||
+|zont|||||||||||||||||||||||||||
+|zunt|||||||||||||||||||||||||||
+|ast|||||||||||||||||||||||||||
+|best|||||||||||||||||||||||||||
+|bist|||||||||||||||||||||||||||
+|bost|||||||||||||||||||||||||||
+||||||||||||||||||||||||||||
+|bust|||||||||||||||||||||||||||
+|chest|||||||||||||||||||||||||||
+||||||||||||||||||||||||||||
+|chist|||||||||||||||||||||||||||
+|chost|||||||||||||||||||||||||||
+|chust|||||||||||||||||||||||||||
+|dust|||||||||||||||||||||||||||
+|fist|||||||||||||||||||||||||||
+|fust|||||||||||||||||||||||||||
+|fost|||||||||||||||||||||||||||
+|gast|||||||||||||||||||||||||||
+|gest|||||||||||||||||||||||||||
+|gist|||||||||||||||||||||||||||
+|hast|||||||||||||||||||||||||||
+|hest|||||||||||||||||||||||||||
+|host|||||||||||||||||||||||||||
+||||||||||||||||||||||||||||
+|hust|||||||||||||||||||||||||||
+|ist|||||||||||||||||||||||||||
+||||||||||||||||||||||||||||
+|jest|||||||||||||||||||||||||||
+|jost|||||||||||||||||||||||||||
+|just|||||||||||||||||||||||||||
+|kast|||||||||||||||||||||||||||
+|kest|||||||||||||||||||||||||||
+|kist|||||||||||||||||||||||||||
+|kost|||||||||||||||||||||||||||
+|kust|||||||||||||||||||||||||||
+|last|||||||||||||||||||||||||||
+|lest|||||||||||||||||||||||||||
+|lost|||||||||||||||||||||||||||
+|lust|||||||||||||||||||||||||||
+|mast|||||||||||||||||||||||||||
+|mest|||||||||||||||||||||||||||
+|most|||||||||||||||||||||||||||
+||||||||||||||||||||||||||||
+|must|||||||||||||||||||||||||||
+|nast|||||||||||||||||||||||||||
+|nest|||||||||||||||||||||||||||
+|nist|||||||||||||||||||||||||||
+|nust|||||||||||||||||||||||||||
+|ost|||||||||||||||||||||||||||
+|pest|||||||||||||||||||||||||||
+|post|||||||||||||||||||||||||||
+|pust|||||||||||||||||||||||||||
+|rast|||||||||||||||||||||||||||
+|rest|||||||||||||||||||||||||||
+|rist|||||||||||||||||||||||||||
+|rost|||||||||||||||||||||||||||
+|sast|||||||||||||||||||||||||||
+|sest|||||||||||||||||||||||||||
+|sist|||||||||||||||||||||||||||
+|sost|||||||||||||||||||||||||||
+|sust|||||||||||||||||||||||||||
+|test|||||||||||||||||||||||||||
+|tost|||||||||||||||||||||||||||
+|tust|||||||||||||||||||||||||||
