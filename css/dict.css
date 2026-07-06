@@ -173,7 +173,7 @@ input.form__input {
 
 .word {
     color: #0055AA;
-    font-size: 2rem;
+    font-size: 3rem;
     padding-bottom: .5rem;
     border: 0;
     margin: 0;
@@ -199,7 +199,7 @@ input.form__input {
 
 .translation, #geoMampulanWord{
     margin: 0;
-    font-size: 3rem;
+    font-size: 4rem;
 }
 
 .mampulanExample, .englishExample, .seeAlso, .etymology_mam,  .etymology_eng{
