@@ -8,6 +8,11 @@
   src: url("/fonts/MampulanLanguage-Regular.ttf");
 }
 
+@font-face {
+  font-family: "Fredoka";
+  src: url("/fonts/Fredoka/static/Fredoka-Regular.ttf");
+}
+
 * {
   box-sizing: border-box;
 }
@@ -19,7 +24,36 @@ html {
 }
 
 .gradient {
+  position: relative;
   background-color: #99ccff;
+  min-height: 100vh;
+}
+
+.gradient::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url("/images/assets/website_bg_sketch.png") repeat center;
+  background-size: 600px;
+  opacity: 0.1;
+  filter: none;
+  z-index: 0;
+
+  animation: moveBackground 60s linear infinite;
+}
+
+@keyframes moveBackground {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: 600px 600px;
+  }
+}
+
+.gradient > * {
+  position: relative;
+  z-index: 1;
 }
 
 body {
@@ -30,6 +64,8 @@ body {
   /*if the background will move while scrolling or not*/
   font-family: AnP;
 }
+
+
 
 .Page {
   width: 70%;
@@ -52,7 +88,7 @@ body {
 
 h1 {
   margin: 1rem;
-  font-size: 1.1rem;
+  font-size: 1.5rem;
 }
 
 img {
@@ -128,7 +164,8 @@ ul {
 }
 
 .MainMenu {
-  height: auto;
+  font-family: "Fredoka";
+  font-weight: bold;
   clear: both;
   margin: 1rem 0 0 0;
   background-color: #0055aa;
@@ -142,12 +179,10 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  height: auto;
   background-color: #0e4b6800;
 }
 
 .MainMenu li {
-  height: auto;
   padding: 10px 1%;
   display: inline-block;
   background-color: #0055aa;
@@ -161,6 +196,19 @@ ul {
   text-decoration: none;
   padding: 0px auto;
   /* variable width */
+}
+
+/*When you hover the main menu*/
+
+.MainMenu li:hover {
+  color: #533912;
+  background-color: #eba843;
+}
+
+.MainMenu ul li:active {
+  color: #533912;
+  font-weight: bold;
+  background-color: #f2c582;
 }
 
 .AnP_Link {
@@ -183,18 +231,7 @@ ul {
   background: url("/images/Statics_Banner.png") no-repeat;
 }
 
-/*When you hover the main menu*/
 
-div.MainMenu ul li:hover {
-  color: #533912;
-  background-color: #eba843;
-}
-
-div.MainMenu ul li:active {
-  color: #533912;
-  font-weight: bold;
-  background-color: #f2c582;
-}
 
 #TagCloud {
   overflow: auto;
@@ -266,6 +303,7 @@ div.MainMenu ul li:active {
 }
 
 .PageSection {
+  font-family: "Fredoka";
   font-size: 1.2rem;
   color: white;
   font-weight: bold;
@@ -399,7 +437,6 @@ button:active {
 .comicarchiveframe {
   background: #fff;
   border: 2px solid #000;
-  filter: alpha(opacity=99);
   opacity: 0.99;
   padding: 5px;
 }
@@ -427,6 +464,7 @@ button:active {
 }
 
 footer {
+  font-family: "Fredoka";
   padding: 1em;
   width: auto;
   background-color: #0055aa;

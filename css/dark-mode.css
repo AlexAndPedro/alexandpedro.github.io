@@ -1,21 +1,21 @@
+.gradient.dark-mode::before {
+  filter: invert(1);
+}
+
 .PageBody.dark-mode {
-	background-color: #010c13;
+	background-color: #001c39;
 	color: white;
   }
 .gradient.dark-mode {
 	background-color: #003264;
 	color: white;
 }
-.gradient.dark-mode {
-	background-color: #003264;
+
+.PageBody.dark-mode .ComicTitle {
 	color: white;
 }
 
-.ComicTitle.dark-mode {
-	color: white;
-}
-
-.Navigation.dark-mode {
+.PageBody.dark-mode .Navigation {
 	border: 2px solid white;
 }
 

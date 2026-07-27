@@ -40,26 +40,26 @@ h1 {
 		display: none;
 }
 
-.part-of-speech {
-    margin: 0 0 1.5rem 1rem;
-    font-size: 1.2rem;
-}
 
-.dictionary-heading h2{
+
+.dictionary-heading {
+    font-family: "Fredoka";
+    font-size: 2rem;
+    text-align: center;
     color: #0055AA;
     font-weight: bold;
-    margin: 2rem 0 4rem 2rem;
+    margin: 2rem;
     padding: 0;
-    border: 1rem;
 }
 
 .section-searchbar {
+    font-family: "Fredoka";
     border: 3px solid #082a3f;
     height: 2rem;
     width: 80%;
     display: block;
     color: #bedff3;
-    margin-left: 1rem;
+    margin: 0 auto;
 }
 
 ::placeholder {
@@ -67,28 +67,19 @@ h1 {
   opacity: 1; /* Firefox */
 }
 
-input.form__input {
-    position: relative;
-    height: 100%;
-    width: 100%;
-}
-
 .form__input {
     font-size: 100%;
     font-family: inherit;
     color: black;
-    border-radius: 2px;
-    background-color:white;
+    background-color: white;
     border: none;
-    padding: 0.2rem 0 0 1rem;
-    border-bottom: 3px solid transparent;
-    height: 40%;
-    width: 90%;
-    transition: all .3s;
+    border-radius: 2px;
+    height: 100%;
+    width: 100%;
+    padding: 0 0 0 1rem;
+    box-sizing: border-box;
+    outline: none;
     text-align: left;
-
-    position: relative;
-    opacity: 1;
 }
 
 .form__label {
@@ -172,12 +163,12 @@ input.form__input {
 }
 
 .word {
-    color: #0055AA;
+    font-family: 'Times New Roman';
+    color: black;
     font-size: 3rem;
     padding-bottom: .5rem;
     border: 0;
     margin: 0;
-    text-decoration-line: underline;
 
 }
 
@@ -186,6 +177,12 @@ input.form__input {
     font-style: italic;
     font-size: 1.5rem;
     padding-left: 2rem;
+    margin: 0 0 1.5rem 1rem;
+}
+
+.partOfSpeechMam, .partOfSpeechEng {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
 }
 
 .underline {

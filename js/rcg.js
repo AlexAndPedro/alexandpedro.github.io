@@ -1,3 +1,10 @@
+const panels = [document.getElementById("panel1"),
+				document.getElementById("panel2"),
+				document.getElementById("panel3"),
+];
+
+const number_comic_panels = 3;
+
 function lockPanel(buttonNumber) {
 	//Changes the text of the lock button to "Locked" or "Unlocked"
 	if (document.getElementById("panel" + buttonNumber).innerHTML == "Unlocked") {
@@ -7,23 +14,23 @@ function lockPanel(buttonNumber) {
 	}
 }
 // Function to generate random comic image
-function getRandomImage(ARR_LENGTH) {
+function getRandomImage(total_panel_number) {
 	//Makes the Unlocked/Locked buttons visible after clicking button
-	document.getElementById("panel1").style.display = "inline";
-	document.getElementById("panel2").style.display = "inline";
-	document.getElementById("panel3").style.display = "inline";
-	var panelNumber = [];
-	var numberIndex, a;
+	for (let i = 0; i < panels.length; i++) {
+    panels[i].style.display = "inline";
+}
+	let panelNumber = [];
+	let numberIndex, a;
 	// getting the file of the previous iteration
-	var comicPanel = [document.getElementById("ComicPanel1")
+	let comicPanel = [document.getElementById("ComicPanel1")
 						, document.getElementById("ComicPanel2")
 						, document.getElementById("ComicPanel3")];
-	for (i = 0; i < ARR_LENGTH; i++) {
+	for (let i = 0; i < total_panel_number; i++) {
 		panelNumber[i] = i + 1;
 	}
-	for (i = 0; i < 3; i++) {
+	for (let i = 0; i < number_comic_panels; i++) {
 		//if the panel is unlocked, 
-		if (document.getElementById("panel" + (i + 1)).innerHTML == "Unlocked") {
+		if (panels[i].innerHTML == "Unlocked") {
 			numberIndex = Math.floor(Math.random() * panelNumber.length);
 			comicPanel[i] = panelNumber[numberIndex];
 			panelNumber.splice(numberIndex, 1);

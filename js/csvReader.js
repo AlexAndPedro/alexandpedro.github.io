@@ -148,8 +148,8 @@ function callback(dictionary) {
                         // Compiling html code to be sent to Dictionary Display
                         // Note that this is only one entry.
                         DictionaryDisplayElementE[0] = `<h1 class="word">${englishWord[i]}</h1>`;
-                        DictionaryDisplayElementE[1] = `<h1>${partOfSpeechEng[i]}</h1>`;
-                        DictionaryDisplayElementM[2] = `<h1>${partOfSpeechMamLang[i]}</h1>`;
+                        DictionaryDisplayElementE[1] = `<h1 class="partOfSpeechEng">${partOfSpeechEng[i]}</h1>`;
+                        DictionaryDisplayElementM[2] = `<h1 class="partOfSpeechMam">${partOfSpeechMamLang[i]}</h1>`;
                         DictionaryDisplayElementE[3] = `<h2 class="translation" style="font-family:MampulanFont">${mampulanSymbol[i]}</h2>`;
                         DictionaryDisplayElementE[4] = `<h3 class="transliteration">${mampulanWord[i]}</h2>`;
                         DictionaryDisplayElementE[5] = `<h3 class="definition">${definition[i]}</h2>`;
@@ -173,7 +173,7 @@ function callback(dictionary) {
                         wordDOM.style.fontFamily = "MampulanFont";
                         DictionaryDisplayElementM[0] = `<h1 class="word" style="font-family:MampulanFont">${mampulanSymbol[i]}</h1>`;
                         DictionaryDisplayElementM[1] = `<h3 class="transliteration">${mampulanWord[i]}</h2>`;
-                        DictionaryDisplayElementM[2] = `<h1>${partOfSpeechMam[i]}</h1>`;
+                        DictionaryDisplayElementM[2] = `<h1 class="partOfSpeechMam">${partOfSpeechMam[i]}</h1>`;
                         DictionaryDisplayElementM[3] = `<h1 style="font-family:MampulanFont">${partOfSpeechMamLang[i]}</h1>`;
                         DictionaryDisplayElementM[4] = `<h2 class="translation">${englishWord[i]}</h2>`;
                         DictionaryDisplayElementM[5] = `<h3 class="definition" style="font-family:MampulanFont">${mampulanDefinition[i]}</h2>`;
