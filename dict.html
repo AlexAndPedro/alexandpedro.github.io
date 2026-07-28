@@ -20,14 +20,28 @@
 	<link href="/css/dict.css" rel="stylesheet">
 	<script src="/js/jquery-3.5.1.min.js"></script>
 	<script src="/js/index.js">	</script>
+	<script src = "/js/fun_fact.js"></script>
+	<script src = "/js/mampulanWeather.js"></script>
 	<script>
-	                       $(document).ready(function(){
-	               
-	               $('.Header').load("/html/header.html");
-	               $('.SideBars').load("/html/sideBar.html");
-	               $('Footer').load("/html/footer.html");
-	               });
-	           
+	$(document).ready(function(){
+
+		$('.Header').load("/html/header.html");
+
+		$('.SideBars').load("/html/sideBar.html", function(response, status) {
+
+			console.log("Sidebar:", status);
+
+			console.log(
+				"Temperature element:",
+				document.getElementById("temperature_value")
+			);
+
+			loadTemperatureData();
+		});
+
+		$('footer').load("/html/footer.html");
+
+	});
 	</script>
 	<link rel="icon" href="/images/web_icon.png">
 </head>

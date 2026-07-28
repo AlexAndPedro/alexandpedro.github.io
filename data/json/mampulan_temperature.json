@@ -1,0 +1,4466 @@
+[
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 1,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 2,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 3,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 4,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 5,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 6,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 7,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 8,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 9,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 10,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 11,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 12,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 13,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 14,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 15,
+    "temperature_celsius": 10
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 16,
+    "temperature_celsius": 11
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 17,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 18,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 19,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 20,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 21,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 22,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 23,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 24,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 25,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 26,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 27,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 28,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 29,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 30,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "January",
+    "day": 31,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 1,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 2,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 3,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 4,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 5,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 6,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 7,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 8,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 9,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 10,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 11,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 12,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 13,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 14,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 15,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 16,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 17,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 18,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 19,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 20,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 21,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 22,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 23,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 24,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 25,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 26,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 27,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 28,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 29,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 30,
+    "temperature_celsius": null
+  },
+  {
+    "province": "Pangilan",
+    "month": "February",
+    "day": 31,
+    "temperature_celsius": null
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 1,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 2,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 3,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 4,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 5,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 6,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 7,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 8,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 9,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 10,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 11,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 12,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 13,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 14,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 15,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 16,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 17,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 18,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 19,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 20,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 21,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 22,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 23,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 24,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 25,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 26,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 27,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 28,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 29,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 30,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "March",
+    "day": 31,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 1,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 2,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 3,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 4,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 5,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 6,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 7,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 8,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 9,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 10,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 11,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 12,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 13,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 14,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 15,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 16,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 17,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 18,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 19,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 20,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 21,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 22,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 23,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 24,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 25,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 26,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 27,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 28,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 29,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 30,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "April",
+    "day": 31,
+    "temperature_celsius": null
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 1,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 2,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 3,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 4,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 5,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 6,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 7,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 8,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 9,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 10,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 11,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 12,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 13,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 14,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 15,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 16,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 17,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 18,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 19,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 20,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 21,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 22,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 23,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 24,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 25,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 26,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 27,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 28,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 29,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 30,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "May",
+    "day": 31,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 1,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 2,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 3,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 4,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 5,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 6,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 7,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 8,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 9,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 10,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 11,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 12,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 13,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 14,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 15,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 16,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 17,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 18,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 19,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 20,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 21,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 22,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 23,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 24,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 25,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 26,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 27,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 28,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 29,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 30,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "June",
+    "day": 31,
+    "temperature_celsius": null
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 1,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 2,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 3,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 4,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 5,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 6,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 7,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 8,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 9,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 10,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 11,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 12,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 13,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 14,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 15,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 16,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 17,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 18,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 19,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 20,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 21,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 22,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 23,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 24,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 25,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 26,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 27,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 28,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 29,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 30,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "July",
+    "day": 31,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 1,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 2,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 3,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 4,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 5,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 6,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 7,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 8,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 9,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 10,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 11,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 12,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 13,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 14,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 15,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 16,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 17,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 18,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 19,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 20,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 21,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 22,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 23,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 24,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 25,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 26,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 27,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 28,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 29,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 30,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "August",
+    "day": 31,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 1,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 2,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 3,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 4,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 5,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 6,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 7,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 8,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 9,
+    "temperature_celsius": 19
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 10,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 11,
+    "temperature_celsius": 19
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 12,
+    "temperature_celsius": 19
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 13,
+    "temperature_celsius": 25
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 14,
+    "temperature_celsius": 24
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 15,
+    "temperature_celsius": 24
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 16,
+    "temperature_celsius": 19
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 17,
+    "temperature_celsius": 22
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 18,
+    "temperature_celsius": 19
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 19,
+    "temperature_celsius": 19
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 20,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 21,
+    "temperature_celsius": 19
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 22,
+    "temperature_celsius": 19
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 23,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 24,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 25,
+    "temperature_celsius": 19
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 26,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 27,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 28,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 29,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 30,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Pangilan",
+    "month": "September",
+    "day": 31,
+    "temperature_celsius": null
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 1,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 2,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 3,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 4,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 5,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 6,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 7,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 8,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 9,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 10,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 11,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 12,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 13,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 14,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 15,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 16,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 17,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 18,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 19,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 20,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 21,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 22,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 23,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 24,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 25,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 26,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 27,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 28,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 29,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 30,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "October",
+    "day": 31,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 1,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 2,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 3,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 4,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 5,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 6,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 7,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 8,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 9,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 10,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 11,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 12,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 13,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 14,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 15,
+    "temperature_celsius": 16
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 16,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 17,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 18,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 19,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 20,
+    "temperature_celsius": 15
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 21,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 22,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 23,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 24,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 25,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 26,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 27,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 28,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 29,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 30,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Pangilan",
+    "month": "November",
+    "day": 31,
+    "temperature_celsius": null
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 1,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 2,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 3,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 4,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 5,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 6,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 7,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 8,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 9,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 10,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 11,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 12,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 13,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 14,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 15,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 16,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 17,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 18,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 19,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 20,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 21,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 22,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 23,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 24,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 25,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 26,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 27,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 28,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 29,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 30,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Pangilan",
+    "month": "December",
+    "day": 31,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 1,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 2,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 3,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 4,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 5,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 6,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 7,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 8,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 9,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 10,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 11,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 12,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 13,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 14,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 15,
+    "temperature_celsius": 10
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 16,
+    "temperature_celsius": 11
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 17,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 18,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 19,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 20,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 21,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 22,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 23,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 24,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 25,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 26,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 27,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 28,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 29,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 30,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "January",
+    "day": 31,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 1,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 2,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 3,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 4,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 5,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 6,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 7,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 8,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 9,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 10,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 11,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 12,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 13,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 14,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 15,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 16,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 17,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 18,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 19,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 20,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 21,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 22,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 23,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 24,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 25,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 26,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 27,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 28,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 29,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 30,
+    "temperature_celsius": null
+  },
+  {
+    "province": "Asolan",
+    "month": "February",
+    "day": 31,
+    "temperature_celsius": null
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 1,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 2,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 3,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 4,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 5,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 6,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 7,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 8,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 9,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 10,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 11,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 12,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 13,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 14,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 15,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 16,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 17,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 18,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 19,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 20,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 21,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 22,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 23,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 24,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 25,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 26,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 27,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 28,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 29,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 30,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "March",
+    "day": 31,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 1,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 2,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 3,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 4,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 5,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 6,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 7,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 8,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 9,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 10,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 11,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 12,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 13,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 14,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 15,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 16,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 17,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 18,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 19,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 20,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 21,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 22,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 23,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 24,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 25,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 26,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 27,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 28,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 29,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 30,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "April",
+    "day": 31,
+    "temperature_celsius": null
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 1,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 2,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 3,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 4,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 5,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 6,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 7,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 8,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 9,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 10,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 11,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 12,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 13,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 14,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 15,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 16,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 17,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 18,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 19,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 20,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 21,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 22,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 23,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 24,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 25,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 26,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 27,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 28,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 29,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 30,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "May",
+    "day": 31,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 1,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 2,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 3,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 4,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 5,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 6,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 7,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 8,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 9,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 10,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 11,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 12,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 13,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 14,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 15,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 16,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 17,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 18,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 19,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 20,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 21,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 22,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 23,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 24,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 25,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 26,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 27,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 28,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 29,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 30,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "June",
+    "day": 31,
+    "temperature_celsius": null
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 1,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 2,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 3,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 4,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 5,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 6,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 7,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 8,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 9,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 10,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 11,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 12,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 13,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 14,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 15,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 16,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 17,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 18,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 19,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 20,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 21,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 22,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 23,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 24,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 25,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 26,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 27,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 28,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 29,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 30,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "July",
+    "day": 31,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 1,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 2,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 3,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 4,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 5,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 6,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 7,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 8,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 9,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 10,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 11,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 12,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 13,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 14,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 15,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 16,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 17,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 18,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 19,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 20,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 21,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 22,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 23,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 24,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 25,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 26,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 27,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 28,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 29,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 30,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "August",
+    "day": 31,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 1,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 2,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 3,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 4,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 5,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 6,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 7,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 8,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 9,
+    "temperature_celsius": 19
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 10,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 11,
+    "temperature_celsius": 19
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 12,
+    "temperature_celsius": 19
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 13,
+    "temperature_celsius": 25
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 14,
+    "temperature_celsius": 24
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 15,
+    "temperature_celsius": 24
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 16,
+    "temperature_celsius": 19
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 17,
+    "temperature_celsius": 22
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 18,
+    "temperature_celsius": 19
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 19,
+    "temperature_celsius": 19
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 20,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 21,
+    "temperature_celsius": 19
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 22,
+    "temperature_celsius": 19
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 23,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 24,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 25,
+    "temperature_celsius": 19
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 26,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 27,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 28,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 29,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 30,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "September",
+    "day": 31,
+    "temperature_celsius": null
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 1,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 2,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 3,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 4,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 5,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 6,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 7,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 8,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 9,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 10,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 11,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 12,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 13,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 14,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 15,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 16,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 17,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 18,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 19,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 20,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 21,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 22,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 23,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 24,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 25,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 26,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 27,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 28,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 29,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 30,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "October",
+    "day": 31,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 1,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 2,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 3,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 4,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 5,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 6,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 7,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 8,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 9,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 10,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 11,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 12,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 13,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 14,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 15,
+    "temperature_celsius": 18
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 16,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 17,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 18,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 19,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 20,
+    "temperature_celsius": 17
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 21,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 22,
+    "temperature_celsius": 14
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 23,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 24,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 25,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 26,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 27,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 28,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 29,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 30,
+    "temperature_celsius": 13
+  },
+  {
+    "province": "Asolan",
+    "month": "November",
+    "day": 31,
+    "temperature_celsius": null
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 1,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 2,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 3,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 4,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 5,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 6,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 7,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 8,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 9,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 10,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 11,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 12,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 13,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 14,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 15,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 16,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 17,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 18,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 19,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 20,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 21,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 22,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 23,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 24,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 25,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 26,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 27,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 28,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 29,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 30,
+    "temperature_celsius": 12
+  },
+  {
+    "province": "Asolan",
+    "month": "December",
+    "day": 31,
+    "temperature_celsius": 12
+  }
+]

@@ -39,7 +39,7 @@ html {
   filter: none;
   z-index: 0;
 
-  animation: moveBackground 60s linear infinite;
+  animation: moveBackground 90s linear infinite;
 }
 
 @keyframes moveBackground {
@@ -231,6 +231,32 @@ ul {
   background: url("/images/Statics_Banner.png") no-repeat;
 }
 
+#temperature_date {
+  font-family: "Fredoka";
+}
+
+#temperature_location {
+  font-family: "Fredoka";
+  text-align: center;
+  opacity: 1;
+  transition: opacity 1s ease-in-out;
+}
+
+#temperature_location.fade {
+    opacity: 0;
+}
+
+#temperature_value {
+  font-family: "Fredoka";
+  text-align: center;
+  font-size: 2rem;
+  opacity: 1;
+  transition: opacity 1s ease-in-out;
+}
+
+#temperature_value.fade {
+    opacity: 0;
+}
 
 
 #TagCloud {
@@ -242,27 +268,23 @@ ul {
 .TagGroup3,
 .TagGroup4 {
   float: left;
-  height: 18px;
+  margin: 2px;
 }
 
 .TagGroup1 {
   font-size: 130%;
-  margin: 2px;
 }
 
 .TagGroup2 {
   font-size: 110%;
-  margin: 2px;
 }
 
 .TagGroup3 {
   font-size: 90%;
-  margin: 2px;
 }
 
 .TagGroup4 {
   font-size: 80%;
-  margin: 2px;
 }
 
 .nav-First,
