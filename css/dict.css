@@ -1,7 +1,13 @@
 #DictionaryContainer{
-    border-radius: 1rem;
-    background-color: white;
-    color: #0055AA;
+    width: 80%;
+    max-width: 900px;
+    margin: 3rem auto;
+    padding: 3rem;
+    background: white;
+    color: #222;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0,0,0,.08);
 }
 
 .BlueContainer.Dictionary{
@@ -22,14 +28,15 @@ h1 {
 }
 
 
-.form {
-    height: 100%;
-    width: 100%;
-}
-
 .input-word {
     margin: 3rem 1rem;
     font-size: 2rem;
+}
+
+.dictionary_contents{
+    border:1px solid #e5e5e5;
+    border-radius:8px;
+    padding:2rem;
 }
 
 .dictionary_title{
@@ -42,24 +49,25 @@ h1 {
 
 
 
-.dictionary-heading {
-    font-family: "Fredoka";
-    font-size: 2rem;
+.dictionary-heading{
+    font-family: Georgia, serif;
+    font-size: 2.2rem;
     text-align: center;
-    color: #0055AA;
-    font-weight: bold;
-    margin: 2rem;
-    padding: 0;
+    color: #111;
+    margin-bottom: 2rem;
+    letter-spacing: 1px;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 1rem;
 }
 
-.section-searchbar {
-    font-family: "Fredoka";
-    border: 3px solid #082a3f;
-    height: 2rem;
-    width: 80%;
-    display: block;
-    color: #bedff3;
-    margin: 0 auto;
+.section-searchbar{
+    display:flex;
+    width:100%;
+    max-width:700px;
+    margin:0 auto 2rem;
+    border:1px solid #ccc;
+    border-radius:8px;
+    overflow:hidden;
 }
 
 ::placeholder {
@@ -67,19 +75,12 @@ h1 {
   opacity: 1; /* Firefox */
 }
 
-.form__input {
-    font-size: 100%;
-    font-family: inherit;
-    color: black;
-    background-color: white;
-    border: none;
-    border-radius: 2px;
-    height: 100%;
-    width: 100%;
-    padding: 0 0 0 1rem;
-    box-sizing: border-box;
-    outline: none;
-    text-align: left;
+.form__input{
+    font-family: "AnP";
+    flex:1;
+    padding:0 1rem;
+    font-size:1.1rem;
+    border:none;
 }
 
 .form__label {
@@ -139,45 +140,36 @@ h1 {
 }
 
 .result-container {
-    margin-left: 2rem;
     display: none;
-    width: 80%;
 }
 
-.result-container-2 {
-    display: block;
-    margin-left: 2rem;
-    width: 80%;
-    font-size: 1.5rem;
-}
-
+.result-container-2,
 .result-container-3 {
-    display: block;
-    margin-left: 2rem;
-    width: 80%;
     font-size: 1.5rem;
 }
 
-.h3 {
-    font-size: 0.5rem;
-}
-
-.word {
-    font-family: 'Times New Roman';
-    color: black;
-    font-size: 3rem;
-    padding-bottom: .5rem;
-    border: 0;
+.result-container,
+.result-container-2,
+.result-container-3 {
+    width: 100%;
     margin: 0;
-
+    line-height: 1.8;
 }
 
-.part-of-speech {
-    text-transform: lowercase;
-    font-style: italic;
-    font-size: 1.5rem;
-    padding-left: 2rem;
-    margin: 0 0 1.5rem 1rem;
+.word{
+    font-family: Georgia, serif;
+    font-size:3.5rem;
+    font-weight:bold;
+    color:#111;
+    margin:0;
+}
+
+.part-of-speech{
+    font-style:italic;
+    color:#666;
+    font-size:1.2rem;
+    margin:.25rem 0 1.5rem 0;
+    padding:0;
 }
 
 .partOfSpeechMam, .partOfSpeechEng {
@@ -189,23 +181,46 @@ h1 {
     border-bottom: 1px solid #87CEFA;
 }
 
-.definition {
-    margin: 1rem;
-    font-size: 1.2rem;
+.definition{
+    font-size:1.2rem;
+    line-height:1.8;
+    margin:1.5rem 0;
+    padding-left:1rem;
+    border-left:4px solid #0055AA;
 }
 
-.translation, #geoMampulanWord{
-    margin: 0;
-    font-size: 4rem;
+.translation{
+    margin:0 0 .25rem;
+    font-size:2.2rem;
+    font-weight:bold;
+    color:#0055AA;
 }
 
-.mampulanExample, .englishExample, .seeAlso, .etymology_mam,  .etymology_eng{
-    margin-left: 1rem;
-    font-size: 1.2rem;
+#geoMampulanWord{
+    margin:0;
+    font-size:2rem;
+    font-family:MampulanFont;
+}
+
+.mampulanExample,
+.englishExample,
+.seeAlso,
+.etymology_mam,
+.etymology_eng{
+    font-size:1.2rem;
+}
+
+.mampulanExample,
+.englishExample{
+    margin:1rem 0 1rem 2rem;
+    padding-left:1rem;
+    border-left:3px solid #ddd;
+    color:#555;
+    font-style:italic;
 }
 
 .mampulanExample{
-    font-family: MampulanFont;
+    font-family:MampulanFont;
 }
 
 #geoMampulanWord{
@@ -220,7 +235,20 @@ h1 {
 }
 
 hr{
-    border: 2px solid #082a3f;
-    border-radius: 2px;
-    width: 75%;
+    border:none;
+    border-top:1px solid #ddd;
+    margin:2rem 0;
+    width:100%;
+}
+
+#searchBtn{
+    width:120px;
+    background:#0b4f8a;
+    color:white;
+    font-weight:bold;
+    border:none;
+}
+
+#searchBtn:hover{
+    background:#073d69;
 }

@@ -313,7 +313,6 @@ ul {
 
 .ComicDescription,
 .PageArticle {
-  clear: both;
   margin: 0.5rem;
   padding: 0.5rem;
 }
@@ -384,11 +383,6 @@ ul {
   width: 20%;
 }
 
-.PageContent {
-  overflow: auto;
-  padding: 0.5rem;
-}
-
 #FunFactStatement {
   padding: 5px;
   min-height: 100px;
@@ -425,6 +419,14 @@ button:active {
 .ArticleAuthor {
   font-size: 80%;
 }
+
+.PageContent{
+
+    padding:3rem;
+    overflow: auto;
+}
+
+
 
 /*For Images in cast.html*/
 

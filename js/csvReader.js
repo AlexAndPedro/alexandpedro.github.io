@@ -1,4 +1,4 @@
-let path = "/data/word_data.csv";
+let word_data_path = "/data/word_data.csv";
 let delimiter = "|";
 class Word{
     constructor(WordInfo) {
@@ -54,7 +54,7 @@ xhr.onreadystatechange = function() {
         console.log('Error: ' + xhr.status);
     }
 }
-xhr.open('GET', path, true);
+xhr.open('GET', word_data_path, true);
 xhr.send();
 
 function callback(dictionary) {
@@ -75,17 +75,16 @@ function callback(dictionary) {
     // Example code for getting user input and displaying definition
     // and part of speech of the given word.
 
-    document.querySelector('.form__input#word').addEventListener('keyup', e=> {
-        e.preventDefault();
+    function searchWord() {
 
-        if (e.key == 'Enter' || e.keyCode == 13){
+        let input = document.querySelector("#word");
+        let inputWord = input.value.toLowerCase().trim();
+
+        if (inputWord === "") return;
             
-            let inputWord = e.target.value.toLowerCase();
-            e.target.value = '';
-
-           document.querySelector('.result-container').style.display = "block";
-           document.querySelector('.result-container-2').style.display = "block";
-           document.querySelector('.result-container-3').style.display = "block";
+        document.querySelector('.result-container').style.display = "block";
+        document.querySelector('.result-container-2').style.display = "block";
+        document.querySelector('.result-container-3').style.display = "block";
 
             let dictionaryOutput = new Array();
             let englishWord = new Array();
@@ -107,9 +106,9 @@ function callback(dictionary) {
                 if(dictionary["d"][step].english.toLowerCase() == inputWord.toLowerCase() || dictionary["d"][step].mampulan_symbol.toLowerCase() == inputWord.toLowerCase() || dictionary["d"][step].mampulan.toLowerCase() == inputWord.toLowerCase()){
                     dictionaryOutput.push(dictionary["d"][step]);
                 }
-             }
-             let wordDOM = document.querySelector('.word');
-             // if a dictionaryOutput exists or has an element
+            }
+            let wordDOM = document.querySelector('.word');
+            // if a dictionaryOutput exists or has an element
             if (dictionaryOutput !== undefined && dictionaryOutput.length > 0) {
 
                 //puts in dictionary Output in an array for easier access 
@@ -138,7 +137,7 @@ function callback(dictionary) {
                 let DictionaryDisplayElementM = new Array();
                 let DictionaryDisplayEng = new Array();
                 let DictionaryDisplayMam = new Array();
-               wordDOM.innerHTML = ``;
+            wordDOM.innerHTML = ``;
 
 
                 for(let i = 0; i < dictionaryOutput.length; i++){
@@ -166,9 +165,9 @@ function callback(dictionary) {
                     }
 
                     if (inputWord.toLowerCase() == mampulanSymbol[i].toLowerCase() || inputWord.toLowerCase() == mampulanWord[i].toLowerCase()){  
-                         //If the user input matches one of the words in the MAMPULAN word list
+                        //If the user input matches one of the words in the MAMPULAN word list
 
-                                             // Compiling html code to be sent to Dictionary Display
+                                            // Compiling html code to be sent to Dictionary Display
                         // Note that this is only one entry.
                         wordDOM.style.fontFamily = "MampulanFont";
                         DictionaryDisplayElementM[0] = `<h1 class="word" style="font-family:MampulanFont">${mampulanSymbol[i]}</h1>`;
@@ -185,7 +184,7 @@ function callback(dictionary) {
                         DictionaryDisplayElementM[11] = `See Also:<h3 class="seeAlso">${seeAlso[i]}</h2><hr>`;
 
 
-                       DictionaryDisplayMam[i] = DictionaryDisplayElementM.join('');
+                    DictionaryDisplayMam[i] = DictionaryDisplayElementM.join('');
 
 
                     }
@@ -208,6 +207,16 @@ function callback(dictionary) {
                 document.querySelector('.result-container-3').style.display = "none";
             };
         }
-    }
-    )
+    const wordInput = document.querySelector("#word");
+
+    wordInput.addEventListener("keyup", function(e) {
+        if (e.key === "Enter") {
+            searchWord();
+        }
+});
+        document.querySelector("#searchBtn").addEventListener("click", function () {
+    searchWord();
+
+    });
+
 }
