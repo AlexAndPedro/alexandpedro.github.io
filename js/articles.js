@@ -3,7 +3,7 @@ let text;
 
 
 async function loadJSON() {
-  const response = await fetch('/data/json/articles.json');
+  const response = await fetch('/data/json/articleTag.json');
   if (!response.ok) {
     throw new Error('Network response was not ok');
   }

@@ -1,5 +1,5 @@
 let word_data_path = "/data/word_data.csv";
-let delimiter = "|";
+
 class Word{
     constructor(WordInfo) {
         this.english = WordInfo[0];

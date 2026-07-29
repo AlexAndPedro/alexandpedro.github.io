@@ -13,7 +13,7 @@ let text;
 
 //This function fetches json file and puts content into text variable
 async function loadJSON() {
-    const response = await fetch(`../data/json/${tag_type}.json`);
+    const response = await fetch(`../data/json/${tag_type}_tag.json`);
     if (!response.ok) {
       throw new Error('Network response was not ok');
     }

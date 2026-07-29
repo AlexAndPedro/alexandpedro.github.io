@@ -100,6 +100,7 @@ window.addEventListener("DOMContentLoaded", loadTemperatureData);
 
 
 var path = "/data/fun_fact.csv";
+let delimiter = "|";
 var longText = [];
 
 
