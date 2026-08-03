@@ -68,7 +68,7 @@ body {
 
 
 .Page {
-  width: 70%;
+  width: 80%;
   /* as much as possible, absolute not relative because			*/
   margin: 0 auto;
   /* when browser resizes, everything in width changes*/
@@ -183,10 +183,10 @@ ul {
 }
 
 .MainMenu li {
-  padding: 10px 1%;
+  padding: 10px 5px;
   display: inline-block;
   background-color: #0055aa;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   text-align: center;
 }
 
@@ -422,7 +422,7 @@ button:active {
 
 .PageContent{
 
-    padding:3rem;
+    padding: 2rem;
     overflow: auto;
 }
 
