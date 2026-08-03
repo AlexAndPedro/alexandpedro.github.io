@@ -541,3 +541,26 @@ footer {
   font-variant-ligatures: none;
   box-shadow: 0px 0px 12px black;
 }
+
+.DogWrap .Dog {
+  transform-origin: bottom center; /* Makes it pivot naturally */
+}
+
+.DogWrap .Dog:hover {
+  animation: dogWiggle 0.4s ease-in-out;
+}
+
+@keyframes dogWiggle {
+  0%, 100% {
+    transform: rotate(0deg) translateY(0);
+  }
+  25% {
+    transform: rotate(-6deg) translateY(-2px);
+  }
+  50% {
+    transform: rotate(6deg) translateY(0);
+  }
+  75% {
+    transform: rotate(-4deg) translateY(-1px);
+  }
+}

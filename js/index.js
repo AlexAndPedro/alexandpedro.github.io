@@ -19,6 +19,16 @@ function showHide() {
 	}
 }
 
+$(document).ready(function(){
+    
+    $('.Header').load("/html/header.html");
+    $('.SideBars').load("/html/sideBar.html", function() {
+        // Sidebar has finished loading
+        loadTemperatureData();
+    });
+    $('Footer').load("/html/footer.html");
+});
+
 const provinces = ["Pangilan", "Asolan", "Dapangisangado", "Lobolan", "Horibama"];
 let currentProvinceIndex = 0;
 let temperatureData = [];
@@ -73,7 +83,7 @@ setTimeout(() => {
 	locationOutput.classList.remove("fade");
     tempOutput.classList.remove("fade");
 
-}, 1000);
+}, 5000);
 
 
     // Move to next province
@@ -86,18 +96,16 @@ setTimeout(() => {
 }
 
 async function loadTemperatureData() {
-    const response = await fetch("../data/json/mampulan_temperature.json");
+    const response = await fetch("/data/json/mampulan_temperature.json");
     temperatureData = await response.json();
 
     // Display immediately
     displayTodayTemperature();
 
     // Change province every 5 seconds
-    setInterval(displayTodayTemperature, 10000);
+    setInterval(displayTodayTemperature, 5000);
 }
-
-window.addEventListener("DOMContentLoaded", loadTemperatureData);
-
+// Fun Fact
 
 var path = "/data/fun_fact.csv";
 let delimiter = "|";

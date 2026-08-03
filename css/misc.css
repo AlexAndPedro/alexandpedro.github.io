@@ -1,0 +1,512 @@
+/* =========================================
+   ARTISTS I LIKE
+   ========================================= */
+
+.ArtistList {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+
+  width: 100%;
+  margin: 0.5rem auto;
+}
+
+
+/* -----------------------------------------
+   Individual Artist Card
+   ----------------------------------------- */
+
+.ArtistCard {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+
+  width: 100%;
+  margin: 0.25rem;
+
+  padding: 0.75rem;
+
+  background-color: #fffdf5;
+
+  border: 3px solid #003264;
+  border-radius: 0.7rem;
+
+  box-shadow: 7px 7px 0 #003264;
+
+  position: relative;
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+
+/* Give the cards a handmade / scrapbook feeling */
+
+.ArtistCard:nth-child(3n + 1) {
+  transform: rotate(-0.4deg);
+}
+
+.ArtistCard:nth-child(3n + 2) {
+  transform: rotate(0.35deg);
+}
+
+.ArtistCard:nth-child(3n) {
+  transform: rotate(-0.15deg);
+}
+
+
+/* Lift card when mouse is over it */
+
+.ArtistCard:hover {
+  transform: translate(-3px, -5px) rotate(0deg);
+  box-shadow: 10px 12px 0 #003264;
+}
+
+
+/* -----------------------------------------
+   Artist Image
+   ----------------------------------------- */
+
+.ArtistImage {
+  flex: 0 0 100px;
+
+  width: 100px;
+  height: 100px;
+
+  margin-right: 1.5rem;
+
+  overflow: hidden;
+
+  background-color: #99ccff;
+
+  border: 3px solid #003264;
+  border-radius: 0.5rem;
+
+  box-shadow: 3px 3px 0 #eba843;
+}
+
+
+.ArtistImage img {
+  display: block;
+
+  width: 100%;
+  height: 100%;
+
+  object-fit: cover;
+
+  transition: transform 0.3s ease;
+}
+
+
+/* -----------------------------------------
+   Artist Information
+   ----------------------------------------- */
+
+.ArtistInfo {
+  flex: 1;
+  min-width: 0;
+}
+
+
+.ArtistInfo h2 {
+  margin: 0 0 0.4rem 0;
+
+  font-family: "Fredoka";
+  font-size: 1.1rem;
+
+  color: #0055aa;
+}
+
+
+.ArtistInfo p {
+  margin: 0.7rem 0 0 0;
+
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+
+/* -----------------------------------------
+   Artist Links
+   ----------------------------------------- */
+
+.ArtistLinks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+
+  margin-top: 0.4rem;
+
+  font-family: "Fredoka";
+  font-size: 0.85rem;
+}
+
+
+.ArtistLinks a {
+  display: inline-block;
+
+  padding: 0.2rem 0.55rem;
+
+  background-color: #0055aa;
+
+  border: 2px solid #003264;
+  border-radius: 0.4rem;
+
+  text-decoration: none;
+}
+
+.ArtistCard .ArtistLinks a {
+  color: white;
+}
+
+
+.ArtistLinks a:hover {
+  background-color: #eba843;
+
+  text-decoration: none;
+}
+
+.ArtistCard .ArtistLinks a:hover {
+  color: #533912;
+}
+
+
+/* -----------------------------------------
+   Little decorative "tape" effect
+   ----------------------------------------- */
+
+.ArtistCard::before {
+  content: "";
+
+  position: absolute;
+
+  top: -12px;
+  left: 45%;
+
+  width: 80px;
+  height: 24px;
+
+  background-color: #f2c582;
+
+  opacity: 0.8;
+
+  transform: rotate(-2deg);
+
+  border: 1px solid #d6a65e;
+}
+
+
+/* Alternate tape angle */
+
+.ArtistCard:nth-child(even)::before {
+  transform: rotate(3deg);
+}
+
+
+/* -----------------------------------------
+   Mobile
+   ----------------------------------------- */
+
+@media (max-width: 650px) {
+
+
+  .ArtistCard {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.ArtistInfo {
+  min-width: 0;
+  max-width: 100%;
+  overflow-wrap: anywhere;
+}
+
+  .ArtistCard,
+  .ArtistCard:nth-child(even) {
+    flex-direction: column;
+
+    text-align: center;
+
+    width: 92%;
+  }
+
+
+  .ArtistImage,
+  .ArtistCard:nth-child(even) .ArtistImage {
+    flex: none;
+
+    width: 100px;
+    height: 100px;
+
+    margin: 0 auto 1rem auto;
+  }
+
+
+  .ArtistInfo h2 {
+    font-size: 1.2rem;
+  }
+
+
+  .ArtistLinks {
+    justify-content: center;
+  }
+
+
+  .ArtistCard::before {
+    left: 50%;
+
+    transform: translateX(-50%) rotate(-2deg);
+  }
+
+
+  .ArtistCard:nth-child(even)::before {
+    transform: translateX(-50%) rotate(3deg);
+  }
+}
+
+/* =========================================
+   CIVIL / STRUCTURAL ENGINEERING
+   ========================================= */
+
+.CivilEngineeringList {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+
+  width: 100%;
+  margin: 1.5rem auto;
+}
+
+
+/* -----------------------------------------
+   Engineering Card
+   ----------------------------------------- */
+
+.CivilEngineeringCard {
+  position: relative;
+
+  min-height: 180px;
+
+  padding: 1.5rem;
+
+  background-color: #f8f8f4;
+
+  border: 2px solid #003264;
+
+  /*
+   * The slightly offset shadow gives it
+   * the appearance of a drawing sheet.
+   */
+  box-shadow:
+    5px 5px 0 #003264;
+
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+
+/* Blueprint/drafting-style corner marks */
+
+.CivilEngineeringCard::before {
+  content: "";
+
+  position: absolute;
+
+  top: 10px;
+  left: 10px;
+
+  width: 18px;
+  height: 18px;
+
+  border-top: 2px solid #0055aa;
+  border-left: 2px solid #0055aa;
+}
+
+
+.CivilEngineeringCard::after {
+  content: "";
+
+  position: absolute;
+
+  right: 10px;
+  bottom: 10px;
+
+  width: 18px;
+  height: 18px;
+
+  border-right: 2px solid #0055aa;
+  border-bottom: 2px solid #0055aa;
+}
+
+
+/* Hover */
+
+.CivilEngineeringCard:hover {
+  transform: translate(-3px, -3px);
+
+  box-shadow:
+    8px 8px 0 #003264;
+}
+
+
+/* -----------------------------------------
+   Drawing / Reference Number
+   ----------------------------------------- */
+
+.CivilEngineeringNumber {
+  font-family: "Fredoka";
+
+  font-size: 0.75rem;
+  font-weight: bold;
+
+  letter-spacing: 0.12em;
+
+  color: #0055aa;
+
+  margin-bottom: 0.4rem;
+}
+
+
+/* -----------------------------------------
+   Title
+   ----------------------------------------- */
+
+.CivilEngineeringCard h2 {
+  margin: 0;
+
+  font-family: "Fredoka";
+
+  font-size: 1.15rem;
+
+  line-height: 1.25;
+
+  color: #003264;
+}
+
+
+/* Engineering-style line underneath title */
+
+.CivilEngineeringTitleLine {
+  display: flex;
+
+  align-items: center;
+
+  margin: 0.7rem 0;
+}
+
+
+.CivilEngineeringTitleLine::before {
+  content: "";
+
+  flex: 1;
+
+  border-top: 1px solid #003264;
+}
+
+
+.CivilEngineeringTitleLine::after {
+  content: "◇";
+
+  margin-left: 0.5rem;
+
+  color: #0055aa;
+
+  font-size: 0.8rem;
+}
+
+
+/* -----------------------------------------
+   Description
+   ----------------------------------------- */
+
+.CivilEngineeringCard p {
+  margin: 0.5rem 0;
+
+  line-height: 1.45;
+
+  font-size: 0.95rem;
+}
+
+
+/* -----------------------------------------
+   Visit Link
+   ----------------------------------------- */
+
+.CivilEngineeringLink {
+  display: inline-block;
+
+  margin-top: 0.8rem;
+
+  padding: 0.3rem 0.7rem;
+
+  background-color: #0055aa;
+
+  border: 2px solid #003264;
+  border-radius: 0.2rem;
+
+
+  font-family: "Fredoka";
+
+  font-size: 0.8rem;
+  font-weight: bold;
+
+  text-decoration: none;
+}
+
+
+.CivilEngineeringLink:hover {
+  background-color: #eba843;
+
+  text-decoration: none;
+}
+
+.CivilEngineeringCard .CivilEngineeringLink {
+  color: white;
+}
+
+.CivilEngineeringCard .CivilEngineeringLink:hover {
+  color: #533912;
+}
+
+
+/* -----------------------------------------
+   Small Engineering "Stamp"
+   ----------------------------------------- */
+
+.CivilEngineeringStamp {
+  position: absolute;
+
+  right: 1rem;
+  bottom: 1rem;
+
+  padding: 0.15rem 0.4rem;
+
+  border: 1px solid #0055aa;
+
+  font-family: "Fredoka";
+
+  font-size: 0.6rem;
+
+  letter-spacing: 0.08em;
+
+  color: #0055aa;
+
+  transform: rotate(2deg);
+
+  opacity: 0.75;
+}
+
+
+/* -----------------------------------------
+   Mobile
+   ----------------------------------------- */
+
+@media (max-width: 700px) {
+
+  .CivilEngineeringList {
+    grid-template-columns: 1fr;
+  }
+
+}

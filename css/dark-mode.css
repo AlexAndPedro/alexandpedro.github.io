@@ -25,3 +25,21 @@
 .PageBanner.dark-mode a:visited {
 	color: white;
 }
+
+.PageBody.dark-mode .PageArticle {
+    background-color: #003264;
+    color: white;
+}
+
+.PageBody.dark-mode a {
+    color: white;
+}
+
+.PageBody.dark-mode a:link,
+.PageBody.dark-mode a:visited {
+    color: white;
+}
+
+.PageBody.dark-mode .ArtistCard {
+	background-color:#001c39;
+}

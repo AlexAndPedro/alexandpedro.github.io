@@ -1,4 +1,4 @@
-let path = "/data/geography_data.csv";
+let geoPath = "/data/geography_data.csv";
 let delimiter = ",";
 
 function parseDictCSV(text, delimiter) {
@@ -39,7 +39,7 @@ xhr.onreadystatechange = function() {
         console.log('Error: ' + xhr.status);
     }
 }
-xhr.open('GET', path, true);
+xhr.open('GET', geoPath, true);
 xhr.send();
 
 function callback(dictionary) {

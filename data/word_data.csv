@@ -564,7 +564,7 @@ chronicle|saitliber|saitliber|noun|noun|notbat|||From Eagle Language <i>sait</i>
 chronicler|saitliberor|saitliberor|noun|noun|notbat|||From Eagle Language <i>saitliber</i> (&quot;chronicle&quot;) + <i>or</i> (&quot;person&quot;)||||founakawan||11|563|||||||||||||
 agree|hirngirun|hirqirun|verb|run verb|run-usbat|||From <i>hirngi</i> (&quot;agreement&quot;)||||||8|564|||||||||||||
 agree|idemngirun|idemqirun|verb|run verb|run-usbat|||From <i>idemngi</i> (&quot;agreement&quot;)||||||9|565|||||||||||||
-apathy|mamain|mamain|noun|noun|notbat|||From <i>ma</i> (&quot;absence of something&quot;) + <i>main</i> (&quot;emotion&quot;)||||||6|566|||||||||||||
+apathy|mimain|mimain|noun|noun|notbat|||From <i>mi</i> (&quot;absence of something&quot;) + <i>main</i> (&quot;emotion&quot;)||||||6|566|||||||||||||
 empathy|tanamain|tanamain|noun|noun|notbat|||From <i>tana</i> (&quot;common&quot;) + <i>main</i> (&quot;emotion&quot;)||||||8|567|||||||||||||
 from|wo|wo|preposition|postposition|pusobat|||From Old Mampulan||||||2|568|||||||||||||
 to|de|de|preposition|postposition|pusobat|||From Old Mampulan||||||2|569|||||||||||||
@@ -802,7 +802,7 @@ raindrop|ralbren|ralbren|noun|noun|notbat|||From <i>ral</i> (&quot;rain&quot;) +
 snow|naun|naun|noun|noun|notbat|||From Old Bear Language||||||4|801|||||||||||||
 rudder|himo|himo|noun|noun|notbat|||From Old Bear Language||||||4|802|||||||||||||
 steer|souhimorun|souhimorun|verb|run verb|run-usbat|steer a ship||From <i>sou</i> (&quot;rain&quot;) + <i>himo</i> (&quot;rudder&quot;)||||||10|803|||||||||||||
-collaboration|mêihata|me^ihata|noun|noun|notbat|||From <i>mei</i> (&quot;with&quot;) + <i>hata</i> (&quot;work&quot;)||||||8|804|||||||||||||
+collaboration|mêhata|me^hata|noun|noun|notbat|||From <i>mei</i> (&quot;with&quot;) + <i>hata</i> (&quot;work&quot;)||||||7|804|||||||||||||
 be raised|ikun|ikun|verb|un verb|un-usbat|||From Old Mampulan||||be brought up, grow||4|805|||||||||||||
 be brought up|ikun|ikun|verb|un verb|un-usbat|||From Old Mampulan||||be raised, grow||4|806|||||||||||||
 grow|ikun|ikun|verb|un verb|un-usbat|grow up||From Old Mampulan||||be raised, be brought up||4|807|||||||||||||
@@ -900,13 +900,13 @@ somewhere|bapein|bapein|pronoun|pronoun||||From <i>ba</i> (&quot;some&quot;) + <
 anyone|binwan|binwan|pronoun|pronoun||||From <i>bin</i> (&quot;next&quot;) + <i>wan</i> (&quot;person&quot;)||||||6|899|||||||||||||
 anything|binbus|binbus|pronoun|pronoun||||From <i>bin</i> (&quot;next&quot;) + <i>bus</i> (&quot;thing&quot;)||||||6|900|||||||||||||
 anywhere|binpein|binpein|pronoun|pronoun||||From <i>bin</i> (&quot;next&quot;) + <i>pein</i> (&quot;place&quot;)||||||7|901|||||||||||||
-no one|manwan|manwan|pronoun|pronoun||||From <i>man</i> (&quot;absence of&quot;) + <i>wan</i> (&quot;person&quot;)||||||6|902|||||||||||||
-nothing|manbus|manbus|pronoun|pronoun||||From <i>man</i> (&quot;absence of&quot;) + <i>bus</i> (&quot;thing&quot;)||||||6|903|||||||||||||
-nowhere|manpein|manpein|pronoun|pronoun||||From <i>man</i> (&quot;absence of&quot;) + <i>pein</i> (&quot;place&quot;)||||||7|904|||||||||||||
+no one|miwan|miwan|pronoun|pronoun||||From <i>mi</i> (&quot;absence of&quot;) + <i>wan</i> (&quot;person&quot;)||||||5|902|||||||||||||
+nothing|mibus|mibus|pronoun|pronoun||||From <i>mi</i> (&quot;absence of&quot;) + <i>bus</i> (&quot;thing&quot;)||||||5|903|||||||||||||
+nowhere|mipein|mipein|pronoun|pronoun||||From <i>mi</i> (&quot;absence of&quot;) + <i>pein</i> (&quot;place&quot;)||||||6|904|||||||||||||
 everybody|latwan|latwan|pronoun|pronoun||||From <i>lat</i> (&quot;all&quot;) + <i>wan</i> (&quot;person&quot;)||||||6|905|||||||||||||
 somebody|bawan|bawan|pronoun|pronoun||||From <i>ba</i> (&quot;some&quot;) + <i>wan</i> (&quot;person&quot;)||||||5|906|||||||||||||
 anybody|binwan|binwan|pronoun|pronoun||||From <i>bin</i> (&quot;next&quot;) + <i>wan</i> (&quot;person&quot;)||||||6|907|||||||||||||
-nobody|manwan|manwan|pronoun|pronoun||||From <i>man</i> (&quot;absence of&quot;) + <i>wan</i> (&quot;person&quot;)||||||6|908|||||||||||||
+nobody|miwan|miwan|pronoun|pronoun||||From <i>mi</i> (&quot;absence of&quot;) + <i>wan</i> (&quot;person&quot;)||||||5|908|||||||||||||
 can|sanun|sanun|verb|un verb|un-usbat|||From Old Mampulan||||||5|909|||||||||||||
 paper|krit|krit|noun|noun|notbat|||From Old Mampulan||||||4|910|||||||||||||
 map|krityon|krityon|noun|noun|notbat|||From <i>krit</i> (&quot;paper&quot;) + <i>yon</i> (&quot;world&quot;)||||||7|911|||||||||||||
@@ -1258,7 +1258,7 @@ joy|mer|mer|noun|noun|notbat|||From Old Mampulan||||||3|1256|||||||||||||
 sorrow|sain|sain|noun|noun|notbat|||From Old Mampulan||||||4|1257|||||||||||||
 steal|nusun|nusun|verb|un verb|un-usbat|||From Old Mampulan||||||5|1258|||||||||||||
 fee|bair|bair|noun|noun|notbat|||From Old Mampulan||||||4|1259|||||||||||||
-free|manbairung|manbairuq|adjective|ung adjective|uq-sulaikibat|(formal) no charge||From <i>man</i> (&quot;absence of&quot;) + <i>bair</i> (&quot;fee&quot;)||||||9|1260|||||||||||||
+free|mibairung|mibairuq|adjective|ung adjective|uq-sulaikibat|(formal) no charge||From <i>mi</i> (&quot;absence of&quot;) + <i>bair</i> (&quot;fee&quot;)||||||8|1260|||||||||||||
 free|gratung|gratuq|adjective|ung adjective|uq-sulaikibat|no charge||From Old Mampulan||||||6|1261|||||||||||||
 be accustomed|biusorun|biusorun|verb|run verb|run-usbat|used to||From <i>biuso</i> (&quot;being accustomed&quot;)||||||8|1262|||||||||||||
 thief|nuswan|nuswan|noun|noun|notbat|||From <i>nus</i> (&quot;steal&quot;) + <i>wan</i> (&quot;person&quot;)||||||6|1263|||||||||||||
@@ -1360,7 +1360,7 @@ spoon|supūn|supu-n|noun|noun|notbat|||From Human Language <i>spoon</i>||||||6|1
 fundamental|manung|manuq|adjective|ung adjective|uq-sulaikibat|||From Old Mampulan||||||5|1359|||||||||||||
 ordinal number|manbil|manbil|noun|noun|notbat|||From Old Mampulan||||||6|1360|||||||||||||
 cardinal number|jinbil|jinbil|noun|noun|notbat|||From <i>jin</i> (&quot;order (sorting)&quot;) + <i>bil</i> (&quot;number&quot;)||||||6|1361|||||||||||||
-deliberate|meiring|meiriq|adjective|g adjective|g-sulaikibat|||From <i>mei + ring</i> (&quot;with thought&quot;)||||||6|1362|||||||||||||
+deliberate|mering|meriq|adjective|g adjective|g-sulaikibat|||From <i>me + ring</i> (&quot;with thought&quot;)||||||5|1362|||||||||||||
 several|mitabilung|mitabiluq|adjective|ung adjective|uq-sulaikibat|||From <i>mita</i> (&quot;many&quot;) + <i>bil</i> (&quot;number&quot;)||||||9|1363|||||||||||||
 deposit|airde'orun|airde'orun|verb|run verb|run-usbat|||From <i>airde</i> (&quot;away&quot;) + <i>orun</i> (&quot;put&quot;)||||||10|1364|||||||||||||
 relate|wigun|wigun|verb|un verb|un-usbat|||From Old Mampulan||||||5|1365|||||||||||||
@@ -1377,9 +1377,9 @@ signature|fūhet|fu-het|noun|noun|notbat|||From <i>fū</i> (&quot;seal, stamp&qu
 heavy|baung|bauq|adjective|g adjective|g-sulaikibat|||From <i>baun</i> (&quot;weight, heavy&quot;)||||||4|1376|||||||||||||
 light|firtung|firtuq|adjective|ung adjective|uq-sulaikibat|(1) low weight||From Old Mampulan||||||6|1377|||||||||||||
 weight|baun|baun|noun|noun|notbat|||From Old Mampulan <i>bahun</i>||||||4|1378|||||||||||||
-important|meibaunas|meibaunas|noun|noun|notbat|Note that this is a g adjective because the word comes from <i>baun</i>||From <i>mei + baun</i> (&quot;with weight&quot;) + <i>-as</i> (&quot;nominalizing suffix&quot;)||||||9|1379|||||||||||||
-important|meibaung|meibauq|adjective|g adjective|g-sulaikibat|Note that this is a g adjective because the word comes from <i>baun</i>||From <i>mei + baun</i> (&quot;with weight&quot;)||||||7|1380|||||||||||||
-significance|meibaunngi|meibaunqi|noun|noun|notbat|||From <i>meibaun + ngi</i> (&quot;important meaning&quot;)||||||9|1381|||||||||||||
+important|mebaunas|mebaunas|noun|noun|notbat|Note that this is a g adjective because the word comes from <i>baun</i>||From <i>me + baun</i> (&quot;with weight&quot;) + <i>-as</i> (&quot;nominalizing suffix&quot;)||||||8|1379|||||||||||||
+important|mebaung|mebauq|adjective|g adjective|g-sulaikibat|Note that this is a g adjective because the word comes from <i>baun</i>||From <i>me + baun</i> (&quot;with weight&quot;)||||||6|1380|||||||||||||
+significance|mebaunngi|mebaunqi|noun|noun|notbat|||From <i>mebaun + ngi</i> (&quot;important meaning&quot;)||||||8|1381|||||||||||||
 ride|moun|moun|noun|noun|notbat|||From Old Mampulan||||||4|1382|||||||||||||
 ride|mounun|mounun|verb|un verb|un-usbat|To be transported in a vehicle; to travel as a passenger.||From <i>moun</i> (&quot;ride&quot;)||||||6|1383|||||||||||||
 vehicle|mounbus|mounbus|noun|noun|notbat|||From <i>moun</i> (&quot;ride&quot;) + <i>bus</i> (&quot;thing&quot;)||||||7|1384|||||||||||||
@@ -1480,7 +1480,7 @@ exit|ourun|ourun|verb|run verb|run-usbat|||From Old Mampulan||||||5|1478||||||||
 exit|oron|oron|noun|noun|notbat|||From <i>ourun + roun</i> (&quot;exit + way&quot;)||||||4|1479|||||||||||||
 straight|tretung|tretuq|adjective|ung adjective|uq-sulaikibat|||From Old Mampulan||||||6|1480|||||||||||||
 row|tre|tre|noun|noun|notbat|||Possibly from <i>tretung</i> (&quot;straight&quot;)||||||3|1481|||||||||||||
-civil|min|min|noun|noun|notbat|||From Old Mampulan||||||3|1482|||||||||||||
+civil|ming|miq|adjective|g adjective|g-sulaikibat|||From Old Mampulan||||||3|1482|||||||||||||
 aviation|nabi'îmel|nabi'i^mel|noun|noun|notbat|||From <i>nabi</i> (&quot;&quot;) + <i>imel</i> (&quot;&quot;)||||||10|1483|||||||||||||
 regulation|lernain|lernain|noun|noun|notbat|||From <i>ler</i> (&quot;&quot;) + <i>nain</i> (&quot;&quot;)||||||7|1484|||||||||||||
 clarify|prainaltun|prainaltun|verb|un verb|un-usbat|||From <i>prai + nalt</i> (&quot;to become clear&quot;)||||||10|1485|||||||||||||
@@ -2860,7 +2860,7 @@ complete|lekung|lekuq|adjective|ung adjective|uq-sulaikibat||||||||完|5|2858|||
 incomplete|anlekung|anlekuq|adjective|ung adjective|uq-sulaikibat|||From <i>an-</i> (&quot;not&quot;) + <i>lekung</i> (&quot;complete&quot;)|||||完|7|2859|||||||||||||
 state|jō|jo-|noun|noun|notbat||||||||状態|3|2860|||||||||||||
 honor|mei|mei|noun|noun|notbat||||||||誉|3|2861|||||||||||||
-honest|momeing|momeiq|adjective|ng adjective|q-sulaikibat|||||||||6|2862|||||||||||||
+honest|momeing|momeiq|adjective|ng adjective|q-sulaikibat|||From <i>mo</i> (&quot;with&quot;) + <i>mei</i> (&quot;honor&quot;)||||||6|2862|||||||||||||
 fixed|kintung|kintuq|adjective|g adjective|g-sulaikibat|||||||||6|2863|||||||||||||
 rhythm|bandan|bandan|noun|noun|notbat|||Onomatopoetic beats in music||||||6|2864|||||||||||||
 sequence|kintunjin|kintunjin|noun|noun|notbat|||fixed + order||||||9|2865|||||||||||||
@@ -3197,17 +3197,20 @@ mic|maikrofoun|maikrofoun|noun|noun|notbat|||From microphone||||||10|3195|||||||
 scaffold|sono|sono|noun|noun|notbat|||||||||4|3196|||||||||||||
 pier|sonoplon|sonoplon|noun|noun|notbat|||From <i>sono</i> scaffold + <i>plon</i> (&quot;bridge&quot;)|||||桟橋|8|3197|||||||||||||
 lyrics|naikbat|naikbat|noun|noun|notbat|||From <i>naik</i> song + <i>bat</i> (&quot;word&quot;)|||||song + words|7|3198|||||||||||||
-|||||||||||||||3199|||||||||||||
-||||||||||||||||||||||||||||
-||||||||||||||||||||||||||||
-||||||||||||||||||||||||||||
-||||||||||||||||||||||||||||
-||||||||||||||||||||||||||||
-||||||||||||||||||||||||||||
-||||||||||||||||||||||||||||
-||||||||||||||||||||||||||||
-||||||||||||||||||||||||||||
-||||||||||||||||||||||||||||
+hard to read|mosdokung|mosdokuq|adjective|ung adjective|uq-sulaikibat|||From <i>mosun</i> hard + <i>dokun</i> (&quot;read&quot;)|This book is hard to read.|Pat aka'n mosdokung.|||難読|8|3199|||||||||||||
+difficult to read|mosdokung|mosdokuq|adjective|ung adjective|uq-sulaikibat|||From <i>mosun</i> hard + <i>dokun</i> (&quot;read&quot;)|This book is difficult to read.|Pat aka'n mosdokuq.|||難読|8|3200|||||||||||||
+conspiracy|pēyain|pe-yain|noun|noun|notbat|||From <i>pē</i> + <i>yain</i> (&quot;&quot;)|||||陰謀|7||||||||||||||
+rainwater|ralawon|ralawon|noun|noun|notbat|||From <i>ral</i> rain + <i>awon</i> (&quot;water&quot;)|||||雨水|7||||||||||||||
+sewage|wunawon|wunawon|noun|noun|notbat|||From <i>wun</i> dirty + <i>awon</i> (&quot;water&quot;)|||||汚水|7||||||||||||||
+dirty water|wunawon|wunawon|noun|noun|notbat|||From <i>wun</i> dirty + <i>awon</i> (&quot;water&quot;)|||||汚水|7||||||||||||||
+sewage|dounawon|dounawon|noun|noun|notbat|||From <i>doun</i> down + <i>awon</i> (&quot;water&quot;)|||||下水|8||||||||||||||
+under the umbrella|pangdoun|paqdoun|noun|noun|notbat|under jurisdiction of||From  <i>pang</i> (&quot;umbrella&quot;) + <i>doun</i> down||This land is under the umbrella of the wolves.|Pat lan ni woun sa pangdoun|under jurisdiction of|傘下|7||||||||||||||
+under jurisdiction of|pangdoun|paqdoun|noun|noun|notbat|under the umbrella||From  <i>pang</i> (&quot;umbrella&quot;) + <i>doun</i> down||This land is under the jurisdiction of the wolves.|Pat lan ni woun sa pangdoun|under the umbrella|傘下|||||||||||||||
+under the jurisdiction of|pangdoun|paqdoun|noun|noun|notbat|under the umbrella||From  <i>pang</i> (&quot;umbrella&quot;) + <i>doun</i> down||This land is under the jurisdiction of the wolves.|Pat lan ni woun sa pangdoun|under the umbrella|傘下|||||||||||||||
+rate of|-lion|-lion|phrase|suffix|sorttilqi|||||rate of descent|dounreklion||率|||||||||||||||
+ascent|shounmuken|xounmuken|noun|noun|notbat|||From  <i>shoun</i> (&quot;up&quot;) + <i>muken</i>|||||上昇|||||||||||||||
+descent|dounrek|dounrek|noun|noun|notbat|||From  <i>doun</i> (&quot;&quot;) + <i>rek</i>|||||下降|||||||||||||||
+umbrella|pang|paq|noun|noun|notbat||||||||傘|||||||||||||||
 ||||||||||||||||||||||||||||
 ||||||||||||||||||||||||||||
 ||||||||||||||||||||||||||||

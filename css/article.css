@@ -2,15 +2,22 @@
     overflow: auto;
 }
 
-.PageArticle{
-    overflow: auto;
-    margin:0.5rem;
-    padding:3rem 4rem;
-    background:#f5f1e8;
-    border:1px solid #b9b2a5;
-    box-shadow:0 0 20px rgba(0,0,0,.15);
-    font-family:Georgia, serif;
-    color:#222;
+.PageArticle {
+    margin: 0.5rem;
+    padding: 3rem 4rem;
+
+    background-color: #f5f1e8;
+    background-image: url("/images/assets/article_page_texture.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    background-blend-mode: multiply;
+
+    border: 1px solid #b9b2a5;
+    box-shadow: 0 0 20px rgba(0,0,0,.15);
+
+    font-family: Georgia, serif;
+    color: #222;
 }
 
 .NewsEdition{
@@ -273,4 +280,71 @@
 
         justify-self:center;
     }
+}
+
+/* ---------- Dark Mode ---------- */
+
+.PageBody.dark-mode .NewsPage{
+    background:#111111;
+}
+
+.PageBody.dark-mode .NewsArticle,
+.PageBody.dark-mode .PageArticle{
+    background:#1c1b19;
+    background-image: url("/images/assets/article_page_texture.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    background-blend-mode: multiply;
+
+    color:#e6dfd1;
+    border:1px solid #5c564c;
+    box-shadow:0 8px 20px rgba(0,0,0,.6);
+}
+
+/* Main headings */
+
+.PageBody.dark-mode .NewsHeadline,
+.PageBody.dark-mode .NewsMasthead,
+.PageBody.dark-mode .NewspaperTitle,
+.PageBody.dark-mode .ArticleHeadline{
+    color:#f2ece0;
+}
+
+/* Secondary text */
+
+.PageBody.dark-mode .NewsAuthor,
+.PageBody.dark-mode .ArticleAuthor,
+.PageBody.dark-mode .NewsTagline,
+.PageBody.dark-mode .NewsEdition,
+.PageBody.dark-mode .NewsDate{
+    color:#b8b0a4;
+}
+
+/* Accent */
+
+.PageBody.dark-mode .NewsSection{
+    color:#d68a8a;
+}
+
+/* Borders */
+
+.PageBody.dark-mode .NewsBanner,
+.PageBody.dark-mode .NewsMasthead,
+.PageBody.dark-mode .NewspaperTitle{
+    border-color:#777066;
+}
+
+/* Body */
+
+.PageBody.dark-mode .NewsParagraph,
+.PageBody.dark-mode .ArticleParagraph{
+    color:#e6dfd1;
+}
+
+/* Location */
+
+.PageBody.dark-mode .NewsLocation,
+.PageBody.dark-mode .ArticleLocation{
+    color:#efe4ca;
 }
