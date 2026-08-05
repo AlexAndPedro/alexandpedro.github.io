@@ -388,6 +388,30 @@ ul {
   min-height: 100px;
   margin-bottom: 5px;
   text-align: center;
+
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+#FunFactStatement.fact-changing {
+  opacity: 0;
+  transform: scale(0.9);
+}
+
+#FunFactStatement.fact-showing {
+  opacity: 1;
+  transform: scale(1);
+}
+
+#FunFacts .button {
+  transition: transform 0.1s ease, box-shadow 0.1s ease;
+}
+
+#FunFacts .button:hover {
+  transform: translateY(-2px) rotate(-0.5deg);
+}
+
+#FunFacts .button:active {
+  transform: translateY(2px) rotate(0.5deg);
 }
 
 .button {

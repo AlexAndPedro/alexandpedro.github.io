@@ -138,6 +138,16 @@ function valueCallBack(longText){
 
 
 function randomFunFact() {
-   	var statement = longText[0][Math.floor(Math.random() * longText[0].length)];
-	document.getElementById("FunFactStatement").innerHTML = statement; 
+    const statement = longText[0][Math.floor(Math.random() * longText[0].length)];
+    const factBox = document.getElementById("FunFactStatement");
+
+    factBox.classList.remove("fact-showing");
+    factBox.classList.add("fact-changing");
+
+    setTimeout(() => {
+        factBox.innerHTML = "💡 " + statement;
+
+        factBox.classList.remove("fact-changing");
+        factBox.classList.add("fact-showing");
+    }, 200);
 }

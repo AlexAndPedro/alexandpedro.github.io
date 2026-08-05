@@ -197,9 +197,10 @@
 }
 
 
-/* Alternate tape angle */
+/* Alternate tape angle in a checkerboard pattern */
 
-.ArtistCard:nth-child(even)::before {
+.ArtistCard:nth-child(4n + 2)::before,
+.ArtistCard:nth-child(4n + 3)::before {
   transform: rotate(3deg);
 }
 
@@ -210,17 +211,16 @@
 
 @media (max-width: 650px) {
 
-
   .ArtistCard {
-  box-sizing: border-box;
-  max-width: 100%;
-}
+    box-sizing: border-box;
+    max-width: 100%;
+  }
 
-.ArtistInfo {
-  min-width: 0;
-  max-width: 100%;
-  overflow-wrap: anywhere;
-}
+  .ArtistInfo {
+    min-width: 0;
+    max-width: 100%;
+    overflow-wrap: anywhere;
+  }
 
   .ArtistCard,
   .ArtistCard:nth-child(even) {
@@ -260,7 +260,8 @@
   }
 
 
-  .ArtistCard:nth-child(even)::before {
+  .ArtistCard:nth-child(4n + 2)::before,
+  .ArtistCard:nth-child(4n + 3)::before {
     transform: translateX(-50%) rotate(3deg);
   }
 }
@@ -364,7 +365,7 @@
   letter-spacing: 0.12em;
 
   color: #0055aa;
-
+  padding-right: 3rem;
   margin-bottom: 0.4rem;
 }
 
@@ -478,8 +479,8 @@
 .CivilEngineeringStamp {
   position: absolute;
 
-  right: 1rem;
-  bottom: 1rem;
+  right: 0.5rem;
+  top: 0.5rem;
 
   padding: 0.15rem 0.4rem;
 
