@@ -1,43 +1,50 @@
+:root {
+  --color-background-dark-mode: #003264;
+  --color-surface-dark-mode: #001c39;
+  --color-text-dark-mode: #ffffff;
+  --color-border-dark-mode: #ffffff;
+}
+
 .gradient.dark-mode::before {
   filter: invert(1);
 }
 
 .PageBody.dark-mode {
 	background-color: #001c39;
-	color: white;
+	color: var(--color-text-dark-mode);
   }
 .gradient.dark-mode {
 	background-color: #003264;
-	color: white;
+	color: var(--color-text-dark-mode);
 }
 
 .PageBody.dark-mode .ComicTitle {
-	color: white;
+	color: var(--color-text-dark-mode);
 }
 
 .PageBody.dark-mode .Navigation {
-	border: 2px solid white;
+	border: 2px solid var(--color-border-dark-mode);
 }
 
 .PageContent.dark-mode a:link,
 .PageContent.dark-mode a:visited,
 .PageBanner.dark-mode a:link,
 .PageBanner.dark-mode a:visited {
-	color: white;
+	color: var(--color-text-dark-mode) ;
 }
 
 .PageBody.dark-mode .PageArticle {
     background-color: #003264;
-    color: white;
+    color: var(--color-text-dark-mode) ;
 }
 
 .PageBody.dark-mode a {
-    color: white;
+    color: var(--color-text-dark-mode) ;
 }
 
 .PageBody.dark-mode a:link,
 .PageBody.dark-mode a:visited {
-    color: white;
+    color: var(--color-text-dark-mode) ;
 }
 
 .PageBody.dark-mode .ArtistCard {

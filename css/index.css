@@ -13,19 +13,73 @@
   src: url("/fonts/Fredoka/static/Fredoka-Regular.ttf");
 }
 
+:root {
+  /* ===== Colors ===== */
+
+  --color-primary: #0055aa;
+  --color-primary-dark: #003264;
+  --color-primary-light: #99ccff;
+
+  --color-accent: #eba843;
+  --color-accent-light: #f2c582;
+
+  --color-background: #99ccff;
+  --color-surface: #ffffff;
+
+  --color-text: #000000;
+  --color-text-light: #ffffff;
+
+
+  --color-border: #003264;
+
+  /* ===== Typography ===== */
+
+  --font-body: "AnP", sans-serif;
+  --font-ui: "Fredoka", sans-serif;
+  --font-special: "MampulanFont", sans-serif;
+
+  --text-small: 0.8rem;
+  --text-body: 1rem;
+  --text-large: 1.2rem;
+  --text-title: 1.5rem;
+  --text-display: 2rem;
+
+
+  /* ===== Spacing ===== */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2rem;
+
+  /* ===== Margins ===== */
+  --margin-ui: 1rem;
+
+
+  /* ===== Borders ===== */
+
+  --border-thin: 1px;
+  --border-standard: 2px;
+  --border-heavy: 3px;
+
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 1rem;
+
+  --radius-container: 0.5rem;
+
+  /* ===== Effects ===== */
+
+  --shadow-dog: 0 0 12px black;
+}
+
 * {
   box-sizing: border-box;
 }
 
-/*Gradient of the background*/
-
-html {
-  font-size: 120%;
-}
-
 .gradient {
   position: relative;
-  background-color: #99ccff;
+  background-color: var(--color-background);
   min-height: 100vh;
 }
 
@@ -57,22 +111,16 @@ html {
 }
 
 body {
-  margin: 0;
-  padding: 0.5%;
-  /*must be in percentage*/
+  margin: 1rem;
   background-attachment: fixed;
-  /*if the background will move while scrolling or not*/
-  font-family: AnP;
+  font-family: var(--font-body);
 }
 
 
 
 .Page {
   width: 80%;
-  /* as much as possible, absolute not relative because			*/
   margin: 0 auto;
-  /* when browser resizes, everything in width changes*/
-  min-height: 100%;
   position: relative;
 }
 
@@ -84,10 +132,8 @@ body {
   }
 }
 
-/** Texts that are titles of articles */
-
 h1 {
-  margin: 1rem;
+  margin: var(--margin-ui);
   font-size: 1.5rem;
 }
 
@@ -104,7 +150,7 @@ in the CSS definition in order to be effective.
 
 a:link,
 a:visited {
-  color: black;
+  color: var(--color-text);
   text-decoration: none;
 }
 
@@ -133,13 +179,13 @@ ul {
   background-size: 100%;
   background-position: 0 85%;
   border-style: solid;
-  border-color: #003264;
-  border-radius: 1em;
+  border-color: var(--color-border);
+  border-radius: var(--radius-container);
 }
 
 .PageBody {
-  background-color: white;
-  color: black;
+  background-color: var(--color-surface);
+  color: var(--color-text);
   overflow: auto;
   min-height: 800px;
 }
@@ -154,7 +200,7 @@ ul {
   float: right;
   min-width: 5%;
   max-width: 30%;
-  color: #fff;
+  color: var(--color-text-light);
 }
 
 .PageHeaderSub {
@@ -164,11 +210,11 @@ ul {
 }
 
 .MainMenu {
-  font-family: "Fredoka";
+  font-family: var(--font-ui);
   font-weight: bold;
   clear: both;
-  margin: 1rem 0 0 0;
-  background-color: #0055aa;
+  margin: var(--margin-ui) 0 0 0;
+  background-color: var(--color-primary);
   text-align: center;
   overflow: hidden;
   font-size: 1em;
@@ -179,22 +225,21 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #0e4b6800;
 }
 
 .MainMenu li {
-  padding: 10px 5px;
+  padding: 0.5rem 0.5rem;
   display: inline-block;
-  background-color: #0055aa;
+  background-color: var(--color-primary);
   font-size: 1.1rem;
   text-align: center;
 }
 
 .MainMenu a {
-  color: #fff;
+  color: var(--color-text-light);
   text-align: center;
   text-decoration: none;
-  padding: 0px auto;
+  padding: 0px;
   /* variable width */
 }
 
@@ -213,7 +258,7 @@ ul {
 
 .AnP_Link {
   width: 660px;
-  height: 337px;
+  height: auto;
   background: url("/images/Alex_And_Pedro_Banner_Fade.png") no-repeat;
 }
 
@@ -231,31 +276,30 @@ ul {
   background: url("/images/Statics_Banner.png") no-repeat;
 }
 
-#temperature_date {
-  font-family: "Fredoka";
+#temperature_date,
+#temperature_location,
+#temperature_value {
+  font-family: var(--font-ui);
 }
 
-#temperature_location {
-  font-family: "Fredoka";
+
+#temperature_location,
+#temperature_value {
   text-align: center;
   opacity: 1;
   transition: opacity 1s ease-in-out;
 }
 
-#temperature_location.fade {
+
+
+#temperature_location.fade
+#temperature_value.fade {
     opacity: 0;
 }
 
 #temperature_value {
-  font-family: "Fredoka";
-  text-align: center;
   font-size: 2rem;
-  opacity: 1;
-  transition: opacity 1s ease-in-out;
-}
-
-#temperature_value.fade {
-    opacity: 0;
+  
 }
 
 
@@ -308,7 +352,7 @@ ul {
   margin: 5px;
   font-size: 150%;
   font-weight: bold;
-  color: #0055aa;
+  color: var(--color-primary);
 }
 
 .ComicDescription,
@@ -324,47 +368,43 @@ ul {
 }
 
 .PageSection {
-  font-family: "Fredoka";
+  font-family: var(--font-ui);
   font-size: 1.2rem;
-  color: white;
+  color: var(--color-text-light);
   font-weight: bold;
   clear: both;
   margin: 0.5rem;
   padding: 0.5rem 1rem;
-  border-top: 3px solid #003264;
-  border-radius: 0.5em 0.5em 0 0;
-  background-color: #0055aa;
+  border-top: 0.5rem solid var(--color-border);
+  border-radius: var(--radius-container);
+  background-color: var(--color-primary);
 }
 
 .BlueContainer,
 .infobox,
 .Navigation {
-  background-color: #0055aa;
-  border: 3px solid #003264;
-  color: white;
+  background-color: var(--color-primary);
+  border: 3px solid var(--color-border);
+  color: var(--color-text-light);
   min-height: auto;
   padding: 0.25rem;
   margin: 0.5rem;
   font-size: 1rem;
   overflow: hidden;
-  border-radius: 0.5em;
+  border-radius: var(--radius-container);
 }
 
 .Navigation {
   font-weight: bold;
-  border-radius: 1em;
   margin: auto;
   width: 90%;
   text-align: center;
-  min-height: 0;
 }
 
 .BlueContainer.GalleryInfo {
   border: 2px solid #042c41;
-  color: white;
   padding: 10px;
   display: inline-block;
-  
   width: auto;
   transition: all 2s;
 }
@@ -415,11 +455,10 @@ ul {
 }
 
 .button {
-  border: 0;
   background: inherit;
   border: 2px solid white;
   border-radius: 4px;
-  color: #fff;
+  color: var(--color-text-light);
   cursor: pointer;
   font: inherit;
   margin: 5px;
@@ -428,13 +467,13 @@ ul {
 }
 
 button:hover {
-  color: #0055aa;
+  color: var(--color-primary);
   background-color: white;
   transition: all 0.1s linear;
 }
 
 button:active {
-  color: #0055aa;
+  color: var(--color-primary);
   background-color: #99ccff;
   border: 2px solid #99ccff;
   transition: none;
@@ -485,7 +524,6 @@ button:active {
 .comicarchiveframe {
   background: #fff;
   border: 2px solid #000;
-  opacity: 0.99;
   padding: 5px;
 }
 
@@ -512,12 +550,12 @@ button:active {
 }
 
 footer {
-  font-family: "Fredoka";
+  font-family: var(--font-ui);
   padding: 1em;
   width: auto;
-  background-color: #0055aa;
+  background-color: var(--color-primary);
   border-radius: 0 0 1em 1em;
-  color: white;
+  color: var(--color-text-light);
   text-align: center;
 }
 
@@ -561,7 +599,7 @@ footer {
   padding: 10px;
   transform: rotate(-3deg);
   background: white;
-  border: 5px solid #003264;
+  border: 5px solid var(--color-border);
   font-variant-ligatures: none;
   box-shadow: 0px 0px 12px black;
 }

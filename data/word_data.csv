@@ -946,6 +946,7 @@ method|rounfait|rounfait|noun|noun|notbat|||From <i>roun</i> (&quot;way&quot;) +
 data|deita|deita|noun|noun|notbat|||From Human Language <i>data</i>||||||5|945|||||||||||||
 order|chesmou|cesmou|noun|noun|notbat|(1) ordering food||From <i>ches</i> (&quot;&quot;) + <i>mou</i> (&quot;&quot;)||||||6|946|||||||||||||
 order|jin|jin|noun|noun|notbat|(2) the arrangement or sequence of objects||From Old Mampulan||||||3|947|||||||||||||
+order|sunou|sunou|noun|noun|notbat||||||||命令|5||||||||||||||
 food|kainbus|kainbus|noun|noun|notbat|||From <i>kainun</i> (&quot;eat&quot;) + <i>bus</i> (&quot;thing&quot;)||||||7|948|||||||||||||
 understanding|urpiu|urpiu|noun|noun|notbat|||From <i>ur</i> (&quot;logic&quot;) + <i>piu</i> (&quot;explanation&quot;)||||||5|949|||||||||||||
 arrival|gargai|gargai|noun|noun|notbat|(formal)||From <i>gar</i> (&quot;arrival&quot;) + <i>gai</i> (&quot;reach&quot;)||||||6|950|||||||||||||
@@ -2415,7 +2416,7 @@ ticket|tiket|tiket|noun|noun|notbat|||From Human Language <i>ticket</i> (&quot;t
 fury|murton|murton|noun|noun|notbat|||From Old Mampulan||||||6|2414|||||||||||||
 project|tren|tren|noun|noun|notbat|||From Old Mampulan||||||4|2415|||||||||||||
 essay|trest|trest|noun|noun|notbat|||From Old Mampulan||||||5|2416|||||||||||||
-remove|blipun|blipun|verb|un verb|un-usbat|||From Old Mampulan|||||Tanggal|6|2417|||||||||||||
+remove|sadun|sadun|verb|un verb|un-usbat|||From Old Mampulan||||||5|2417|||||||||||||
 worth|ent|ent|noun|noun|notbat|||From Old Mampulan||||||3|2418|||||||||||||
 drag|lata|lata|noun|noun|notbat|||From Old Mampulan||||||4|2419|||||||||||||
 raw|gorung|goruq|adjective|ng adjective|q-sulaikibat|||From Old Mampulan||||||5|2420|||||||||||||
@@ -2568,7 +2569,7 @@ repeat|saiyarun|saiyarun|verb|run verb|run-usbat|do again|wid yarun|From <i>sai-
 repeat|saisabun|saisabun|verb|run verb|run-usbat|say again|wid sabun|From <i>sai-</i> (&quot;again&quot;) + <i>sabun</i> (&quot;say&quot;)||||||8|2567|||||||||||||
 redo|saiyarun|saiyarun|verb|run verb|run-usbat|do again|wid yarun|From <i>sai-</i> (&quot;again&quot;) + <i>yarun</i> (&quot;do&quot;)||||repeat||8|2568|||||||||||||
 pick|kip|kip|noun|noun|notbat|||From Old Mampulan||||||3|2569|||||||||||||
-cancel|hetblipun|hetblipun|verb|un verb|un-usbat|||mark + remove||||||9|2570|||||||||||||
+cancel|hetsadun|hetsadun|verb|un verb|un-usbat|||mark + remove||||||8|2570|||||||||||||
 strike|ikū|iku-|noun|noun|notbat|||From Old Mampulan|||||coup|4|2571|||||||||||||
 conflict|fe'ikū|fe'iku-|noun|noun|notbat|||fe + strike||||||7|2572|||||||||||||
 victim|hīlaunwan|hi-launwan|noun|noun|notbat|||hī + laun + wan|||||被害者|10|2573|||||||||||||
