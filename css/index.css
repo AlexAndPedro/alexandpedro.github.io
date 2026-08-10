@@ -46,6 +46,7 @@
 
 
   /* ===== Spacing ===== */
+  --space-standard: 1rem;
   --space-xs: 0.25rem;
   --space-sm: 0.5rem;
   --space-md: 1rem;
@@ -66,6 +67,7 @@
   --radius-md: 0.5rem;
   --radius-lg: 1rem;
 
+  --border-container: 3px;
   --radius-container: 0.5rem;
 
   /* ===== Effects ===== */
@@ -134,7 +136,7 @@ body {
 
 h1 {
   margin: var(--margin-ui);
-  font-size: 1.5rem;
+  font-size: var(--text-title);
 }
 
 img {
@@ -178,8 +180,7 @@ ul {
   background-image: url("/images/assets/page_banner_low_res.png");
   background-size: 100%;
   background-position: 0 85%;
-  border-style: solid;
-  border-color: var(--color-border);
+  border: var(--border-container) solid var(--color-border);
   border-radius: var(--radius-container);
 }
 
@@ -292,13 +293,13 @@ ul {
 
 
 
-#temperature_location.fade
+#temperature_location.fade,
 #temperature_value.fade {
     opacity: 0;
 }
 
 #temperature_value {
-  font-size: 2rem;
+  font-size: var(--text-display);
   
 }
 
@@ -339,7 +340,7 @@ ul {
   width: auto;
   display: inline-block;
   font-weight: inherit;
-  font-size: 1.2rem;
+  font-size: var(--text-title);
   margin: auto 1.1em;
 }
 
@@ -386,7 +387,6 @@ ul {
   background-color: var(--color-primary);
   border: 3px solid var(--color-border);
   color: var(--color-text-light);
-  min-height: auto;
   padding: 0.25rem;
   margin: 0.5rem;
   font-size: 1rem;
@@ -395,6 +395,7 @@ ul {
 }
 
 .Navigation {
+  font-family: var(--font-ui);
   font-weight: bold;
   margin: auto;
   width: 90%;
@@ -405,7 +406,6 @@ ul {
   border: 2px solid #042c41;
   padding: 10px;
   display: inline-block;
-  width: auto;
   transition: all 2s;
 }
 
@@ -456,7 +456,8 @@ ul {
 
 .button {
   background: inherit;
-  border: 2px solid white;
+  border: var(--border-container) solid var(--color-border);
+  /* border: 2px solid white; */
   border-radius: 4px;
   color: var(--color-text-light);
   cursor: pointer;
@@ -475,7 +476,7 @@ button:hover {
 button:active {
   color: var(--color-primary);
   background-color: #99ccff;
-  border: 2px solid #99ccff;
+  border: var(--border-container) solid var(--color-primary-light);
   transition: none;
 }
 
@@ -497,7 +498,7 @@ button:active {
   width: 8rem;
   height: auto;
   float: right;
-  margin: 1rem;
+  margin: var(--margin-ui);
 }
 
 /*FOR archive.html*/
@@ -599,7 +600,7 @@ footer {
   padding: 10px;
   transform: rotate(-3deg);
   background: white;
-  border: 5px solid var(--color-border);
+  border: var(--border-container) solid var(--color-border);
   font-variant-ligatures: none;
   box-shadow: 0px 0px 12px black;
 }

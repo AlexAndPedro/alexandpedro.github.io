@@ -19,19 +19,30 @@ function showHide() {
 	}
 }
 
-$(document).ready(function(){
-    
+// Temperature Info
+$(document).ready(function() {
     $('.Header').load("/html/header.html");
+
     $('.SideBars').load("/html/sideBar.html", function() {
         // Sidebar has finished loading
         loadTemperatureData();
     });
+
     $('Footer').load("/html/footer.html");
 });
 
-const provinces = ["Pangilan", "Asolan", "Dapangisangado", "Lobolan", "Horibama"];
+
+const provinces = [
+    "Pangilan",
+    "Asolan",
+    "Dapangisangado",
+    "Lobolan",
+    "Horibama"
+];
+
 let currentProvinceIndex = 0;
 let temperatureData = [];
+
 
 async function displayTodayTemperature() {
     const today = new Date();
@@ -48,63 +59,64 @@ async function displayTodayTemperature() {
         item.day === day
     );
 
-	const dateOutput = document.getElementById("temperature_date");
-	const locationOutput = document.getElementById("temperature_location");
-	const tempOutput = document.getElementById("temperature_value");
+    const dateOutput = document.getElementById("temperature_date");
+    const locationOutput = document.getElementById("temperature_location");
+    const tempOutput = document.getElementById("temperature_value");
 
-// Date does not fade
-dateOutput.innerHTML = `
-    ${year} ${month} ${day}
-`;
 
-// Temperature fades
-locationOutput.classList.add("fade");
-tempOutput.classList.add("fade");
+    // Date does not fade
+    dateOutput.innerHTML = `${year} ${month} ${day}`;
 
-setTimeout(() => {
 
+    // Fade out the location and temperature
+    locationOutput.classList.add("fade");
+    tempOutput.classList.add("fade");
+
+
+    // Wait for the fade-out to finish
+    await new Promise(resolve => setTimeout(resolve, 1000));
+
+
+    // Update the information while it is invisible
     if (record) {
-        locationOutput.innerHTML = `
-            ${province}
-        `;        
-		
-		tempOutput.innerHTML = `
-            ${record.temperature_celsius}&deg;C
-        `;
+        locationOutput.innerHTML = province;
+        tempOutput.innerHTML = `${record.temperature_celsius}&deg;C`;
     } else {
-		locationOutput.innerHTML = `
-            ${province}
-        `;      
-        tempOutput.innerHTML = `
-            ${Math.round(Math.random() * 30)}&deg;C
-        `;
+        locationOutput.innerHTML = province;
+        tempOutput.innerHTML = `${Math.round(Math.random() * 30)}&deg;C`;
     }
 
-	locationOutput.classList.remove("fade");
+
+    // Fade the new information back in
+    locationOutput.classList.remove("fade");
     tempOutput.classList.remove("fade");
 
-}, 5000);
 
-
-    // Move to next province
+    // Move to the next province
     currentProvinceIndex++;
 
-    // Loop back to first province
+    // Loop back to the first province
     if (currentProvinceIndex >= provinces.length) {
         currentProvinceIndex = 0;
     }
 }
 
+
 async function loadTemperatureData() {
     const response = await fetch("/data/json/mampulan_temperature.json");
+
     temperatureData = await response.json();
 
-    // Display immediately
-    displayTodayTemperature();
 
-    // Change province every 5 seconds
-    setInterval(displayTodayTemperature, 5000);
+    // Display immediately
+    while (true) {
+        await displayTodayTemperature();
+
+        // Keep the current province displayed for 5 seconds
+        await new Promise(resolve => setTimeout(resolve, 5000));
+    }
 }
+
 // Fun Fact
 
 var path = "/data/fun_fact.csv";

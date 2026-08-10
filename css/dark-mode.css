@@ -34,7 +34,6 @@
 }
 
 .PageBody.dark-mode .PageArticle {
-    background-color: #003264;
     color: var(--color-text-dark-mode) ;
 }
 
@@ -49,4 +48,93 @@
 
 .PageBody.dark-mode .ArtistCard {
 	background-color:#001c39;
+}
+
+.PageBody.dark-mode #ArchivePage .archive-title a:hover {
+    background: #0d3253;
+    color: #0055aa;
+    text-decoration: none;
+}
+
+
+
+/* =========================
+   COMIC ARCHIVE - DARK MODE
+   ========================= */
+
+.PageBody.dark-mode .PageContent h1 {
+    color: var(--color-text-dark-mode);
+    background-color: var(--color-surface-dark-mode);
+
+    border-color: var(--color-border-dark-mode);
+
+    /* Replace the light gray shadow */
+    box-shadow: 5px 5px 0 #0055aa;
+}
+
+
+/* Archive table */
+.PageBody.dark-mode .PageContent table {
+    background-color: transparent;
+    border-color: var(--color-border-dark-mode);
+
+    box-shadow: 5px 5px 0 #0055aa;
+}
+
+
+/* Archive rows */
+.PageBody.dark-mode .PageContent table tr {
+    background-color: var(--color-surface-dark-mode);
+}
+
+
+/* Dashed dividers */
+.PageBody.dark-mode .PageContent table tr + tr td {
+    border-top-color: #42627e;
+}
+
+
+/* Dates */
+.PageBody.dark-mode .PageContent td.archive-date {
+    color: #b8c7d6;
+    border-right-color: var(--color-border-dark-mode);
+}
+
+
+/* Comic titles */
+.PageBody.dark-mode .PageContent td.archive-title a,
+.PageBody.dark-mode .PageContent td.archive-title a:link,
+.PageBody.dark-mode .PageContent td.archive-title a:visited {
+    color: var(--color-text-dark-mode);
+}
+
+
+/* Hover */
+.PageBody.dark-mode .PageContent table tr:hover {
+    background-color: #0d3253;
+
+    box-shadow: 6px 6px 0 #0055aa;
+}
+
+
+/* Hover link */
+.PageBody.dark-mode .PageContent table tr:hover .archive-title a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+
+/* =========================
+   MOBILE
+   ========================= */
+
+@media (max-width: 600px) {
+
+    .PageBody.dark-mode .PageContent h1 {
+        box-shadow: 3px 3px 0 #0055aa;
+    }
+
+    .PageBody.dark-mode .PageContent table {
+        box-shadow: 3px 3px 0 #0055aa;
+    }
 }
