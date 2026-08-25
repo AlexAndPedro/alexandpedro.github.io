@@ -177,9 +177,16 @@ ul {
 
 .PageBanner {
   overflow: hidden;
-  background-image: url("/images/assets/page_banner_low_res.png");
+  background-image:
+    linear-gradient(
+      to right,
+      var(--color-primary) 0%,
+      color-mix(in srgb, var(--color-primary) 50%, transparent) 50%,
+      transparent 100%
+    ),
+    url("/images/assets/page_banner.png");
   background-size: 100%;
-  background-position: 0 85%;
+  background-position: 0 80%;
   border: var(--border-container) solid var(--color-border);
   border-radius: var(--radius-container);
 }

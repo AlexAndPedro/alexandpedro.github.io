@@ -78,7 +78,7 @@ h1 {
 .form__input{
     font-family: "AnP";
     flex:1;
-    padding:0 1rem;
+    padding:0.5rem 1rem;
     font-size:1.1rem;
     border:none;
 }
