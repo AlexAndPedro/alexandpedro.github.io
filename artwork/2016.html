@@ -38,6 +38,15 @@ All images must have no hyphens.-->
 		
 		</script>
 		
+<script type="text/javascript">
+    lightGallery(document.getElementById('lightgallery'), {
+        plugins: [lgZoom, lgThumbnail],
+        speed: 500,
+    });
+		</script>
+		<link type="text/css" rel="stylesheet" href="../css/lightgallery-bundle.css" />
+
+
 		<link rel="icon" href="/images/web_icon.png">
 </head>
 
@@ -66,27 +75,22 @@ All images must have no hyphens.-->
 					2016
 				</h1>
 
-									<div class = "Navigation">
-						<!-- Since nav-First refers to first comic, don't change nav-First.-->
-					
-						<div class = "nav-Previous">
-							<a href = "2015.html">
-								< 2015
-							</a>
-						</div>
-						
-						<div class = "nav-Next">
-							<a href = "2017.html">
-								2017 >
-							</a>
-						</div>						
-					</div>
+								<div class="Navigation" id="yearNavigation"></div>
+				<script src="../js/yearNavigation.js"></script>
 
-				<div class = "gallery">
-					
+				<button class="button" onclick="showHide()" type="button" id = "ArtGalleryInfoButton">Show Info</button>
+				<br>
+				<div class = "BlueContainer" id = "ArtGalleryInfo" style = "display: none;">
+					This was the time I got a tablet to draw! I also rely on MS Paint during that time.
 				</div>
-				<img src = "/images/assets/page_under_construction.png">			
-				
+
+
+				<div class="gallery" id="gallery"></div>
+<script
+    type="module"
+    src="../js/jsonReader.js">
+</script>
+
 				<a href = "../art.html"><h1>Return to Art Page</h1></a>
 				
 		

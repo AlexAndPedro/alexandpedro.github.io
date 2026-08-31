@@ -64,8 +64,6 @@
 
 .PageBody.dark-mode .PageContent h1 {
     color: var(--color-text-dark-mode);
-    background-color: var(--color-surface-dark-mode);
-
     border-color: var(--color-border-dark-mode);
 
     /* Replace the light gray shadow */

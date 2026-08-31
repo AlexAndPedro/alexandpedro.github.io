@@ -23,9 +23,7 @@ All images must have no hyphens.-->
 <meta name="keywords" content="alex, pedro, alex and pedro, alexandpedro, alex paws, pedro perez, webcomic, comic, online comic, comic strip, comic, onlinecomic, online-comic, web comic, web-comic, dog, ertle, pangil, wolf, turtle, box turtle">
 <title> Alex and Pedro | Art! </title>
 		<link rel = "stylesheet" type = "text/css" href = "../css/index.css">
-		<link rel = "stylesheet" type = "text/css" href = "../css/lightbox.min.css">
 		<script src="../js/jquery-3.5.1.min.js"></script>
-		<script src="../js/lightbox-plus-jquery.min.js"></script>
 		<script src = "../js/index.js"></script>
 		<script>
 					$(document).ready(function(){
@@ -37,6 +35,15 @@ All images must have no hyphens.-->
 		
 		
 		</script>
+
+				<script type="text/javascript">
+    lightGallery(document.getElementById('lightgallery'), {
+        plugins: [lgZoom, lgThumbnail],
+        speed: 500,
+    });
+		</script>
+		<link type="text/css" rel="stylesheet" href="../css/lightgallery-bundle.css" />
+
 		
 		<link rel="icon" href="/images/web_icon.png">
 </head>
@@ -60,26 +67,13 @@ All images must have no hyphens.-->
 				<div class = "PageContent">
 									
 					
-				<!-- 2024 -->
 				<a href = "../art.html"><h1>Return to Art Page</h1></a>
 				<h1>
 					2025
 				</h1>
 
-													<div class = "Navigation">
-					
-						<div class = "nav-Previous">
-							<a href = "2024.html">
-								< 2024
-							</a>
-						</div>
-						
-						<!-- <div class = "nav-Next">
-							<a href = "2026.html">
-								2026 >
-							</a>
-						</div>						 -->
-					</div>
+				<div class="Navigation" id="yearNavigation"></div>
+				<script src="../js/yearNavigation.js"></script>
 					<br>
 
 				
@@ -87,19 +81,20 @@ All images must have no hyphens.-->
 					<button class="button" onclick="showHide()" type="button" id = "ArtGalleryInfoButton">Show Info</button>
 					<br>
 					<div id = "ArtGalleryInfo" style = "display: none;">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce blandit ipsum at quam aliquet, id cursus sem elementum. Integer auctor et tortor in pretium. Fusce vel pretium nunc. Maecenas ultricies arcu at diam venenatis, eu sagittis massa condimentum. Mauris dapibus laoreet diam, eget pulvinar sapien sollicitudin sed. Quisque ac nunc quis metus tempor tincidunt eu sed orci. Nunc quis malesuada augue, vel cursus arcu. Nulla volutpat, tellus id iaculis vehicula, metus risus mollis dui, a tristique ligula ipsum at leo. Nunc vitae nunc nec augue bibendum euismod. Phasellus tincidunt neque eget tortor placerat fermentum. Morbi efficitur magna sed orci pharetra egestas.
+						Made Alexander during this time. I know people had made Alex basically my "fursona" but to be honest,
+						Alex is more like a part of me, just like Pedro is a part of me. If you want me me, I want Alexander to
+						be the one to represent that.		
 					</div>
 				</div>
 
 
 
-				<div class = "gallery">
-					<a href = "../images/artwork/2025/" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2025/thumbnail/"></a>	
+				<div class="gallery" id="gallery"></div>
+<script
+    type="module"
+    src="../js/jsonReader.js">
+</script>
 
-
-					
-					<!-- <a href = "../images/artwork/2023/" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2023/thumbnail/"></a>
-				-->
 					</div>				
 				<a href = "../art.html"><h1>Return to Art Page</h1></a>
 				

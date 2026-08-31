@@ -37,7 +37,16 @@ All images must have no hyphens.-->
 		
 		
 		</script>
-		
+
+<script type="text/javascript">
+    lightGallery(document.getElementById('lightgallery'), {
+        plugins: [lgZoom, lgThumbnail, lgShare],
+        speed: 500,
+    });
+		</script>
+		<link type="text/css" rel="stylesheet" href="../css/lightgallery-bundle.css" />
+
+
 		<link rel="icon" href="/images/web_icon.png">
 </head>
 
@@ -66,33 +75,26 @@ All images must have no hyphens.-->
 					2023
 				</h1>
 
-					<div class = "Navigation">
-						<!-- Since nav-First refers to first comic, don't change nav-First.-->
-					
-						<div class = "nav-Previous">
-							<a href = "2022.html">
-								< 2022
-							</a>
-						</div>
-						
-						<div class = "nav-Next">
-							<a href = "2024.html">
-								2024 >
-							</a>
-						</div>						
-					</div>
+				<div class="Navigation" id="yearNavigation"></div>
+				<script src="../js/yearNavigation.js"></script>
 
 
 				<div class = "BlueContainer GalleryInfo">
 					<button class="button" onclick="showHide()" type="button" id = "ArtGalleryInfoButton">Show Info</button>
 					<br>
 					<div id = "ArtGalleryInfo" style = "display: none;">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce blandit ipsum at quam aliquet, id cursus sem elementum. Integer auctor et tortor in pretium. Fusce vel pretium nunc. Maecenas ultricies arcu at diam venenatis, eu sagittis massa condimentum. Mauris dapibus laoreet diam, eget pulvinar sapien sollicitudin sed. Quisque ac nunc quis metus tempor tincidunt eu sed orci. Nunc quis malesuada augue, vel cursus arcu. Nulla volutpat, tellus id iaculis vehicula, metus risus mollis dui, a tristique ligula ipsum at leo. Nunc vitae nunc nec augue bibendum euismod. Phasellus tincidunt neque eget tortor placerat fermentum. Morbi efficitur magna sed orci pharetra egestas.
+						Wolf era, I think. I drew more wolf than others. Howllord Hamwin is from "Howard Hamlin" from Better Call Saul.
+						Also made creative wolf names. I wanted their names to be unique. I actually have a list of "wolfy" names.
 					</div>
 				</div>
 
+				<div class="gallery" id="gallery"></div>
+<script
+    type="module"
+    src="../js/jsonReader.js">
+</script>
 
-
+<!-- 
 				<div class = "gallery">
 					<a href = "../images/artwork/2023/A Long Journey Ahead.png" data-lightbox = "mygallery" data-title = "6/5"><img src = "../images/artwork/2023/thumbnail/A Long Journey Ahead.png"></a>	
 					<a href = "../images/artwork/2023/alex grimace shake.png" data-lightbox = "mygallery" data-title = "6/29"><img src = "../images/artwork/2023/thumbnail/alex grimace shake.png"></a>
@@ -120,7 +122,7 @@ All images must have no hyphens.-->
 					<a href = "../images/artwork/2023/wolf drinking water final.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2023/thumbnail/wolf drinking water final.png"></a>
 					<a href = "../images/artwork/2023/big wolf.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2023/thumbnail/big wolf.png"></a>
 					<a href = "../images/artwork/2023/christmas 2023 - postcard.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2023/thumbnail/christmas 2023 - postcard.png"></a>
-
+ -->
 
 					<!-- <a href = "../images/artwork/2023/" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2023/thumbnail/"></a>
 				-->

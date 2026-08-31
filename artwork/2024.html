@@ -34,10 +34,16 @@ All images must have no hyphens.-->
 			   			   	$('.SideBars').load("/html/sideBar.html");
 	        	$('Footer').load("/html/footer.html");
 			});
-		
-		
 		</script>
 		
+		<script type="text/javascript">
+    lightGallery(document.getElementById('lightgallery'), {
+        plugins: [lgZoom, lgThumbnail],
+        speed: 500,
+    });
+		</script>
+		<link type="text/css" rel="stylesheet" href="../css/lightgallery-bundle.css" />
+
 		<link rel="icon" href="/images/web_icon.png">
 </head>
 
@@ -66,20 +72,8 @@ All images must have no hyphens.-->
 					2024
 				</h1>
 
-													<div class = "Navigation">
-					
-						<div class = "nav-Previous">
-							<a href = "2023.html">
-								< 2023
-							</a>
-						</div>
-						
-						<div class = "nav-Next">
-							<a href = "2025.html">
-								2025 >
-							</a>
-						</div>
-					</div>
+				<div class="Navigation" id="yearNavigation"></div>
+				<script src="../js/yearNavigation.js"></script>
 					<br>
 
 				
@@ -87,13 +81,18 @@ All images must have no hyphens.-->
 					<button class="button" onclick="showHide()" type="button" id = "ArtGalleryInfoButton">Show Info</button>
 					<br>
 					<div id = "ArtGalleryInfo" style = "display: none;">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce blandit ipsum at quam aliquet, id cursus sem elementum. Integer auctor et tortor in pretium. Fusce vel pretium nunc. Maecenas ultricies arcu at diam venenatis, eu sagittis massa condimentum. Mauris dapibus laoreet diam, eget pulvinar sapien sollicitudin sed. Quisque ac nunc quis metus tempor tincidunt eu sed orci. Nunc quis malesuada augue, vel cursus arcu. Nulla volutpat, tellus id iaculis vehicula, metus risus mollis dui, a tristique ligula ipsum at leo. Nunc vitae nunc nec augue bibendum euismod. Phasellus tincidunt neque eget tortor placerat fermentum. Morbi efficitur magna sed orci pharetra egestas.
+						Ah yes... Me trying to do different things. Pixel art, more dramatic poses, more stylized drawings. It's nice.
 					</div>
 				</div>
 
+				<div class="gallery" id="gallery"></div>
+<script
+    type="module"
+    src="../js/jsonReader.js">
+</script>
 
 
-				<div class = "gallery">
+				<!-- <div class = "gallery">
 					<a href = "../images/artwork/2024/20240218_011822.jpg" data-lightbox = "mygallery" data-title = "2/18"><img src = "../images/artwork/2024/thumbnail/20240218_011822.jpg"></a>	
 					<a href = "../images/artwork/2024/20240218_011831.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2024/thumbnail/20240218_011831.jpg"></a>
 					<a href = "../images/artwork/2024/20240328_134903.jpg" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2024/thumbnail/20240328_134903.jpg"></a>
@@ -127,7 +126,7 @@ All images must have no hyphens.-->
 					<a href = "../images/artwork/2024/paperino pangil COVER.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2024/thumbnail/paperino pangil COVER.png"></a>
 					<a href = "../images/artwork/2024/Pixel art pangil alex.PNG" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2024/thumbnail/Pixel art pangil alex.PNG"></a>
 					<a href = "../images/artwork/2024/Wizard_Kobold Dreshlyr.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2024/thumbnail/Wizard_Kobold Dreshlyr.png"></a>
-					<a href = "../images/artwork/2024/woooo_ghost.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2024/thumbnail/woooo_ghost.png"></a>
+					<a href = "../images/artwork/2024/woooo_ghost.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2024/thumbnail/woooo_ghost.png"></a> -->
 
 
 					

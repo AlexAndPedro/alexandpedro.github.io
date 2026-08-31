@@ -37,6 +37,13 @@ All images must have no hyphens.-->
 		
 		
 		</script>
+<script type="text/javascript">
+    lightGallery(document.getElementById('lightgallery'), {
+        plugins: [lgZoom, lgThumbnail],
+        speed: 500,
+    });
+		</script>
+		<link type="text/css" rel="stylesheet" href="../css/lightgallery-bundle.css" />
 		
 		<link rel="icon" href="/images/web_icon.png">
 </head>
@@ -66,21 +73,8 @@ All images must have no hyphens.-->
 					2015
 				</h1>
 
-									<div class = "Navigation">
-						<!-- Since nav-First refers to first comic, don't change nav-First.-->
-					
-						<div class = "nav-Previous">
-							<a href = "2014.html">
-								< 2014
-							</a>
-						</div>
-						
-						<div class = "nav-Next">
-							<a href = "2016.html">
-								2016 >
-							</a>
-						</div>						
-					</div>
+				<div class="Navigation" id="yearNavigation"></div>
+				<script src="../js/yearNavigation.js"></script>
 
 				<button class="button" onclick="showHide()" type="button" id = "ArtGalleryInfoButton">Show Info</button>
 				<br>
@@ -88,7 +82,12 @@ All images must have no hyphens.-->
 					This was the time I got a tablet to draw! Also, I've been uploading on Facebook.
 				</div>
 
-				<div class = "gallery">
+				<div class="gallery" id="gallery"></div>
+<script
+    type="module"
+    src="../js/jsonReader.js">
+</script>
+				<!-- <div class = "gallery">
 					<a href = "../images/artwork/2015/Sketch182101241.png" data-lightbox = "mygallery" data-title = "8/17"><img src = "../images/artwork/2015/thumbnail/Sketch182101241.png"></a>
 					<a href = "../images/artwork/2015/Sketch296231651.png" data-lightbox = "mygallery" data-title = "8/15"><img src = "../images/artwork/2015/thumbnail/Sketch296231651.png"></a>
 					<a href = "../images/artwork/2015/Sketch156152147.png" data-lightbox = "mygallery" data-title = "8/15"><img src = "../images/artwork/2015/thumbnail/Sketch156152147.png"></a>
@@ -105,7 +104,7 @@ All images must have no hyphens.-->
 					<a href = "../images/artwork/2015/Sketch134174645.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2015/thumbnail/Sketch134174645.png"></a>
 					<a href = "../images/artwork/2015/thinking_alex.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2015/thumbnail/thinking_alex.png"></a>
 					
-				</div>	
+				</div>	 -->
 				
 				<a href = "../art.html"><h1>Return to Art Page</h1></a>
 				

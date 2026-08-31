@@ -38,6 +38,15 @@ All images must have no hyphens.-->
 		
 		</script>
 		
+<script type="text/javascript">
+    lightGallery(document.getElementById('lightgallery'), {
+        plugins: [lgZoom, lgThumbnail],
+        speed: 500,
+    });
+		</script>
+		<link type="text/css" rel="stylesheet" href="../css/lightgallery-bundle.css" />
+
+
 		<link rel="icon" href="/images/web_icon.png">
 </head>
 
@@ -66,21 +75,16 @@ All images must have no hyphens.-->
 					2021
 				</h1>
 
-									<div class = "Navigation">					
-						<div class = "nav-Previous">
-							<a href = "2020.html">
-								< 2020
-							</a>
-						</div>
-						
-						<div class = "nav-Next">
-							<a href = "2022.html">
-								2022 >
-							</a>
-						</div>						
-					</div>
+				<div class="Navigation" id="yearNavigation"></div>
+				<script src="../js/yearNavigation.js"></script>
 					<br>
-				<div class = "gallery">
+
+									<div class="gallery" id="gallery"></div>
+<script
+    type="module"
+    src="../js/jsonReader.js">
+</script>
+				<!-- <div class = "gallery">
 					
 					<a href = "../images/artwork/2021/fancy_wolf.jpg" data-lightbox = "mygallery" data-title = "12/31"><img src = "../images/artwork/2021/thumbnail/fancy_wolf.jpg"></a>
 					<a href = "../images/artwork/2021/Winter_Art_Exchange_2021.png" data-lightbox = "mygallery" data-title = "Yes Awoo 12/25"><img src = "../images/artwork/2021/thumbnail/Winter_Art_Exchange_2021.png"></a>
@@ -130,7 +134,7 @@ All images must have no hyphens.-->
 					<a href = "../images/artwork/2021/alex how are you.png" data-lightbox = "mygallery" data-title = "1/1"><img src = "../images/artwork/2021/thumbnail/alex how are you.png"></a>
 
 				</div>
-				
+				 -->
 				<a href = "../art.html"><h1>Return to Art Page</h1></a>
 				
 

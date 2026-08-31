@@ -37,7 +37,16 @@ All images must have no hyphens.-->
 		
 		
 		</script>
-		
+
+<script type="text/javascript">
+    lightGallery(document.getElementById('lightgallery'), {
+        plugins: [lgZoom, lgThumbnail],
+        speed: 500,
+    });
+		</script>
+		<link type="text/css" rel="stylesheet" href="../css/lightgallery-bundle.css" />
+
+
 		<link rel="icon" href="/images/web_icon.png">
 </head>
 
@@ -66,26 +75,17 @@ All images must have no hyphens.-->
 					2019
 				</h1>
 
-					<div class = "Navigation">
-						<!-- Since nav-First refers to first comic, don't change nav-First.-->
-					
-						<div class = "nav-Previous">
-							<a href = "2018.html">
-								< 2018
-							</a>
-						</div>
-						
-						<div class = "nav-Next">
-							<a href = "2020.html">
-								2020 >
-							</a>
-						</div>						
-					</div>
+				<div class="Navigation" id="yearNavigation"></div>
+				<script src="../js/yearNavigation.js"></script>
 					<br>
 
+				<div class="gallery" id="gallery"></div>
+<script
+    type="module"
+    src="../js/jsonReader.js">
+</script>
 
-
-				<div class = "gallery">
+				<!-- <div class = "gallery">
 					<a href = "../images/artwork/2019/meeting while walking draft.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2019/thumbnail/meeting while walking draft.png"></a>
 					<a href = "../images/artwork/2019/A cute beagle.png" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2019/thumbnail/A cute beagle.png"></a>
 					<a href = "../images/artwork/2019/Animation sad to not too sad went and back colored.gif" data-lightbox = "mygallery" data-title = ""><img src = "../images/artwork/2019/thumbnail/Animation sad to not too sad went and back colored.gif" height="200px" width="auto"></a>
@@ -157,7 +157,7 @@ All images must have no hyphens.-->
 					<a href = "../images/artwork/2019/A-OK looking at us.png" data-lightbox = "mygallery" data-title = "2/5"><img src = "../images/artwork/2019/thumbnail/A-OK looking at us.png"></a>
 					<a href = "../images/artwork/2019/must resist eating birthday cake color.png" data-lightbox = "mygallery" data-title = "2/5"><img src = "../images/artwork/2019/thumbnail/must resist eating birthday cake color.png"></a>
 					<a href = "../images/artwork/2019/Alex Eating Cloud.png" data-lightbox = "mygallery" data-title = "2/5"><img src = "../images/artwork/2019/thumbnail/Alex Eating Cloud.png"></a>
-				</div>		
+				</div>		 -->
 				
 				<a href = "../art.html"><h1>Return to Art Page</h1></a>
 				

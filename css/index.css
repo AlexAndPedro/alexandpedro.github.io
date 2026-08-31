@@ -16,7 +16,7 @@
 :root {
   /* ===== Colors ===== */
 
-  --color-primary: #0055aa;
+  --color-primary: #0061c2;
   --color-primary-dark: #003264;
   --color-primary-light: #99ccff;
 
@@ -50,10 +50,12 @@
   --space-xs: 0.25rem;
   --space-sm: 0.5rem;
   --space-md: 1rem;
-  --space-lg: 1.5rem;
   --space-xl: 2rem;
 
+  --menu-padding: 0.5rem;
   /* ===== Margins ===== */
+
+  --margin-small: 0.25rem;
   --margin-ui: 1rem;
 
 
@@ -68,7 +70,8 @@
   --radius-lg: 1rem;
 
   --border-container: 3px;
-  --radius-container: 0.5rem;
+  --radius-container: 1rem;
+  --padding-container: 0.5rem;
 
   /* ===== Effects ===== */
 
@@ -226,7 +229,7 @@ ul {
   text-align: center;
   overflow: hidden;
   font-size: 1em;
-  border-radius: 1em 1em 0 0;
+  border-radius: var(--radius-container) var(--radius-container) 0 0;
 }
 
 .MainMenu ul {
@@ -236,10 +239,9 @@ ul {
 }
 
 .MainMenu li {
-  padding: 0.5rem 0.5rem;
+  padding: var(--menu-padding) var(--menu-padding);
   display: inline-block;
   background-color: var(--color-primary);
-  font-size: 1.1rem;
   text-align: center;
 }
 
@@ -255,13 +257,13 @@ ul {
 
 .MainMenu li:hover {
   color: #533912;
-  background-color: #eba843;
+  background-color: var(--color-accent);
 }
 
 .MainMenu ul li:active {
   color: #533912;
   font-weight: bold;
-  background-color: #f2c582;
+  background-color: var(--color-accent-light);
 }
 
 .AnP_Link {
@@ -343,7 +345,7 @@ ul {
 .nav-Previous,
 .nav-Random,
 .nav-Next,
-.nav-Latest {
+.nav-Last {
   width: auto;
   display: inline-block;
   font-weight: inherit;
@@ -375,26 +377,74 @@ ul {
   margin: 5px 5px 10px 5px;
 }
 
-.PageSection {
+/* .PageSection {
   font-family: var(--font-ui);
-  font-size: 1.2rem;
   color: var(--color-text-light);
   font-weight: bold;
   clear: both;
   margin: 0.5rem;
   padding: 0.5rem 1rem;
-  border-top: 0.5rem solid var(--color-border);
+  border-top: 0.25rem solid var(--color-border);
   border-radius: var(--radius-container);
   background-color: var(--color-primary);
+  
+}
+ */
+
+.PageSectionBorder {
+    display: block;
+    width: fit-content;
+    margin: var(--margin-ui) auto;
+    padding: 3px;
+
+    background: #222;
+
+    clip-path: polygon(
+        0 0,
+        100% 0,
+        calc(100% - 16px) 50%,
+        100% 100%,
+        0 100%,
+        16px 50%
+    );
 }
 
-.BlueContainer,
+.PageSection {
+    width: fit-content;
+    margin: 0;
+    padding: 10px 45px;
+
+    background: var(--color-primary);
+    color: white;
+
+    font-size: 20px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+
+    clip-path: polygon(
+        0 0,
+        100% 0,
+        calc(100% - 16px) 50%,
+        100% 100%,
+        0 100%,
+        16px 50%
+    );
+}
+
+
+
+
+
+
+
+.BlueContainer, 
 .infobox,
 .Navigation {
   background-color: var(--color-primary);
   border: 3px solid var(--color-border);
   color: var(--color-text-light);
-  padding: 0.25rem;
+  padding: var(--padding-container);
   margin: 0.5rem;
   font-size: 1rem;
   overflow: hidden;
@@ -430,6 +480,18 @@ ul {
   width: 20%;
 }
 
+.PageLayout {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2rem;
+}
+
+.index-page .RightSideBar {
+    float: none;
+    display: block;
+    width: 100%; /* optional, if you want it to span the container */
+}
+
 #FunFactStatement {
   padding: 5px;
   min-height: 100px;
@@ -449,29 +511,23 @@ ul {
   transform: scale(1);
 }
 
-#FunFacts .button {
-  transition: transform 0.1s ease, box-shadow 0.1s ease;
-}
-
-#FunFacts .button:hover {
-  transform: translateY(-2px) rotate(-0.5deg);
-}
-
-#FunFacts .button:active {
-  transform: translateY(2px) rotate(0.5deg);
-}
-
 .button {
   background: inherit;
   border: var(--border-container) solid var(--color-border);
-  /* border: 2px solid white; */
-  border-radius: 4px;
+  border-radius: var(--radius-container);
   color: var(--color-text-light);
   cursor: pointer;
   font: inherit;
-  margin: 5px;
+  margin: var(--margin-small);
   outline: 0;
-  padding: 2px 5px;
+  padding: var(--padding-container);
+  box-shadow: 0 3px 0 #2b3248;
+  transition: transform 0.05s ease, box-shadow 0.05s ease;
+  }
+
+.button:active {
+  transform: translateY(3px);
+  box-shadow: 0 0 0 #2b3248;
 }
 
 button:hover {
@@ -485,7 +541,7 @@ button:active {
   background-color: #99ccff;
   border: var(--border-container) solid var(--color-primary-light);
   transition: none;
-}
+  transform: translateY(2px);}
 
 .ArticleAuthor {
   font-size: 80%;
@@ -562,7 +618,7 @@ footer {
   padding: 1em;
   width: auto;
   background-color: var(--color-primary);
-  border-radius: 0 0 1em 1em;
+  border-radius: 0 0 var(--radius-container) var(--radius-container);
   color: var(--color-text-light);
   text-align: center;
 }
