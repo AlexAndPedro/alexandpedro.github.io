@@ -113,7 +113,10 @@ fetch("../json/artwork.json")
         // First
         // ====================================================
 
-        if (currentIndex > 0) {
+        // Only show First if it is different from Previous
+        if (
+            currentIndex > 1
+        ) {
 
             createNavigationItem(
                 "nav-First",
@@ -155,7 +158,10 @@ fetch("../json/artwork.json")
         // Last
         // ====================================================
 
-        if (currentIndex < years.length - 1) {
+        // Only show Last if it is different from Next
+        if (
+            currentIndex < years.length - 2
+        ) {
 
             createNavigationItem(
                 "nav-Last",
