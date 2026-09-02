@@ -1,19 +1,146 @@
-.CharacterInfobox {
-    width:35%;
-    float:right;
-    border: 5px solid;
-    border-color:#f5bc00;
-    background-color: #0e4b68;
+.castGrid {
+    max-width: 1100px;
+    margin: 30px auto;
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
 }
 
-.CharacterInfoboxName, .CharacterInfoboxInfoTitle{
-    height: 50px;
-    text-align:center;
-    background-color:#f5bc00;
-    font-weight: bold;
+.PageArticle {
+    display: grid;
+    grid-template-columns: 30% 1fr;
+    grid-template-rows: auto 1fr;
+
+    gap: 0;
+
+    padding: var(--menu-padding);
+    margin-bottom: 30px;
+
+    background: #99ccff;
+
+    border: 4px solid #222;
+    border-radius: 18px;
+
+    box-shadow: 7px 7px 0 #222;
+
+    line-height: 1.6;
+
+    transition:
+        transform 0.15s ease,
+        box-shadow 0.15s ease;
 }
 
-.CharacterInfoboxInfo {
-    font-size: 0.8rem;
-    color: white;
+.PageArticle:hover {
+    transform: translate(-3px, -3px);
+    box-shadow: 10px 10px 0 #222;
 }
+
+
+/* Image: top left */
+.castImage {
+    grid-column: 1;
+    grid-row: 1;
+
+    width: 6rem;
+    height: 6rem;
+
+    object-fit: contain;
+
+    background: white;
+
+    border: 4px solid #222;
+    border-radius: 14px;
+
+    box-shadow: 4px 4px 0 #222;
+}
+
+
+/* Name: top right */
+.PageArticle h1 {
+    grid-column: 2;
+    grid-row: 1;
+
+    align-self: center;
+
+    margin: 0;
+
+    font-size: 2rem;
+    line-height: 1.1;
+
+    color: #222;
+}
+
+.castName {
+    text-align: center;
+}
+/* Description: entire width underneath */
+.characterDescription {
+    grid-column: 1 / -1;
+    grid-row: 2;
+
+    margin: 0;
+    text-align: center;
+    font-size: 1.05rem;
+    line-height: 1.6;
+}
+
+.animal-legends {
+    background: #8b5fbf;
+}
+
+.wolves {
+    background: #666;
+}
+
+.foxes {
+    background: #f28c28;
+}
+
+.eagles {
+    background: #2e74b5;
+}
+
+.raccoons {
+    background: #817976;
+}
+
+
+/* Mobile */
+@media (max-width: 650px) {
+
+    .BlueContainer {
+        padding: 0 12px;
+    }
+
+    .PageArticle {
+        grid-template-columns: 1fr;
+
+        padding: 15px;
+
+        box-shadow: 5px 5px 0 #222;
+
+        text-align: center;
+    }
+
+    .PageArticle:hover {
+        transform: translate(-2px, -2px);
+        box-shadow: 7px 7px 0 #222;
+    }
+
+    .castImage {
+        width: 80%;
+        max-width: 10rem;
+        height: 10rem;
+    }
+
+    .PageArticle h1 {
+        font-size: 1.7rem;
+    }
+
+    .PageSection {
+        font-size: 1.5rem;
+        box-shadow: 5px 5px 0 #222;
+    }
+}
+
