@@ -14,7 +14,7 @@ const collection = window.location.pathname
     .replace(".html", "");
 
 
-fetch("../json/artwork.json")
+fetch("/data/json/artwork.json")
     .then(response => {
 
         if (!response.ok) {
@@ -52,10 +52,14 @@ fetch("../json/artwork.json")
                 link.dataset.lgSize =
                     `${art.width}-${art.height}`;
 
-                link.dataset.subHtml = `
-                    <h4>${art.title}</h4>
-                    <p>${art.description || ""}</p>
-                `;
+                // Caption shown in the lightGallery carousel (.lg-sub-html):
+                // the art title, with the artwork.json description under it
+                // when one is set.
+                const description = (art.description || "").trim();
+
+                link.dataset.subHtml =
+                    `<h4>${art.title}</h4>` +
+                    (description ? `<p>${description}</p>` : "");
 
 
                 const img =

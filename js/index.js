@@ -3,6 +3,12 @@ window.addEventListener("DOMContentLoaded", () => {
         document.querySelector(".PageBody").classList.add("dark-mode");
         document.querySelector(".gradient").classList.add("dark-mode");
     }
+
+    const theme = localStorage.getItem("theme");
+    if (["alex", "ertle", "pangil"].includes(theme)) {
+        document.querySelector(".PageBody").classList.add("theme-" + theme);
+        document.querySelector(".gradient").classList.add("theme-" + theme);
+    }
 });
 
 function showHide() {

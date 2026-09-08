@@ -18,6 +18,7 @@ function renderData() {
   let nav_last_num = text.length;
   let navFirstHTML = "";
   let navPrevHTML = "";
+  let navRandomHTML = "";
   let navNextHTML = "";
   let navLastHTML = "";
 
@@ -36,6 +37,13 @@ function renderData() {
                       </a>
                       </div>`
                       }
+
+  navRandomHTML = `<div class = "nav-Random">
+                      <a href = "#" id = "NavRandom">
+                        Random
+                      </a>
+                      </div>`
+
   if (comic_number != text.length) {
   navNextHTML = `<div class = "nav-Next">
                       <a href = "${nav_next_num.toString().padStart(4,"0")}.html">
@@ -53,11 +61,28 @@ function renderData() {
                     </div>`
                     }
 
-  let toNavigationHTML = navFirstHTML + navPrevHTML + navNextHTML + navLastHTML;
+  let toNavigationHTML = navFirstHTML + navPrevHTML + navRandomHTML + navNextHTML + navLastHTML;
 
   console.log(toNavigationHTML);
 
   document.querySelector(".Navigation").innerHTML = toNavigationHTML;
+
+  // "Random" goes to a different comic on every click.
+  const randomLink = document.getElementById("NavRandom");
+  if (randomLink) {
+    randomLink.addEventListener("click", (event) => {
+      event.preventDefault();
+
+      const current = Number(comic_number);
+      let pick = current;
+
+      while (pick === current && text.length > 1) {
+        pick = Math.floor(Math.random() * text.length) + 1;
+      }
+
+      window.location.href = `${pick.toString().padStart(4, "0")}.html`;
+    });
+  }
 
 
 
@@ -73,7 +98,7 @@ function renderData() {
   console.log('Comic Tags:', comic_tags);
 
   for(let i = 0; i < comic_tags.length; i++){
-    toHTML += `<a href = "/tag.html?type=comics&tags=${comic_tags[i]}">${comic_tags[i]}</a>` //query string
+    toHTML += `<a href = "/tag.html?type=comic&tags=${encodeURIComponent(comic_tags[i])}">${comic_tags[i]}</a>` //query string
     if(i != comic_tags.length - 1)
     toHTML += "&nbsp &nbsp";
   }

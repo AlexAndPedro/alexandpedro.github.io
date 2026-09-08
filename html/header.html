@@ -5,6 +5,7 @@
 			<!--Page Banner-->
 			</script>
 			<script src="/js/ToggleDarkMode.js"></script>
+			<script src="/js/ToggleTheme.js"></script>
 			<link href="/css/dark-mode.css" rel="stylesheet">
 			<div class = "PageBanner">
 				<a id="top"></a>
@@ -12,6 +13,12 @@
 					<td id="Language">
 						<div class="infobox">
 							<i>A place where Alex the dog, Pedro the owner, and the others hang out and share stuff.</i><br>
+							<span class="ThemeSwitch">Theme:
+								<button class="button" data-theme-choice="pedro" onclick="SetTheme('pedro')">Pedro</button>
+								<button class="button" data-theme-choice="alex" onclick="SetTheme('alex')">Alex</button>
+								<button class="button" data-theme-choice="ertle" onclick="SetTheme('ertle')">Ertle</button>
+								<button class="button" data-theme-choice="pangil" onclick="SetTheme('pangil')">Pangil</button>
+							</span><br>
 							<button class="button" id="darkModeToggle" onclick="ToggleDarkMode()">Toggle dark mode</button>
 						</div>
 
@@ -36,8 +43,9 @@
 				<ul id = "menu">
 					<a href="/"><li>Home</li></a>
 					<a href="/cast.html"><li>Cast</li></a>
-					<a href="/archive.html"><li>Comic Archive</li></a>	
+					<a href="/comic_archive.html"><li>Comic Archive</li></a>
 					<a href="/art.html"><li>Artwork</li></a>
+					<a href="/music.html"><li>Music</li></a>
 					<a href="/about.html"><li>About</li></a>
 					<a href="/faq.html"><li>FAQ</li></a>
 					<a href="/location.html"><li>Location</li></a>

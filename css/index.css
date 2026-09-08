@@ -14,23 +14,149 @@
 }
 
 :root {
-  /* ===== Colors ===== */
+  /* =====================================================
+     THEME
+     Raw palette first, then the semantic tokens that the
+     rest of the stylesheets should actually reference.
+     Do not hardcode hex values outside this block.
+     ===================================================== */
 
-  --color-primary: #0061c2;
-  --color-primary-dark: #003264;
-  --color-primary-light: #99ccff;
+  /* ----- Palette: blues ----- */
+  --blue-900: #001c39; /* dark-mode surface           */
+  --blue-800: #003264; /* borders / primary (dark)    */
+  --blue-500: #0061c2; /* primary                     */
+  --blue-300: #99ccff; /* primary (light) / page bg   */
 
-  --color-accent: #eba843;
-  --color-accent-light: #f2c582;
+  /* ----- Palette: warm accent ----- */
+  --amber-600: #d6a65e; /* accent (dark) - tape edge  */
+  --amber-500: #eba843; /* accent                     */
+  --amber-300: #f2c582; /* accent (light)             */
+  --brown-700: #533912; /* readable text on accent    */
 
-  --color-background: #99ccff;
-  --color-surface: #ffffff;
+  /* ----- Palette: amber, extended -----
+     Darker ambers so the "Alex" theme can use amber as PRIMARY
+     (i.e. as a fill behind white text) and still stay legible. */
+  --amber-800: #7d4f10; /* Alex borders / primary-dark / text-on-white */
+  --amber-700: #a86d18; /* Alex primary fill (white-text safe) + link  */
+  --amber-100: #ffe8c4; /* Alex page background                        */
+  --amber-fill-dark: #9a6a1a;   /* Alex primary fill in dark mode      */
+  --amber-on-dark: #f0c070;     /* Alex primary as foreground (dark)   */
+  --amber-tint-dark: #33291a;   /* Alex subtle tint fill (dark)        */
+  --amber-border-dark: #6b5220; /* Alex borders (dark)                 */
+  /* Alex dark surfaces (warm near-black) */
+  --amber-bg-dark: #1a1408;
+  --amber-surf-dark: #221a0c;
+  --amber-surf-alt-dark: #2d2413;
+  --amber-text-dark: #efe7d6;
+  --amber-text-muted-dark: #bcac8f;
+  --amber-hairline-dark: #443619;
+  --amber-ink-dark: #93764a;
+  --amber-highlight-dark: #3a2e14;
 
-  --color-text: #000000;
-  --color-text-light: #ffffff;
+  /* ----- Palette: "Ertle" theme - green main (#64b40a) + peach accent (#ffbe64) ----- */
+  --green-800: #2f5705; /* Ertle borders / primary-dark / text-on-white */
+  --green-700: #437a07; /* Ertle primary fill (white-text safe) + link  */
+  --green-500: #64b40a; /* Ertle signature green (primary-light)        */
+  --green-100: #eef7dd; /* Ertle page background / row hover            */
+  --green-fill-dark: #457f0a;
+  --green-on-dark: #9cd65c;
+  --green-tint-dark: #1e2c14;
+  --green-border-dark: #4a6b2a;
+  /* Ertle dark surfaces (deep green near-black) */
+  --green-bg-dark: #0c1507;
+  --green-surf-dark: #131f0d;
+  --green-surf-alt-dark: #1d2c14;
+  --green-text-dark: #e9f1de;
+  --green-text-muted-dark: #a9bd98;
+  --green-hairline-dark: #2c3f1c;
+  --green-ink-dark: #6c8c4b;
+  --green-highlight-dark: #26331a;
 
+  --peach-500: #ffbe64; /* Ertle accent           */
+  --peach-300: #ffd9a0; /* Ertle accent (light)   */
+  --peach-700: #e09a3a; /* Ertle accent (dark)    */
+  --peach-ink: #5c3d0a; /* readable text on peach */
 
-  --color-border: #003264;
+  /* ----- Palette: "Pangil" theme - grey main (#737373) + dark-red accent (#990000) ----- */
+  --grey-500: #737373; /* Pangil main grey (primary, white-text safe)   */
+  --grey-700: #525252; /* Pangil borders / primary-dark / text-on-white */
+  --grey-300: #b0b0b0; /* Pangil primary-light                          */
+  --grey-100: #e6e6e6; /* Pangil page background / row hover            */
+  --grey-fill-dark: #7d7d7d;
+  --grey-on-dark: #c4c4c4;
+  --grey-tint-dark: #2a2a2e;
+  --grey-border-dark: #5a5a5a;
+  /* Pangil dark surfaces (neutral charcoal) */
+  --grey-bg-dark: #121212;
+  --grey-surf-dark: #1c1c1c;
+  --grey-surf-alt-dark: #282828;
+  --grey-text-dark: #e8e8e8;
+  --grey-text-muted-dark: #a6a6a6;
+  --grey-hairline-dark: #363636;
+  --grey-ink-dark: #828282;
+  --grey-highlight-dark: #2b2b2b;
+
+  --red-700: #990000; /* Pangil accent + link  */
+  --red-500: #c94040; /* Pangil accent (light) */
+  --red-900: #660000; /* Pangil accent (dark)  */
+  --red-on-dark: #e06666; /* red link on dark surface */
+
+  /* ----- Palette: neutrals ----- */
+  --black: #000000;
+  --white: #ffffff;
+  --ink: #222222;      /* scrapbook borders / shadows */
+  --paper: #fffdf5;    /* warm card surface           */
+  --grey-400: #cccccc; /* hairlines / soft shadow     */
+  --grey-600: #666666; /* muted text                  */
+  --highlight: #fff4a8; /* row hover                  */
+
+  /* ===== Colors (semantic tokens) ===== */
+
+  --color-primary: var(--blue-500);
+  --color-primary-dark: var(--blue-800);
+  --color-primary-light: var(--blue-300);
+  /* Primary colour used as foreground (text / rule / icon) sitting ON a
+     surface - not as a fill behind white text. Dark mode brightens only
+     this, so fills keep their white-text contrast. */
+  --color-primary-text: var(--color-primary);
+
+  --color-accent: var(--amber-500);
+  --color-accent-light: var(--amber-300);
+  --color-accent-dark: var(--amber-600);
+  --color-on-accent: var(--brown-700);
+
+  --color-background: var(--blue-300);
+  --color-surface: var(--white);
+  --color-paper: var(--paper);
+
+  --color-text: var(--black);
+  --color-link: #0f5cac;
+  --color-text-light: var(--white);
+  --color-text-muted: var(--grey-600);
+
+  --color-border: var(--blue-800);
+  --color-ink: var(--ink);
+  --color-hairline: var(--grey-400);
+  --color-highlight: var(--highlight);
+
+  --color-shadow: rgba(0, 0, 0, 0.15);
+
+  /* ----- Dark-mode palette -----
+     dark-mode.css remaps the semantic tokens above to these values for
+     everything inside .PageBody.dark-mode (toggled by ToggleDarkMode()). */
+  --color-background-dark: #071827;    /* page backdrop              */
+  --color-surface-dark: #0e2438;       /* content panel              */
+  --color-surface-dark-alt: #14304a;   /* cards / raised surfaces    */
+  --color-text-dark: #e6edf4;          /* body text                  */
+  --color-text-muted-dark: #9db2c6;    /* secondary text             */
+  --color-border-dark: #37597c;        /* borders / dividers         */
+  --color-hairline-dark: #2b4661;      /* subtle hairlines           */
+  --color-ink-dark: #5c82ab;           /* scrapbook "ink"            */
+  --color-primary-fill-dark: #0f5cac;  /* blue fill (white-text safe) */
+  --color-primary-on-dark: #79b8ee;    /* blue as foreground text    */
+  --color-primary-light-dark: #1c3b57; /* subtle blue tint fill      */
+  --color-highlight-dark: #40391d;     /* amber-tinted row hover     */
+  --color-shadow-dark: rgba(0, 0, 0, 0.55);
 
   /* ===== Typography ===== */
 
@@ -76,6 +202,76 @@
   /* ===== Effects ===== */
 
   --shadow-dog: 0 0 12px black;
+}
+
+/* =====================================================
+   THEMES
+   The default palette above is the "Pedro" theme (blue).
+   Each other theme re-points the same semantic tokens -
+   js/ToggleTheme.js adds .theme-<name> to .gradient +
+   .PageBody, the same mechanism as dark mode. They compose
+   with dark mode (see the .dark-mode.theme-<name> blocks in
+   dark-mode.css).
+
+   For every theme the "main" colour is used as PRIMARY (a
+   fill behind white text), so --color-primary is a darkened,
+   white-text-safe shade and the exact requested hue lives on
+   --color-primary-light.
+   ===================================================== */
+
+.gradient.theme-alex,
+.PageBody.theme-alex {
+  --color-primary: var(--amber-700);
+  --color-primary-dark: var(--amber-800);
+  --color-primary-light: var(--amber-500);
+  --color-primary-text: var(--amber-800);
+
+  /* Accent flips to blue so hover / tape / active states still contrast
+     against the amber primary. */
+  --color-accent: var(--blue-500);
+  --color-accent-light: var(--blue-300);
+  --color-accent-dark: var(--blue-800);
+  --color-on-accent: var(--white);
+
+  --color-background: var(--amber-100);
+  --color-border: var(--amber-800);
+  --color-link: var(--amber-700);
+}
+
+.gradient.theme-ertle,
+.PageBody.theme-ertle {
+  --color-primary: var(--green-700);
+  --color-primary-dark: var(--green-800);
+  --color-primary-light: var(--green-500);
+  --color-primary-text: var(--green-800);
+
+  --color-accent: var(--peach-500);
+  --color-accent-light: var(--peach-300);
+  --color-accent-dark: var(--peach-700);
+  --color-on-accent: var(--peach-ink);
+
+  --color-background: var(--green-100);
+  --color-border: var(--green-800);
+  --color-link: var(--green-700);
+  --color-highlight: var(--green-100);
+}
+
+.gradient.theme-pangil,
+.PageBody.theme-pangil {
+  --color-primary: var(--grey-500);
+  --color-primary-dark: var(--grey-700);
+  --color-primary-light: var(--grey-300);
+  --color-primary-text: var(--grey-700);
+
+  --color-accent: var(--red-700);
+  --color-accent-light: var(--red-500);
+  --color-accent-dark: var(--red-900);
+  --color-on-accent: var(--white);
+
+  --color-background: var(--grey-100);
+  --color-border: var(--grey-700);
+  --color-link: var(--red-700);
+  --color-highlight: var(--grey-100);
 }
 
 * {
@@ -155,7 +351,7 @@ in the CSS definition in order to be effective.
 
 a:link,
 a:visited {
-  color: var(--color-text);
+  color: var(--color-link);
   text-decoration: none;
 }
 
@@ -256,12 +452,12 @@ ul {
 /*When you hover the main menu*/
 
 .MainMenu li:hover {
-  color: #533912;
+  color: var(--color-on-accent);
   background-color: var(--color-accent);
 }
 
 .MainMenu ul li:active {
-  color: #533912;
+  color: var(--color-on-accent);
   font-weight: bold;
   background-color: var(--color-accent-light);
 }
@@ -313,7 +509,7 @@ ul {
 }
 
 
-#TagCloud {
+.TagCloud {
   overflow: auto;
 }
 
@@ -323,29 +519,14 @@ ul {
 .TagGroup4 {
   float: left;
   margin: 2px;
-}
-
-.TagGroup1 {
-  font-size: 130%;
-}
-
-.TagGroup2 {
-  font-size: 110%;
-}
-
-.TagGroup3 {
-  font-size: 90%;
-}
-
-.TagGroup4 {
-  font-size: 80%;
+  font-size: 100%;
 }
 
 .nav-First,
 .nav-Previous,
 .nav-Random,
 .nav-Next,
-.nav-Last {
+.nav-Latest {
   width: auto;
   display: inline-block;
   font-weight: inherit;
@@ -362,7 +543,7 @@ ul {
   margin: 5px;
   font-size: 150%;
   font-weight: bold;
-  color: var(--color-primary);
+  color: var(--color-primary-text);
 }
 
 .ComicDescription,
@@ -377,27 +558,10 @@ ul {
   margin: 5px 5px 10px 5px;
 }
 
-/* .PageSection {
-  font-family: var(--font-ui);
-  color: var(--color-text-light);
-  font-weight: bold;
-  clear: both;
-  margin: 0.5rem;
-  padding: 0.5rem 1rem;
-  border-top: 0.25rem solid var(--color-border);
-  border-radius: var(--radius-container);
-  background-color: var(--color-primary);
-  
-}
- */
-
-.PageSectionBorder {
-    display: block;
+/* Chevron/arrow tag shape shared by the section heading and its backing plate */
+.PageSectionBorder,
+.PageSection {
     width: fit-content;
-    margin: var(--margin-ui) auto;
-    padding: 3px;
-
-    background: #222;
 
     clip-path: polygon(
         0 0,
@@ -409,8 +573,15 @@ ul {
     );
 }
 
+.PageSectionBorder {
+    display: block;
+    margin: var(--margin-ui) auto;
+    padding: 3px;
+
+    background: var(--color-ink);
+}
+
 .PageSection {
-    width: fit-content;
     margin: 0;
     padding: 10px 45px;
 
@@ -421,15 +592,6 @@ ul {
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 0.5px;
-
-    clip-path: polygon(
-        0 0,
-        100% 0,
-        calc(100% - 16px) 50%,
-        100% 100%,
-        0 100%,
-        16px 50%
-    );
 }
 
 
@@ -460,7 +622,7 @@ ul {
 }
 
 .BlueContainer.GalleryInfo {
-  border: 2px solid #042c41;
+  border: 2px solid var(--color-border);
   padding: 10px;
   display: inline-block;
   transition: all 2s;
@@ -482,7 +644,7 @@ ul {
 
 .PageLayout {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 0.5fr;
     gap: 2rem;
 }
 
@@ -521,13 +683,13 @@ ul {
   margin: var(--margin-small);
   outline: 0;
   padding: var(--padding-container);
-  box-shadow: 0 3px 0 #2b3248;
+  box-shadow: 0 3px 0 var(--color-ink);
   transition: transform 0.05s ease, box-shadow 0.05s ease;
   }
 
 .button:active {
   transform: translateY(3px);
-  box-shadow: 0 0 0 #2b3248;
+  box-shadow: 0 0 0 var(--color-ink);
 }
 
 button:hover {
@@ -538,10 +700,65 @@ button:hover {
 
 button:active {
   color: var(--color-primary);
-  background-color: #99ccff;
+  background-color: var(--color-primary-light);
   border: var(--border-container) solid var(--color-primary-light);
   transition: none;
   transform: translateY(2px);}
+
+/* Theme picker in the header (js/ToggleTheme.js). The selected theme's
+   button reads as "pressed": solid surface fill against the coloured
+   infobox, with the active theme's primary colour as its text. */
+.ThemeSwitch {
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+}
+
+.button.theme-choice-active,
+.button.theme-choice-active:hover {
+  background-color: var(--color-surface);
+  border-color: var(--color-surface);
+  color: var(--color-primary-text);
+}
+
+/* Shared "show me a random one" button - js/random_article.js,
+   js/random_comic.js, js/random_artwork.js. Chunky, on-palette, and
+   readable on the white content panels these pages use. */
+.RandomButton {
+  display: inline-block;
+  margin: 1rem 0 0.75rem;
+  padding: 0.5rem 1.2rem;
+
+  font-family: "Fredoka";
+  font-size: 1rem;
+  font-weight: bold;
+
+  color: var(--color-text-light);
+  background: var(--color-primary);
+
+  border: 3px solid var(--color-border);
+  border-radius: 12px;
+  cursor: pointer;
+
+  transition: transform 0.1s ease, background 0.15s ease;
+}
+
+.RandomButton:hover {
+  color: var(--color-text-light);
+  background: var(--color-primary-dark);
+  text-decoration: none;
+}
+
+.RandomButton:active {
+  color: var(--color-text-light);
+  background: var(--color-primary-dark);
+  border: 3px solid var(--color-border);
+  transform: translateY(2px);
+}
+
+.RandomButton:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
 
 .ArticleAuthor {
   font-size: 80%;
@@ -564,7 +781,32 @@ button:active {
   margin: var(--margin-ui);
 }
 
-/*FOR archive.html*/
+/* Fan Art / Commissions links in art.html's Art section */
+
+.ArtCollectionLinks {
+  margin: 0.75rem 0 1rem;
+  font-family: var(--font-ui);
+}
+
+.ArtCollectionLink {
+  display: inline-block;
+  margin: 0.3rem 0.5rem 0.3rem 0;
+  padding: 0.5rem 1.2rem;
+
+  font-weight: bold;
+  color: var(--color-text-light);
+  background: var(--color-primary);
+
+  border: 3px solid var(--color-border);
+  border-radius: 12px;
+}
+
+.ArtCollectionLink:hover {
+  background: var(--color-primary-dark);
+  text-decoration: none;
+}
+
+/*FOR comic_archive.html*/
 
 .archive-date {
   text-align: right;
@@ -575,7 +817,7 @@ button:active {
 
 .archive-title {
   padding: 2px 5px;
-  border-left: 1px dashed #aaaaaa;
+  border-left: 1px dashed var(--color-hairline);
 }
 
 .PageEnd {
@@ -583,42 +825,82 @@ button:active {
   padding-bottom: 60px;
 }
 
+/* Featured block on index.html (filled by /js/featured.js) */
+
+#Featured {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin: 0.5rem 0;
+}
+
+.FeaturedItem {
+  background: var(--color-surface);
+  border: 2px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 0.6rem;
+}
+
+/* Slots that js/featured.js has not filled (e.g. a missing manifest). */
+.FeaturedItem:empty {
+  display: none;
+}
+
+.FeaturedKind {
+  display: block;
+  margin-bottom: 0.35rem;
+
+  font-family: var(--font-ui);
+  font-weight: 700;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+
+  color: var(--color-primary-text);
+}
+
+.FeaturedItem img {
+  display: block;
+  width: 100%;
+  margin-bottom: 0.35rem;
+  border-radius: var(--radius-sm);
+}
+
+.FeaturedTitle {
+  font-weight: 700;
+}
+
+.FeaturedItem p {
+  margin: 0.25rem 0 0;
+  font-size: 0.9rem;
+}
+
+/* Article slot mirrors the tag.html card: title, author/date, blurb, tags. */
+.FeaturedItem small {
+  display: block;
+  color: var(--color-text-muted);
+}
+
+.FeaturedItem .TagRow {
+  margin-top: 0.35rem;
+  color: inherit;
+}
+
 /* d */
 
 .comicarchiveframe {
-  background: #fff;
-  border: 2px solid #000;
+  background: var(--color-surface);
+  border: 2px solid var(--color-text);
   padding: 5px;
 }
 
-.gallery {
-  text-align: center;
-}
-
-.gallery img {
-  transition: 0.5s;
-  overflow: hidden;
-  display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.gallery img:hover {
-  transform: scale(1.02);
-}
-
-.gallery img.animated-gif {
-  height: 200px;
-  width: auto;
-}
-
-/* --------------------------------------- */
 .gallery {
     columns: 4 220px;
     column-gap: 20px;
     max-width: 1400px;
     margin: 0 auto;
     padding: 20px;
+    text-align: center;
 }
 
 .gallery a {
@@ -633,16 +915,27 @@ button:active {
     transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
+.gallery a:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
 .gallery img {
     display: block;
     width: 100%;
     height: auto;
     border-radius: 4px;
+    overflow: hidden;
+    transition: 0.5s;
 }
 
-.gallery a:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+.gallery img:hover {
+    transform: scale(1.02);
+}
+
+.gallery img.animated-gif {
+    height: 200px;
+    width: auto;
 }
 
 @media (max-width: 700px) {
@@ -683,7 +976,7 @@ footer {
   flex-wrap: wrap;
   display: flex;
   justify-content: center;
-  color: #003264;
+  color: var(--color-primary-dark);
 }
 
 .DogWrap .Dog.left {
@@ -710,7 +1003,7 @@ footer {
   background: white;
   border: var(--border-container) solid var(--color-border);
   font-variant-ligatures: none;
-  box-shadow: 0px 0px 12px black;
+  box-shadow: var(--shadow-dog);
 }
 
 .DogWrap .Dog {

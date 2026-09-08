@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<!--All id and classes start with uppercase letters
+All images must have no hyphens.-->
+
+<html lang="en">
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-38823NK3ZD">
+	</script>
+	<script>
+	       window.dataLayer = window.dataLayer || [];
+	       function gtag(){dataLayer.push(arguments);}
+	       gtag('js', new Date());
+
+	       gtag('config', 'G-38823NK3ZD');
+	</script>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+	<meta content="AlexAndPedro" name="author">
+	<meta content="Look through Alex and Pedro's archives!" name="description">
+	<meta content="alex, pedro, alex and pedro, alexandpedro, alex paws, pedro perez, webcomic, comic, online comic, comic strip, comic, onlinecomic, online-comic, web comic, web-comic, dog, ertle, pangil, wolf, turtle, box turtle" name="keywords">
+
+	<title>Alex and Pedro | Comic Archive</title>
+	<link href="/css/index.css" rel="stylesheet">
+	<link href="/css/archive.css" rel="stylesheet">
+	<script src="/js/jquery-3.5.1.min.js">
+	</script>
+	<script src="/js/index.js">
+	</script>
+	<script>
+	                   $(document).ready(function(){
+
+	              $('.Header').load("/html/header.html");
+	              $('.SideBars').load("/html/sideBar.html");
+	              $('Footer').load("/html/footer.html");
+	           });
+
+
+	</script>
+	<link rel="icon" href="/images/web_icon.png">
+</head>
+
+<body class="gradient">
+	<div class="Page">
+		<div class="Header">
+			<!--DO NOT ENTER... CONTENT IS BASED ON comic_header.html-->
+		</div>
+
+
+		<div class="PageBody">
+			<div class="SideBars">
+				<!--DO NOT ENTER... CONTENT IS BASED ON sideBar.html-->
+			</div>
+
+
+			<div class="PageContent">
+				<button type="button" id="RandomComicButton" class="RandomButton">
+					&#127922; Read a random comic
+				</button>
+				<script src="/js/random_comic.js" defer></script>
+
+				<!-- Generated from /data/json/comic.json by
+				     js/comic_archive.js. Comics are shown as thumbnail
+				     cards, grouped by year. Do not hard-code rows here. -->
+				<div id="ComicArchive"></div>
+				<script src="/js/comic_archive.js" defer></script>
+				<!--PAGE SECTION-->
+
+
+				<h1>Browse by Tag</h1>
+				<div class="TagCloud" id="ComicTagCloud"></div>
+				<script src="/js/comic_tag_cloud.js" defer></script>
+
+
+				<div class="extra">
+				</div>
+			</div>
+		</div>
+
+
+		<footer>
+		</footer>
+	</div>
+</body>
+</html>

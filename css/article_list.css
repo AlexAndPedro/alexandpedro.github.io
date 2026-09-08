@@ -3,10 +3,10 @@
     padding: 0.4rem 1rem;
     font-family: "Fredoka";
     font-size: 1.6rem;
-    color: white;
+    color: var(--color-text-light);
 
-    background: #0055aa;
-    border: 3px solid #003264;
+    background: var(--color-primary);
+    border: 3px solid var(--color-border);
     border-radius: 12px;
     display: inline-block;
 }
@@ -16,11 +16,11 @@
     border-collapse: separate;
     border-spacing: 0;
     margin-bottom: 2rem;
-    border: 3px solid #003264;
+    border: 3px solid var(--color-border);
     border-radius: 12px;
     overflow: hidden;
 
-    box-shadow: 0 4px 10px rgba(0,0,0,.15);
+    box-shadow: 0 4px 10px var(--color-shadow);
 }
 
 #ArchivePage tr {
@@ -32,7 +32,7 @@
 } */
 
 #ArchivePage tr:not(:last-child) td {
-    border-bottom: 1px solid #d8d8d8;
+    border-bottom: 1px solid var(--color-hairline);
 }
 
 #ArchivePage .archive-date {
@@ -44,13 +44,13 @@
     font-size: 0.85rem;
     font-weight: bold;
 
-    color: white;
-    background: #0055aa;
+    color: var(--color-text-light);
+    background: var(--color-primary);
 }
 
 #ArchivePage .archive-title {
     padding: 0.7rem 0.9rem;
-    border-left: 1px solid #dddddd;
+    border-left: 1px solid var(--color-hairline);
 }
 
 #ArchivePage .archive-title a {
@@ -61,8 +61,8 @@
 }
 
 #ArchivePage .archive-title a:hover {
-    background: #dbeeff;
-    color: #0055aa;
+    background: var(--color-primary-light);
+    color: var(--color-primary-text);
     text-decoration: none;
 }
 
@@ -76,3 +76,7 @@
     font-size: 0.9rem;
     font-style: italic;
 } */
+
+
+/* The "Read a random article" button uses the shared .RandomButton
+   style in index.css (same button on art.html and comic_archive.html). */

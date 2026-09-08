@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<!--All id and classes start with uppercase letters
+All images must have no hyphens.
+
+    This is the single page template for every article. Each article lives
+    at /articles/<year>/<slug>/ as an identical copy of this file plus an
+    index.md holding the content. The copies are written by
+    py/generate_articles_json.py - edit THIS file, then re-run that script.
+-->
+
+<html lang="en">
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-38823NK3ZD">
+	</script>
+	<script>
+	       window.dataLayer = window.dataLayer || [];
+	       function gtag(){dataLayer.push(arguments);}
+	       gtag('js', new Date());
+
+	       gtag('config', 'G-38823NK3ZD');
+	</script>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+	<meta content="AlexAndPedro" name="author">
+	<meta content="Articles from the World of Alex and Pedro." name="description">
+	<meta content="alex, pedro, alex and pedro, alexandpedro, alex paws, pedro perez, webcomic, comic, online comic, comic strip, comic, onlinecomic, online-comic, web comic, web-comic, dog, ertle, pangil, wolf, turtle, box turtle" name="keywords">
+
+	<title>Alex and Pedro | Articles</title>
+	<link href="/css/index.css" rel="stylesheet">
+	<link href="/css/article.css" rel="stylesheet">
+	<script src="/js/jquery-3.5.1.min.js">
+	</script>
+	<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+	<script src="/js/author_link.js"></script>
+	<script src="/js/index.js">
+	</script>
+	<script>
+	                   $(document).ready(function(){
+
+	              $('.Header').load("/html/header.html");
+	              $('.SideBars').load("/html/sideBar.html");
+	              $('Footer').load("/html/footer.html");
+	           });
+
+
+	</script>
+	<link rel="icon" href="/images/web_icon.png">
+</head>
+
+<body class="gradient">
+	<div class="Page">
+		<div class="Header">
+			<!--DO NOT ENTER... CONTENT IS BASED ON comic_header.html-->
+		</div>
+
+
+		<div class="PageBody">
+			<div class="SideBars">
+				<!--DO NOT ENTER... CONTENT IS BASED ON sideBar.html-->
+			</div>
+
+            <!-- Article template will be inserted here -->
+            <div id="ArticleContainer"></div>
+		</div>
+
+
+		<footer>
+		</footer>
+	</div>
+	<script src="/js/article_reader.js" defer></script>
+</body>
+</html>

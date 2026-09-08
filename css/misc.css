@@ -26,12 +26,12 @@
 
   padding: 0.75rem;
 
-  background-color: #fffdf5;
+  background-color: var(--color-paper);
 
-  border: 3px solid #003264;
+  border: 3px solid var(--color-border);
   border-radius: 0.7rem;
 
-  box-shadow: 7px 7px 0 #003264;
+  box-shadow: 7px 7px 0 var(--color-border);
 
   position: relative;
 
@@ -60,7 +60,7 @@
 
 .ArtistCard:hover {
   transform: translate(-3px, -5px) rotate(0deg);
-  box-shadow: 10px 12px 0 #003264;
+  box-shadow: 10px 12px 0 var(--color-border);
 }
 
 
@@ -78,12 +78,12 @@
 
   overflow: hidden;
 
-  background-color: #99ccff;
+  background-color: var(--color-primary-light);
 
-  border: 3px solid #003264;
+  border: 3px solid var(--color-border);
   border-radius: 0.5rem;
 
-  box-shadow: 3px 3px 0 #eba843;
+  box-shadow: 3px 3px 0 var(--color-border);
 }
 
 
@@ -115,7 +115,7 @@
   font-family: "Fredoka";
   font-size: 1.1rem;
 
-  color: #0055aa;
+  color: var(--color-primary-text);
 }
 
 
@@ -143,32 +143,37 @@
 }
 
 
-.ArtistLinks a {
+/* Pill link - shared with .CivilEngineeringLink (see CIVIL ENGINEERING section) */
+.ArtistLinks a,
+.CivilEngineeringLink {
   display: inline-block;
 
+  background-color: var(--color-primary);
+  border: 2px solid var(--color-border);
+
+  text-decoration: none;
+}
+
+.ArtistLinks a:hover,
+.CivilEngineeringLink:hover {
+  background-color: var(--color-accent);
+
+  text-decoration: none;
+}
+
+.ArtistCard .ArtistLinks a,
+.CivilEngineeringCard .CivilEngineeringLink {
+  color: var(--color-text-light);
+}
+
+.ArtistCard .ArtistLinks a:hover,
+.CivilEngineeringCard .CivilEngineeringLink:hover {
+  color: var(--color-on-accent);
+}
+
+.ArtistLinks a {
   padding: 0.2rem 0.55rem;
-
-  background-color: #0055aa;
-
-  border: 2px solid #003264;
   border-radius: 0.4rem;
-
-  text-decoration: none;
-}
-
-.ArtistCard .ArtistLinks a {
-  color: white;
-}
-
-
-.ArtistLinks a:hover {
-  background-color: #eba843;
-
-  text-decoration: none;
-}
-
-.ArtistCard .ArtistLinks a:hover {
-  color: #533912;
 }
 
 
@@ -187,13 +192,13 @@
   width: 80px;
   height: 24px;
 
-  background-color: #f2c582;
+  background-color: var(--color-accent-light);
 
   opacity: 0.8;
 
   transform: rotate(-2deg);
 
-  border: 1px solid #d6a65e;
+  border: 1px solid var(--color-accent-dark);
 }
 
 
@@ -291,16 +296,16 @@
 
   padding: 1.5rem;
 
-  background-color: #f8f8f4;
+  background-color: var(--color-paper);
 
-  border: 2px solid #003264;
+  border: 2px solid var(--color-border);
 
   /*
    * The slightly offset shadow gives it
    * the appearance of a drawing sheet.
    */
   box-shadow:
-    5px 5px 0 #003264;
+    5px 5px 0 var(--color-border);
 
   transition:
     transform 0.15s ease,
@@ -321,8 +326,8 @@
   width: 18px;
   height: 18px;
 
-  border-top: 2px solid #0055aa;
-  border-left: 2px solid #0055aa;
+  border-top: 2px solid var(--color-primary-text);
+  border-left: 2px solid var(--color-primary-text);
 }
 
 
@@ -337,8 +342,8 @@
   width: 18px;
   height: 18px;
 
-  border-right: 2px solid #0055aa;
-  border-bottom: 2px solid #0055aa;
+  border-right: 2px solid var(--color-primary-text);
+  border-bottom: 2px solid var(--color-primary-text);
 }
 
 
@@ -348,7 +353,7 @@
   transform: translate(-3px, -3px);
 
   box-shadow:
-    8px 8px 0 #003264;
+    8px 8px 0 var(--color-border);
 }
 
 
@@ -364,7 +369,7 @@
 
   letter-spacing: 0.12em;
 
-  color: #0055aa;
+  color: var(--color-primary-text);
   padding-right: 3rem;
   margin-bottom: 0.4rem;
 }
@@ -383,7 +388,7 @@
 
   line-height: 1.25;
 
-  color: #003264;
+  color: var(--color-border);
 }
 
 
@@ -403,7 +408,7 @@
 
   flex: 1;
 
-  border-top: 1px solid #003264;
+  border-top: 1px solid var(--color-border);
 }
 
 
@@ -412,7 +417,7 @@
 
   margin-left: 0.5rem;
 
-  color: #0055aa;
+  color: var(--color-primary-text);
 
   font-size: 0.8rem;
 }
@@ -435,40 +440,16 @@
    Visit Link
    ----------------------------------------- */
 
+/* Pill link - base / hover / colour rules are shared with .ArtistLinks a
+   in the ARTISTS section; only the engineering-specific sizing lives here. */
 .CivilEngineeringLink {
-  display: inline-block;
-
   margin-top: 0.8rem;
-
   padding: 0.3rem 0.7rem;
-
-  background-color: #0055aa;
-
-  border: 2px solid #003264;
   border-radius: 0.2rem;
 
-
   font-family: "Fredoka";
-
   font-size: 0.8rem;
   font-weight: bold;
-
-  text-decoration: none;
-}
-
-
-.CivilEngineeringLink:hover {
-  background-color: #eba843;
-
-  text-decoration: none;
-}
-
-.CivilEngineeringCard .CivilEngineeringLink {
-  color: white;
-}
-
-.CivilEngineeringCard .CivilEngineeringLink:hover {
-  color: #533912;
 }
 
 
@@ -484,7 +465,7 @@
 
   padding: 0.15rem 0.4rem;
 
-  border: 1px solid #0055aa;
+  border: 1px solid var(--color-primary-text);
 
   font-family: "Fredoka";
 
@@ -492,7 +473,7 @@
 
   letter-spacing: 0.08em;
 
-  color: #0055aa;
+  color: var(--color-primary-text);
 
   transform: rotate(2deg);
 

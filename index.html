@@ -94,7 +94,15 @@ All images must have no hyphens.-->
 				<img src="/images/assets/index_cover.png">
 
 
+			<div id="SiteStats">
+				There are currently <span data-stat="art">many</span> art images,
+				<span data-stat="comics">many</span> comics,
+				<span data-stat="articles">many</span> articles and many many more!
+			</div>
+			<script src="/js/site_stats.js" defer></script>
+
 			<div class = "PageLayout">
+
 				<div class = "Column1">
 					<div class="PageSectionBorder">
 					<div class="PageSection">
@@ -109,8 +117,53 @@ All images must have no hyphens.-->
 					".w-full {font-family: var(--font-ui)}">
 					</bsky-embed>
 				</div>
-				<div>
-					Bleh
+				<div class = "Column2">
+					<div class="PageSectionBorder">
+						<div class="PageSection">
+							New Here?
+						</div>
+					</div>
+
+					<p>
+						Alex and Pedro is a webcomic about a dog, his owner,
+						and the crazy city they live in. Once you have read
+						through the comic, there is more to look at:
+					</p>
+
+					<ul>
+						<li>
+							<a href="/artwork/fanart.html">Fan Art</a>
+							&mdash; drawings of Alex and Pedro made by readers.
+						</li>
+						<li>
+							<a href="/artwork/commissions.html">Commissions</a>
+							&mdash; artwork drawn for other people and their
+							own characters.
+						</li>
+					</ul>
+
+					<div id="FeaturedSection">
+						<div class="PageSectionBorder">
+							<div class="PageSection">
+								Featured
+							</div>
+						</div>
+
+						<button type="button" id="FeaturedRefresh" class="RandomButton" title="Show a different artwork, comic and article">
+							&#8635; Refresh
+						</button>
+
+						<!-- A random artwork, comic and article. Filled by
+						     /js/featured.js on load, and re-rolled by
+						     #FeaturedRefresh. The order of these divs is the
+						     display order. -->
+						<div id="Featured">
+							<div class="FeaturedItem" data-featured="art"></div>
+							<div class="FeaturedItem" data-featured="comic"></div>
+							<div class="FeaturedItem" data-featured="article"></div>
+						</div>
+					</div>
+					<script src="/js/featured.js" defer></script>
 				</div>
 				<div class = "index-page">
 					<div class="SideBars">

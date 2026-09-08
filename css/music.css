@@ -1,0 +1,70 @@
+/* music.html - track list rendered by js/music.js */
+
+.MusicTracks {
+    list-style: decimal;
+    max-width: 680px;
+    margin: 1.5rem auto;
+    padding-left: 2.2rem;
+
+    font-family: var(--font-ui);
+}
+
+.MusicTrack {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+
+    margin: 0 0 1.6rem;
+}
+
+.MusicThumb {
+    flex: 0 0 auto;
+    width: 88px;
+    height: 88px;
+
+    object-fit: cover;
+    background: var(--color-surface);
+    border: 2px solid var(--color-border);
+    border-radius: var(--radius-md);
+}
+
+.MusicBody {
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+.MusicTitle {
+    font-weight: 700;
+    color: var(--color-primary-text);
+}
+
+.MusicDesc {
+    margin: 0.15rem 0 0.45rem;
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+}
+
+.MusicTrack audio {
+    display: block;
+    width: 100%;
+    max-width: 440px;
+    margin-top: 0.35rem;
+}
+
+.MusicDownload {
+    display: inline-block;
+    margin-top: 0.3rem;
+    font-size: 0.8rem;
+    color: var(--color-link);
+}
+
+@media (max-width: 600px) {
+    .MusicTracks {
+        padding-left: 1.5rem;
+    }
+
+    .MusicThumb {
+        width: 64px;
+        height: 64px;
+    }
+}

@@ -1,0 +1,52 @@
+name: Generate article index
+
+# Rebuilds data/json/articles_tag.json from the Markdown articles under
+# /articles, and refreshes each articles/<year>/<slug>/index.html from the
+# html/article_page.html template. Committed back to the branch; the pages
+# read the JSON at load time, so the archive updates with no manual edits.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "articles/**"
+      - "html/article_page.html"
+      - "py/generate_articles_json.py"
+      - ".github/workflows/generate-articles.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-article-index
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate the article index
+        run: python py/generate_articles_json.py
+
+      - name: Commit changes if anything moved
+        run: |
+          if git diff --quiet -- data/json/articles_tag.json 'articles/**/index.html'; then
+            echo "Articles are already up to date."
+            exit 0
+          fi
+
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/json/articles_tag.json 'articles/**/index.html'
+          git commit -m "Regenerate article index + pages [skip ci]"
+          git push

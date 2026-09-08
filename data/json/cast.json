@@ -2,61 +2,73 @@
   "Main Characters": [
     {
       "name": "Alex Paws",
+      "slug": "alexpaws",
       "image": "/images/cast/cast_alex.png",
       "description": "Alex Paws is a dog who lives with his owner Pedro. An ordinary dog... Yes, he is an ordinary labrador retriever. What do you expect? Umm... He likes bones and chocolate. Wait a minute! Dogs don't eat chocolate!"
     },
     {
       "name": "Pedro Perez",
+      "slug": "pedro",
       "image": "/images/cast/cast_pedro.png",
       "description": "Pedro Perez is a college student who has a dog Alex Paws."
     },
     {
       "name": "Ertle",
+      "slug": "ertle",
       "image": "/images/cast/cast_ertle.png",
       "description": "Ertle is a box turtle that hangs out with Pangil. He is not dumb; he is just slow..."
     },
     {
       "name": "Pawesome",
+      "slug": "pawesome",
       "image": "/images/cast/cast_pawesome.png",
       "description": "Pawesome is the superdog of Pangilan and beyond! Even I, the author, wonder where he came from..."
     },
     {
       "name": "???",
+      "slug": "mystery-raccoon",
       "image": "/images/cast/cast_raccoon.png",
       "description": "??? ??? ?????? ??? ????? ?? ? ??? ?????? ??? ??? ?????? ??? ????? ?? ? ??? ?????? ??? ??? ?????? ??? ? ??? ?????? ???? ??? ??? ??? ?????? ??? ????? ?? ? ??? ?????? ?? ?? ? ??? ???????? ????? ????? ???? ?? ??? ??? ?????? ??? ????? ?? ? ??? ?????? ??? ??? ?????? ??? ????? ?? ? ??? ?????? ??? ????? ?? ? ??? ? ????<br>I need to get my cleaning materials to clean these question marks! This character is full of wonder... as in you wonder who this raccoon is (that's why the question marks).<br>Lol you can't cheat by looking at the image name. I call it raccoon too!"
     },
     {
       "name": "Finnwick",
+      "slug": "finnwick",
       "image": "/images/cast/cast_finnwick.png",
       "description": "Finnwick is... finnwick"
     },
     {
       "name": "Milochitas Swiff",
+      "slug": "milochitas",
       "image": "/images/cast/cast_milochitas.png",
       "description": "Milochitas is a cheetah"
     },
     {
       "name": "Wisengrin Wolffe",
+      "slug": "wisengrin",
       "image": "/images/cast/cast_wisengrin.png",
       "description": "Wisengrin is a wolfdog"
     },
     {
       "name": "Chocolate Store Dog Employee",
+      "slug": "chocolate-store-dog",
       "image": "/images/cast/cast_chocolate_store_dog.png",
       "description": "Yum!"
     },
     {
       "name": "Evil Math \"Genius\" Dog",
+      "slug": "evil-math-genius-dog",
       "image": "/images/cast/cast_math_genius_dog.png",
       "description": "Objective is to spread innumeracy and confuse the world!!!!!!!!!!!"
     },
     {
       "name": "Zavian the Fan",
+      "slug": "zavian",
       "image": "",
       "description": "Zavian"
     },
     {
       "name": "Aldon",
+      "slug": "aldon",
       "image": "",
       "description": "Pedro's Friend"
     }
@@ -65,41 +77,49 @@
   "Animal Legends": [
     {
       "name": "Pangil the Wolf Legend",
+      "slug": "pangil",
       "image": "/images/cast/cast_pangil.png",
       "description": "Pangil is a Wolf Legend from the forest north of where Alex and Pedro lives."
     },
     {
       "name": "Katūn the Eagle Legend",
+      "slug": "katun",
       "image": "/images/cast/cast_katun.png",
       "description": "Katūn is an Eagle Legend."
     },
     {
       "name": "Taspan the Raccoon Legend",
+      "slug": "taspan",
       "image": "/images/cast/cast_pangil.png",
       "description": "Taspan is a Raccoon Legend."
     },
     {
       "name": "Orena the Rabbit Legend",
+      "slug": "orena",
       "image": "/images/cast/cast_pangil.png",
       "description": "Orena the Rabbit Legend."
     },
     {
       "name": "Nuslo the Fox Legend",
+      "slug": "nuslo",
       "image": "/images/cast/cast_nuslo.png",
       "description": "Nuslo is a Fox Legend from the south."
     },
     {
       "name": "Martan the Turtle Legend",
+      "slug": "martan",
       "image": "/images/cast/cast_pangil.png",
       "description": "Martan is a Turtle Legend from the southeast."
     },
     {
       "name": "Fortorun the Bear Legend",
+      "slug": "fortorun",
       "image": "/images/cast/cast_pangil.png",
       "description": "Fortorun is the Bear Legend from the far north."
     },
     {
       "name": "Arār the Lion Legend",
+      "slug": "arar",
       "image": "/images/cast/cast_pangil.png",
       "description": "Arār is the Lion Legend from the mainland's northeast."
     }
@@ -107,27 +127,38 @@
 
   "Wolves": [
     {
+      "name": "Wilbuch",
+      "slug": "wilbuch",
+      "image": "/images/cast/cast_wilbuch.png",
+      "description": "Wilbuch writes for the Mampulan Press."
+    },
+    {
       "name": "Marodon",
+      "slug": "marodon",
       "image": "/images/cast/cast_marodon.png",
       "description": "Marodon is a big wolf."
     },
     {
       "name": "Wilion",
+      "slug": "wilion",
       "image": "/images/cast/cast_wilion.png",
       "description": "Wilion is a fancy wolf."
     },
     {
       "name": "Wonalta",
+      "slug": "wonalta",
       "image": "/images/cast/cast_wonalta.png",
       "description": "Wonalta is a cunning wolf."
     },
     {
       "name": "Astimok",
+      "slug": "astimok",
       "image": "/images/cast/cast_astimok.png",
       "description": "Astimok is a wolf who loves hugs."
     },
     {
       "name": "Wounsar",
+      "slug": "wounsar",
       "image": "/images/cast/cast_wounsar.png",
       "description": "Wounsar is a tough wolf."
     }
@@ -136,26 +167,31 @@
   "Foxes": [
     {
       "name": "Fenard",
+      "slug": "fenard",
       "image": "/images/cast/cast_fenard.png",
       "description": "Fenard is a fox who only speaks the Fox native tongue."
     },
     {
       "name": "Fefur",
+      "slug": "fefur",
       "image": "/images/cast/cast_fefur.png",
       "description": "Fefur is a fox who is the translator for Fenard."
     },
     {
       "name": "Fernelius",
+      "slug": "fernelius",
       "image": "",
       "description": "Fox"
     },
     {
       "name": "Foundrel",
+      "slug": "foundrel",
       "image": "",
       "description": ""
     },
     {
       "name": "Reynard",
+      "slug": "reynard",
       "image": "",
       "description": ""
     }
@@ -164,36 +200,43 @@
   "Eagles": [
     {
       "name": "Agatan",
+      "slug": "agatan",
       "image": "/images/cast/cast_agatan.png",
       "description": "Agatan. Yeah."
     },
     {
       "name": "Agala",
+      "slug": "agala",
       "image": "",
       "description": ""
     },
     {
       "name": "Ester",
+      "slug": "ester",
       "image": "",
       "description": ""
     },
     {
       "name": "Egbert",
+      "slug": "egbert",
       "image": "",
       "description": ""
     },
     {
       "name": "Abisin",
+      "slug": "abisin",
       "image": "",
       "description": ""
     },
     {
       "name": "Eris",
+      "slug": "eris",
       "image": "",
       "description": ""
     },
     {
       "name": "Elida",
+      "slug": "elida",
       "image": "",
       "description": ""
     }
@@ -201,22 +244,26 @@
 
   "Raccoons": [
     {
-      "name": "Ravarice",
-      "image": "",
+      "name": "Ravarice Quickpaw",
+      "slug": "ravarice",
+      "image": "/images/cast/cast_ravarice.png",
       "description": ""
     },
     {
       "name": "Relingkan",
+      "slug": "relingkan",
       "image": "",
       "description": ""
     },
     {
       "name": "Rondo",
+      "slug": "rondo",
       "image": "",
       "description": ""
     },
     {
       "name": "Rosco",
+      "slug": "rosco",
       "image": "",
       "description": ""
     }

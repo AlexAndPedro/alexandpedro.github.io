@@ -1,38 +1,107 @@
+// Renders one article. Every article page is an identical copy of
+// html/article_page.html living at /articles/<year>/<slug>/, with an
+// index.md next to it holding the front matter + body. This script reads
+// that Markdown and fills the newspaper template.
+
 document.addEventListener("DOMContentLoaded", async () => {
+
+    const container = document.getElementById("ArticleContainer");
+
+    if (!container) {
+        return;
+    }
+
 
     // Load the article HTML template
     const templateResponse = await fetch("/html/article_template.html");
-    const template = await templateResponse.text();
-
-    document.getElementById("ArticleContainer").innerHTML = template;
+    container.innerHTML = await templateResponse.text();
 
 
-    // Get article information from the HTML body
-    const articleName = document.body.dataset.article;
-    const articleYear = document.body.dataset.year;
+    // Load this article's Markdown (sits next to the page)
+    let markdown;
+
+    try {
+        const response = await fetch("index.md");
+
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+        }
+
+        markdown = await response.text();
+    } catch (error) {
+        console.error("Article: could not load index.md:", error);
+        container.innerHTML = "<p>This article could not be loaded.</p>";
+        return;
+    }
 
 
-    // Load Markdown article
-    const articleResponse = await fetch(
-        `/articles/${articleYear}/md/${articleName}.md`
-    );
-
-    const markdown = await articleResponse.text();
-
-
-    // Parse Markdown front matter
+    // Parse front matter, convert the body, fill the template
     const parsed = parseFrontMatter(markdown);
-
-
-    // Convert Markdown body into HTML
     const article = parsed.data;
     article.body = marked.parse(parsed.content);
 
+    if (article.headline) {
+        document.title = `Alex and Pedro | ${article.headline}`;
+    }
 
-    // Fill the template
-    renderArticle(article);
+    // Link the byline author to their cast page, if they have one.
+    const authorUrl = window.AuthorLink
+        ? await window.AuthorLink.urlFor(article.author)
+        : null;
 
+    renderArticle(article, authorUrl);
+
+    renderArticleTags(article.tags);
 });
+
+
+function escapeHtml(value) {
+    return String(value)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;");
+}
+
+
+// ------------------------------
+// Article tags - straight from this article's own front matter
+// ("tags: animals, dog, wolf")
+// ------------------------------
+
+function renderArticleTags(tagString) {
+
+    const container = document.querySelector(".ArticleTags");
+    const list = document.querySelector(".ArticleTagsList");
+
+    if (!container || !list) {
+        return;
+    }
+
+
+    const tags = (tagString || "")
+        .split(",")
+        .map(tag => tag.trim())
+        .filter(tag => tag.length > 0);
+
+    if (tags.length === 0) {
+        return;
+    }
+
+
+    list.innerHTML = "";
+
+    for (const tag of tags) {
+
+        const link = document.createElement("a");
+        link.className = "ArticleTag";
+        link.href = `/tag.html?type=articles&tags=${encodeURIComponent(tag)}`;
+        link.textContent = tag;
+
+        list.appendChild(link);
+    }
+
+    container.hidden = false;
+}
 
 
 // ------------------------------
@@ -53,7 +122,7 @@ function parseFrontMatter(markdown) {
 
 
     // Find closing ---
-    const end = markdown.indexOf("---", 3);
+    const end = markdown.indexOf("\n---", 3);
 
     if (end === -1) {
         return {
@@ -96,7 +165,8 @@ function parseFrontMatter(markdown) {
     return {
         data: data,
         content: markdown
-            .substring(end + 3)
+            .substring(end + 4)
+            .replace(/^-+\s*/, "")
             .trim()
     };
 
@@ -122,7 +192,7 @@ function formatArticleDate(dateString) {
 // Populate article template
 // ------------------------------
 
-function renderArticle(article) {
+function renderArticle(article, authorUrl) {
 
     document.querySelector(".NewsMasthead").textContent =
         article.masthead || "THE MAMPULAN TIMES";
@@ -154,10 +224,20 @@ function renderArticle(article) {
         article.headline || "";
 
 
-    document.querySelector(".ArticleAuthor").textContent =
-        article.authorTitle
-            ? `By ${article.author}, ${article.authorTitle}`
-            : article.author || "";
+    const authorEl = document.querySelector(".ArticleAuthor");
+    const authorName = article.author || "";
+
+    const authorMarkup = authorUrl && authorName
+        ? `<a href="${authorUrl.replace(/"/g, "&quot;")}">${escapeHtml(authorName)}</a>`
+        : escapeHtml(authorName);
+
+    if (!authorName) {
+        authorEl.textContent = "";
+    } else if (article.authorTitle) {
+        authorEl.innerHTML = `By ${authorMarkup}, ${escapeHtml(article.authorTitle)}`;
+    } else {
+        authorEl.innerHTML = authorMarkup;
+    }
 
 
     document.querySelector(".NewsBody").innerHTML =

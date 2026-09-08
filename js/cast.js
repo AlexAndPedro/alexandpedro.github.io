@@ -59,8 +59,18 @@ fetch("/data/json/cast.json")
         article.appendChild(name);
         article.appendChild(description);
 
-        // Put character card into grid
-        grid.appendChild(article);
+        // Every character links to its profile on the shared page,
+        // /cast/character.html?c=<slug> (see js/character_reader.js).
+        if (character.slug) {
+          const link = document.createElement("a");
+          link.className = "PageArticleLink";
+          link.href =
+            `/cast/character.html?c=${encodeURIComponent(character.slug)}`;
+          link.appendChild(article);
+          grid.appendChild(link);
+        } else {
+          grid.appendChild(article);
+        }
       }
 
       castContainer.appendChild(grid);

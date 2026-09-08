@@ -36,11 +36,11 @@ SITE_DIR = SCRIPT_DIR.parent
 ARTWORK_DIR = SITE_DIR / "images" / "artwork"
 
 # JSON directory:
-# my-website/json/
-JSON_DIR = SITE_DIR / "json"
+# my-website/data/json/
+JSON_DIR = SITE_DIR / "data" / "json"
 
 # JSON file:
-# my-website/json/artwork.json
+# my-website/data/json/artwork.json
 OUTPUT_FILE = JSON_DIR / "artwork.json"
 
 

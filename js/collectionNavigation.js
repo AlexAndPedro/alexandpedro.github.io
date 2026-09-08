@@ -3,7 +3,7 @@ const currentCollection = window.location.pathname
     .pop()
     .replace(".html", "");
 
-fetch("../json/artwork.json")
+fetch("/data/json/artwork.json")
     .then(response => {
         if (!response.ok) {
             throw new Error(

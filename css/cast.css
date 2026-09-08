@@ -17,12 +17,12 @@
     padding: var(--menu-padding);
     margin-bottom: 30px;
 
-    background: #99ccff;
+    background: var(--color-primary-light);
 
-    border: 4px solid #222;
+    border: 4px solid var(--color-ink);
     border-radius: 18px;
 
-    box-shadow: 7px 7px 0 #222;
+    box-shadow: 7px 7px 0 var(--color-ink);
 
     line-height: 1.6;
 
@@ -33,7 +33,19 @@
 
 .PageArticle:hover {
     transform: translate(-3px, -3px);
-    box-shadow: 10px 10px 0 #222;
+    box-shadow: 10px 10px 0 var(--color-ink);
+}
+
+/* A character card linked to its profile page (js/cast.js). display:
+   contents lets the .PageArticle stay the grid item. */
+.PageArticleLink {
+    display: contents;
+    color: inherit;
+    text-decoration: none;
+}
+
+.PageArticleLink:hover .castName {
+    text-decoration: underline;
 }
 
 
@@ -47,12 +59,12 @@
 
     object-fit: contain;
 
-    background: white;
+    background: var(--color-surface);
 
-    border: 4px solid #222;
+    border: 4px solid var(--color-ink);
     border-radius: 14px;
 
-    box-shadow: 4px 4px 0 #222;
+    box-shadow: 4px 4px 0 var(--color-ink);
 }
 
 
@@ -68,7 +80,7 @@
     font-size: 2rem;
     line-height: 1.1;
 
-    color: #222;
+    color: var(--color-text);
 }
 
 .castName {
@@ -85,6 +97,7 @@
     line-height: 1.6;
 }
 
+/* Per-faction accent colours - intentionally outside the theme palette */
 .animal-legends {
     background: #8b5fbf;
 }
@@ -118,14 +131,14 @@
 
         padding: 15px;
 
-        box-shadow: 5px 5px 0 #222;
+        box-shadow: 5px 5px 0 var(--color-ink);
 
         text-align: center;
     }
 
     .PageArticle:hover {
         transform: translate(-2px, -2px);
-        box-shadow: 7px 7px 0 #222;
+        box-shadow: 7px 7px 0 var(--color-ink);
     }
 
     .castImage {
@@ -140,7 +153,291 @@
 
     .PageSection {
         font-size: 1.5rem;
-        box-shadow: 5px 5px 0 #222;
+        box-shadow: 5px 5px 0 var(--color-ink);
+    }
+}
+
+
+/* ============================================================
+   CHARACTER PROFILE PAGES   (/cast/character.html?c=<slug>)
+
+   The cast grid above is the overview; these rules dress the
+   single-character pages: a wiki-style infobox that floats
+   beside the biography, a pull quote, and section blocks.
+
+   Everything is drawn from the semantic theme tokens in
+   index.css, so it also follows dark-mode.css with no extra
+   work and never introduces an off-palette colour.
+   ============================================================ */
+
+.container {
+    max-width: 860px;
+    margin: 0 auto;
+
+    line-height: 1.65;
+    color: var(--color-text);
+}
+
+/* "Back to Cast" link at the top of every profile (character_template.html) */
+.CharacterBack {
+    display: inline-block;
+    margin-bottom: 1rem;
+
+    font-family: var(--font-ui);
+    font-weight: 700;
+    color: var(--color-primary-text);
+}
+
+.CharacterBack:hover {
+    text-decoration: underline;
+}
+
+/* Clear the floated infobox so the footer / page end never rides up. */
+.container::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+
+/* ----- Infobox -------------------------------------------------- */
+
+.CharacterInfobox {
+    float: right;
+    width: 320px;
+    max-width: 42%;
+    margin: 0.25rem 0 1.5rem 1.75rem;
+
+    border-collapse: separate;
+    border-spacing: 0;
+
+    background: var(--color-paper);
+    border: 4px solid var(--color-ink);
+    border-radius: 16px;
+    box-shadow: 6px 6px 0 var(--color-ink);
+    overflow: hidden;
+
+    font-family: var(--font-ui);
+    font-size: 0.95rem;
+}
+
+.CharacterInfobox td {
+    padding: 0.5rem 0.75rem;
+    vertical-align: top;
+}
+
+/* Name banner */
+.CharacterInfobox .CharacterInfoboxName {
+    padding: 0.7rem 0.75rem;
+
+    background: var(--color-primary);
+    color: var(--color-text-light);
+
+    font-weight: 800;
+    font-size: 1.35rem;
+    line-height: 1.15;
+    letter-spacing: 0.5px;
+    text-align: center;
+}
+
+/* Portrait */
+.CharacterInfobox img {
+    display: block;
+    width: 100%;
+    height: auto;
+
+    background: var(--color-surface);
+    border: 3px solid var(--color-ink);
+    border-radius: 10px;
+}
+
+/* "Information" divider */
+.CharacterInfobox .CharacterInfoboxInfoTitle {
+    background: var(--color-primary-dark);
+    color: var(--color-text-light);
+
+    font-weight: 700;
+    font-size: 0.78rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/* Label / value rows */
+.CharacterInfobox .CharacterInfoboxInfo td {
+    border-top: 1px solid var(--color-hairline);
+}
+
+.CharacterInfobox .CharacterInfoboxInfo td:first-child {
+    width: 34%;
+    background: color-mix(in srgb, var(--color-primary) 12%, transparent);
+}
+
+.CharacterInfobox .CharacterInfoboxInfo b {
+    font-weight: 700;
+}
+
+
+/* ----- Pull quote -------------------------------------------------- */
+
+.card-block {
+    margin: 0 0 1.75rem;
+    padding: 1rem 1.25rem;
+
+    background: color-mix(in srgb, var(--color-accent) 16%, transparent);
+    border-left: 6px solid var(--color-accent);
+    border-radius: 0 12px 12px 0;
+}
+
+.card-block h3 {
+    margin: 0;
+
+    font-size: 1.3rem;
+    font-weight: 600;
+    line-height: 1.4;
+    color: var(--color-text);
+}
+
+
+/* ----- Body: headings, paragraphs, relationships ----------------- */
+
+.container .PageSection {
+    margin: 2.25rem 0 1rem;
+}
+
+/* Profile sub-headings ("Present Day", relationship names, ...).
+   The !important also overrides a stray inline colour on one <h3>. */
+.container > h3 {
+    margin: 1.75rem 0 0.5rem;
+    font-family: var(--font-ui);
+    font-size: 1.2rem;
+    color: var(--color-primary-text) !important;
+}
+
+.container h5 {
+    margin: 1.5rem 0 0.35rem;
+    font-family: var(--font-ui);
+    font-size: 1.1rem;
+    color: var(--color-primary-text);
+}
+
+.container h5 a {
+    color: var(--color-link);
+}
+
+.container p {
+    margin: 0 0 0.9rem;
+    max-width: 68ch;
+}
+
+/* Bootstrap-leftover spacing utilities used in the profile markup */
+.mb-2 { margin-bottom: 0.9rem; }
+.mb-4 { margin-bottom: 1.75rem; }
+.text-center { text-align: center; }
+
+/* Trivia lines use <i class="fa-arrow-right">, but Font Awesome is not
+   loaded here - give the marker a themed glyph so each line still reads
+   as a bullet. */
+.container .fa-arrow-right::before {
+    content: "\27A4";
+    display: inline-block;
+    margin-right: 0.5rem;
+    color: var(--color-primary-text);
+}
+
+
+/* ----- Markdown-rendered biography (.characterBody) --------------
+   js/character_reader.js drops marked() output in here, so style the
+   plain tags it produces to match the rest of the profile. */
+
+.characterBody {
+    margin-top: 1.5rem;
+}
+
+/* "## Section" -> the same chevron plate as .PageSection elsewhere. */
+.characterBody h2 {
+    display: block;
+    width: fit-content;
+    margin: 2.25rem 0 1rem;
+    padding: 10px 45px;
+
+    background: var(--color-primary);
+    color: var(--color-text-light);
+
+    font-size: 1.4rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+
+    clip-path: polygon(
+        0 0,
+        100% 0,
+        calc(100% - 16px) 50%,
+        100% 100%,
+        0 100%,
+        16px 50%
+    );
+}
+
+/* "### Name" -> relationship / sub-section heading. */
+.characterBody h3 {
+    margin: 1.6rem 0 0.35rem;
+    font-family: var(--font-ui);
+    font-size: 1.15rem;
+    color: var(--color-primary-text);
+}
+
+.characterBody a {
+    color: var(--color-link);
+}
+
+.characterBody ul {
+    max-width: 68ch;
+    margin: 0 0 1rem;
+    padding-left: 1.4rem;
+}
+
+.characterBody li {
+    margin: 0.3rem 0;
+}
+
+.characterBody li::marker {
+    color: var(--color-primary-text);
+}
+
+.characterBody blockquote {
+    margin: 0 0 1rem;
+    padding: 0.5rem 1rem;
+
+    border-left: 5px solid var(--color-accent);
+    background: color-mix(in srgb, var(--color-accent) 12%, transparent);
+    font-style: italic;
+}
+
+
+/* ----- Mobile -------------------------------------------------- */
+
+@media (max-width: 650px) {
+
+    .CharacterInfobox {
+        float: none;
+        width: 100%;
+        max-width: 100%;
+        margin: 0 0 1.5rem;
+    }
+
+    .container p,
+    .characterBody ul {
+        max-width: none;
+    }
+
+    .container .PageSection {
+        width: auto !important;
+    }
+
+    .characterBody h2 {
+        font-size: 1.15rem;
+        padding: 8px 34px;
     }
 }
 

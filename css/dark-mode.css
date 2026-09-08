@@ -1,138 +1,167 @@
-:root {
-  --color-background-dark-mode: #003264;
-  --color-surface-dark-mode: #001c39;
-  --color-text-dark-mode: #ffffff;
-  --color-border-dark-mode: #ffffff;
+/* =====================================================
+   DARK MODE
+   Toggled by ToggleDarkMode() (js/ToggleDarkMode.js), which adds
+   .dark-mode to .gradient and .PageBody and remembers the choice
+   in localStorage.
+
+   The whole theme is one job: remap the semantic colour tokens
+   from index.css to the dark-mode palette (also defined in
+   index.css :root as --color-*-dark). Every component already
+   paints itself with those tokens, so it follows automatically.
+
+   Each non-default colour theme gets its OWN full dark palette in
+   the .dark-mode.theme-<name> blocks (surfaces + hue), so
+   "Alex dark", "Ertle dark" and "Pangil dark" each look coherent
+   rather than just a re-tinted blue.
+
+   The aged-newspaper surface keeps its own dark rules in
+   article.css.
+   ===================================================== */
+
+.gradient.dark-mode,
+.PageBody.dark-mode {
+	--color-primary: var(--color-primary-fill-dark);
+	--color-primary-text: var(--color-primary-on-dark);
+	--color-primary-light: var(--color-primary-light-dark);
+
+	/* Links sit on the dark surface now, not white - brighten so they
+	   stay readable (same blue as --color-primary-text). */
+	--color-link: var(--color-primary-on-dark);
+
+	--color-background: var(--color-background-dark);
+	--color-surface: var(--color-surface-dark);
+	--color-paper: var(--color-surface-dark-alt);
+
+	--color-text: var(--color-text-dark);
+	--color-text-muted: var(--color-text-muted-dark);
+
+	--color-border: var(--color-border-dark);
+	--color-ink: var(--color-ink-dark);
+	--color-hairline: var(--color-hairline-dark);
+	--color-highlight: var(--color-highlight-dark);
+
+	--color-shadow: var(--color-shadow-dark);
 }
 
+
+/* Non-default themes in dark mode. Higher specificity than either
+   .dark-mode or .theme-<name> alone, so these win when both are on. */
+
+.gradient.dark-mode.theme-alex,
+.PageBody.dark-mode.theme-alex {
+	--color-primary: var(--amber-fill-dark);
+	--color-primary-text: var(--amber-on-dark);
+	--color-primary-light: var(--amber-tint-dark);
+	--color-link: var(--amber-on-dark);
+
+	--color-background: var(--amber-bg-dark);
+	--color-surface: var(--amber-surf-dark);
+	--color-paper: var(--amber-surf-alt-dark);
+
+	--color-text: var(--amber-text-dark);
+	--color-text-muted: var(--amber-text-muted-dark);
+
+	--color-border: var(--amber-border-dark);
+	--color-ink: var(--amber-ink-dark);
+	--color-hairline: var(--amber-hairline-dark);
+	--color-highlight: var(--amber-highlight-dark);
+}
+
+.gradient.dark-mode.theme-ertle,
+.PageBody.dark-mode.theme-ertle {
+	--color-primary: var(--green-fill-dark);
+	--color-primary-text: var(--green-on-dark);
+	--color-primary-light: var(--green-tint-dark);
+	--color-link: var(--green-on-dark);
+
+	--color-background: var(--green-bg-dark);
+	--color-surface: var(--green-surf-dark);
+	--color-paper: var(--green-surf-alt-dark);
+
+	--color-text: var(--green-text-dark);
+	--color-text-muted: var(--green-text-muted-dark);
+
+	--color-border: var(--green-border-dark);
+	--color-ink: var(--green-ink-dark);
+	--color-hairline: var(--green-hairline-dark);
+	--color-highlight: var(--green-highlight-dark);
+}
+
+.gradient.dark-mode.theme-pangil,
+.PageBody.dark-mode.theme-pangil {
+	--color-primary: var(--grey-fill-dark);
+	--color-primary-text: var(--grey-on-dark);
+	--color-primary-light: var(--grey-tint-dark);
+	--color-link: var(--red-on-dark);
+
+	--color-background: var(--grey-bg-dark);
+	--color-surface: var(--grey-surf-dark);
+	--color-paper: var(--grey-surf-alt-dark);
+
+	--color-text: var(--grey-text-dark);
+	--color-text-muted: var(--grey-text-muted-dark);
+
+	--color-border: var(--grey-border-dark);
+	--color-ink: var(--grey-ink-dark);
+	--color-hairline: var(--grey-hairline-dark);
+	--color-highlight: var(--grey-highlight-dark);
+}
+
+
+/* ----- Page backdrop -----
+   These reference the SEMANTIC tokens (already remapped above), so the
+   per-theme surfaces flow through. */
+
+.gradient.dark-mode {
+	background-color: var(--color-background);
+	color: var(--color-text);
+}
+
+/* Flip the sketched background texture to a light-on-dark line art */
 .gradient.dark-mode::before {
-  filter: invert(1);
+	filter: invert(1);
 }
 
 .PageBody.dark-mode {
-	background-color: #001c39;
-	color: var(--color-text-dark-mode);
-  }
-.gradient.dark-mode {
-	background-color: #003264;
-	color: var(--color-text-dark-mode);
-}
-
-.PageBody.dark-mode .ComicTitle {
-	color: var(--color-text-dark-mode);
-}
-
-.PageBody.dark-mode .Navigation {
-	border: 2px solid var(--color-border-dark-mode);
-}
-
-.PageContent.dark-mode a:link,
-.PageContent.dark-mode a:visited,
-.PageBanner.dark-mode a:link,
-.PageBanner.dark-mode a:visited {
-	color: var(--color-text-dark-mode) ;
-}
-
-.PageBody.dark-mode .PageArticle {
-    color: var(--color-text-dark-mode) ;
-}
-
-.PageBody.dark-mode a {
-    color: var(--color-text-dark-mode) ;
-}
-
-.PageBody.dark-mode a:link,
-.PageBody.dark-mode a:visited {
-    color: var(--color-text-dark-mode) ;
-}
-
-.PageBody.dark-mode .ArtistCard {
-	background-color:#001c39;
-}
-
-.PageBody.dark-mode #ArchivePage .archive-title a:hover {
-    background: #0d3253;
-    color: #0055aa;
-    text-decoration: none;
+	background-color: var(--color-surface);
+	color: var(--color-text);
 }
 
 
+/* -----------------------------------------------------
+   Targeted fixes for components that hard-code a light
+   colour in index.css. Kept on semantic tokens so every
+   theme's dark palette carries through.
+   ----------------------------------------------------- */
 
-/* =========================
-   COMIC ARCHIVE - DARK MODE
-   ========================= */
-
-.PageBody.dark-mode .PageContent h1 {
-    color: var(--color-text-dark-mode);
-    border-color: var(--color-border-dark-mode);
-
-    /* Replace the light gray shadow */
-    box-shadow: 5px 5px 0 #0055aa;
+/* Form-field placeholder points at --color-primary-dark (a deep fill). */
+.PageBody.dark-mode ::placeholder {
+	color: var(--color-text-muted);
 }
 
-
-/* Archive table */
-.PageBody.dark-mode .PageContent table {
-    background-color: transparent;
-    border-color: var(--color-border-dark-mode);
-
-    box-shadow: 5px 5px 0 #0055aa;
+/* Engineering card title is drawn in --color-border by design. */
+.PageBody.dark-mode .CivilEngineeringCard h2 {
+	color: var(--color-primary-text);
 }
 
-
-/* Archive rows */
-.PageBody.dark-mode .PageContent table tr {
-    background-color: var(--color-surface-dark-mode);
+/* Comic-archive frames and the gallery hard-code a pale background. */
+.PageBody.dark-mode .comicarchiveframe,
+.PageBody.dark-mode .gallery a {
+	background: var(--color-paper);
 }
 
-
-/* Dashed dividers */
-.PageBody.dark-mode .PageContent table tr + tr td {
-    border-top-color: #42627e;
+/* .button:hover / :active hard-code a white background in index.css. */
+.gradient.dark-mode button:hover,
+.PageBody.dark-mode button:hover {
+	color: var(--color-primary-text);
+	background-color: var(--color-paper);
 }
 
-
-/* Dates */
-.PageBody.dark-mode .PageContent td.archive-date {
-    color: #b8c7d6;
-    border-right-color: var(--color-border-dark-mode);
+/* The guide-dog speech bubble is a literal white "paper note". */
+.PageBody.dark-mode .DogWrap {
+	color: var(--color-text);
 }
 
-
-/* Comic titles */
-.PageBody.dark-mode .PageContent td.archive-title a,
-.PageBody.dark-mode .PageContent td.archive-title a:link,
-.PageBody.dark-mode .PageContent td.archive-title a:visited {
-    color: var(--color-text-dark-mode);
-}
-
-
-/* Hover */
-.PageBody.dark-mode .PageContent table tr:hover {
-    background-color: #0d3253;
-
-    box-shadow: 6px 6px 0 #0055aa;
-}
-
-
-/* Hover link */
-.PageBody.dark-mode .PageContent table tr:hover .archive-title a {
-    color: #ffffff;
-    text-decoration: underline;
-}
-
-
-/* =========================
-   MOBILE
-   ========================= */
-
-@media (max-width: 600px) {
-
-    .PageBody.dark-mode .PageContent h1 {
-        box-shadow: 3px 3px 0 #0055aa;
-    }
-
-    .PageBody.dark-mode .PageContent table {
-        box-shadow: 3px 3px 0 #0055aa;
-    }
+.PageBody.dark-mode .DogWrap .DogText {
+	background: var(--color-paper);
 }

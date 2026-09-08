@@ -1,0 +1,439 @@
+[
+  {
+    "name": "Ziggy",
+    "image": "/images/artists/ziggy.webp",
+    "alt": "Ziggy",
+    "description": "Love the art he shares",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/wolfbard.art" }
+    ]
+  },
+  {
+    "name": "Richard Williams",
+    "image": "/images/artists/richardwilliams.jpg",
+    "alt": "Richard Williams",
+    "description": "Made Animator's Survival Kit.",
+    "links": [
+      { "label": "Website", "url": "http://www.theanimatorssurvivalkit.com/" }
+    ]
+  },
+  {
+    "name": "Aaron Blaise",
+    "image": "/images/artists/aaron_blaise.png",
+    "alt": "Aaron Blaise",
+    "description": "He draws animals lol. Brother Bear etc.",
+    "links": [
+      { "label": "Website", "url": "https://creatureartteacher.com/" }
+    ]
+  },
+  {
+    "name": "Eric Goldberg",
+    "image": "/images/artists/Eric_Goldberg.jpg",
+    "alt": "Eric Goldberg",
+    "description": "Made Character Animation Crash Course!",
+    "links": []
+  },
+  {
+    "name": "James Baxter",
+    "image": "/images/artists/James_Baxter.png",
+    "alt": "James Baxter",
+    "description": "Did you see the animation he did? Wow!",
+    "links": [
+      { "label": "YouTube", "url": "https://www.youtube.com/channel/UCt2iDOfRW1WWu5SxgJJpP1g" }
+    ]
+  },
+  {
+    "name": "Patt Jewanarom",
+    "image": "/images/artists/patt_jewanarom.webp",
+    "alt": "Patt Jewanarom",
+    "description": "",
+    "links": [
+      { "label": "Twitter", "url": "https://twitter.com/PattJewanarom" },
+      { "label": "Bluesky", "url": "https://bsky.app/profile/pattkrapow.bsky.social" }
+    ]
+  },
+  {
+    "name": "Kevin Parry",
+    "image": "/images/artists/kevin_parry.jpg",
+    "alt": "Kevin Parry",
+    "description": "",
+    "links": [
+      { "label": "Website", "url": "https://kevinparry.tv/" }
+    ]
+  },
+  {
+    "name": "kekeflipnote",
+    "image": "/images/artists/kekeflipnote.webp",
+    "alt": "kekeflipnote",
+    "description": "",
+    "links": [
+      { "label": "Tumblr", "url": "https://k-eke.tumblr.com/" },
+      { "label": "Twitter", "url": "https://twitter.com/Kekeflipnote" },
+      { "label": "Bluesky", "url": "https://bsky.app/profile/kekeflipnote.bsky.social" }
+    ]
+  },
+  {
+    "name": "DeadlyComics",
+    "image": "/images/artists/deadlycomics.webp",
+    "alt": "DeadlyComics",
+    "description": "",
+    "links": [
+      { "label": "Website", "url": "https://www.deadlycomics.com/" }
+    ]
+  },
+  {
+    "name": "Teagan Gavet",
+    "image": "/images/artists/teagan_gavet.webp",
+    "alt": "Teagan Gavet",
+    "description": "",
+    "links": [
+      { "label": "Website", "url": "https://www.orensforge.com/" },
+      { "label": "Bluesky", "url": "https://bsky.app/profile/teagan.bsky.social" }
+    ]
+  },
+  {
+    "name": "Derek Laufman",
+    "image": "/images/artists/derek_laufman.webp",
+    "alt": "Derek Laufman",
+    "description": "",
+    "links": [
+      { "label": "Website", "url": "https://www.dereklaufman.com/" },
+      { "label": "Bluesky", "url": "https://bsky.app/profile/laufman.bsky.social/" }
+    ]
+  },
+  {
+    "name": "Darren Close",
+    "image": "/images/artists/darren_close.webp",
+    "alt": "Darren Close",
+    "description": "",
+    "links": [
+      { "label": "Website", "url": "https://killeroo.bigcartel.com/" },
+      { "label": "Bluesky", "url": "https://bsky.app/profile/killeroo.bsky.social" }
+    ]
+  },
+  {
+    "name": "Greenface",
+    "image": "/images/artists/greenface.webp",
+    "alt": "Greenface",
+    "description": "",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/greenface.bsky.social" }
+    ]
+  },
+  {
+    "name": "Tac O'Cat",
+    "image": "/images/artists/tacocat.webp",
+    "alt": "Tac O'Cat",
+    "description": "",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/did:plc:bpkhiwfroqgyulefb67m4x7u" }
+    ]
+  },
+  {
+    "name": "@samsonsilvo",
+    "image": "/images/artists/samsonsilvo.webp",
+    "alt": "@samsonsilvo",
+    "description": "",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/samsonsilvo.bsky.social" }
+    ]
+  },
+  {
+    "name": "Serarel",
+    "image": "/images/artists/serarel.webp",
+    "alt": "Serarel",
+    "description": "",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/serarel.bsky.social" }
+    ]
+  },
+  {
+    "name": "Tristan Yuvienco",
+    "image": "/images/artists/tristan_yuvienco.webp",
+    "alt": "Tristan Yuvienco",
+    "description": "",
+    "links": [
+      { "label": "Website", "url": "https://www.trisketched.com/" }
+    ]
+  },
+  {
+    "name": "Piti Yindee",
+    "image": "/images/artists/piti_yindee.webp",
+    "alt": "Piti Yindee",
+    "description": "The name's Hank!",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/samsonsilvo.bsky.social" }
+    ]
+  },
+  {
+    "name": "Jeannette Arroyo",
+    "image": "/images/artists/jeannette_arroyo.webp",
+    "alt": "Jeannette Arroyo",
+    "description": "",
+    "links": [
+      { "label": "Website", "url": "http://jeannette-arroyo.com/" },
+      { "label": "Bluesky", "url": "https://bsky.app/profile/jeannettearroyo.bsky.social" }
+    ]
+  },
+  {
+    "name": "Oscar Martin",
+    "image": "/images/artists/oscar_martin.jpeg",
+    "alt": "Oscar Martin",
+    "description": "He made Solo. Nice comic! (Intended for adult audiences though so don't read if you're not old enough!)",
+    "links": [
+      { "label": "ArtStation", "url": "https://www.artstation.com/oscar_martin" }
+    ]
+  },
+  {
+    "name": "Feeves",
+    "image": "/images/artists/feeves.webp",
+    "alt": "Feeves",
+    "description": "",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/feeves.bsky.social" }
+    ]
+  },
+  {
+    "name": "Jen!",
+    "image": "/images/artists/jen.webp",
+    "alt": "Jen",
+    "description": "",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/did:plc:qs3jpenalx5bzajxhoh3gqvu" }
+    ]
+  },
+  {
+    "name": "Laphin",
+    "image": "/images/artists/laphin.webp",
+    "alt": "Laphin",
+    "description": "Good voice actor! Guy who voiced my character Pangil. Heard him in The Jam Cave on Youtube and then on a Five Night's at Freddy's fan animation. Cool guy.",
+    "links": [
+      { "label": "YouTube", "url": "https://www.youtube.com/user/CharacterVoice" }
+    ]
+  },
+  {
+    "name": "Eloediel",
+    "image": "/images/artists/eloediel.webp",
+    "alt": "Eloediel",
+    "description": "Voice actor for Sherriff Todd Hayseed by Piemations and I love it!",
+    "links": [
+      { "label": "YouTube", "url": "https://www.youtube.com/channel/UCf_awwbd0T94BN74FeuUUCA" }
+    ]
+  },
+  {
+    "name": "Cats 'n' Briefs",
+    "image": "/images/artists/cats_n_briefs.webp",
+    "alt": "Cats 'n' Briefs",
+    "description": "Cute cartoony art!",
+    "links": [
+      { "label": "Website *Warning 18+ Contents!*", "url": "https://catsnbriefs.me/" }
+    ]
+  },
+  {
+    "name": "RNorthex",
+    "image": "/images/artists/rnorthex.webp",
+    "alt": "RNorthex",
+    "description": "Cute!",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/did:plc:d72hvy2yc7xhmaej2qb5fwlp" }
+    ]
+  },
+  {
+    "name": "Johnny The Cheesy",
+    "image": "/images/artists/johnny_the_cheesy.webp",
+    "alt": "Johnny The Cheesy",
+    "description": "Cute!",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/johnnythecheesy.bsky.social" }
+    ]
+  },
+  {
+    "name": "keesh",
+    "image": "/images/artists/keesh.webp",
+    "alt": "keesh",
+    "description": "Cute!",
+    "links": [
+      { "label": "Carrd", "url": "https://keeshkeesh.carrd.co/" }
+    ]
+  },
+  {
+    "name": "Taboose",
+    "image": "/images/artists/taboose.webp",
+    "alt": "Taboose",
+    "description": "Cute!",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/jwbalsley.bsky.social" }
+    ]
+  },
+  {
+    "name": "Ochi",
+    "image": "/images/artists/ochi.webp",
+    "alt": "Ochi",
+    "description": "Cute!",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/ochimonkey.bsky.social" }
+    ]
+  },
+  {
+    "name": "Oiruse",
+    "image": "/images/artists/oiruse.png",
+    "alt": "Oiruse",
+    "description": "Cute!",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/oiruse.bsky.social" }
+    ]
+  },
+  {
+    "name": "Waffles",
+    "image": "/images/artists/waffles.webp",
+    "alt": "Waffles",
+    "description": "Cute!",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/cameronblacktd.bsky.social" }
+    ]
+  },
+  {
+    "name": "Nikola",
+    "image": "/images/artists/nikola.webp",
+    "alt": "Nikola",
+    "description": "Cute!",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/coyoteesquire.bsky.social" }
+    ]
+  },
+  {
+    "name": "Zimt",
+    "image": "/images/artists/zimt.webp",
+    "alt": "Zimt",
+    "description": "Love the characters and the world!",
+    "links": [
+      { "label": "Carrd", "url": "https://zimthandmade.carrd.co/" }
+    ]
+  },
+  {
+    "name": "Ye",
+    "image": "/images/artists/ye.webp",
+    "alt": "Ye",
+    "description": "Cute!",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/yeaunganimation.bsky.social" }
+    ]
+  },
+  {
+    "name": "Daxter Dingo",
+    "image": "/images/artists/daxter.webp",
+    "alt": "Daxter Dingo",
+    "description": "Cute!",
+    "links": [
+      { "label": "Bluesky *Warning 18+ Contents!*", "url": "https://bsky.app/profile/daxterdingo.bsky.social" }
+    ]
+  },
+  {
+    "name": "Ed",
+    "image": "/images/artists/ed.jpg",
+    "alt": "Ed",
+    "description": "Cute!",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/did:plc:nnmzw4w56opxga6xruarihuf" }
+    ]
+  },
+  {
+    "name": "orf",
+    "image": "/images/artists/orf.webp",
+    "alt": "orf",
+    "description": "Cute!",
+    "links": [
+      { "label": "Bluesky *Warning 18+ Contents!*", "url": "https://bsky.app/profile/orforf.bsky.social" }
+    ]
+  },
+  {
+    "name": "tinydeerguy",
+    "image": "/images/artists/tinydeerguy.webp",
+    "alt": "tinydeerguy",
+    "description": "Cute!",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/tinydeerguy.bsky.social" }
+    ]
+  },
+  {
+    "name": "Rigby",
+    "image": "/images/artists/rigby.webp",
+    "alt": "Rigby",
+    "description": "Cute!",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/aussierigby.bsky.social" }
+    ]
+  },
+  {
+    "name": "PoopIddy",
+    "image": "/images/artists/poopiddy.webp",
+    "alt": "PoopIddy",
+    "description": "Poooooooopaah!",
+    "links": [
+      { "label": "Bluesky *Warning 18+ Contents!*", "url": "https://bsky.app/profile/poopiddy.bsky.social" }
+    ]
+  },
+  {
+    "name": "GareBear",
+    "image": "/images/artists/garebear.webp",
+    "alt": "GareBear",
+    "description": "Don't let this bear sit on you!",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/garebearstare.bsky.social" }
+    ]
+  },
+  {
+    "name": "Saran Kit",
+    "image": "/images/artists/saran_kit.webp",
+    "alt": "Saran Kit",
+    "description": "Love the comics!",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/sarankit.bsky.social" }
+    ]
+  },
+  {
+    "name": "Luca",
+    "image": "/images/artists/lucanimations.webp",
+    "alt": "Luca",
+    "description": "Nice!",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/lucanimations.bsky.social" }
+    ]
+  },
+  {
+    "name": "Bolt Railway Dog",
+    "image": "/images/artists/bolt_railway_dog.webp",
+    "alt": "Bolt Railway Dog",
+    "description": "If you want trains, he'll make sure you get more trains!",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/boltrailwaydog.bsky.social" }
+    ]
+  },
+  {
+    "name": "Zilch",
+    "image": "/images/artists/zilch.webp",
+    "alt": "Zilch",
+    "description": "Got some money from that prank call",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/zilchfox.com" }
+    ]
+  },
+  {
+    "name": "Ty-Pesh",
+    "image": "/images/artists/ty-pesh.webp",
+    "alt": "Ty-Pesh",
+    "description": "Hi! I'm Ty!",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/ty-pesh.bsky.social" }
+    ]
+  },
+  {
+    "name": "Geekfox",
+    "image": "/images/artists/geekfox.webp",
+    "alt": "Geekfox",
+    "description": "Geeky fox!",
+    "links": [
+      { "label": "Bluesky", "url": "https://bsky.app/profile/geekfox.bsky.social" }
+    ]
+  }
+]

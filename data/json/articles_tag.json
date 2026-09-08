@@ -1,28 +1,118 @@
 [
     {
-        "title": "How to Make Sure Your Dog is Not a Wolf",
+        "slug": "experts-share-tips-for-determining-whether-your-dog-is-actually-a-wolf",
+        "year": "2025",
+        "url": "/articles/2025/experts-share-tips-for-determining-whether-your-dog-is-actually-a-wolf/",
+        "title": "Experts Share Tips for Determining Whether Your Dog Is Actually a Wolf",
         "author": "John Panaban",
-        "author_description": ", a human correspondent", 
         "date": "2025-06-03",
-        "article": ["Last year alone, there were 234 cases of humans mistakenly bringing home a wolf instead of their pet dog.“John”, whose real name Mark Antonio from 504 Apple Street, said that he was just walking around his neighborhood with his creatively named pet dog “Doggy”. “Then when it’s time to go home to watch TV, I just have a gray wolf sitting on my lap!” “John” asked us to have him an alias to protect his identity. Wolf expert, Wolfy Wooferson, gave us tips and tests to figure out if your dog is actually a dog."],
-        "tag": ["dog","wolf"]
-    }
-    ,
+        "blurb": "Last year alone, there were 234 cases of humans mistakenly bringing home a wolf instead of their pet dog.",
+        "tags": [
+            "animals",
+            "dog",
+            "wolf"
+        ],
+        "section": "Human Division",
+        "headline": "Experts Share Tips for Determining Whether Your Dog Is Actually a Wolf"
+    },
     {
-        "title": "Study Finds Humans Love Dogs a Little Too Much",
+        "slug": "study-finds-humans-spend-most-of-their-income-on-dogs",
+        "year": "2024",
+        "url": "/articles/2024/study-finds-humans-spend-most-of-their-income-on-dogs/",
+        "title": "Study Finds Humans Spend Most of Their Income on Dogs",
         "author": "John Panaban",
-        "author_description": ", a human correspondent", 
         "date": "2024-01-11",
-        "article": ["According to a new study published by the Journal of Mampulan Anthropological Research, humans love dogs a little too much. \"Enamored by the cuteness of the furry creatures, humans dedicated an average of about 84% of their income to buying toys"],
-        "tag": ["dog","wolf","animals","anthropology","love"]
-    }
-    ,
+        "blurb": "According to a new study published by the Journal of Mampulan Anthropological Research, humans love dogs a little too much.",
+        "tags": [
+            "animals",
+            "dog",
+            "wolf",
+            "anthropology",
+            "love"
+        ],
+        "section": "Dog Division",
+        "headline": "Study Finds Humans Spend Most of Their Income on Dogs"
+    },
     {
+        "slug": "fans-get-crazy-again-as-pawesome-saves-the-city",
+        "year": "2022",
+        "url": "/articles/2022/fans-get-crazy-again-as-pawesome-saves-the-city/",
         "title": "Fans Get Crazy… Again as Pawesome Saves the City",
-        "author": "Falan Stanley",
-        "author_description": ", a human correspondent", 
+        "author": "Ravarice Quickpaw",
         "date": "2022-12-18",
-        "article": ["In a massive Pangilan metro, you could say another world-destroying event is happening every day. “Pangilan City is safe once again,” said Pawesome"],
-        "tag": ["dog","superdog","animals","pawesome","fans"]        
+        "blurb": "In a massive Pangilan metro, you could say another world-destroying event is happening every day. Today, it was a massive meteor.",
+        "tags": [
+            "animals",
+            "dog",
+            "superdog",
+            "pawesome",
+            "fans"
+        ],
+        "section": "Human Division",
+        "headline": "Fans Get Crazy… Again as Pawesome Saves the City"
+    },
+    {
+        "slug": "local-wolf-explodes-after-all-w-names-taken",
+        "year": "2022",
+        "url": "/articles/2022/local-wolf-explodes-after-all-w-names-taken/",
+        "title": "Local Wolf Explodes After All W Names Taken",
+        "author": "Wilbuch Tudwoun",
+        "date": "2022-11-26",
+        "blurb": "Local wolf Woronton Wilnor caused a disturbance at Wolot Animal Hospital Wednesday morning after discovering that nearly every acceptable W-name for his newborn pup had already been claimed. Increasingly unhinged, Woronton demanded a book of wolf names.",
+        "tags": [
+            "animals",
+            "wolf",
+            "wilbuch"
+        ],
+        "section": "Wolf Division",
+        "headline": "Local Wolf Explodes After All W Names Taken"
+    },
+    {
+        "slug": "alex-and-pedro-on-metropets",
+        "year": "unknown_year",
+        "url": "/articles/unknown_year/alex-and-pedro-on-metropets/",
+        "title": "Alex and Pedro on MetroPets!",
+        "author": "Alex and Pedro",
+        "date": "",
+        "blurb": "What? An article about Alex and Pedro on a magazine website! The link is dead now, but here is an excerpt.",
+        "tags": [],
+        "section": "Media Division",
+        "headline": "Alex and Pedro on MetroPets!"
+    },
+    {
+        "slug": "alex-paws-vs-chocolate",
+        "year": "unknown_year",
+        "url": "/articles/unknown_year/alex-paws-vs-chocolate/",
+        "title": "Alex Paws vs Chocolate",
+        "author": "Pedro Perez",
+        "date": "",
+        "blurb": "Chocolate? Did you just say chocolate? Fine. Since you like chocolate, here is a Wikipedia article about chocolate.",
+        "tags": [],
+        "section": "Dog Division",
+        "headline": "Alex Paws vs Chocolate"
+    },
+    {
+        "slug": "can-wolves-eat-box-turtles",
+        "year": "unknown_year",
+        "url": "/articles/unknown_year/can-wolves-eat-box-turtles/",
+        "title": "Can Wolves Eat Box Turtles?",
+        "author": "Ertle",
+        "date": "",
+        "blurb": "Accorrding 2 a rezerch by Pangil, wolves can it turtles! Can they ea t box thoug? Hmmmm............ We wil never nkow.",
+        "tags": [],
+        "section": "Wolf Division",
+        "headline": "Can Wolves Eat Box Turtles?"
+    },
+    {
+        "slug": "how-to-deal-with-box-turtles",
+        "year": "unknown_year",
+        "url": "/articles/unknown_year/how-to-deal-with-box-turtles/",
+        "title": "How to deal with Box Turtles",
+        "author": "Pangil",
+        "date": "",
+        "blurb": "In order to deal with box turtles, all you have to do is say that you are gonna eat them. Works everytime.",
+        "tags": [],
+        "section": "Turtle Division",
+        "headline": "How to deal with Box Turtles"
     }
 ]
